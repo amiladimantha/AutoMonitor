@@ -56,3 +56,6 @@ htmlcov/
 temp/
 tmp/
 *.tmp
+
+# Lock file (prevents duplicate bot instances)
+automonitor.lock
