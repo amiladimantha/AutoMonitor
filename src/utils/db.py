@@ -8,7 +8,7 @@ logger = logging.getLogger(__name__)
 
 Base = declarative_base()
 
-
+"""Database manager for handling connections and sessions"""
 class DatabaseManager:
     """Database connection and session management"""
     
