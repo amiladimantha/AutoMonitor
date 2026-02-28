@@ -1,0 +1,4 @@
+"""Telegram package initialization"""
+from .client import TelegramClient
+
+__all__ = ['TelegramClient']

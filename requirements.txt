@@ -1,0 +1,14 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+selenium==4.15.2
+feedparser==6.0.10
+schedule==1.2.0
+python-dotenv==1.0.0
+aiohttp==3.9.1
+asyncio==3.4.3
+pydantic==2.5.0
+pyyaml==6.0.1
+psycopg2-binary==2.9.9
+flask==3.0.0
+gunicorn==21.2.0

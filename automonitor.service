@@ -1,0 +1,14 @@
+[Unit]
+Description=AutoMonitor Telegram News Bot
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/AutoMonitor
+ExecStart=/home/ubuntu/AutoMonitor/venv/bin/python run.py
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
