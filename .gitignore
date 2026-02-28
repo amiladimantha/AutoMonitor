@@ -59,3 +59,8 @@ tmp/
 
 # Lock file (prevents duplicate bot instances)
 automonitor.lock
+
+# SSH keys (never commit these)
+*.key
+*.pem
+*.pub
