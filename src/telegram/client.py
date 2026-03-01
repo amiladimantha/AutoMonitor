@@ -68,26 +68,33 @@ class TelegramClient:
         logger.info(f"Sent {len(articles)} articles to {category} channel ({channel_id})")
     
     def _format_article(self, category: str, article: Dict) -> str:
-        """Format a single article as a rich Telegram message"""
+        """Format a single article (or merged digest) as a rich Telegram message."""
         meta = self.CATEGORY_META.get(category, {'emoji': '📰', 'label': category})
         emoji = meta['emoji']
-        
+
+        is_digest = article.get('source_count', 1) > 1
+        merged_urls: list = article.get('merged_urls', [])
+
         title = self._safe_html(article.get('title', 'No title'))
         url = article.get('url', '')
         description = self._safe_html(article.get('description', ''))
         author = self._safe_html(article.get('author', ''))
         published = article.get('published', '')
-        
+
         # Format published date (trim to just the date part)
         if published:
             published = published[:16].strip()  # e.g. "Sat, 28 Feb 2026"
-        
-        # Build message
-        msg = f"{emoji} <b>{title}</b>\n\n"
-        
+
+        # Header — badge digest messages so readers know multiple sources agree
+        if is_digest:
+            source_count = article['source_count']
+            msg = f"{emoji} <b>{title}</b>  <i>[{source_count} sources]</i>\n\n"
+        else:
+            msg = f"{emoji} <b>{title}</b>\n\n"
+
         if description:
             msg += f"{description}\n\n"
-        
+
         # Metadata line
         meta_parts = []
         if author:
@@ -96,10 +103,16 @@ class TelegramClient:
             meta_parts.append(f"🕒 {published}")
         if meta_parts:
             msg += ' · '.join(meta_parts) + '\n\n'
-        
-        if url:
+
+        # Links — for digests show one labelled link per source
+        if is_digest and len(merged_urls) > 1:
+            msg += "🔗 <b>Sources:</b>\n"
+            for src_url in merged_urls:
+                host = src_url.split('/')[2].replace('www.', '') if '//' in src_url else src_url
+                msg += f'  • <a href="{src_url}">{self._safe_html(host)}</a>\n'
+        elif url:
             msg += f'🔗 <a href="{url}">Read Full Article</a>\n'
-        
+
         msg += f'\n<i>🤖 AutoMonitor · #{meta["label"]}</i>'
         return msg
     

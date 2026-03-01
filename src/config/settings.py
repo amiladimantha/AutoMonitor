@@ -37,24 +37,42 @@ class Settings:
     
     # Scraper URLs - Working RSS feeds for each category
     TECH_NEWS_SOURCES: list = [
-        'https://feeds.arstechnica.com/arstechnica/index',
-        'https://www.theverge.com/rss/index.xml',
+        # Primary recommended sources
+        'https://feeds.arstechnica.com/arstechnica/index',       # Ars Technica - deep technical coverage
+        'https://www.theverge.com/rss/index.xml',                # The Verge - fast consumer tech news
+        'https://news.ycombinator.com/rss',                      # Hacker News - dev-curated top stories
+        # Supplementary
         'https://feeds.feedburner.com/TechCrunch',
     ]
     
     SCIENCE_NEWS_SOURCES: list = [
+        # Primary recommended sources
+        'https://www.nature.com/nature.rss',                     # Nature - premier peer-reviewed journal
+        'https://www.science.org/rss/news_current.xml',          # Science - top-tier research journal
+        'https://www.technologyreview.com/feed/',                 # MIT Technology Review - science to commercialization
+        'https://phys.org/rss-feed/',                            # Phys.org - physics, nano, space sciences
+        # Supplementary
         'https://www.sciencedaily.com/rss/top/science.xml',
-        'https://rss.nytimes.com/services/xml/rss/nyt/Science.xml',
-        'https://www.newscientist.com/feed/home/',
     ]
     
     AI_NEWS_SOURCES: list = [
+        # Primary recommended sources
+        'https://huggingface.co/blog/feed.xml',                  # Hugging Face Blog - open-source model releases
+        'https://openai.com/blog/rss/',                          # OpenAI Blog - frontier model updates
+        'https://www.anthropic.com/news/rss',                    # Anthropic News - safety & frontier research
+        'https://deepmind.google/blog/rss.xml',                  # Google DeepMind Blog - research breakthroughs
+        'https://www.deeplearning.ai/the-batch/feed/',           # The Batch (Andrew Ng) - curated AI trends
+        'https://www.latent.space/feed',                         # Latent Space - AI engineering depth
+        # Supplementary
         'https://venturebeat.com/category/ai/feed/',
-        'https://www.artificialintelligence-news.com/feed/',
-        'https://feeds.feedburner.com/aiweekly',
     ]
     
     MILITARY_NEWS_SOURCES: list = [
+        # Primary recommended sources
+        'https://www.understandingwar.org/rss.xml',              # ISW - gold standard OSINT & operational analysis
+        'https://acleddata.com/feed/',                           # ACLED - real-time conflict & protest data
+        'https://www.cfr.org/rss/all-publications',             # CFR - strategic global conflict overview
+        # Supplementary
         'https://www.militarytimes.com/arc/outboundfeeds/rss/?outputType=xml',
         'https://breakingdefense.com/feed/',
         'https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml',
@@ -65,3 +83,19 @@ class Settings:
     
     # Maximum articles per category per cycle
     MAX_ARTICLES_PER_CATEGORY: int = 5
+
+    # ----------------------------------------------------------------
+    # LLM Deduplication
+    # ----------------------------------------------------------------
+    # Set OPENAI_API_KEY in your .env to enable LLM-powered grouping.
+    # Without it the app falls back to fuzzy title similarity.
+    OPENAI_API_KEY: str = os.getenv('OPENAI_API_KEY', '')
+
+    # Set to 'false' to disable dedup entirely
+    ENABLE_LLM_DEDUP: bool = os.getenv('ENABLE_LLM_DEDUP', 'true').lower() == 'true'
+
+    # OpenAI model used for grouping (gpt-4o-mini is fast and cheap)
+    LLM_DEDUP_MODEL: str = os.getenv('LLM_DEDUP_MODEL', 'gpt-4o-mini')
+
+    # Fuzzy fallback: titles with similarity >= this value are merged (0.0-1.0)
+    DEDUP_SIMILARITY_THRESHOLD: float = float(os.getenv('DEDUP_SIMILARITY_THRESHOLD', '0.6'))

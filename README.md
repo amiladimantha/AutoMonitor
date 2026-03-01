@@ -62,7 +62,7 @@ Edit `.env` file with:
 AutoMonitor/
 ├── src/
 │   ├── scrapers/          # Web scraping modules
-│   ├── whatsapp/          # Telegram client (renamed for compatibility)
+│   ├── telegram/          # Telegram bot client
 │   ├── config/            # Configuration files
 │   ├── utils/             # Utility functions
 │   └── main.py            # Main application entry point

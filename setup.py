@@ -11,7 +11,7 @@ setup(
     version="1.0.0",
     author="Your Name",
     author_email="your.email@example.com",
-    description="Automated news scraping and WhatsApp messaging bot",
+    description="Automated news scraping and Telegram messaging bot",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/yourusername/AutoMonitor",

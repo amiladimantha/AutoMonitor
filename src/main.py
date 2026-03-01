@@ -13,7 +13,8 @@ from src.scrapers.tech_scraper import TechScraper
 from src.scrapers.science_scraper import ScienceScraper
 from src.scrapers.ai_scraper import AIScraper
 from src.scrapers.military_scraper import MilitaryScraper
-from src.whatsapp.client import TelegramClient
+from src.telegram.client import TelegramClient
+from src.utils.deduplicator import ArticleDeduplicator
 from src.utils.logger import setup_logger
 
 logger = setup_logger(__name__)
@@ -29,6 +30,7 @@ class AutoMonitor:
         self.settings = Settings()
         self.telegram_client = TelegramClient(self.settings)
         self.scrapers = self._initialize_scrapers()
+        self.deduplicator = ArticleDeduplicator(self.settings)
         self.sent_urls: Dict[str, Deque[str]] = self._load_sent_cache()
         logger.info("AutoMonitor initialized successfully")
 
@@ -97,9 +99,14 @@ class AutoMonitor:
                     ]
 
                     if new_articles:
+                        # Deduplicate / merge articles covering the same story
+                        new_articles = self.deduplicator.deduplicate(new_articles)
                         self.telegram_client.send_news(category_name, new_articles)
                         for a in new_articles:
-                            recent.append(a['url'])
+                            # For merged digests, mark all constituent URLs as sent
+                            for url in a.get('merged_urls', [a.get('url')]):
+                                if url:
+                                    recent.append(url)
                         self._save_sent_cache()
                         logger.info(f"Sent {len(new_articles)} new {category} articles via Telegram")
                     else:
