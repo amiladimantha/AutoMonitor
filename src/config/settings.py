@@ -82,7 +82,7 @@ class Settings:
     REQUEST_TIMEOUT: int = 10
     
     # Maximum articles per category per cycle
-    MAX_ARTICLES_PER_CATEGORY: int = 5
+    MAX_ARTICLES_PER_CATEGORY: int = 20
 
     # ----------------------------------------------------------------
     # LLM Deduplication

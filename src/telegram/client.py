@@ -65,7 +65,7 @@ class TelegramClient:
                 except Exception as e2:
                     logger.error(f"Failed to send article to {category} channel: {str(e2)}")
         
-        logger.info(f"Sent {len(articles)} articles to {category} channel ({channel_id})")
+        logger.info(f"Attempted to send {len(articles)} articles to {category} channel ({channel_id})")
     
     def _format_article(self, category: str, article: Dict) -> str:
         """Format a single article (or merged digest) as a rich Telegram message."""
