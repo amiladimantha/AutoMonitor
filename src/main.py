@@ -20,7 +20,7 @@ from src.utils.logger import setup_logger
 logger = setup_logger(__name__)
 
 SENT_CACHE_FILE = Path(__file__).parent.parent / 'data' / 'sent_cache.json'
-SENT_CACHE_SIZE = 500  # number of recent URLs to remember per category
+SENT_CACHE_SIZE = 500  # number of recent URLs to remember per category.
 
 
 class AutoMonitor:
