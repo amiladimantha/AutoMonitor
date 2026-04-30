@@ -85,14 +85,7 @@ jobs:
           LOG_LEVEL: 'DEBUG'
         run: |
           echo "=== Starting scraper ==="
-          python -c "
-import logging
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-from src.main import AutoMonitor
-m = AutoMonitor()
-m.run_scrapers()
-print('=== Scraper finished ===')
-"
+          python -c "import logging; logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'); from src.main import AutoMonitor; m = AutoMonitor(); m.run_scrapers(); print('=== Scraper finished ===')"
       
       - name: Show cache contents
         run: |
