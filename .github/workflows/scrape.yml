@@ -1,0 +1,61 @@
+name: Scrape and Send News
+
+on:
+  # Run every hour
+  schedule:
+    - cron: '0 * * * *'  # Every hour at minute 0
+  
+  # Allow manual trigger
+  workflow_dispatch:
+
+  # Also run on push to main (for testing)
+  push:
+    branches:
+      - main
+    paths:
+      - 'src/**'
+      - 'requirements.txt'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run scraper
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_TECH_CHANNEL: ${{ secrets.TELEGRAM_TECH_CHANNEL }}
+          TELEGRAM_SCIENCE_CHANNEL: ${{ secrets.TELEGRAM_SCIENCE_CHANNEL }}
+          TELEGRAM_AI_CHANNEL: ${{ secrets.TELEGRAM_AI_CHANNEL }}
+          TELEGRAM_MILITARY_CHANNEL: ${{ secrets.TELEGRAM_MILITARY_CHANNEL }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ENABLE_TECH_NEWS: 'true'
+          ENABLE_SCIENCE_NEWS: 'true'
+          ENABLE_AI_NEWS: 'true'
+          ENABLE_MILITARY_NEWS: 'true'
+        run: |
+          python -c "from src.main import AutoMonitor; m = AutoMonitor(); m.run_scrapers()"
+      
+      - name: Commit updated cache
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/sent_cache.json
+          git diff --staged --quiet || git commit -m "chore: update sent cache [skip ci]"
+          git push

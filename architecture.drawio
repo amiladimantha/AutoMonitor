@@ -1,0 +1,246 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.3.6 Chrome/140.0.7339.249 Electron/38.8.0 Safari/537.36" version="29.3.6">
+  <diagram id="automonitor-arch" name="AutoMonitor Architecture">
+    <mxGraphModel dx="920" dy="543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="infra-bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;strokeWidth=2;dashed=1;" value="" vertex="1">
+          <mxGeometry height="90" width="1340" x="30" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="infra-label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontStyle=1;fontColor=#666666;" value="☁️  INFRASTRUCTURE" vertex="1">
+          <mxGeometry height="20" width="200" x="40" y="25" as="geometry" />
+        </mxCell>
+        <mxCell id="github" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#24292f;strokeColor=#24292f;fontColor=#ffffff;fontSize=11;" value="&lt;b&gt;GitHub&lt;/b&gt;&lt;br/&gt;Source repo" vertex="1">
+          <mxGeometry height="50" width="120" x="50" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cloud" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#24292f;strokeColor=#24292f;fontColor=#ffffff;fontSize=11;" value="&lt;b&gt;GitHub Actions&lt;/b&gt;&lt;br/&gt;Scheduled workflows (free)" vertex="1">
+          <mxGeometry height="50" width="180" x="200" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="docker" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#24292f;strokeColor=#24292f;fontColor=#ffffff;fontSize=11;" value="&lt;b&gt;Ubuntu Runner&lt;/b&gt;&lt;br/&gt;GitHub-hosted VM" vertex="1">
+          <mxGeometry height="50" width="150" x="410" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="python" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#3776ab;strokeColor=#3776ab;fontColor=#ffffff;fontSize=11;" value="&lt;b&gt;Python 3.9+&lt;/b&gt;&lt;br/&gt;Runtime" vertex="1">
+          <mxGeometry height="50" width="130" x="590" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="schedule-lib" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#24292f;strokeColor=#24292f;fontColor=#ffffff;fontSize=11;" value="&lt;b&gt;Cron Schedule&lt;/b&gt;&lt;br/&gt;Every hour via Actions" vertex="1">
+          <mxGeometry height="50" width="160" x="750" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="feedparser" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#306998;strokeColor=#306998;fontColor=#ffffff;fontSize=11;" value="&lt;b&gt;feedparser&lt;/b&gt;&lt;br/&gt;RSS/Atom parser" vertex="1">
+          <mxGeometry height="50" width="150" x="940" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="requests-lib" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#306998;strokeColor=#306998;fontColor=#ffffff;fontSize=11;" value="&lt;b&gt;requests&lt;/b&gt;&lt;br/&gt;HTTP client" vertex="1">
+          <mxGeometry height="50" width="130" x="1120" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="telegram-api" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0088cc;strokeColor=#0088cc;fontColor=#ffffff;fontSize=11;" value="&lt;b&gt;Telegram Bot API&lt;/b&gt;&lt;br/&gt;HTTP REST (free)" vertex="1">
+          <mxGeometry height="50" width="90" x="1270" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="app-bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e8f5e9;strokeColor=#82b366;strokeWidth=2;dashed=1;" value="" vertex="1">
+          <mxGeometry height="520" width="1340" x="30" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="app-label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;fontSize=12;fontStyle=1;fontColor=#2e7d32;" value="🐍  APPLICATION (AutoMonitor)" vertex="1">
+          <mxGeometry height="20" width="300" x="40" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="env-file" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;GitHub Secrets&lt;/b&gt;&lt;br/&gt;TELEGRAM_BOT_TOKEN&lt;br/&gt;TELEGRAM_*_CHANNEL&lt;br/&gt;OPENAI_API_KEY" vertex="1">
+          <mxGeometry height="70" width="160" x="50" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="settings" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="&lt;b&gt;settings.py&lt;/b&gt;&lt;br/&gt;Settings class" vertex="1">
+          <mxGeometry height="45" width="140" x="260" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="main" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="&lt;b&gt;main.py&lt;/b&gt;&lt;br/&gt;AutoMonitor class" vertex="1">
+          <mxGeometry height="45" width="150" x="450" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="scheduler" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=11;" value="&lt;b&gt;run_scrapers()&lt;/b&gt;&lt;br/&gt;Triggered by Actions cron" vertex="1">
+          <mxGeometry height="45" width="190" x="650" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="logger" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontSize=11;" value="&lt;b&gt;logger.py&lt;/b&gt;&lt;br/&gt;logs/automonitor.log" vertex="1">
+          <mxGeometry height="45" width="150" x="890" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="feeds-bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;strokeWidth=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="350" width="160" x="50" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="feeds-label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=10;fontStyle=1;fontColor=#bf8f00;" value="🌐 EXTERNAL RSS FEEDS" vertex="1">
+          <mxGeometry height="20" width="160" x="50" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="tech-feeds" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;Tech&lt;/b&gt;&lt;br/&gt;Ars Technica&lt;br/&gt;The Verge&lt;br/&gt;Hacker News" vertex="1">
+          <mxGeometry height="70" width="140" x="60" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="sci-feeds" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;Science&lt;/b&gt;&lt;br/&gt;Nature · Science.org&lt;br/&gt;MIT Tech Review" vertex="1">
+          <mxGeometry height="60" width="140" x="60" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-feeds" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;AI&lt;/b&gt;&lt;br/&gt;HuggingFace · OpenAI&lt;br/&gt;Anthropic · DeepMind" vertex="1">
+          <mxGeometry height="60" width="140" x="60" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="mil-feeds" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;Military&lt;/b&gt;&lt;br/&gt;ISW · ACLED · CFR&lt;br/&gt;Military Times" vertex="1">
+          <mxGeometry height="60" width="140" x="60" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="tech-scraper" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="&lt;b&gt;TechScraper&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="280" y="325" as="geometry" />
+        </mxCell>
+        <mxCell id="science-scraper" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="&lt;b&gt;ScienceScraper&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="280" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="ai-scraper" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="&lt;b&gt;AIScraper&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="280" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="mil-scraper" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=11;" value="&lt;b&gt;MilitaryScraper&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="130" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="base-scraper" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;fontStyle=2;" value="&lt;b&gt;BaseScraper&lt;/b&gt;&lt;br/&gt;(ABC)" vertex="1">
+          <mxGeometry height="35" width="130" x="280" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="cache" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=10;" value="&lt;b&gt;sent_cache.json&lt;/b&gt;&lt;br/&gt;500 URLs / category" vertex="1">
+          <mxGeometry height="70" width="140" x="470" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="dedup" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=11;" value="&lt;b&gt;ArticleDeduplicator&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="170" x="660" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="fuzzy" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="Fuzzy title similarity&lt;br/&gt;&lt;i&gt;difflib (default)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="45" width="170" x="660" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="llm" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=10;" value="LLM grouping&lt;br/&gt;&lt;i&gt;OpenAI API (optional)&lt;/i&gt;" vertex="1">
+          <mxGeometry height="45" width="170" x="660" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="tg-client" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=11;" value="&lt;b&gt;TelegramClient&lt;/b&gt;&lt;br/&gt;client.py" vertex="1">
+          <mxGeometry height="50" width="150" x="900" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="channels-bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3f2fd;strokeColor=#0288d1;strokeWidth=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="350" width="230" x="1120" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="channels-label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=10;fontStyle=1;fontColor=#0277bd;" value="📨 TELEGRAM CHANNELS" vertex="1">
+          <mxGeometry height="20" width="230" x="1120" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="ch-tech" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2ca5e0;strokeColor=#006EAF;fontColor=#ffffff;fontSize=11;" value="📢 &lt;b&gt;Tech Channel&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="190" x="1140" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ch-sci" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2ca5e0;strokeColor=#006EAF;fontColor=#ffffff;fontSize=11;" value="📢 &lt;b&gt;Science Channel&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="190" x="1140" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="ch-ai" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2ca5e0;strokeColor=#006EAF;fontColor=#ffffff;fontSize=11;" value="📢 &lt;b&gt;AI Channel&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="190" x="1140" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="ch-mil" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#2ca5e0;strokeColor=#006EAF;fontColor=#ffffff;fontSize=11;" value="📢 &lt;b&gt;Military Channel&lt;/b&gt;" vertex="1">
+          <mxGeometry height="45" width="190" x="1140" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-bg" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fafafa;strokeColor=#999999;strokeWidth=1;dashed=1;" value="" vertex="1">
+          <mxGeometry height="60" width="1340" x="30" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="legend-label" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontSize=12;fontStyle=1;fontColor=#555555;" value="DATA FLOW:   RSS Feeds  →  Scrapers  →  Cache filter  →  Deduplicator  →  TelegramClient  →  Channels" vertex="1">
+          <mxGeometry height="40" width="1340" x="30" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="e-env-settings" edge="1" parent="1" source="env-file" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="settings" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-settings-main" edge="1" parent="1" source="settings" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="main" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-main-sched" edge="1" parent="1" source="main" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="scheduler" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-main-logger" edge="1" parent="1" source="scheduler" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;dashed=1;fontSize=10;" target="logger" value="logs">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-sched-scrapers" edge="1" parent="1" source="scheduler" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;fontSize=10;" target="tech-scraper" value="invokes">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="280" />
+              <mxPoint x="345" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-feed-tech" edge="1" parent="1" source="tech-feeds" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=9;" target="tech-scraper" value="RSS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-feed-sci" edge="1" parent="1" source="sci-feeds" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=9;" target="science-scraper" value="RSS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-feed-ai" edge="1" parent="1" source="ai-feeds" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=9;" target="ai-scraper" value="RSS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-feed-mil" edge="1" parent="1" source="mil-feeds" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=9;" target="mil-scraper" value="RSS">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-scrapers-cache" edge="1" parent="1" source="tech-scraper" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=9;entryDx=0;entryDy=0;entryPerimeter=0;" target="cache" value="raw articles">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="345" />
+              <mxPoint x="440" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-sci-cache" edge="1" parent="1" source="science-scraper" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="cache" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="420" />
+              <mxPoint x="440" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-ai-cache" edge="1" parent="1" source="ai-scraper" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="cache" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="490" />
+              <mxPoint x="440" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-mil-cache" edge="1" parent="1" source="mil-scraper" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="cache" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="560" />
+              <mxPoint x="440" y="435" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-cache-dedup" edge="1" parent="1" source="cache" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.3;entryX=0;entryY=0.5;fontSize=9;" target="dedup" value="new articles only">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-dedup-fuzzy" edge="1" parent="1" source="dedup" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;" target="fuzzy" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-fuzzy-llm" edge="1" parent="1" source="fuzzy" style="edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;entryX=0.5;entryY=0;dashed=1;fontSize=9;" target="llm" value="OR">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e-dedup-tg" edge="1" parent="1" source="dedup" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;fontSize=9;" target="tg-client" value="deduplicated">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="372" />
+              <mxPoint x="870" y="425" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-tg-tech" edge="1" parent="1" source="tg-client" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="ch-tech" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="425" />
+              <mxPoint x="1100" y="342" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-tg-sci" edge="1" parent="1" source="tg-client" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="ch-sci" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="425" />
+              <mxPoint x="1100" y="407" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-tg-ai" edge="1" parent="1" source="tg-client" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="ch-ai" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="425" />
+              <mxPoint x="1100" y="472" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="e-tg-mil" edge="1" parent="1" source="tg-client" style="edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" target="ch-mil" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1100" y="425" />
+              <mxPoint x="1100" y="537" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
