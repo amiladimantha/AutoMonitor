@@ -1,9 +1,9 @@
 name: Scrape and Send News
 
 on:
-  # Run every hour
+  # Run every 5 minutes
   schedule:
-    - cron: '0 * * * *'  # Every hour at minute 0
+    - cron: '*/5 * * * *'  # Every 5 minutes
   
   # Allow manual trigger
   workflow_dispatch:
