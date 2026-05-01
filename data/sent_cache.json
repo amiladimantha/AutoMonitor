@@ -44,7 +44,8 @@
     "https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/",
     "https://arstechnica.com/tech-policy/2026/05/minnesota-set-to-be-first-state-to-ban-nudification-apps/",
     "https://arstechnica.com/gadgets/2026/05/amazon-stuck-with-months-of-repairs-after-drone-strikes-on-data-centers/",
-    "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/"
+    "https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/",
+    "https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -108,7 +109,27 @@
     "https://huggingface.co/blog/safetensors-joins-pytorch-foundation",
     "https://huggingface.co/blog/gemma4",
     "https://huggingface.co/blog/tiiuae/falcon-perception",
-    "https://huggingface.co/blog/introducing-gradio-server"
+    "https://huggingface.co/blog/introducing-gradio-server",
+    "https://deepmind.google/blog/ai-co-clinician/",
+    "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+    "https://deepmind.google/blog/decoupled-diloco/",
+    "https://deepmind.google/blog/partnering-with-industry-leaders-to-accelerate-ai-transformation/",
+    "https://deepmind.google/blog/gemini-3-1-flash-tts-the-next-generation-of-expressive-ai-speech/",
+    "https://deepmind.google/blog/gemini-robotics-er-1-6/",
+    "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
+    "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+    "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
+    "https://deepmind.google/blog/measuring-progress-toward-agi-a-cognitive-framework/",
+    "https://deepmind.google/blog/10-years-of-alphago/",
+    "https://deepmind.google/blog/gemini-3-1-flash-lite-built-for-intelligence-at-scale/",
+    "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+    "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+    "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+    "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+    "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+    "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
