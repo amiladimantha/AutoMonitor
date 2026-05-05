@@ -60,7 +60,11 @@
     "https://arstechnica.com/ai/2026/05/influential-study-touting-chatgpt-in-education-retracted-over-red-flags/",
     "https://arstechnica.com/tech-policy/2026/05/in-canada-a-canary-trap-springs-shut-and-ids-election-database-leak/",
     "https://arstechnica.com/gadgets/2026/05/unofficial-vibe-coded-notepad-for-mac-draws-objections-from-original-author/",
-    "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/"
+    "https://arstechnica.com/information-technology/2026/05/why-reddit-blocked-my-daily-visit-to-its-mobile-website/",
+    "https://arstechnica.com/cars/2026/05/how-do-you-design-a-30000-electric-pickup-inside-fords-skunkworks/",
+    "https://arstechnica.com/culture/2026/05/nolans-the-odyssey-gets-a-new-trailer-and-were-here-for-it/",
+    "https://arstechnica.com/cars/2026/05/tesla-fsd-other-european-regulators-skeptical-despite-dutch-approval/",
+    "https://arstechnica.com/tech-policy/2026/05/dhs-abuses-1930s-customs-law-in-attempt-to-get-data-on-canadian-from-google/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -114,7 +118,9 @@
     "https://www.nature.com/articles/d41586-026-01408-9",
     "https://www.nature.com/articles/d41586-025-03504-8",
     "https://www.nature.com/articles/d41586-026-01333-x",
-    "https://www.nature.com/articles/d41586-026-01422-x"
+    "https://www.nature.com/articles/d41586-026-01422-x",
+    "https://www.nature.com/articles/d41586-026-00508-w",
+    "https://www.nature.com/articles/d41586-026-01452-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -219,6 +225,7 @@
     "https://www.militarytimes.com/news/your-military/2026/05/04/lawmakers-push-to-expand-gun-rights-on-army-corps-of-engineers-run-lands/",
     "https://www.militarytimes.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/05/us-iran-launch-new-attacks-as-they-wrestle-for-control-of-gulf-waters/",
-    "https://www.militarytimes.com/news/your-marine-corps/2026/05/05/corps-overhauls-reconnaissance-pipeline-to-better-prepare-marines/"
+    "https://www.militarytimes.com/news/your-marine-corps/2026/05/05/corps-overhauls-reconnaissance-pipeline-to-better-prepare-marines/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/05/05/pentagon-says-iran-ceasefire-holds-despite-exchanges-in-strait-of-hormuz/"
   ]
 }
