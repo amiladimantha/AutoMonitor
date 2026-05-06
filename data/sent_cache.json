@@ -73,7 +73,10 @@
     "https://arstechnica.com/tech-policy/2026/05/character-ai-sued-over-chatbot-that-claims-to-be-a-real-doctor-with-a-license/",
     "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
     "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
-    "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/"
+    "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
+    "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
+    "https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/",
+    "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -165,7 +168,26 @@
     "https://www.nature.com/articles/d41586-026-01420-z",
     "https://www.nature.com/articles/d41586-026-01244-x",
     "https://www.nature.com/articles/d41586-026-01433-8",
-    "https://www.nature.com/articles/d41586-026-01454-3"
+    "https://www.nature.com/articles/d41586-026-01454-3",
+    "https://www.nature.com/articles/d41586-026-01480-1",
+    "https://www.nature.com/articles/s41586-026-10423-9",
+    "https://www.nature.com/articles/s41586-026-10459-x",
+    "https://www.nature.com/articles/s41586-026-10466-y",
+    "https://www.nature.com/articles/s41586-026-10421-x",
+    "https://www.nature.com/articles/s41586-026-10492-w",
+    "https://www.nature.com/articles/s41586-026-10497-5",
+    "https://www.nature.com/articles/s41586-026-10452-4",
+    "https://www.nature.com/articles/s41586-026-10448-0",
+    "https://www.nature.com/articles/s41586-026-10455-1",
+    "https://www.nature.com/articles/s41586-026-10443-5",
+    "https://www.nature.com/articles/s41586-026-10462-2",
+    "https://www.nature.com/articles/s41586-026-10495-7",
+    "https://www.nature.com/articles/s41586-026-10498-4",
+    "https://www.nature.com/articles/s41586-026-10453-3",
+    "https://www.nature.com/articles/s41586-026-10458-y",
+    "https://www.nature.com/articles/s41586-026-10441-7",
+    "https://www.nature.com/articles/s41586-026-10378-x",
+    "https://www.nature.com/articles/s41586-026-10456-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -283,6 +305,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/05/05/pentagon-assures-safe-passage-through-strait-of-hormuz-despite-presence-of-mines/",
     "https://www.militarytimes.com/news/your-military/2026/05/05/danger-pay-for-us-troops-could-double-expand-to-more-regions/",
     "https://www.militarytimes.com/news/your-military/2026/05/06/coast-guard-to-deploy-autonomous-saildrones-on-great-lakes/",
-    "https://www.militarytimes.com/news/your-military/2026/05/06/heres-whats-behind-the-us-armys-21b-rd-funding-increase/"
+    "https://www.militarytimes.com/news/your-military/2026/05/06/heres-whats-behind-the-us-armys-21b-rd-funding-increase/",
+    "https://www.militarytimes.com/news/your-military/2026/05/06/coast-guard-to-stand-up-special-forces-command/"
   ]
 }
