@@ -103,7 +103,10 @@
     "https://arstechnica.com/gaming/2026/05/the-nintendo-switch-2-is-getting-more-expensive-later-this-year/",
     "https://arstechnica.com/space/2026/05/the-us-military-just-released-a-bunch-of-uap-files-but-theres-no-there-there/",
     "https://arstechnica.com/tech-policy/2026/05/elon-musk-faces-criminal-probe-in-france-after-ignoring-summons-in-x-case/",
-    "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/"
+    "https://arstechnica.com/google/2026/05/no-google-hasnt-changed-chromes-local-ai-features-its-just-as-confusing-as-ever/",
+    "https://arstechnica.com/google/2026/05/google-will-put-more-links-to-websites-in-ai-overviews/",
+    "https://arstechnica.com/tech-policy/2026/05/trumps-10-global-tariff-is-illegal-court-rules/",
+    "https://arstechnica.com/security/2026/05/chaos-erupts-as-cyberattack-disrupts-learning-platform-canvas-amid-finals/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -232,7 +235,8 @@
     "https://www.nature.com/articles/d41586-026-01493-w",
     "https://www.nature.com/articles/d41586-026-01501-z",
     "https://www.nature.com/articles/d41586-026-01511-x",
-    "https://www.nature.com/articles/d41586-026-01446-3"
+    "https://www.nature.com/articles/d41586-026-01446-3",
+    "https://www.nature.com/articles/d41586-026-01447-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
