@@ -139,7 +139,8 @@
     "https://arstechnica.com/health/2026/05/fda-chief-resigns-after-trump-admin-forced-approval-of-fruity-e-cigs/",
     "https://arstechnica.com/space/2026/05/varda-signs-deal-with-major-us-pharma-firm-to-develop-drugs-in-space/",
     "https://arstechnica.com/culture/2026/05/daredevil-born-again-s2-gives-us-a-darker-grittier-canvas/",
-    "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/"
+    "https://arstechnica.com/cars/2026/05/rivian-adds-a-new-onboard-ai-assistant-to-its-latest-software-update/",
+    "https://arstechnica.com/space/2026/05/blue-origin-may-need-external-funding-to-hit-ambitious-launch-targets/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -305,7 +306,26 @@
     "https://www.nature.com/articles/d41586-026-01375-1",
     "https://www.nature.com/articles/d41586-026-01378-y",
     "https://www.nature.com/articles/d41586-026-01380-4",
-    "https://www.nature.com/articles/d41586-026-01376-0"
+    "https://www.nature.com/articles/d41586-026-01376-0",
+    "https://www.nature.com/articles/s41586-026-10626-0",
+    "https://www.nature.com/articles/s41586-026-10374-1",
+    "https://www.nature.com/articles/s41586-026-10487-7",
+    "https://www.nature.com/articles/s41586-026-10461-3",
+    "https://www.nature.com/articles/s41586-026-10480-0",
+    "https://www.nature.com/articles/s41586-026-10494-8",
+    "https://www.nature.com/articles/s41586-026-10501-y",
+    "https://www.nature.com/articles/s41586-026-10506-7",
+    "https://www.nature.com/articles/s41586-026-10544-1",
+    "https://www.nature.com/articles/s41586-026-10478-8",
+    "https://www.nature.com/articles/s41586-026-10511-w",
+    "https://www.nature.com/articles/s41586-026-10469-9",
+    "https://www.nature.com/articles/s41586-026-10523-6",
+    "https://www.nature.com/articles/s41586-026-10490-y",
+    "https://www.nature.com/articles/s41586-026-10530-7",
+    "https://www.nature.com/articles/s41586-026-10431-9",
+    "https://www.nature.com/articles/s41586-026-10481-z",
+    "https://www.nature.com/articles/s41586-026-10465-z",
+    "https://www.nature.com/articles/s41586-026-10489-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -483,6 +503,8 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/",
     "https://www.militarytimes.com/news/your-military/2026/05/13/ukraines-battlefield-integration-surpasses-us-militarys-army-secretary-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/13/us-special-operations-leaders-frustrated-by-inability-to-modify-their-own-equipment/",
-    "https://www.militarytimes.com/news/your-military/2026/05/13/marines-mandate-servicewide-ai-training-by-years-end/"
+    "https://www.militarytimes.com/news/your-military/2026/05/13/marines-mandate-servicewide-ai-training-by-years-end/",
+    "https://www.militarytimes.com/news/your-military/2026/05/13/ai-tool-has-saved-a-lot-of-aircraft-in-epic-fury-afsoc-chief-says/",
+    "https://www.militarytimes.com/industry/techwatch/2026/05/13/pentagon-reaches-agreements-with-defense-firms-on-containerized-missiles/"
   ]
 }
