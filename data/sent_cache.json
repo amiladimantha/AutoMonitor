@@ -159,7 +159,11 @@
     "https://arstechnica.com/science/2026/05/forecasters-predict-wildfires-floods-severe-heatwaves-from-incoming-el-nino/",
     "https://arstechnica.com/gadgets/2026/05/motorola-razr-fold-review-looking-for-an-edge/",
     "https://arstechnica.com/cars/2026/05/vaporware-or-not-aptera-assembles-its-first-five-validation-models/",
-    "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/"
+    "https://arstechnica.com/information-technology/2026/05/cisco-announces-record-revenue-and-4000-layoffs-in-the-same-day/",
+    "https://arstechnica.com/gadgets/2026/05/amd-promises-to-bring-improved-hardware-backed-fsr-4-upscaling-to-older-radeon-gpus/",
+    "https://arstechnica.com/tech-policy/2026/05/judge-probes-whether-musk-settlement-with-trump-admin-is-tainted-by-corruption/",
+    "https://arstechnica.com/security/2026/05/zero-day-exploit-completely-defeats-default-windows-11-bitlocker-protections/",
+    "https://arstechnica.com/health/2026/05/your-doctors-ai-notetaker-may-be-making-things-up-ontario-audit-finds/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -353,7 +357,8 @@
     "https://www.nature.com/articles/d41586-026-01545-1",
     "https://www.nature.com/articles/d41586-026-01531-7",
     "https://www.nature.com/articles/d41586-026-00895-0",
-    "https://www.nature.com/articles/s41586-026-10573-w"
+    "https://www.nature.com/articles/s41586-026-10573-w",
+    "https://www.nature.com/articles/d41586-026-01537-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -406,7 +411,8 @@
     "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
     "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
     "https://deepmind.google/blog/alphaevolve-impact/",
-    "https://huggingface.co/blog/continuous_async"
+    "https://huggingface.co/blog/continuous_async",
+    "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
