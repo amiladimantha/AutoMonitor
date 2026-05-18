@@ -190,7 +190,10 @@
     "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
     "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
     "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
-    "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/"
+    "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
+    "https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/",
+    "https://arstechnica.com/space/2026/05/did-artemis-ii-break-through-registrations-at-space-camp-double-afterward/",
+    "https://arstechnica.com/ai/2026/05/bug-bounty-businesses-bombarded-with-ai-slop/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -457,7 +460,8 @@
     "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
     "https://deepmind.google/blog/alphaevolve-impact/",
     "https://huggingface.co/blog/continuous_async",
-    "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2"
+    "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
+    "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -615,6 +619,8 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/15/congress-clashes-with-pentagon-over-civilian-harm-reduction-program/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/15/senators-introduce-bill-to-abolish-military-draft-agency/",
     "https://www.militarytimes.com/news/your-military/2026/05/15/us-armys-7th-infantry-division-1st-mdtf-to-merge-as-multi-domain-command-pacific/",
-    "https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties/"
+    "https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties/",
+    "https://www.militarytimes.com/news/your-navy/2026/05/18/crew-members-safely-ejected-after-navy-jets-collide-at-idaho-air-show/",
+    "https://www.militarytimes.com/news/your-military/2026/05/18/coast-guard-plans-new-medal-for-fittest-troops/"
   ]
 }
