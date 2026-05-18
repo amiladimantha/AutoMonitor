@@ -406,7 +406,8 @@
     "https://www.nature.com/articles/d41586-026-01601-w",
     "https://www.nature.com/articles/d41586-026-00525-9",
     "https://www.nature.com/articles/d41586-026-01597-3",
-    "https://www.nature.com/articles/d41586-026-01555-z"
+    "https://www.nature.com/articles/d41586-026-01555-z",
+    "https://www.nature.com/articles/d41586-026-01563-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -461,7 +462,9 @@
     "https://deepmind.google/blog/alphaevolve-impact/",
     "https://huggingface.co/blog/continuous_async",
     "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
-    "https://huggingface.co/blog/ibm-research/open-agent-leaderboard"
+    "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
+    "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
+    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -621,6 +624,7 @@
     "https://www.militarytimes.com/news/your-military/2026/05/15/us-armys-7th-infantry-division-1st-mdtf-to-merge-as-multi-domain-command-pacific/",
     "https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties/",
     "https://www.militarytimes.com/news/your-navy/2026/05/18/crew-members-safely-ejected-after-navy-jets-collide-at-idaho-air-show/",
-    "https://www.militarytimes.com/news/your-military/2026/05/18/coast-guard-plans-new-medal-for-fittest-troops/"
+    "https://www.militarytimes.com/news/your-military/2026/05/18/coast-guard-plans-new-medal-for-fittest-troops/",
+    "https://www.militarytimes.com/industry/techwatch/2026/05/18/us-air-force-looks-to-convert-offshore-oil-rigs-into-rocket-recovery-platforms/"
   ]
 }
