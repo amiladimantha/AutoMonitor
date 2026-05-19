@@ -435,7 +435,10 @@
     "https://www.nature.com/articles/d41586-026-01329-7",
     "https://www.nature.com/articles/d41586-026-01553-1",
     "https://www.nature.com/articles/d41586-026-01335-9",
-    "https://www.nature.com/articles/d41586-026-01535-3"
+    "https://www.nature.com/articles/d41586-026-01535-3",
+    "https://www.nature.com/articles/s41586-026-10652-y",
+    "https://www.nature.com/articles/s41586-026-10658-6",
+    "https://www.nature.com/articles/s41586-026-10644-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
