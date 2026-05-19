@@ -208,7 +208,9 @@
     "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
     "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/",
     "https://arstechnica.com/cars/2026/05/bipartisan-bill-in-congress-includes-130-annual-ev-registration-fee/",
-    "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time/"
+    "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time/",
+    "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/",
+    "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -438,7 +440,11 @@
     "https://www.nature.com/articles/d41586-026-01535-3",
     "https://www.nature.com/articles/s41586-026-10652-y",
     "https://www.nature.com/articles/s41586-026-10658-6",
-    "https://www.nature.com/articles/s41586-026-10644-y"
+    "https://www.nature.com/articles/s41586-026-10644-y",
+    "https://www.nature.com/articles/d41586-026-01594-6",
+    "https://www.nature.com/articles/d41586-026-01596-4",
+    "https://www.nature.com/articles/d41586-026-01551-3",
+    "https://www.nature.com/articles/d41586-026-01595-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -496,7 +502,8 @@
     "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
     "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
     "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "https://huggingface.co/blog/ettin-reranker"
+    "https://huggingface.co/blog/ettin-reranker",
+    "https://huggingface.co/blog/allenai/olmoearth-v1-1"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -671,6 +678,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/05/19/pentagon-inks-500-million-deal-with-perennial-autonomy-for-counter-drone-tech/",
     "https://www.militarytimes.com/news/your-military/2026/05/19/more-us-troop-withdrawals-from-europe-expected-nato-commander-says/",
     "https://www.militarytimes.com/news/your-military/2026/05/19/fa-18-super-hornet-pilots-practice-touch-and-go-landings-on-iwo-jima/",
-    "https://www.militarytimes.com/news/your-military/2026/05/19/after-7-years-space-forces-first-paratrooper-takes-to-the-skies/"
+    "https://www.militarytimes.com/news/your-military/2026/05/19/after-7-years-space-forces-first-paratrooper-takes-to-the-skies/",
+    "https://www.militarytimes.com/news/your-military/2026/05/19/mq-25a-stingray-cleared-for-deployment-says-cao/"
   ]
 }
