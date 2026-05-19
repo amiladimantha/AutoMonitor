@@ -488,7 +488,8 @@
     "https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2",
     "https://huggingface.co/blog/ibm-research/open-agent-leaderboard",
     "https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation",
-    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers"
+    "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "https://huggingface.co/blog/ettin-reranker"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -659,6 +660,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/18/isis-leader-killed-in-africa-as-us-commander-raises-force-reduction-concerns/",
     "https://www.militarytimes.com/news/your-military/2026/05/19/hegseth-mulls-benefits-fix-for-veterans-exposed-to-radiation-at-a-bomb-test-site/",
     "https://www.militarytimes.com/news/your-military/2026/05/19/hegseth-campaigns-for-congressional-race-breaking-with-pentagon-neutrality/",
-    "https://www.militarytimes.com/global/europe/2026/05/19/polish-officials-vent-worries-over-scrapped-us-troop-deployment/"
+    "https://www.militarytimes.com/global/europe/2026/05/19/polish-officials-vent-worries-over-scrapped-us-troop-deployment/",
+    "https://www.militarytimes.com/industry/techwatch/2026/05/19/pentagon-inks-500-million-deal-with-perennial-autonomy-for-counter-drone-tech/"
   ]
 }
