@@ -545,7 +545,8 @@
     "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
     "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
     "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
-    "https://www.nature.com/articles/d41586-026-01656-9"
+    "https://www.nature.com/articles/d41586-026-01656-9",
+    "https://www.nature.com/articles/d41586-026-01660-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -605,7 +606,8 @@
     "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
     "https://huggingface.co/blog/ettin-reranker",
     "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "https://huggingface.co/blog/Dharma-AI/text-degeneration-a-production-failure-mode-that-m"
+    "https://huggingface.co/blog/Dharma-AI/text-degeneration-a-production-failure-mode-that-m",
+    "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
