@@ -270,7 +270,9 @@
     "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
     "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
     "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
-    "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/"
+    "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
+    "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+    "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -572,7 +574,8 @@
     "https://www.science.org/content/article/meet-microbiologist-and-science-advocate-who-s-headed-congress",
     "https://www.science.org/content/article/it-s-official-europe-physicists-plan-build-91-kilometer-particle-collider",
     "https://www.science.org/content/article/u-s-agencies-aren-t-ready-rising-cost-making-research-papers-free-report-warns",
-    "https://www.nature.com/articles/d41586-026-01621-6"
+    "https://www.nature.com/articles/d41586-026-01621-6",
+    "https://www.nature.com/articles/d41586-026-01619-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
