@@ -616,7 +616,21 @@
     "https://www.nature.com/articles/s41586-026-10700-7",
     "https://www.nature.com/articles/d41586-026-01622-5",
     "https://www.nature.com/articles/d41586-026-01618-1",
-    "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
+    "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
+    "https://www.nature.com/articles/d41586-026-01382-2",
+    "https://www.nature.com/articles/d41586-026-01459-y",
+    "https://www.nature.com/articles/d41586-026-01461-4",
+    "https://www.nature.com/articles/d41586-026-01414-x",
+    "https://www.nature.com/articles/d41586-026-01381-3",
+    "https://www.nature.com/articles/d41586-026-01457-0",
+    "https://www.nature.com/articles/d41586-026-01455-2",
+    "https://www.nature.com/articles/d41586-026-01686-3",
+    "https://www.nature.com/articles/d41586-026-01462-3",
+    "https://www.nature.com/articles/d41586-026-01458-z",
+    "https://www.nature.com/articles/d41586-026-01460-5",
+    "https://www.nature.com/articles/d41586-026-01456-1",
+    "https://www.nature.com/articles/d41586-026-01628-z",
+    "https://www.nature.com/articles/d41586-026-01089-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -679,7 +693,8 @@
     "https://huggingface.co/blog/Dharma-AI/text-degeneration-a-production-failure-mode-that-m",
     "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
     "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-    "https://huggingface.co/blog/agent-glossary"
+    "https://huggingface.co/blog/agent-glossary",
+    "https://huggingface.co/blog/delta-weight-sync"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -907,6 +922,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/pentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war/",
     "https://www.militarytimes.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/us-lawmakers-weigh-aviation-fuel-cost-increase-from-iran-war-in-fiscal-2027-defense-hearing/",
-    "https://www.militarytimes.com/industry/techwatch/2026/05/26/darpa-launches-search-for-robot-medics-to-treat-battlefield-casualties/"
+    "https://www.militarytimes.com/industry/techwatch/2026/05/26/darpa-launches-search-for-robot-medics-to-treat-battlefield-casualties/",
+    "https://www.militarytimes.com/opinion/commentary/2026/05/27/immigration-stress-a-readiness-problem-the-pentagon-does-not-measure/"
   ]
 }
