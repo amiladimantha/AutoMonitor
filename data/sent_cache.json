@@ -308,7 +308,15 @@
     "https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/",
     "https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/",
     "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-    "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/"
+    "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
+    "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
+    "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
+    "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
+    "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
+    "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
+    "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
+    "https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/",
+    "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -669,7 +677,16 @@
     "https://www.nature.com/articles/s41586-026-10609-1",
     "https://www.nature.com/articles/s41586-026-10521-8",
     "https://www.nature.com/articles/d41586-026-01589-3",
-    "https://www.nature.com/articles/d41586-026-01733-z"
+    "https://www.nature.com/articles/d41586-026-01733-z",
+    "https://www.science.org/content/article/mind-blowing-iron-rich-immune-cells-help-homing-pigeons-navigate",
+    "https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections",
+    "https://www.science.org/content/article/some-spinosaurs-cried-salty-tears-thrive-brackish-waters",
+    "https://www.science.org/content/article/surveys-capture-pulsing-mantle-plumes-potential-cause-mass-extinctions",
+    "https://www.science.org/content/article/lawmakers-propose-banning-all-u-s-chinese-research-collaborations",
+    "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
+    "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/",
+    "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
+    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -976,6 +993,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/",
     "https://www.militarytimes.com/news/your-military/2026/05/28/22nd-meu-iwo-jima-arg-head-home-after-10-month-deployment/",
     "https://www.militarytimes.com/news/your-military/2026/05/28/army-turns-resupply-drone-into-rocket-launcher-in-new-test/",
-    "https://www.militarytimes.com/veterans/military-history/2026/05/28/double-amputee-paratrooper-to-jump-into-normandy-for-82nd-anniversary-of-d-day/"
+    "https://www.militarytimes.com/veterans/military-history/2026/05/28/double-amputee-paratrooper-to-jump-into-normandy-for-82nd-anniversary-of-d-day/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/white-house-proposes-all-federal-employees-sign-nondisclosure-agreements/"
   ]
 }
