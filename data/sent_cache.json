@@ -320,7 +320,8 @@
     "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
     "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
     "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
-    "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/"
+    "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
+    "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -695,7 +696,13 @@
     "https://www.nature.com/articles/d41586-026-01393-z",
     "https://www.nature.com/articles/s41586-026-10605-5",
     "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
+    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
+    "https://www.nature.com/articles/s41586-026-10717-y",
+    "https://www.nature.com/articles/s41586-026-10665-7",
+    "https://www.nature.com/articles/d41586-026-01671-w",
+    "https://www.nature.com/articles/d41586-026-01668-5",
+    "https://www.nature.com/articles/d41586-026-01670-x",
+    "https://www.nature.com/articles/d41586-026-01091-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1004,6 +1011,7 @@
     "https://www.militarytimes.com/news/your-military/2026/05/28/22nd-meu-iwo-jima-arg-head-home-after-10-month-deployment/",
     "https://www.militarytimes.com/news/your-military/2026/05/28/army-turns-resupply-drone-into-rocket-launcher-in-new-test/",
     "https://www.militarytimes.com/veterans/military-history/2026/05/28/double-amputee-paratrooper-to-jump-into-normandy-for-82nd-anniversary-of-d-day/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/white-house-proposes-all-federal-employees-sign-nondisclosure-agreements/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/white-house-proposes-all-federal-employees-sign-nondisclosure-agreements/",
+    "https://www.militarytimes.com/industry/techwatch/2026/05/29/pentagon-looks-to-reinvent-the-bunker-buster-bomb/"
   ]
 }
