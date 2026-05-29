@@ -692,7 +692,8 @@
     "https://www.technologyreview.com/2026/05/28/1138067/climate-tech-ipos/",
     "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
     "https://www.nature.com/articles/d41586-026-01598-2",
-    "https://www.nature.com/articles/d41586-026-01393-z"
+    "https://www.nature.com/articles/d41586-026-01393-z",
+    "https://www.nature.com/articles/s41586-026-10605-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -758,7 +759,8 @@
     "https://huggingface.co/blog/agent-glossary",
     "https://huggingface.co/blog/delta-weight-sync",
     "https://huggingface.co/blog/local-reachy-mini-conversation",
-    "https://huggingface.co/blog/ibm-research/itbench-aa"
+    "https://huggingface.co/blog/ibm-research/itbench-aa",
+    "https://huggingface.co/blog/torch-profiler"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
