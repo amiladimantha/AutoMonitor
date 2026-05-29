@@ -323,7 +323,8 @@
     "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
     "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
     "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
-    "https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/"
+    "https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
+    "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -704,7 +705,10 @@
     "https://www.nature.com/articles/d41586-026-01671-w",
     "https://www.nature.com/articles/d41586-026-01668-5",
     "https://www.nature.com/articles/d41586-026-01670-x",
-    "https://www.nature.com/articles/d41586-026-01091-w"
+    "https://www.nature.com/articles/d41586-026-01091-w",
+    "https://www.nature.com/articles/d41586-026-01669-4",
+    "https://www.nature.com/articles/d41586-026-01736-w",
+    "https://www.nature.com/articles/d41586-026-01630-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1015,6 +1019,11 @@
     "https://www.militarytimes.com/veterans/military-history/2026/05/28/double-amputee-paratrooper-to-jump-into-normandy-for-82nd-anniversary-of-d-day/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/white-house-proposes-all-federal-employees-sign-nondisclosure-agreements/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/29/pentagon-looks-to-reinvent-the-bunker-buster-bomb/",
-    "https://www.militarytimes.com/opinion/commentary/2026/05/29/my-grandpa-was-killed-in-world-war-ii-i-met-him-through-his-letters-home/"
+    "https://www.militarytimes.com/opinion/commentary/2026/05/29/my-grandpa-was-killed-in-world-war-ii-i-met-him-through-his-letters-home/",
+    "https://www.militarytimes.com/news/your-marine-corps/2026/05/29/marine-acv-crews-to-face-thinking-adversaries-in-new-vr-simulator/",
+    "https://www.militarytimes.com/news/your-army/2026/05/29/army-develops-exoskeleton-for-lower-limb-injuries-on-the-battlefield/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/05/29/us-arms-sales-pause-would-push-taiwan-toward-asymmetric-defense-tech-analysts/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/05/29/how-far-is-there-to-go-until-the-us-and-iran-end-the-war/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/"
   ]
 }
