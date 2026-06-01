@@ -352,7 +352,8 @@
     "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
     "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
     "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
-    "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/"
+    "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
+    "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01289-y",
@@ -757,7 +758,12 @@
     "https://www.nature.com/articles/s41586-026-10507-6",
     "https://www.nature.com/articles/d41586-026-01488-7",
     "https://www.nature.com/articles/d41586-026-00821-4",
-    "https://www.nature.com/articles/d41586-026-01760-w"
+    "https://www.nature.com/articles/d41586-026-01760-w",
+    "https://www.science.org/content/article/desperate-fight-ebola-outbreak-congo-weighs-using-longshot-vaccine-options",
+    "https://www.science.org/content/article/court-blocks-nsf-s-transfer-climate-lab-s-supercomputing-facility",
+    "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
+    "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+    "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
