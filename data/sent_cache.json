@@ -774,7 +774,10 @@
     "https://www.nature.com/articles/d41586-026-01731-1",
     "https://www.nature.com/articles/d41586-026-01782-4",
     "https://www.nature.com/articles/d41586-026-01724-0",
-    "https://www.nature.com/articles/d41586-026-01337-7"
+    "https://www.nature.com/articles/d41586-026-01337-7",
+    "https://www.nature.com/articles/s41586-026-10728-9",
+    "https://www.nature.com/articles/s41586-026-10693-3",
+    "https://www.nature.com/articles/d41586-026-01723-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -860,7 +863,8 @@
     "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
     "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
     "https://deepmind.google/blog/gemini-3-5-frontier-intelligence-with-action/",
-    "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/"
+    "https://deepmind.google/blog/co-scientist-a-multi-agent-ai-partner-to-accelerate-research/",
+    "https://huggingface.co/blog/Hcompany/holo31"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -1128,6 +1132,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/01/trump-invokes-national-security-in-push-for-white-house-ballroom-drone-port/",
     "https://www.militarytimes.com/news/your-military/2026/06/01/us-court-blocks-pentagon-from-removing-transgender-troops-for-now/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
-    "https://www.militarytimes.com/opinion/2026/06/02/nato-in-hormuz-is-not-mission-creep/"
+    "https://www.militarytimes.com/opinion/2026/06/02/nato-in-hormuz-is-not-mission-creep/",
+    "https://www.militarytimes.com/news/your-navy/2026/06/02/us-navy-selects-companies-for-at-sea-musv-prototype-testing/"
   ]
 }
