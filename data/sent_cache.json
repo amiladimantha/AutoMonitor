@@ -794,7 +794,16 @@
     "https://www.nature.com/articles/d41586-026-01723-1",
     "https://www.nature.com/articles/d41586-026-01766-4",
     "https://www.nature.com/articles/d41586-026-01495-8",
-    "https://www.nature.com/articles/d41586-026-01763-7"
+    "https://www.nature.com/articles/d41586-026-01763-7",
+    "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
+    "https://www.science.org/content/article/how-europe-hopes-lure-foreign-researchers-massive-new-grants",
+    "https://www.science.org/content/article/radical-proposal-would-block-solar-storms-orbital-airbag",
+    "https://www.science.org/content/article/exclusive-nsf-watchdog-unit-no-longer-investigating-research-misconduct",
+    "https://www.science.org/content/article/brain-mapping-effort-searches-roots-parkinson-s-and-other-diseases",
+    "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
+    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
+    "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
