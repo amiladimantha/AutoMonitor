@@ -937,7 +937,8 @@
     "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
     "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
     "https://huggingface.co/blog/nvidia/task-seeded-sdg",
-    "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr"
+    "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
+    "https://huggingface.co/blog/hf-cli-for-agents"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -1230,6 +1231,8 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/creating-a-separate-cyber-force-would-require-10-billion-and-a-minimum-of-1-year-report-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/draft-defense-bill-would-halt-cuts-closures-of-military-health-facilities/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/experts-warn-terrorism-threat-is-rising-in-africa-as-us-pulls-back/",
-    "https://www.militarytimes.com/news/your-military/2026/06/04/army-identifies-soldier-who-died-in-training-accident-in-iraq/"
+    "https://www.militarytimes.com/news/your-military/2026/06/04/army-identifies-soldier-who-died-in-training-accident-in-iraq/",
+    "https://www.militarytimes.com/news/your-navy/2026/06/04/navy-recognizes-uss-carl-vinson-with-battle-e-award/",
+    "https://www.militarytimes.com/global/mideast-africa/2026/06/04/hidden-chemical-weapons-sites-emerge-in-syria-amid-fragile-security-transition/"
   ]
 }
