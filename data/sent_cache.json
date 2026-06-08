@@ -425,14 +425,10 @@
     "https://arstechnica.com/gadgets/2026/06/apples-ios-27-macos-27-golden-gate-and-other-updates-focus-on-refinement/",
     "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
     "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
-    "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/"
+    "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
+    "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01345-7",
-    "https://www.nature.com/articles/d41586-026-01145-z",
-    "https://www.nature.com/articles/s41586-026-10600-w",
-    "https://www.nature.com/articles/s41586-026-10370-5",
-    "https://www.nature.com/articles/s41586-026-10371-4",
     "https://www.nature.com/articles/d41586-026-01406-x",
     "https://www.nature.com/articles/s41586-026-10463-1",
     "https://www.nature.com/articles/s41586-026-10419-5",
@@ -927,7 +923,12 @@
     "https://www.nature.com/articles/d41586-026-01584-8",
     "https://www.nature.com/articles/s41586-026-10749-4",
     "https://www.nature.com/articles/s41586-026-10735-w",
-    "https://www.nature.com/articles/s41586-026-10738-7"
+    "https://www.nature.com/articles/s41586-026-10738-7",
+    "https://www.science.org/content/article/nih-plans-cap-number-grants-scientist-can-have-once",
+    "https://www.science.org/content/article/leading-supplier-research-monkeys-declares-bankruptcy",
+    "https://www.science.org/content/article/how-did-so-many-theropod-dinosaurs-come-have-tiny-arms",
+    "https://www.science.org/content/article/embryo-editing-first-more-complicated-headlines-suggest",
+    "https://www.science.org/content/article/how-novel-research-paper-competition-quantify-concept-crowns-winner"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1352,6 +1353,7 @@
     "https://www.militarytimes.com/flashpoints/2026/06/08/us-navy-fa-18-super-hornet-strikes-disables-oil-tanker-in-gulf-of-oman/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/08/us-approves-kuwait-request-to-buy-nearly-2-billion-of-counter-drone-platforms/",
     "https://www.militarytimes.com/news/your-navy/2026/06/08/navy-investigating-shooting-death-of-sailor-aboard-uss-john-f-kennedy/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/08/pentagon-bows-to-criticism-admitting-mistake-over-new-religious-list/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/08/pentagon-bows-to-criticism-admitting-mistake-over-new-religious-list/",
+    "https://www.militarytimes.com/news/your-navy/2026/06/08/sailor-charged-for-isis-conspiracy-to-kill-us-troops/"
   ]
 }
