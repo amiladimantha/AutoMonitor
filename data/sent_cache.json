@@ -411,12 +411,11 @@
     "https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/",
     "https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/",
     "https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/",
-    "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/"
+    "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
+    "https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/",
+    "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01289-y",
-    "https://www.nature.com/articles/d41586-026-01226-z",
-    "https://www.nature.com/articles/d41586-026-01203-6",
     "https://www.nature.com/articles/d41586-026-01345-7",
     "https://www.nature.com/articles/d41586-026-01145-z",
     "https://www.nature.com/articles/s41586-026-10600-w",
@@ -913,7 +912,10 @@
     "https://www.nature.com/articles/d41586-026-01795-z",
     "https://www.nature.com/articles/d41586-026-01837-6",
     "https://www.nature.com/articles/d41586-026-01828-7",
-    "https://www.nature.com/articles/d41586-026-01584-8"
+    "https://www.nature.com/articles/d41586-026-01584-8",
+    "https://www.nature.com/articles/s41586-026-10749-4",
+    "https://www.nature.com/articles/s41586-026-10735-w",
+    "https://www.nature.com/articles/s41586-026-10738-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1331,6 +1333,9 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/lawmakers-move-to-require-chaperones-for-sensitive-appointments-in-military-health-system/",
     "https://www.militarytimes.com/veterans/2026/06/05/unemployment-rate-for-veterans-drops-to-32-women-vets-surge-on-jobs-market/",
     "https://www.militarytimes.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/",
-    "https://www.militarytimes.com/news/your-military/2026/06/07/us-troops-families-adjust-to-new-normal-of-iran-war/"
+    "https://www.militarytimes.com/news/your-military/2026/06/07/us-troops-families-adjust-to-new-normal-of-iran-war/",
+    "https://www.militarytimes.com/industry/techwatch/2026/06/08/us-must-learn-lessons-from-ukraine-innovate-faster-and-cheaper-anduril-president/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/08/house-panel-quashes-attempt-to-stop-integration-of-us-israel-defense-tech-sectors/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/08/house-panel-backs-a-10-warthog-through-2030-eyes-autonomous-successors/"
   ]
 }
