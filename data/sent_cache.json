@@ -432,8 +432,6 @@
     "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10587-4",
-    "https://www.nature.com/articles/d41586-026-01399-7",
     "https://www.nature.com/articles/d41586-026-01353-7",
     "https://www.nature.com/articles/d41586-026-01288-z",
     "https://www.nature.com/articles/d41586-026-01396-w",
@@ -931,7 +929,9 @@
     "https://www.nature.com/articles/d41586-026-00799-z",
     "https://www.nature.com/articles/d41586-026-01690-7",
     "https://www.nature.com/articles/d41586-026-01234-z",
-    "https://www.nature.com/articles/d41586-026-01810-3"
+    "https://www.nature.com/articles/d41586-026-01810-3",
+    "https://www.nature.com/articles/d41586-026-01825-w",
+    "https://www.nature.com/articles/d41586-026-01823-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
