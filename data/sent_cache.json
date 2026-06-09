@@ -429,11 +429,13 @@
     "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
     "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
     "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
-    "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/"
+    "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
+    "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
+    "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
+    "https://arstechnica.com/science/2026/06/gold-isnt-inert-it-just-has-bodyguards-protecting-it/",
+    "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01353-7",
-    "https://www.nature.com/articles/d41586-026-01288-z",
     "https://www.nature.com/articles/d41586-026-01396-w",
     "https://www.nature.com/articles/d41586-026-01425-8",
     "https://www.nature.com/articles/d41586-026-01427-6",
@@ -931,7 +933,9 @@
     "https://www.nature.com/articles/d41586-026-01234-z",
     "https://www.nature.com/articles/d41586-026-01810-3",
     "https://www.nature.com/articles/d41586-026-01825-w",
-    "https://www.nature.com/articles/d41586-026-01823-y"
+    "https://www.nature.com/articles/d41586-026-01823-y",
+    "https://www.nature.com/articles/s41586-026-10748-5",
+    "https://www.nature.com/articles/d41586-026-01840-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
