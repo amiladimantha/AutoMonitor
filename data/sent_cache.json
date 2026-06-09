@@ -433,10 +433,10 @@
     "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
     "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
     "https://arstechnica.com/science/2026/06/gold-isnt-inert-it-just-has-bodyguards-protecting-it/",
-    "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/"
+    "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/",
+    "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01396-w",
     "https://www.nature.com/articles/d41586-026-01425-8",
     "https://www.nature.com/articles/d41586-026-01427-6",
     "https://www.nature.com/articles/d41586-026-01428-5",
@@ -935,7 +935,8 @@
     "https://www.nature.com/articles/d41586-026-01825-w",
     "https://www.nature.com/articles/d41586-026-01823-y",
     "https://www.nature.com/articles/s41586-026-10748-5",
-    "https://www.nature.com/articles/d41586-026-01840-x"
+    "https://www.nature.com/articles/d41586-026-01840-x",
+    "https://www.nature.com/articles/d41586-026-01737-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1368,6 +1369,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/06/08/chokepoint-busters-marines-seek-toolkit-to-help-aviators-clear-way-for-amphibs/",
     "https://www.militarytimes.com/news/your-military/2026/06/09/us-soldiers-rescued-after-apache-helicopter-goes-down-near-the-coast-of-oman/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/09/army-mortar-crews-trade-laptops-for-phone-app/",
-    "https://www.militarytimes.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/"
+    "https://www.militarytimes.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/",
+    "https://www.militarytimes.com/news/your-military/2026/06/09/flashpoint-campaigns-cold-war-is-the-ultimate-ooda-loop-wargame/"
   ]
 }
