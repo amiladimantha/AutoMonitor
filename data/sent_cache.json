@@ -430,8 +430,6 @@
     "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10429-3",
-    "https://www.nature.com/articles/s41586-026-10440-8",
     "https://www.nature.com/articles/s41586-026-10412-y",
     "https://www.nature.com/articles/s41586-026-10417-7",
     "https://www.nature.com/articles/s41586-026-10410-0",
@@ -929,7 +927,9 @@
     "https://www.nature.com/articles/d41586-026-01849-2",
     "https://www.nature.com/articles/d41586-026-01847-4",
     "https://www.nature.com/articles/d41586-026-01822-z",
-    "https://www.nature.com/articles/d41586-026-01852-7"
+    "https://www.nature.com/articles/d41586-026-01852-7",
+    "https://www.nature.com/articles/d41586-026-01836-7",
+    "https://www.nature.com/articles/d41586-026-01817-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1035,7 +1035,8 @@
     "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
     "https://huggingface.co/blog/openenv-agentic-rl",
-    "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd"
+    "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
+    "https://huggingface.co/blog/mishig/spaces-agents-md"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
