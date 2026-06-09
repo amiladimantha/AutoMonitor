@@ -430,13 +430,6 @@
     "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01406-x",
-    "https://www.nature.com/articles/s41586-026-10463-1",
-    "https://www.nature.com/articles/s41586-026-10419-5",
-    "https://www.nature.com/articles/s41586-026-10341-w",
-    "https://www.nature.com/articles/s41586-026-10445-3",
-    "https://www.nature.com/articles/s41586-026-10433-7",
-    "https://www.nature.com/articles/s41586-026-10471-1",
     "https://www.nature.com/articles/s41586-026-10429-3",
     "https://www.nature.com/articles/s41586-026-10440-8",
     "https://www.nature.com/articles/s41586-026-10412-y",
@@ -929,7 +922,14 @@
     "https://www.science.org/content/article/leading-supplier-research-monkeys-declares-bankruptcy",
     "https://www.science.org/content/article/how-did-so-many-theropod-dinosaurs-come-have-tiny-arms",
     "https://www.science.org/content/article/embryo-editing-first-more-complicated-headlines-suggest",
-    "https://www.science.org/content/article/how-novel-research-paper-competition-quantify-concept-crowns-winner"
+    "https://www.science.org/content/article/how-novel-research-paper-competition-quantify-concept-crowns-winner",
+    "https://www.nature.com/articles/s41586-026-10745-8",
+    "https://www.nature.com/articles/d41586-026-01848-3",
+    "https://www.nature.com/articles/d41586-026-01846-5",
+    "https://www.nature.com/articles/d41586-026-01849-2",
+    "https://www.nature.com/articles/d41586-026-01847-4",
+    "https://www.nature.com/articles/d41586-026-01822-z",
+    "https://www.nature.com/articles/d41586-026-01852-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1034,7 +1034,8 @@
     "https://huggingface.co/blog/build-small-hackathon/amazingdigitaldentures",
     "https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper",
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
-    "https://huggingface.co/blog/openenv-agentic-rl"
+    "https://huggingface.co/blog/openenv-agentic-rl",
+    "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
