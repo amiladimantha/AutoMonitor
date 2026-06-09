@@ -427,10 +427,11 @@
     "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
     "https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/",
     "https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/",
-    "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/"
+    "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/",
+    "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
+    "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01388-w",
     "https://www.nature.com/articles/s41586-026-10587-4",
     "https://www.nature.com/articles/d41586-026-01399-7",
     "https://www.nature.com/articles/d41586-026-01353-7",
@@ -929,7 +930,8 @@
     "https://www.nature.com/articles/s41586-026-10769-0",
     "https://www.nature.com/articles/d41586-026-00799-z",
     "https://www.nature.com/articles/d41586-026-01690-7",
-    "https://www.nature.com/articles/d41586-026-01234-z"
+    "https://www.nature.com/articles/d41586-026-01234-z",
+    "https://www.nature.com/articles/d41586-026-01810-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1360,6 +1362,8 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/08/pentagon-bows-to-criticism-admitting-mistake-over-new-religious-list/",
     "https://www.militarytimes.com/news/your-navy/2026/06/08/sailor-charged-for-isis-conspiracy-to-kill-us-troops/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/08/chokepoint-busters-marines-seek-toolkit-to-help-aviators-clear-way-for-amphibs/",
-    "https://www.militarytimes.com/news/your-military/2026/06/09/us-soldiers-rescued-after-apache-helicopter-goes-down-near-the-coast-of-oman/"
+    "https://www.militarytimes.com/news/your-military/2026/06/09/us-soldiers-rescued-after-apache-helicopter-goes-down-near-the-coast-of-oman/",
+    "https://www.militarytimes.com/industry/techwatch/2026/06/09/army-mortar-crews-trade-laptops-for-phone-app/",
+    "https://www.militarytimes.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/"
   ]
 }
