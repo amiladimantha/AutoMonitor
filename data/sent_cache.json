@@ -1044,7 +1044,10 @@
     "https://huggingface.co/blog/openenv-agentic-rl",
     "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
     "https://huggingface.co/blog/mishig/spaces-agents-md",
-    "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/"
+    "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -1370,6 +1373,7 @@
     "https://www.militarytimes.com/news/your-military/2026/06/09/us-soldiers-rescued-after-apache-helicopter-goes-down-near-the-coast-of-oman/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/09/army-mortar-crews-trade-laptops-for-phone-app/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/",
-    "https://www.militarytimes.com/news/your-military/2026/06/09/flashpoint-campaigns-cold-war-is-the-ultimate-ooda-loop-wargame/"
+    "https://www.militarytimes.com/news/your-military/2026/06/09/flashpoint-campaigns-cold-war-is-the-ultimate-ooda-loop-wargame/",
+    "https://www.militarytimes.com/news/your-marine-corps/2026/06/09/marines-to-have-their-own-barracks-bedrooms-at-japan-base/"
   ]
 }
