@@ -430,8 +430,6 @@
     "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10412-y",
-    "https://www.nature.com/articles/s41586-026-10417-7",
     "https://www.nature.com/articles/s41586-026-10410-0",
     "https://www.nature.com/articles/d41586-026-01306-0",
     "https://www.nature.com/articles/d41586-026-01421-y",
@@ -929,7 +927,9 @@
     "https://www.nature.com/articles/d41586-026-01822-z",
     "https://www.nature.com/articles/d41586-026-01852-7",
     "https://www.nature.com/articles/d41586-026-01836-7",
-    "https://www.nature.com/articles/d41586-026-01817-w"
+    "https://www.nature.com/articles/d41586-026-01817-w",
+    "https://www.nature.com/articles/d41586-026-01815-y",
+    "https://www.nature.com/articles/d41586-026-01209-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
