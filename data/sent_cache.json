@@ -430,10 +430,6 @@
     "https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10410-0",
-    "https://www.nature.com/articles/d41586-026-01306-0",
-    "https://www.nature.com/articles/d41586-026-01421-y",
-    "https://www.nature.com/articles/d41586-026-01398-8",
     "https://www.nature.com/articles/d41586-026-01388-w",
     "https://www.nature.com/articles/s41586-026-10587-4",
     "https://www.nature.com/articles/d41586-026-01399-7",
@@ -929,7 +925,11 @@
     "https://www.nature.com/articles/d41586-026-01836-7",
     "https://www.nature.com/articles/d41586-026-01817-w",
     "https://www.nature.com/articles/d41586-026-01815-y",
-    "https://www.nature.com/articles/d41586-026-01209-0"
+    "https://www.nature.com/articles/d41586-026-01209-0",
+    "https://www.nature.com/articles/s41586-026-10769-0",
+    "https://www.nature.com/articles/d41586-026-00799-z",
+    "https://www.nature.com/articles/d41586-026-01690-7",
+    "https://www.nature.com/articles/d41586-026-01234-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1036,7 +1036,8 @@
     "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
     "https://huggingface.co/blog/openenv-agentic-rl",
     "https://huggingface.co/blog/build-small-hackathon/neurobait-adhd",
-    "https://huggingface.co/blog/mishig/spaces-agents-md"
+    "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -1358,6 +1359,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/06/08/navy-investigating-shooting-death-of-sailor-aboard-uss-john-f-kennedy/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/08/pentagon-bows-to-criticism-admitting-mistake-over-new-religious-list/",
     "https://www.militarytimes.com/news/your-navy/2026/06/08/sailor-charged-for-isis-conspiracy-to-kill-us-troops/",
-    "https://www.militarytimes.com/industry/techwatch/2026/06/08/chokepoint-busters-marines-seek-toolkit-to-help-aviators-clear-way-for-amphibs/"
+    "https://www.militarytimes.com/industry/techwatch/2026/06/08/chokepoint-busters-marines-seek-toolkit-to-help-aviators-clear-way-for-amphibs/",
+    "https://www.militarytimes.com/news/your-military/2026/06/09/us-soldiers-rescued-after-apache-helicopter-goes-down-near-the-coast-of-oman/"
   ]
 }
