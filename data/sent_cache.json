@@ -448,11 +448,6 @@
     "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-025-03504-8",
-    "https://www.nature.com/articles/d41586-026-01333-x",
-    "https://www.nature.com/articles/d41586-026-01422-x",
-    "https://www.nature.com/articles/d41586-026-00508-w",
-    "https://www.nature.com/articles/d41586-026-01452-5",
     "https://www.nature.com/articles/d41586-026-01444-5",
     "https://www.nature.com/articles/s41586-026-10594-5",
     "https://www.nature.com/articles/d41586-026-01299-w",
@@ -947,7 +942,12 @@
     "https://www.nature.com/articles/d41586-026-01814-z",
     "https://www.nature.com/articles/d41586-026-01797-x",
     "https://www.nature.com/articles/d41586-026-01626-1",
-    "https://www.nature.com/articles/d41586-026-01718-y"
+    "https://www.nature.com/articles/d41586-026-01718-y",
+    "https://www.science.org/content/article/weird-and-capricious-experts-struggle-understand-new-list-political-jobs-science",
+    "https://www.science.org/content/article/immense-whale-graveyard-discovered-deep-sea",
+    "https://www.science.org/content/article/scientist-rethinking-how-put-gps-collars-wildlife",
+    "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+    "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
