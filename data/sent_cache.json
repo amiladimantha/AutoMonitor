@@ -446,7 +446,6 @@
     "https://arstechnica.com/science/2026/06/__trashed-19/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01394-y",
     "https://www.nature.com/articles/d41586-026-01450-7",
     "https://www.nature.com/articles/d41586-026-01442-7",
     "https://www.nature.com/articles/d41586-026-01440-9",
@@ -945,7 +944,8 @@
     "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
     "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
     "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-    "https://www.nature.com/articles/s41586-026-10763-6"
+    "https://www.nature.com/articles/s41586-026-10763-6",
+    "https://www.science.org/content/article/how-can-you-tell-whether-your-dog-right-pawed-or-left-pawed"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
