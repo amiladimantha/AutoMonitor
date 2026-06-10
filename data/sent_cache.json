@@ -446,7 +446,6 @@
     "https://arstechnica.com/science/2026/06/__trashed-19/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01443-6",
     "https://www.nature.com/articles/d41586-026-01441-8",
     "https://www.nature.com/articles/d41586-026-01409-8",
     "https://www.nature.com/articles/d41586-026-01408-9",
@@ -945,7 +944,8 @@
     "https://www.science.org/content/article/how-can-you-tell-whether-your-dog-right-pawed-or-left-pawed",
     "https://www.nature.com/articles/d41586-026-01662-x",
     "https://www.nature.com/articles/d41586-026-01816-x",
-    "https://www.nature.com/articles/d41586-026-01824-x"
+    "https://www.nature.com/articles/d41586-026-01824-x",
+    "https://www.nature.com/articles/d41586-026-01814-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1390,6 +1390,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/06/09/marine-corps-looks-to-equip-armored-vehicles-with-360-degree-cameras/",
     "https://www.militarytimes.com/news/your-navy/2026/06/09/sailor-sentenced-to-44-years-in-prison-for-murder-of-angelina-resendiz/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/09/senator-warns-of-government-shutdown-over-dispute-on-fiscal-2027-defense-budget/",
-    "https://www.militarytimes.com/news/your-military/2026/06/09/us-launches-new-strikes-on-iran-after-helicopter-downed/"
+    "https://www.militarytimes.com/news/your-military/2026/06/09/us-launches-new-strikes-on-iran-after-helicopter-downed/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/06/10/the-us-usually-sells-weapons-to-taiwan-with-drones-expect-the-reverse/"
   ]
 }
