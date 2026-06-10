@@ -456,8 +456,6 @@
     "https://arstechnica.com/gadgets/2026/06/logitechs-mobi-fold-folds-for-travel-but-i-prefer-a-different-portable-mouse/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/05/01/1136779/cyber-insecurity-in-the-ai-era/",
-    "https://www.technologyreview.com/2026/05/01/1136772/operationalizing-ai-for-scale-and-sovereignty/",
     "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
     "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
     "https://www.technologyreview.com/2026/05/01/1136722/mass-firing-trump-fresh-blow-american-science-nsf-nsb/",
@@ -955,7 +953,9 @@
     "https://www.nature.com/articles/s41586-026-10588-3",
     "https://www.nature.com/articles/s41586-026-10623-3",
     "https://www.nature.com/articles/s41586-026-10628-y",
-    "https://www.nature.com/articles/s41586-026-10611-7"
+    "https://www.nature.com/articles/s41586-026-10611-7",
+    "https://www.science.org/content/article/will-world-cup-kick-disease-outbreaks",
+    "https://www.science.org/content/article/first-results-put-neutrino-experiment-china-track-breakthrough"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1409,6 +1409,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/10/they-got-very-lucky-trump-says-of-downed-apache-helicopters-crew/",
     "https://www.militarytimes.com/news/your-navy/2026/06/10/us-navy-stands-up-naval-support-activity-in-western-australia/",
     "https://www.militarytimes.com/news/your-military/2026/06/10/us-army-astronaut-tapped-for-nasas-artemis-iii-mission/",
-    "https://www.militarytimes.com/veterans/2026/06/10/va-introduces-new-electronic-health-records-system-to-four-additional-sites/"
+    "https://www.militarytimes.com/veterans/2026/06/10/va-introduces-new-electronic-health-records-system-to-four-additional-sites/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/10/pentagon-to-launch-cyber-mastery-incentive-pay-program/"
   ]
 }
