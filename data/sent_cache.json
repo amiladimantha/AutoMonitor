@@ -443,12 +443,11 @@
     "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
     "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
     "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
-    "https://arstechnica.com/science/2026/06/__trashed-19/"
+    "https://arstechnica.com/science/2026/06/__trashed-19/",
+    "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
+    "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01441-8",
-    "https://www.nature.com/articles/d41586-026-01409-8",
-    "https://www.nature.com/articles/d41586-026-01408-9",
     "https://www.nature.com/articles/d41586-025-03504-8",
     "https://www.nature.com/articles/d41586-026-01333-x",
     "https://www.nature.com/articles/d41586-026-01422-x",
@@ -945,7 +944,10 @@
     "https://www.nature.com/articles/d41586-026-01662-x",
     "https://www.nature.com/articles/d41586-026-01816-x",
     "https://www.nature.com/articles/d41586-026-01824-x",
-    "https://www.nature.com/articles/d41586-026-01814-z"
+    "https://www.nature.com/articles/d41586-026-01814-z",
+    "https://www.nature.com/articles/d41586-026-01797-x",
+    "https://www.nature.com/articles/d41586-026-01626-1",
+    "https://www.nature.com/articles/d41586-026-01718-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
