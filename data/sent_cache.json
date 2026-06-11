@@ -458,8 +458,6 @@
     "https://arstechnica.com/tech-policy/2026/06/man-jailed-due-to-faulty-face-recognition-says-florida-cops-ignored-other-evidence/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01407-w",
-    "https://www.nature.com/articles/d41586-026-01155-x",
     "https://www.nature.com/articles/d41586-026-01423-w",
     "https://www.nature.com/articles/s41586-026-10602-8",
     "https://www.nature.com/articles/d41586-026-00797-1",
@@ -957,7 +955,9 @@
     "https://www.science.org/content/article/first-results-put-neutrino-experiment-china-track-breakthrough",
     "https://www.science.org/content/article/study-finds-sharp-decline-black-hispanic-researchers-receiving-nih-funding",
     "https://www.nature.com/articles/d41586-026-01707-1",
-    "https://www.nature.com/articles/d41586-026-01865-2"
+    "https://www.nature.com/articles/d41586-026-01865-2",
+    "https://www.nature.com/articles/d41586-026-01886-x",
+    "https://www.nature.com/articles/d41586-026-01129-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1072,7 +1072,8 @@
     "https://huggingface.co/blog/ServiceNow-AI/code-switching",
     "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
     "https://huggingface.co/blog/github-ci-hf-jobs",
-    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/"
+    "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
+    "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
