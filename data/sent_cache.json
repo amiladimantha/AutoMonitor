@@ -479,7 +479,6 @@
     "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10462-2",
     "https://www.nature.com/articles/s41586-026-10495-7",
     "https://www.nature.com/articles/s41586-026-10498-4",
     "https://www.nature.com/articles/s41586-026-10453-3",
@@ -978,7 +977,8 @@
     "https://www.nature.com/articles/d41586-026-01911-z",
     "https://www.nature.com/articles/d41586-026-01912-y",
     "https://www.nature.com/articles/d41586-026-01888-9",
-    "https://www.nature.com/articles/d41586-026-01858-1"
+    "https://www.nature.com/articles/d41586-026-01858-1",
+    "https://www.nature.com/articles/d41586-026-01902-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
