@@ -469,12 +469,10 @@
     "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
     "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
     "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
-    "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/"
+    "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
+    "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10448-0",
-    "https://www.nature.com/articles/s41586-026-10455-1",
-    "https://www.nature.com/articles/s41586-026-10443-5",
     "https://www.nature.com/articles/s41586-026-10462-2",
     "https://www.nature.com/articles/s41586-026-10495-7",
     "https://www.nature.com/articles/s41586-026-10498-4",
@@ -971,7 +969,10 @@
     "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
     "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
     "https://www.nature.com/articles/d41586-026-01876-z",
-    "https://www.nature.com/articles/d41586-026-01911-z"
+    "https://www.nature.com/articles/d41586-026-01911-z",
+    "https://www.nature.com/articles/d41586-026-01912-y",
+    "https://www.nature.com/articles/d41586-026-01888-9",
+    "https://www.nature.com/articles/d41586-026-01858-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1088,7 +1089,8 @@
     "https://huggingface.co/blog/github-ci-hf-jobs",
     "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
     "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
-    "https://huggingface.co/blog/torch-mlp-fusion"
+    "https://huggingface.co/blog/torch-mlp-fusion",
+    "https://huggingface.co/blog/allenai/olmo-eval"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -1439,6 +1441,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/11/trump-vows-to-seize-irans-kharg-island/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/11/senate-committee-backs-department-of-war-name-change/",
     "https://www.militarytimes.com/pentagon/2026/06/12/us-plans-major-cut-to-jets-warships-for-nato-operations-in-europe-nyt-reports/",
-    "https://www.militarytimes.com/global/europe/2026/06/12/ukraines-defense-ai-chief-predicts-new-paradigm-of-warfare/"
+    "https://www.militarytimes.com/global/europe/2026/06/12/ukraines-defense-ai-chief-predicts-new-paradigm-of-warfare/",
+    "https://www.militarytimes.com/news/your-military/2026/06/12/us-army-commissions-second-cohort-of-tech-executives-into-innovation-unit/"
   ]
 }
