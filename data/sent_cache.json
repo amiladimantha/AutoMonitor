@@ -480,15 +480,10 @@
     "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
     "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
     "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-    "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/"
+    "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
+    "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10495-7",
-    "https://www.nature.com/articles/s41586-026-10498-4",
-    "https://www.nature.com/articles/s41586-026-10453-3",
-    "https://www.nature.com/articles/s41586-026-10458-y",
-    "https://www.nature.com/articles/s41586-026-10441-7",
-    "https://www.nature.com/articles/s41586-026-10378-x",
     "https://www.nature.com/articles/s41586-026-10456-0",
     "https://www.nature.com/articles/s41586-026-10201-7",
     "https://www.nature.com/articles/s41586-026-10476-w",
@@ -982,7 +977,13 @@
     "https://www.nature.com/articles/d41586-026-01912-y",
     "https://www.nature.com/articles/d41586-026-01888-9",
     "https://www.nature.com/articles/d41586-026-01858-1",
-    "https://www.nature.com/articles/d41586-026-01902-0"
+    "https://www.nature.com/articles/d41586-026-01902-0",
+    "https://www.science.org/content/article/new-documentary-follows-researchers-increasingly-fraught-career-path",
+    "https://www.science.org/content/article/metal-driven-chemical-reaction-deep-sea-may-explain-origin-life",
+    "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+    "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
+    "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+    "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
