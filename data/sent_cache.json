@@ -486,12 +486,10 @@
     "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
     "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
     "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/",
-    "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/"
+    "https://arstechnica.com/space/2026/06/russia-appears-set-to-finally-address-long-term-serious-space-station-cracks/",
+    "https://arstechnica.com/cars/2026/06/f1-in-spain-an-old-fashioned-strategy-fight-can-still-be-thrilling/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10608-2",
-    "https://www.nature.com/articles/d41586-026-01350-w",
-    "https://www.nature.com/articles/d41586-026-01466-z",
     "https://www.nature.com/articles/d41586-026-00748-w",
     "https://www.nature.com/articles/d41586-026-01371-5",
     "https://www.nature.com/articles/d41586-026-01390-2",
@@ -988,7 +986,10 @@
     "https://www.nature.com/articles/d41586-026-01833-w",
     "https://www.nature.com/articles/d41586-026-01887-w",
     "https://www.nature.com/articles/d41586-026-01889-8",
-    "https://www.nature.com/articles/d41586-026-01885-y"
+    "https://www.nature.com/articles/d41586-026-01885-y",
+    "https://www.nature.com/articles/s41586-026-10768-1",
+    "https://www.nature.com/articles/d41586-026-01867-0",
+    "https://www.nature.com/articles/d41586-026-01863-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1465,6 +1466,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/06/12/navy-to-commission-tech-leaders-as-officers-for-navy-innovation-unit/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/12/only-1-in-4-f-35s-is-fully-mission-capable-gao-finds/",
     "https://www.militarytimes.com/flashpoints/2026/06/13/us-strike-kills-leader-of-venezuelas-tren-de-aragua-gang-white-house-says/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/15/iran-us-agree-to-halt-war-and-reopen-hormuz/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/15/iran-us-agree-to-halt-war-and-reopen-hormuz/",
+    "https://www.militarytimes.com/news/your-marine-corps/2026/06/15/fa-18-hornet-crashes-in-washington-state-wildfire-subsequently-reported/"
   ]
 }
