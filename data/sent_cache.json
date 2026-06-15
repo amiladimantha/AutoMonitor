@@ -488,8 +488,6 @@
     "https://arstechnica.com/science/2026/06/did-a-medieval-flying-monk-spot-halleys-comet-twice-its-complicated/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01405-y",
-    "https://www.nature.com/articles/d41586-026-01494-9",
     "https://www.nature.com/articles/s41586-026-10608-2",
     "https://www.nature.com/articles/d41586-026-01350-w",
     "https://www.nature.com/articles/d41586-026-01466-z",
@@ -987,7 +985,9 @@
     "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
     "https://www.nature.com/articles/d41586-026-01834-9",
     "https://www.nature.com/articles/d41586-026-01833-w",
-    "https://www.nature.com/articles/d41586-026-01887-w"
+    "https://www.nature.com/articles/d41586-026-01887-w",
+    "https://www.nature.com/articles/d41586-026-01889-8",
+    "https://www.nature.com/articles/d41586-026-01885-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
