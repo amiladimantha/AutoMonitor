@@ -496,11 +496,10 @@
     "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
     "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
     "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
-    "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/"
+    "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
+    "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01500-0",
-    "https://www.nature.com/articles/d41586-026-01508-6",
     "https://www.nature.com/articles/d41586-026-01473-0",
     "https://www.nature.com/articles/d41586-026-01493-w",
     "https://www.nature.com/articles/d41586-026-01501-z",
@@ -998,7 +997,9 @@
     "https://www.nature.com/articles/d41586-026-01917-7",
     "https://www.nature.com/articles/d41586-026-01916-8",
     "https://www.nature.com/articles/d41586-026-01914-w",
-    "https://www.nature.com/articles/d41586-026-01915-9"
+    "https://www.nature.com/articles/d41586-026-01915-9",
+    "https://www.nature.com/articles/d41586-026-01877-y",
+    "https://www.nature.com/articles/d41586-026-01884-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
