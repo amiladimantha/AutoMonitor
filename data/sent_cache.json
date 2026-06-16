@@ -499,9 +499,6 @@
     "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01371-5",
-    "https://www.nature.com/articles/d41586-026-01390-2",
-    "https://www.nature.com/articles/d41586-026-01079-6",
     "https://www.nature.com/articles/d41586-026-01500-0",
     "https://www.nature.com/articles/d41586-026-01508-6",
     "https://www.nature.com/articles/d41586-026-01473-0",
@@ -998,7 +995,10 @@
     "https://www.nature.com/articles/s41586-026-10768-1",
     "https://www.nature.com/articles/d41586-026-01867-0",
     "https://www.nature.com/articles/d41586-026-01863-4",
-    "https://www.nature.com/articles/d41586-026-01917-7"
+    "https://www.nature.com/articles/d41586-026-01917-7",
+    "https://www.nature.com/articles/d41586-026-01916-8",
+    "https://www.nature.com/articles/d41586-026-01914-w",
+    "https://www.nature.com/articles/d41586-026-01915-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
