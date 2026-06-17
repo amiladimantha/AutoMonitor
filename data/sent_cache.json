@@ -502,8 +502,6 @@
     "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10578-5",
-    "https://www.nature.com/articles/d41586-026-01478-9",
     "https://www.nature.com/articles/d41586-026-01479-8",
     "https://www.nature.com/articles/d41586-026-01510-y",
     "https://www.nature.com/articles/d41586-026-01481-0",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-01903-z",
     "https://www.nature.com/articles/d41586-026-01882-1",
     "https://www.nature.com/articles/d41586-026-01883-0",
-    "https://www.nature.com/articles/d41586-026-01719-x"
+    "https://www.nature.com/articles/d41586-026-01719-x",
+    "https://www.nature.com/articles/d41586-026-01938-2",
+    "https://www.nature.com/articles/d41586-026-01881-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
