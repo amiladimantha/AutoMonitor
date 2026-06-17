@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/04/a-falcon-9-upper-stage-will-strike-the-moon-in-august/",
-    "https://arstechnica.com/tech-policy/2026/04/school-shooting-lawsuits-accuse-openai-of-hiding-violent-chatgpt-users/",
     "https://arstechnica.com/space/2026/04/check-your-gravity-with-nasas-artemis-ii-zero-g-indicator/",
     "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
     "https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/",
@@ -499,10 +497,11 @@
     "https://arstechnica.com/space/2026/06/amid-launch-bottleneck-amazon-has-hundreds-of-satellites-waiting-to-fly/",
     "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
     "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
-    "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/"
+    "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
+    "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
+    "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01449-0",
     "https://www.nature.com/articles/s41586-026-10578-5",
     "https://www.nature.com/articles/d41586-026-01478-9",
     "https://www.nature.com/articles/d41586-026-01479-8",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-01929-3",
     "https://www.nature.com/articles/d41586-026-01903-z",
     "https://www.nature.com/articles/d41586-026-01882-1",
-    "https://www.nature.com/articles/d41586-026-01883-0"
+    "https://www.nature.com/articles/d41586-026-01883-0",
+    "https://www.nature.com/articles/d41586-026-01719-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1496,6 +1496,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/16/lawmakers-aim-to-ease-state-to-state-moves-for-military-homeschoolers/",
     "https://www.militarytimes.com/opinion/2026/06/16/not-just-a-flawed-design-charting-a-new-course-for-the-gwot-memorial/",
     "https://www.militarytimes.com/news/your-military/2026/06/16/mums-the-word-corps-stands-up-first-ever-marine-unmanned-maintenance-squadron/",
-    "https://www.militarytimes.com/news/your-military/2026/06/16/kc-46a-boom-mishap-caused-by-operator-and-f-22-pilot-errors-investigation-finds/"
+    "https://www.militarytimes.com/news/your-military/2026/06/16/kc-46a-boom-mishap-caused-by-operator-and-f-22-pilot-errors-investigation-finds/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/06/17/us-armys-tropic-lightning-division-ponders-transformation-lessons-from-philippine-war-games/"
   ]
 }
