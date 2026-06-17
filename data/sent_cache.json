@@ -502,7 +502,6 @@
     "https://arstechnica.com/ai/2026/06/dangerous-ai-models-are-coming-no-matter-what/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01139-x",
     "https://www.nature.com/articles/d41586-026-01526-4",
     "https://www.nature.com/articles/d41586-026-01081-y",
     "https://www.nature.com/articles/d41586-026-01424-9",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-10667-5",
     "https://www.nature.com/articles/s41586-026-10653-x",
     "https://www.nature.com/articles/s41586-026-10660-y",
-    "https://www.nature.com/articles/s41586-026-10540-5"
+    "https://www.nature.com/articles/s41586-026-10540-5",
+    "https://www.nature.com/articles/d41586-026-01923-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1506,6 +1506,8 @@
     "https://www.militarytimes.com/pay-benefits/2026/06/17/has-the-military-been-miscalculating-spouse-unemployment/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/congress-seeks-to-limit-us-navy-vessels-built-in-foreign-shipyards/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/senate-house-defense-bills-seek-to-prevent-renaming-of-us-navy-vessels/",
-    "https://www.militarytimes.com/pay-benefits/mil-money/2026/06/17/doorstep-grocery-delivery-expanding-to-all-us-commissaries-soon/"
+    "https://www.militarytimes.com/pay-benefits/mil-money/2026/06/17/doorstep-grocery-delivery-expanding-to-all-us-commissaries-soon/",
+    "https://www.militarytimes.com/news/your-military/2026/06/17/air-force-identifies-8-people-killed-in-b-52-crash/",
+    "https://www.militarytimes.com/off-duty/military-culture/2026/06/17/beyond-the-battlefield-how-3-marine-raiders-turned-combat-lessons-into-a-healing-mission/"
   ]
 }
