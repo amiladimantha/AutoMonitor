@@ -502,8 +502,6 @@
     "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01446-3",
-    "https://www.nature.com/articles/d41586-026-01447-2",
     "https://www.nature.com/articles/d41586-026-01449-0",
     "https://www.nature.com/articles/s41586-026-10578-5",
     "https://www.nature.com/articles/d41586-026-01478-9",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/s41586-026-10770-7",
     "https://www.nature.com/articles/d41586-026-01811-2",
     "https://www.nature.com/articles/d41586-026-01929-3",
-    "https://www.nature.com/articles/d41586-026-01903-z"
+    "https://www.nature.com/articles/d41586-026-01903-z",
+    "https://www.nature.com/articles/d41586-026-01882-1",
+    "https://www.nature.com/articles/d41586-026-01883-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1120,7 +1120,8 @@
     "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
     "https://huggingface.co/blog/torch-mlp-fusion",
     "https://huggingface.co/blog/allenai/olmo-eval",
-    "https://huggingface.co/blog/zai-org/glm-52-blog"
+    "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
