@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/04/check-your-gravity-with-nasas-artemis-ii-zero-g-indicator/",
-    "https://arstechnica.com/information-technology/2026/04/why-a-recent-supply-chain-attack-singled-out-security-firms-checkmarx-and-bitwarden/",
-    "https://arstechnica.com/tech-policy/2026/04/anti-trump-instagram-pic-of-seashells-now-enough-to-indict-ex-fbi-directors/",
     "https://arstechnica.com/health/2026/04/flesh-eating-bacteria-devour-mans-arm-and-leg-in-just-three-days/",
     "https://arstechnica.com/tech-policy/2026/04/fcc-orders-review-of-abc-licenses-after-kimmel-joke-offends-trump-and-first-lady/",
     "https://arstechnica.com/gadgets/2026/04/no-fly-zones-around-moving-ice-vehicles-this-drone-pilot-fought-back-and-won/",
@@ -499,29 +496,12 @@
     "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
     "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
     "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
-    "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/"
+    "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
+    "https://arstechnica.com/google/2026/06/the-gemini-powered-google-home-speaker-arrives-on-june-25-for-100/",
+    "https://arstechnica.com/space/2026/06/towers-once-planned-for-california-shuttle-launches-leveled-for-spacex-rockets/",
+    "https://arstechnica.com/health/2026/06/truly-evil-fda-rejection-of-gene-therapy-overturned-after-trump-official-ousted/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01479-8",
-    "https://www.nature.com/articles/d41586-026-01510-y",
-    "https://www.nature.com/articles/d41586-026-01481-0",
-    "https://www.nature.com/articles/d41586-026-01512-w",
-    "https://www.nature.com/articles/d41586-026-01522-8",
-    "https://www.nature.com/articles/d41586-026-01491-y",
-    "https://www.nature.com/articles/d41586-026-01518-4",
-    "https://www.nature.com/articles/d41586-026-01520-w",
-    "https://www.nature.com/articles/d41586-026-01519-3",
-    "https://www.nature.com/articles/d41586-026-01521-9",
-    "https://www.nature.com/articles/d41586-026-01156-w",
-    "https://www.nature.com/articles/d41586-026-01477-w",
-    "https://www.nature.com/articles/s41586-026-10615-3",
-    "https://www.nature.com/articles/d41586-026-01475-y",
-    "https://www.nature.com/articles/s41586-026-10618-0",
-    "https://www.nature.com/articles/d41586-026-01334-w",
-    "https://www.nature.com/articles/d41586-026-01523-7",
-    "https://www.nature.com/articles/d41586-026-01474-z",
-    "https://www.nature.com/articles/d41586-026-01369-z",
-    "https://www.nature.com/articles/d41586-026-01476-x",
     "https://www.nature.com/articles/d41586-026-01139-x",
     "https://www.nature.com/articles/d41586-026-01526-4",
     "https://www.nature.com/articles/d41586-026-01081-y",
@@ -1001,7 +981,27 @@
     "https://www.nature.com/articles/d41586-026-01883-0",
     "https://www.nature.com/articles/d41586-026-01719-x",
     "https://www.nature.com/articles/d41586-026-01938-2",
-    "https://www.nature.com/articles/d41586-026-01881-2"
+    "https://www.nature.com/articles/d41586-026-01881-2",
+    "https://www.nature.com/articles/s41586-026-10764-5",
+    "https://www.nature.com/articles/d41586-026-01941-7",
+    "https://www.nature.com/articles/s41586-026-10614-4",
+    "https://www.nature.com/articles/s41586-026-10586-5",
+    "https://www.nature.com/articles/s41586-026-10638-w",
+    "https://www.nature.com/articles/s41586-026-10673-7",
+    "https://www.nature.com/articles/s41586-026-10617-1",
+    "https://www.nature.com/articles/s41586-026-10657-7",
+    "https://www.nature.com/articles/s41586-026-10676-4",
+    "https://www.nature.com/articles/s41586-025-09553-3",
+    "https://www.nature.com/articles/s41586-025-09473-2",
+    "https://www.nature.com/articles/s41586-026-10650-0",
+    "https://www.nature.com/articles/s41586-026-10664-8",
+    "https://www.nature.com/articles/s41586-026-10679-1",
+    "https://www.nature.com/articles/s41586-026-10643-z",
+    "https://www.nature.com/articles/s41586-026-10648-8",
+    "https://www.nature.com/articles/s41586-026-10667-5",
+    "https://www.nature.com/articles/s41586-026-10653-x",
+    "https://www.nature.com/articles/s41586-026-10660-y",
+    "https://www.nature.com/articles/s41586-026-10540-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1121,7 +1121,9 @@
     "https://huggingface.co/blog/torch-mlp-fusion",
     "https://huggingface.co/blog/allenai/olmo-eval",
     "https://huggingface.co/blog/zai-org/glm-52-blog",
-    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+    "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "https://huggingface.co/blog/allenai/molmomotion",
+    "https://huggingface.co/blog/agentic-resource-discovery-launch"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -1499,6 +1501,7 @@
     "https://www.militarytimes.com/news/your-military/2026/06/16/kc-46a-boom-mishap-caused-by-operator-and-f-22-pilot-errors-investigation-finds/",
     "https://www.militarytimes.com/global/asia-pacific/2026/06/17/us-armys-tropic-lightning-division-ponders-transformation-lessons-from-philippine-war-games/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/pentagon-demands-human-performance-data-from-services-in-fitness-overhaul/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/fair-winds-indopacom-pentagon-returns-command-name-to-us-pacific-command/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/fair-winds-indopacom-pentagon-returns-command-name-to-us-pacific-command/",
+    "https://www.militarytimes.com/pay-benefits/2026/06/17/has-the-military-been-miscalculating-spouse-unemployment/"
   ]
 }
