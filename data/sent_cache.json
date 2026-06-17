@@ -502,7 +502,6 @@
     "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01511-x",
     "https://www.nature.com/articles/d41586-026-01446-3",
     "https://www.nature.com/articles/d41586-026-01447-2",
     "https://www.nature.com/articles/d41586-026-01449-0",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-01884-z",
     "https://www.nature.com/articles/s41586-026-10770-7",
     "https://www.nature.com/articles/d41586-026-01811-2",
-    "https://www.nature.com/articles/d41586-026-01929-3"
+    "https://www.nature.com/articles/d41586-026-01929-3",
+    "https://www.nature.com/articles/d41586-026-01903-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
