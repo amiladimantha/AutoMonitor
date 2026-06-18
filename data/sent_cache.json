@@ -502,8 +502,6 @@
     "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10511-w",
-    "https://www.nature.com/articles/s41586-026-10469-9",
     "https://www.nature.com/articles/s41586-026-10523-6",
     "https://www.nature.com/articles/s41586-026-10490-y",
     "https://www.nature.com/articles/s41586-026-10530-7",
@@ -1001,7 +999,9 @@
     "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
     "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
     "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
-    "https://www.nature.com/articles/d41586-026-01910-0"
+    "https://www.nature.com/articles/d41586-026-01910-0",
+    "https://www.nature.com/articles/d41586-026-01869-y",
+    "https://www.nature.com/articles/d41586-026-01841-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1512,6 +1512,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/read-the-14-point-memorandum-of-understanding-between-the-united-states-and-iran/",
     "https://www.militarytimes.com/news/your-military/2026/06/17/air-force-updates-chaplain-maternity-uniform-guidance/",
     "https://www.militarytimes.com/opinion/2026/06/18/before-we-move-on-2-painful-lessons-from-the-iran-war/",
-    "https://www.militarytimes.com/global/europe/2026/06/18/hegseth-announces-review-of-us-troops-in-europe-scorns-some-allies/"
+    "https://www.militarytimes.com/global/europe/2026/06/18/hegseth-announces-review-of-us-troops-in-europe-scorns-some-allies/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/18/senate-advances-effort-to-investigate-use-of-jag-officers-as-immigration-judges/"
   ]
 }
