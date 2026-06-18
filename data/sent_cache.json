@@ -502,8 +502,6 @@
     "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10523-6",
-    "https://www.nature.com/articles/s41586-026-10490-y",
     "https://www.nature.com/articles/s41586-026-10530-7",
     "https://www.nature.com/articles/s41586-026-10431-9",
     "https://www.nature.com/articles/s41586-026-10481-z",
@@ -1001,7 +999,9 @@
     "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
     "https://www.nature.com/articles/d41586-026-01910-0",
     "https://www.nature.com/articles/d41586-026-01869-y",
-    "https://www.nature.com/articles/d41586-026-01841-w"
+    "https://www.nature.com/articles/d41586-026-01841-w",
+    "https://www.nature.com/articles/d41586-026-01871-4",
+    "https://www.nature.com/articles/d41586-026-01947-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1125,7 +1125,8 @@
     "https://huggingface.co/blog/allenai/molmomotion",
     "https://huggingface.co/blog/agentic-resource-discovery-launch",
     "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
-    "https://huggingface.co/blog/is-it-agentic-enough"
+    "https://huggingface.co/blog/is-it-agentic-enough",
+    "https://huggingface.co/blog/peft-beyond-lora"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
