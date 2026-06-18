@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/",
     "https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/",
     "https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/",
     "https://arstechnica.com/gadgets/2026/04/meta-cuts-contractors-who-reported-seeing-ray-ban-meta-users-have-sex/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
     "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
     "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
-    "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/"
+    "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
+    "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10530-7",
     "https://www.nature.com/articles/s41586-026-10431-9",
     "https://www.nature.com/articles/s41586-026-10481-z",
     "https://www.nature.com/articles/s41586-026-10465-z",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-01869-y",
     "https://www.nature.com/articles/d41586-026-01841-w",
     "https://www.nature.com/articles/d41586-026-01871-4",
-    "https://www.nature.com/articles/d41586-026-01947-1"
+    "https://www.nature.com/articles/d41586-026-01947-1",
+    "https://www.nature.com/articles/d41586-026-01960-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1519,6 +1519,7 @@
     "https://www.militarytimes.com/news/your-military/2026/06/18/apache-going-down-near-oman-a-sign-of-air-combat-evolution-analysts-warn/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/18/senate-committee-proposes-36-military-pay-raise-rejecting-white-house-request-for-more/",
     "https://www.militarytimes.com/news/your-military/2026/06/18/us-army-fugitive-arrested-in-spain-after-decades-on-the-run/",
-    "https://www.militarytimes.com/news/your-military/2026/06/18/vietnam-war-hero-of-dong-ha-bridge-to-be-awarded-the-medal-of-honor/"
+    "https://www.militarytimes.com/news/your-military/2026/06/18/vietnam-war-hero-of-dong-ha-bridge-to-be-awarded-the-medal-of-honor/",
+    "https://www.militarytimes.com/global/europe/2026/06/18/ukraine-hits-moscow-refinery-in-major-drone-attack-on-russian-capital/"
   ]
 }
