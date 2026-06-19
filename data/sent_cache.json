@@ -502,7 +502,6 @@
     "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01547-z",
     "https://www.nature.com/articles/d41586-026-01505-9",
     "https://www.nature.com/articles/d41586-026-01550-4",
     "https://www.nature.com/articles/s41586-026-10620-6",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-01925-7",
     "https://www.nature.com/articles/s41586-026-10812-0",
     "https://www.nature.com/articles/d41586-026-01963-1",
-    "https://www.nature.com/articles/d41586-026-01967-x"
+    "https://www.nature.com/articles/d41586-026-01967-x",
+    "https://www.science.org/content/article/researchers-caught-crossfire-companies-and-government-grapple-over-ai-safety"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
