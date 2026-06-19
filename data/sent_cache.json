@@ -502,7 +502,6 @@
     "https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10431-9",
     "https://www.nature.com/articles/s41586-026-10481-z",
     "https://www.nature.com/articles/s41586-026-10465-z",
     "https://www.nature.com/articles/s41586-026-10489-5",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-01841-w",
     "https://www.nature.com/articles/d41586-026-01871-4",
     "https://www.nature.com/articles/d41586-026-01947-1",
-    "https://www.nature.com/articles/d41586-026-01960-4"
+    "https://www.nature.com/articles/d41586-026-01960-4",
+    "https://www.nature.com/articles/d41586-026-01925-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
