@@ -502,7 +502,6 @@
     "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01559-9",
     "https://www.nature.com/articles/d41586-026-01590-w",
     "https://www.nature.com/articles/d41586-026-01578-6",
     "https://www.nature.com/articles/s41586-026-10649-7",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-01909-7",
     "https://www.nature.com/articles/d41586-026-01957-z",
     "https://www.nature.com/articles/d41586-026-01956-0",
-    "https://www.nature.com/articles/d41586-026-01991-x"
+    "https://www.nature.com/articles/d41586-026-01991-x",
+    "https://www.nature.com/articles/d41586-026-01954-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1127,7 +1127,8 @@
     "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
     "https://huggingface.co/blog/is-it-agentic-enough",
     "https://huggingface.co/blog/peft-beyond-lora",
-    "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+    "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+    "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -1539,6 +1540,7 @@
     "https://www.militarytimes.com/news/your-military/2026/06/19/air-force-one-begins-commissioning-flights-final-step-before-presidential-use/",
     "https://www.militarytimes.com/news/your-military/2026/06/19/highway-patrol-us-marine-f-35s-conduct-flight-operations-on-finnish-roads/",
     "https://www.militarytimes.com/news/your-military/2026/06/19/army-launches-new-indo-pacific-multi-domain-command/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/19/trump-heads-to-camp-david-as-questions-swirl-over-iran-deal/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/19/trump-heads-to-camp-david-as-questions-swirl-over-iran-deal/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/06/22/can-chinas-latest-air-to-air-missile-take-on-its-us-equivalent-definitely-maybe-experts-say/"
   ]
 }
