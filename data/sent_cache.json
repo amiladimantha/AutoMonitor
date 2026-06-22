@@ -502,9 +502,6 @@
     "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01503-x",
-    "https://www.nature.com/articles/d41586-026-01575-9",
-    "https://www.nature.com/articles/d41586-026-01558-w",
     "https://www.nature.com/articles/d41586-026-01559-9",
     "https://www.nature.com/articles/d41586-026-01590-w",
     "https://www.nature.com/articles/d41586-026-01578-6",
@@ -1001,7 +998,10 @@
     "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
     "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
     "https://www.nature.com/articles/d41586-026-01948-0",
-    "https://www.nature.com/articles/d41586-026-01909-7"
+    "https://www.nature.com/articles/d41586-026-01909-7",
+    "https://www.nature.com/articles/d41586-026-01957-z",
+    "https://www.nature.com/articles/d41586-026-01956-0",
+    "https://www.nature.com/articles/d41586-026-01991-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
