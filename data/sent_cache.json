@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/05/inside-toyotas-10b-private-utopia-big-ideas-few-people-cameras-everywhere/",
-    "https://arstechnica.com/science/2026/05/trump-administration-cites-national-security-in-stalling-165-wind-farms/",
     "https://arstechnica.com/science/2026/05/mits-virtual-violin-offers-luthiers-a-new-design-tool/",
     "https://arstechnica.com/tech-policy/2026/05/musks-world-war-iii-threat-in-twitter-lawsuit-haunts-him-at-openai-trial/",
     "https://arstechnica.com/gaming/2026/05/amd-is-adding-hdmi-2-1-support-for-linux-thats-good-news-for-the-steam-machine/",
@@ -499,10 +497,11 @@
     "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
     "https://arstechnica.com/cars/2026/06/pikes-peak-2026-was-a-battle-of-propulsion-with-an-ev-and-a-hybrid-winning-out/",
     "https://arstechnica.com/tech-policy/2026/06/woman-killed-when-tesla-driver-using-autopilot-crashed-into-her-home/",
-    "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/"
+    "https://arstechnica.com/gaming/2026/06/valves-steam-machine-ships-june-29-for-1049-but-you-probably-wont-be-able-to-buy-one-yet/",
+    "https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/",
+    "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01601-w",
     "https://www.nature.com/articles/d41586-026-00525-9",
     "https://www.nature.com/articles/d41586-026-01597-3",
     "https://www.nature.com/articles/d41586-026-01555-z",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-10800-4",
     "https://www.nature.com/articles/s41586-026-10771-6",
     "https://www.nature.com/articles/d41586-026-01801-4",
-    "https://www.nature.com/articles/d41586-026-01802-3"
+    "https://www.nature.com/articles/d41586-026-01802-3",
+    "https://www.nature.com/articles/d41586-026-01949-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
