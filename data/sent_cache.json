@@ -502,7 +502,6 @@
     "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01594-6",
     "https://www.nature.com/articles/d41586-026-01596-4",
     "https://www.nature.com/articles/d41586-026-01551-3",
     "https://www.nature.com/articles/d41586-026-01595-5",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-01953-3",
     "https://www.nature.com/articles/d41586-026-01997-5",
     "https://www.nature.com/articles/d41586-026-01812-1",
-    "https://www.nature.com/articles/d41586-026-01842-9"
+    "https://www.nature.com/articles/d41586-026-01842-9",
+    "https://www.nature.com/articles/s41586-026-10799-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
