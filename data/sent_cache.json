@@ -1129,7 +1129,8 @@
     "https://huggingface.co/blog/peft-beyond-lora",
     "https://huggingface.co/blog/ServiceNow/mosaicleaks",
     "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-    "https://huggingface.co/blog/local-models-pr-triage"
+    "https://huggingface.co/blog/local-models-pr-triage",
+    "https://huggingface.co/blog/huggingface-hub-release-ci"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
