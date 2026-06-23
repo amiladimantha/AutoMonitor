@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/05/tesla-fsd-other-european-regulators-skeptical-despite-dutch-approval/",
-    "https://arstechnica.com/tech-policy/2026/05/dhs-abuses-1930s-customs-law-in-attempt-to-get-data-on-canadian-from-google/",
     "https://arstechnica.com/gadgets/2026/05/google-home-gets-upgraded-gemini-voice-assistant-and-new-camera-controls/",
     "https://arstechnica.com/tech-policy/2026/05/trump-sec-lets-musk-settle-150-million-twitter-lawsuit-for-1-5-million/",
     "https://arstechnica.com/security/2026/05/widely-used-daemon-tools-disk-app-backdoored-in-monthlong-supply-chain-attack/",
@@ -499,7 +497,9 @@
     "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
     "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
     "https://arstechnica.com/tech-policy/2026/06/abc-asks-viewers-to-protest-fcc-attempt-to-control-who-is-allowed-on-the-view/",
-    "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/"
+    "https://arstechnica.com/science/2026/06/early-land-animals-skipped-the-tadpole-phase/",
+    "https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/",
+    "https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01596-4",
@@ -1559,6 +1559,7 @@
     "https://www.militarytimes.com/news/your-military/2026/06/23/air-force-selects-new-technical-sergeants-with-highest-promotion-rate-since-2021/",
     "https://www.militarytimes.com/veterans/military-history/2026/06/23/gunfight-at-the-veracruz-custom-house-led-to-six-medal-of-honor-recipients/",
     "https://www.militarytimes.com/news/your-military/2026/06/23/just-one-in-four-americans-believes-the-war-with-iran-was-worth-its-costs/",
-    "https://www.militarytimes.com/industry/techwatch/2026/06/23/us-army-tests-fire-control-software-that-helps-moving-vehicles-kill-drones/"
+    "https://www.militarytimes.com/industry/techwatch/2026/06/23/us-army-tests-fire-control-software-that-helps-moving-vehicles-kill-drones/",
+    "https://www.militarytimes.com/news/your-military/2026/06/23/us-army-expands-unit-stability-program-for-junior-officers/"
   ]
 }
