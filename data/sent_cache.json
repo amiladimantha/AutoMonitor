@@ -502,8 +502,6 @@
     "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01468-x",
-    "https://www.nature.com/articles/d41586-026-01605-6",
     "https://www.nature.com/articles/d41586-026-01603-8",
     "https://www.nature.com/articles/d41586-026-01606-5",
     "https://www.nature.com/articles/d41586-026-01604-7",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/your-heartbeat-quietly-shapes-how-your-brain-processes-information",
     "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
     "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-    "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/"
+    "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
+    "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
+    "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
