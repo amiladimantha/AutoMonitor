@@ -502,13 +502,6 @@
     "https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-00525-9",
-    "https://www.nature.com/articles/d41586-026-01597-3",
-    "https://www.nature.com/articles/d41586-026-01555-z",
-    "https://www.nature.com/articles/d41586-026-01563-z",
-    "https://www.nature.com/articles/d41586-026-01552-2",
-    "https://www.nature.com/articles/d41586-026-01574-w",
-    "https://www.nature.com/articles/d41586-026-01607-4",
     "https://www.nature.com/articles/d41586-026-01468-x",
     "https://www.nature.com/articles/d41586-026-01605-6",
     "https://www.nature.com/articles/d41586-026-01603-8",
@@ -1001,7 +994,14 @@
     "https://www.nature.com/articles/s41586-026-10771-6",
     "https://www.nature.com/articles/d41586-026-01801-4",
     "https://www.nature.com/articles/d41586-026-01802-3",
-    "https://www.nature.com/articles/d41586-026-01949-z"
+    "https://www.nature.com/articles/d41586-026-01949-z",
+    "https://www.science.org/content/article/after-backlash-cdc-revises-plan-retire-research-monkeys-texas-sanctuary",
+    "https://www.science.org/content/article/interstellar-comet-unlike-anything-seen-our-solar-system",
+    "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
+    "https://www.science.org/content/article/your-heartbeat-quietly-shapes-how-your-brain-processes-information",
+    "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+    "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1549,6 +1549,7 @@
     "https://www.militarytimes.com/news/your-air-force/2026/06/22/flu-outbreak-sickens-200-trainees-at-lackland-air-force-base/",
     "https://www.militarytimes.com/veterans/military-history/2026/06/22/visa-battle-for-mother-of-cape-verde-footballer-puts-spotlight-on-nation-and-its-military-heritage/",
     "https://www.militarytimes.com/news/your-military/2026/06/22/us-coast-guard-helicopter-crashes-in-alaska-with-four-onboard/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/22/house-to-vote-on-landmark-bill-that-boosts-dod-and-va-benefits-for-some-while-cutting-others/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/22/house-to-vote-on-landmark-bill-that-boosts-dod-and-va-benefits-for-some-while-cutting-others/",
+    "https://www.militarytimes.com/industry/techwatch/2026/06/23/us-marines-in-okinawa-receive-first-madis-nmesis-platforms/"
   ]
 }
