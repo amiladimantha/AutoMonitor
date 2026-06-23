@@ -502,15 +502,6 @@
     "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01603-8",
-    "https://www.nature.com/articles/d41586-026-01606-5",
-    "https://www.nature.com/articles/d41586-026-01604-7",
-    "https://www.nature.com/articles/d41586-026-01557-x",
-    "https://www.nature.com/articles/d41586-026-01329-7",
-    "https://www.nature.com/articles/d41586-026-01553-1",
-    "https://www.nature.com/articles/d41586-026-01335-9",
-    "https://www.nature.com/articles/d41586-026-01535-3",
-    "https://www.nature.com/articles/s41586-026-10652-y",
     "https://www.nature.com/articles/s41586-026-10658-6",
     "https://www.nature.com/articles/s41586-026-10644-y",
     "https://www.nature.com/articles/d41586-026-01594-6",
@@ -1001,7 +992,16 @@
     "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
     "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
     "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
-    "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/"
+    "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "https://www.nature.com/articles/d41586-026-01970-2",
+    "https://www.nature.com/articles/d41586-026-01971-1",
+    "https://www.nature.com/articles/d41586-026-01969-9",
+    "https://www.nature.com/articles/d41586-026-01972-0",
+    "https://www.nature.com/articles/d41586-026-01951-5",
+    "https://www.nature.com/articles/d41586-026-01955-1",
+    "https://www.nature.com/articles/d41586-026-01130-6",
+    "https://www.nature.com/articles/d41586-026-01953-3",
+    "https://www.nature.com/articles/d41586-026-01997-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
