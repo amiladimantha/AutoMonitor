@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/05/openai-president-explains-to-jury-why-his-diary-entries-sound-greedy/",
-    "https://arstechnica.com/information-technology/2026/05/ars-asks-share-your-shell-and-show-us-your-tricked-out-terminals/",
-    "https://arstechnica.com/cars/2026/05/more-than-just-an-suv-rivian-is-working-on-more-r2-variants/",
     "https://arstechnica.com/ai/2026/05/googles-gemma-4-open-ai-models-use-speculative-decoding-to-get-up-to-3x-faster/",
     "https://arstechnica.com/space/2026/05/as-nasa-eyes-lunar-base-theres-still-much-learn-about-landing-on-the-moon/",
     "https://arstechnica.com/health/2026/05/infants-are-bleeding-to-death-after-parents-shun-routine-vitamin-k-shots/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/space/2026/06/november-launch-set-for-space-shuttle-endeavours-towering-display/",
     "https://arstechnica.com/tech-policy/2026/06/white-house-app-auto-downloads-to-government-phones-cant-be-uninstalled/",
     "https://arstechnica.com/health/2026/06/military-branches-restore-flu-shot-requirement-after-virus-swept-through-base/",
-    "https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/"
+    "https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/",
+    "https://arstechnica.com/cars/2026/06/formula-e-reveals-first-calendar-for-gen4-with-lots-of-real-race-tracks/",
+    "https://arstechnica.com/google/2026/06/google-starts-lowering-play-store-fees-making-good-on-epic-games-settlement/",
+    "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01087-6",
@@ -1573,6 +1573,8 @@
     "https://www.militarytimes.com/news/your-navy/2026/06/24/navy-announces-e-6-sailors-of-the-year-meritorious-chief-advancements/",
     "https://www.militarytimes.com/news/your-military/2026/06/24/airstrike-killed-senior-isis-commander-in-syria-centcom-says/",
     "https://www.militarytimes.com/news/your-navy/2026/06/24/missing-sailor-found-dead-near-naval-station-norfolk/",
-    "https://www.militarytimes.com/news/your-military/2026/06/24/f-35-program-chief-warns-fleet-has-outgrown-its-support-system-amid-record-low-readiness/"
+    "https://www.militarytimes.com/news/your-military/2026/06/24/f-35-program-chief-warns-fleet-has-outgrown-its-support-system-amid-record-low-readiness/",
+    "https://www.militarytimes.com/news/your-military/2026/06/24/us-army-sergeant-sentenced-to-six-life-terms-for-shooting-spree-at-georgia-base/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/06/24/china-studied-us-stealth-aircraft-and-learned-the-wrong-lessons/"
   ]
 }
