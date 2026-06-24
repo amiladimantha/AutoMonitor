@@ -502,7 +502,6 @@
     "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01554-0",
     "https://www.nature.com/articles/d41586-026-01640-3",
     "https://www.nature.com/articles/d41586-026-00431-0",
     "https://www.nature.com/articles/d41586-026-00428-9",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-10799-8",
     "https://www.nature.com/articles/d41586-026-01958-y",
     "https://www.nature.com/articles/d41586-026-01952-4",
-    "https://www.nature.com/articles/d41586-026-02029-y"
+    "https://www.nature.com/articles/d41586-026-02029-y",
+    "https://www.nature.com/articles/d41586-026-01720-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
