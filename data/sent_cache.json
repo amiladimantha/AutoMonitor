@@ -502,10 +502,6 @@
     "https://arstechnica.com/cars/2026/06/here-are-five-ways-you-could-build-a-slate-ev-from-25000-to-37000/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01467-y",
-    "https://www.nature.com/articles/d41586-026-01646-x",
-    "https://www.nature.com/articles/d41586-026-01608-3",
-    "https://www.nature.com/articles/d41586-026-01593-7",
     "https://www.nature.com/articles/d41586-026-01655-w",
     "https://www.nature.com/articles/d41586-026-01087-6",
     "https://www.science.org/content/article/analysis-research-groups-want-senate-vet-trump-s-nominee-nsf-head",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/s41586-026-10681-7",
     "https://www.nature.com/articles/s41586-026-10625-1",
     "https://www.nature.com/articles/s41586-026-10677-3",
-    "https://www.nature.com/articles/s41586-026-10696-0"
+    "https://www.nature.com/articles/s41586-026-10696-0",
+    "https://www.science.org/content/article/retraction-questions-claim-cancer-therapy-works-better-morning",
+    "https://www.science.org/content/article/why-were-mysterious-ancient-humans-found-african-cave-all-female",
+    "https://www.science.org/content/article/inbreeding-didn-t-doom-neanderthals-study-suggests",
+    "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1132,7 +1132,9 @@
     "https://huggingface.co/blog/local-models-pr-triage",
     "https://huggingface.co/blog/huggingface-hub-release-ci",
     "https://huggingface.co/blog/ibm-research/cuga-apps",
-    "https://huggingface.co/blog/cross-origin-storage"
+    "https://huggingface.co/blog/cross-origin-storage",
+    "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+    "https://huggingface.co/blog/ffasr-leaderboard"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
@@ -1568,6 +1570,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/24/us-senate-joins-house-in-voting-to-halt-iran-war/",
     "https://www.militarytimes.com/pay-benefits/2026/06/24/military-families-paying-1000-out-of-pocket-for-moves-survey-shows/",
     "https://www.militarytimes.com/news/your-military/2026/06/24/gen-christopher-donahue-to-unexpectedly-relinquish-command-of-army-europe-and-africa/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/24/navy-announces-e-6-sailors-of-the-year-meritorious-chief-advancements/"
+    "https://www.militarytimes.com/news/your-navy/2026/06/24/navy-announces-e-6-sailors-of-the-year-meritorious-chief-advancements/",
+    "https://www.militarytimes.com/news/your-military/2026/06/24/airstrike-killed-senior-isis-commander-in-syria-centcom-says/"
   ]
 }
