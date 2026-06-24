@@ -502,7 +502,6 @@
     "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01551-3",
     "https://www.nature.com/articles/d41586-026-01595-5",
     "https://www.nature.com/articles/d41586-026-01554-0",
     "https://www.nature.com/articles/d41586-026-01640-3",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-01812-1",
     "https://www.nature.com/articles/d41586-026-01842-9",
     "https://www.nature.com/articles/s41586-026-10799-8",
-    "https://www.nature.com/articles/d41586-026-01958-y"
+    "https://www.nature.com/articles/d41586-026-01958-y",
+    "https://www.nature.com/articles/d41586-026-01952-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1565,6 +1565,7 @@
     "https://www.militarytimes.com/veterans/2026/06/23/va-inventory-report-reveals-367-ai-systems-operating-in-healthcare-benefits-and-services/",
     "https://www.militarytimes.com/news/your-military/2026/06/23/top-space-force-official-wears-new-mess-dress-uniform-ahead-of-its-formal-wear-testing/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/06/23/marines-expand-use-of-maven-with-new-ai-operational-reporting-tool/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/24/us-senate-joins-house-in-voting-to-halt-iran-war/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/06/24/us-senate-joins-house-in-voting-to-halt-iran-war/",
+    "https://www.militarytimes.com/pay-benefits/2026/06/24/military-families-paying-1000-out-of-pocket-for-moves-survey-shows/"
   ]
 }
