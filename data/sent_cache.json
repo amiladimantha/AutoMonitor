@@ -502,18 +502,6 @@
     "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01640-3",
-    "https://www.nature.com/articles/d41586-026-00431-0",
-    "https://www.nature.com/articles/d41586-026-00428-9",
-    "https://www.nature.com/articles/d41586-026-00429-8",
-    "https://www.nature.com/articles/d41586-026-01085-8",
-    "https://www.nature.com/articles/d41586-026-00432-z",
-    "https://www.nature.com/articles/d41586-026-00430-1",
-    "https://www.nature.com/articles/d41586-026-00824-1",
-    "https://www.nature.com/articles/s41586-026-10659-5",
-    "https://www.nature.com/articles/d41586-026-01615-4",
-    "https://www.nature.com/articles/s41586-026-10642-0",
-    "https://www.nature.com/articles/d41586-026-01627-0",
     "https://www.nature.com/articles/s41586-026-10565-w",
     "https://www.nature.com/articles/s41586-026-10572-x",
     "https://www.nature.com/articles/s41586-026-10464-0",
@@ -1001,7 +989,19 @@
     "https://www.nature.com/articles/d41586-026-01958-y",
     "https://www.nature.com/articles/d41586-026-01952-4",
     "https://www.nature.com/articles/d41586-026-02029-y",
-    "https://www.nature.com/articles/d41586-026-01720-4"
+    "https://www.nature.com/articles/d41586-026-01720-4",
+    "https://www.science.org/content/article/dozen-people-will-spend-8-months-trapped-arctic-ice-science",
+    "https://www.science.org/content/article/how-ai-1-billion-and-transparent-fish-could-transform-neuroscience",
+    "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+    "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+    "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+    "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+    "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+    "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+    "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+    "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
+    "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+    "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1566,6 +1566,7 @@
     "https://www.militarytimes.com/news/your-military/2026/06/23/top-space-force-official-wears-new-mess-dress-uniform-ahead-of-its-formal-wear-testing/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/06/23/marines-expand-use-of-maven-with-new-ai-operational-reporting-tool/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/24/us-senate-joins-house-in-voting-to-halt-iran-war/",
-    "https://www.militarytimes.com/pay-benefits/2026/06/24/military-families-paying-1000-out-of-pocket-for-moves-survey-shows/"
+    "https://www.militarytimes.com/pay-benefits/2026/06/24/military-families-paying-1000-out-of-pocket-for-moves-survey-shows/",
+    "https://www.militarytimes.com/news/your-military/2026/06/24/gen-christopher-donahue-to-unexpectedly-relinquish-command-of-army-europe-and-africa/"
   ]
 }
