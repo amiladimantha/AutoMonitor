@@ -502,8 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/06/elon-musk-denies-teslas-autopilot-caused-crash-that-killed-grandmother/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01087-6",
-    "https://www.science.org/content/article/analysis-research-groups-want-senate-vet-trump-s-nominee-nsf-head",
     "https://www.science.org/content/article/hearing-bombshell-acting-director-nih-s-infectious-disease-institute-out",
     "https://www.science.org/content/article/ancient-wars-between-microbes-gave-us-key-immune-defenses",
     "https://www.science.org/content/article/can-one-parent-silence-other-s-genes-natural-paramutations-found-mice",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/why-were-mysterious-ancient-humans-found-african-cave-all-female",
     "https://www.science.org/content/article/inbreeding-didn-t-doom-neanderthals-study-suggests",
     "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
-    "https://www.nature.com/articles/s41586-026-10813-z"
+    "https://www.nature.com/articles/s41586-026-10813-z",
+    "https://www.nature.com/articles/d41586-026-01987-7",
+    "https://www.nature.com/articles/d41586-026-01986-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1576,6 +1576,8 @@
     "https://www.militarytimes.com/news/your-military/2026/06/24/f-35-program-chief-warns-fleet-has-outgrown-its-support-system-amid-record-low-readiness/",
     "https://www.militarytimes.com/news/your-military/2026/06/24/us-army-sergeant-sentenced-to-six-life-terms-for-shooting-spree-at-georgia-base/",
     "https://www.militarytimes.com/global/asia-pacific/2026/06/24/china-studied-us-stealth-aircraft-and-learned-the-wrong-lessons/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/06/24/us-uk-france-germany-raise-alarm-about-chinese-patrols-off-eastern-taiwan/"
+    "https://www.militarytimes.com/global/asia-pacific/2026/06/24/us-uk-france-germany-raise-alarm-about-chinese-patrols-off-eastern-taiwan/",
+    "https://www.militarytimes.com/news/your-military/2026/06/24/can-the-us-military-preserve-decades-of-wartime-experience/",
+    "https://www.militarytimes.com/opinion/commentary/2026/06/24/i-once-made-my-va-therapist-cry-then-an-ai-chatbot-got-me-talking-about-war-and-guilt/"
   ]
 }
