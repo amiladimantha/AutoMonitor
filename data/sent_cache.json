@@ -502,12 +502,6 @@
     "https://arstechnica.com/apple/2026/06/apple-ratchets-up-prices-blames-the-cost-of-memory/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-    "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-    "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/",
-    "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-    "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/",
-    "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
     "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
     "https://www.technologyreview.com/2026/05/21/1137622/climate-tech-pivot-critical-minerals/",
     "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
@@ -1001,7 +995,13 @@
     "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
     "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
     "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-    "https://www.nature.com/articles/d41586-026-01978-8"
+    "https://www.nature.com/articles/d41586-026-01978-8",
+    "https://www.nature.com/articles/s41586-026-10826-8",
+    "https://www.nature.com/articles/s41586-026-10792-1",
+    "https://www.nature.com/articles/d41586-026-01994-8",
+    "https://www.nature.com/articles/d41586-026-02047-w",
+    "https://www.nature.com/articles/d41586-026-02036-z",
+    "https://www.nature.com/articles/d41586-026-02027-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1134,7 +1134,8 @@
     "https://huggingface.co/blog/ibm-research/cuga-apps",
     "https://huggingface.co/blog/cross-origin-storage",
     "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "https://huggingface.co/blog/ffasr-leaderboard"
+    "https://huggingface.co/blog/ffasr-leaderboard",
+    "https://huggingface.co/blog/allenai/hybrid-token-prediction"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
