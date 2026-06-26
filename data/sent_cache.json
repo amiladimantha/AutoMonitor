@@ -502,8 +502,6 @@
     "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01619-0",
-    "https://www.nature.com/articles/d41586-026-01664-9",
     "https://www.nature.com/articles/d41586-026-01665-8",
     "https://www.nature.com/articles/d41586-026-01663-w",
     "https://www.nature.com/articles/d41586-026-01666-7",
@@ -1001,7 +999,9 @@
     "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
     "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
     "https://www.nature.com/articles/d41586-026-02059-6",
-    "https://www.nature.com/articles/d41586-026-02060-z"
+    "https://www.nature.com/articles/d41586-026-02060-z",
+    "https://www.nature.com/articles/d41586-026-02043-0",
+    "https://www.nature.com/articles/d41586-026-02046-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1601,6 +1601,10 @@
     "https://www.militarytimes.com/news/your-military/2026/06/26/us-army-officer-sentenced-for-secretly-giving-abortion-drug-to-pregnant-soldier/",
     "https://www.militarytimes.com/news/your-military/2026/06/26/debate-over-women-in-combat-prompts-ndaa-battles/",
     "https://www.militarytimes.com/news/your-army/2026/06/26/101st-soldiers-use-drones-to-drop-grappling-hooks-breach-razor-wire/",
-    "https://www.militarytimes.com/news/your-military/2026/06/26/us-sending-military-warships-personnel-to-venezuela-in-the-wake-of-the-nations-devastating-earthquakes/"
+    "https://www.militarytimes.com/news/your-military/2026/06/26/us-sending-military-warships-personnel-to-venezuela-in-the-wake-of-the-nations-devastating-earthquakes/",
+    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/06/26/feds-pay-out-17m-to-families-sickened-by-navys-fuel-contaminated-water-in-hawaii/",
+    "https://www.militarytimes.com/opinion/commentary/2026/06/26/nato-allies-promised-trump-theyd-secure-the-arctic-theyve-got-work-to-do/",
+    "https://www.militarytimes.com/news/your-military/2026/06/26/army-launches-new-branch-for-military-space-operations/",
+    "https://www.militarytimes.com/news/recruiting/2026/06/26/military-recruiting-hit-a-15-year-high-how-quickly-do-recruits-become-mission-ready/"
   ]
 }
