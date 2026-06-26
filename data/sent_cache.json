@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/05/engineers-at-nasas-jet-propulsion-lab-make-a-breakthrough-in-rotor-technology/",
     "https://arstechnica.com/science/2026/05/dna-identifies-four-more-crew-members-of-doomed-franklin-expedition/",
     "https://arstechnica.com/gadgets/2026/05/were-tracking-423-mac-configurations-to-see-how-apple-is-handling-shortages/",
     "https://arstechnica.com/science/2026/05/how-climate-change-makes-your-allergies-worse/",
@@ -499,12 +498,10 @@
     "https://arstechnica.com/science/2026/06/planet-orbits-so-close-to-its-star-that-their-magnetic-fields-connect/",
     "https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/",
     "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/",
-    "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/"
+    "https://arstechnica.com/space/2026/06/rocket-report-china-may-soon-attempt-booster-landing-rocket-lab-does-rapid-response/",
+    "https://arstechnica.com/space/2026/06/spacex-plans-to-launch-starlink-mobile-service-in-the-us/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01644-z",
-    "https://www.science.org/content/article/meet-microbiologist-and-science-advocate-who-s-headed-congress",
-    "https://www.science.org/content/article/it-s-official-europe-physicists-plan-build-91-kilometer-particle-collider",
     "https://www.science.org/content/article/u-s-agencies-aren-t-ready-rising-cost-making-research-papers-free-report-warns",
     "https://www.nature.com/articles/d41586-026-01621-6",
     "https://www.nature.com/articles/d41586-026-01619-0",
@@ -1001,7 +998,10 @@
     "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
     "https://www.nature.com/articles/d41586-026-02055-w",
     "https://www.nature.com/articles/d41586-026-01794-0",
-    "https://www.nature.com/articles/d41586-026-01976-w"
+    "https://www.nature.com/articles/d41586-026-01976-w",
+    "https://www.science.org/content/article/having-child-during-grad-school-especially-hard-women",
+    "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+    "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1598,6 +1598,7 @@
     "https://www.militarytimes.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/the-pentagons-research-infrastructure-is-deteriorating-study-finds/",
     "https://www.militarytimes.com/unmanned/2026/06/25/ukraines-top-strike-drone-maker-moves-into-ballistic-missile-defense/",
-    "https://www.militarytimes.com/news/your-military/2026/06/26/us-army-officer-sentenced-for-secretly-giving-abortion-drug-to-pregnant-soldier/"
+    "https://www.militarytimes.com/news/your-military/2026/06/26/us-army-officer-sentenced-for-secretly-giving-abortion-drug-to-pregnant-soldier/",
+    "https://www.militarytimes.com/news/your-military/2026/06/26/debate-over-women-in-combat-prompts-ndaa-battles/"
   ]
 }
