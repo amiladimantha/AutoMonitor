@@ -502,9 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/05/21/1137632/lawsuit-trump-administration-online-safety-coalition-for-independent-technology-research/",
-    "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
-    "https://www.nature.com/articles/d41586-026-01656-9",
     "https://www.nature.com/articles/d41586-026-01660-z",
     "https://www.nature.com/articles/d41586-026-01392-0",
     "https://www.nature.com/articles/d41586-026-01651-0",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02036-z",
     "https://www.nature.com/articles/d41586-026-02027-0",
     "https://www.nature.com/articles/s41586-026-10829-5",
-    "https://www.nature.com/articles/d41586-026-02028-z"
+    "https://www.nature.com/articles/d41586-026-02028-z",
+    "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
+    "https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds",
+    "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
