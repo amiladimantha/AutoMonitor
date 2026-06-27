@@ -502,7 +502,6 @@
     "https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01620-7",
     "https://www.nature.com/articles/s41586-026-10651-z",
     "https://www.nature.com/articles/d41586-026-01617-2",
     "https://www.nature.com/articles/d41586-026-01616-3",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02046-x",
     "https://www.science.org/content/article/nasa-s-cheapest-missions-deliver-less-scientific-bang-buck-study-finds",
     "https://www.science.org/content/article/engineers-cram-100-billion-transistors-microchip",
-    "https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged"
+    "https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged",
+    "https://www.nature.com/articles/d41586-026-01924-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
