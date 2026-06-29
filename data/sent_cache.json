@@ -502,11 +502,6 @@
     "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01336-8",
-    "https://www.nature.com/articles/d41586-026-01415-w",
-    "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/",
-    "https://www.science.org/content/article/outdoor-lights-may-be-making-mosquito-season-longer",
-    "https://www.science.org/content/article/can-fast-nimble-clinical-trials-deliver-drug-halt-new-ebola-outbreak",
     "https://www.nature.com/articles/d41586-026-01625-2",
     "https://www.science.org/content/article/wikipedia-s-gender-gap-has-flipped-one-group-scientists",
     "https://www.nature.com/articles/s41586-026-10700-7",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-01137-z",
     "https://www.nature.com/articles/s41586-026-10815-x",
     "https://www.nature.com/articles/d41586-026-02063-w",
-    "https://www.nature.com/articles/d41586-026-02065-8"
+    "https://www.nature.com/articles/d41586-026-02065-8",
+    "https://www.science.org/content/article/nih-likely-award-fewer-grants-it-races-spend-2026-budget",
+    "https://www.science.org/content/article/scientists-have-only-discovered-tiny-fraction-living-insect-species",
+    "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+    "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
+    "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
