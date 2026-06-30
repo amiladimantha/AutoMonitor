@@ -502,10 +502,6 @@
     "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01625-2",
-    "https://www.science.org/content/article/wikipedia-s-gender-gap-has-flipped-one-group-scientists",
-    "https://www.nature.com/articles/s41586-026-10700-7",
-    "https://www.nature.com/articles/d41586-026-01622-5",
     "https://www.nature.com/articles/d41586-026-01618-1",
     "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
     "https://www.nature.com/articles/d41586-026-01382-2",
@@ -1001,7 +997,11 @@
     "https://www.science.org/content/article/scientists-have-only-discovered-tiny-fraction-living-insect-species",
     "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
     "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-    "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
+    "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
+    "https://www.nature.com/articles/d41586-026-02068-5",
+    "https://www.nature.com/articles/d41586-026-02070-x",
+    "https://www.nature.com/articles/d41586-026-02069-4",
+    "https://www.nature.com/articles/d41586-026-01873-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
