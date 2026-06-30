@@ -502,8 +502,6 @@
     "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01618-1",
-    "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/",
     "https://www.nature.com/articles/d41586-026-01382-2",
     "https://www.nature.com/articles/d41586-026-01459-y",
     "https://www.nature.com/articles/d41586-026-01461-4",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02068-5",
     "https://www.nature.com/articles/d41586-026-02070-x",
     "https://www.nature.com/articles/d41586-026-02069-4",
-    "https://www.nature.com/articles/d41586-026-01873-2"
+    "https://www.nature.com/articles/d41586-026-01873-2",
+    "https://www.nature.com/articles/d41586-026-01980-0",
+    "https://www.nature.com/articles/d41586-026-01965-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
