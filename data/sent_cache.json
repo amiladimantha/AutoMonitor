@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/",
     "https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/",
     "https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/",
     "https://arstechnica.com/ai/2026/05/amazon-employees-are-tokenmaxxing-due-to-pressure-to-use-ai-tools/",
@@ -499,12 +498,10 @@
     "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
     "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
     "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-    "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
+    "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+    "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01461-4",
-    "https://www.nature.com/articles/d41586-026-01414-x",
-    "https://www.nature.com/articles/d41586-026-01381-3",
     "https://www.nature.com/articles/d41586-026-01457-0",
     "https://www.nature.com/articles/d41586-026-01455-2",
     "https://www.nature.com/articles/d41586-026-01686-3",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-01980-0",
     "https://www.nature.com/articles/d41586-026-01965-z",
     "https://www.nature.com/articles/d41586-026-02075-6",
-    "https://www.nature.com/articles/d41586-026-01813-0"
+    "https://www.nature.com/articles/d41586-026-01813-0",
+    "https://www.nature.com/articles/s41586-026-10837-5",
+    "https://www.nature.com/articles/s41586-026-10816-w",
+    "https://www.nature.com/articles/s41586-026-10838-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1622,6 +1622,8 @@
     "https://www.militarytimes.com/news/your-military/2026/06/29/pilot-shut-off-fuel-supply-leading-to-october-2025-skyraider-ii-crash-air-force-finds/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/usmc-awards-20-million-contract-for-first-autonomous-ground-vehicles/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/29/bipartisan-bill-would-let-service-members-sue-us-military-for-sexual-assault/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/29/select-navy-reserve-aviators-eligible-for-up-to-40000-in-annual-bonuses/"
+    "https://www.militarytimes.com/news/your-navy/2026/06/29/select-navy-reserve-aviators-eligible-for-up-to-40000-in-annual-bonuses/",
+    "https://www.militarytimes.com/industry/techwatch/2026/06/30/socom-is-seeking-a-long-range-kamikaze-drone/",
+    "https://www.militarytimes.com/news/your-military/2026/06/30/inside-the-marine-corps-call-of-duty-training-experiment/"
   ]
 }
