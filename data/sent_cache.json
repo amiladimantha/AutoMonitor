@@ -502,7 +502,6 @@
     "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01459-y",
     "https://www.nature.com/articles/d41586-026-01461-4",
     "https://www.nature.com/articles/d41586-026-01414-x",
     "https://www.nature.com/articles/d41586-026-01381-3",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-01873-2",
     "https://www.nature.com/articles/d41586-026-01980-0",
     "https://www.nature.com/articles/d41586-026-01965-z",
-    "https://www.nature.com/articles/d41586-026-02075-6"
+    "https://www.nature.com/articles/d41586-026-02075-6",
+    "https://www.nature.com/articles/d41586-026-01813-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1137,7 +1137,8 @@
     "https://huggingface.co/blog/ffasr-leaderboard",
     "https://huggingface.co/blog/allenai/hybrid-token-prediction",
     "https://huggingface.co/blog/vllm-jobs",
-    "https://huggingface.co/blog/allenai/discoformer"
+    "https://huggingface.co/blog/allenai/discoformer",
+    "https://huggingface.co/blog/eee-community-evals"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/us-military-commanders-to-brief-trump-on-military-options-against-iran/",
