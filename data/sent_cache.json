@@ -502,8 +502,6 @@
     "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10584-7",
-    "https://www.nature.com/articles/s41586-026-10556-x",
     "https://www.nature.com/articles/s41586-026-10591-8",
     "https://www.nature.com/articles/s41586-026-10516-5",
     "https://www.nature.com/articles/s41586-026-10542-3",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-01977-9",
     "https://www.nature.com/articles/d41586-026-02067-6",
     "https://www.nature.com/articles/d41586-026-01936-4",
-    "https://www.nature.com/articles/d41586-026-01908-8"
+    "https://www.nature.com/articles/d41586-026-01908-8",
+    "https://www.science.org/content/article/proposed-new-satellite-fleets-could-overwhelm-night-sky",
+    "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1632,6 +1632,8 @@
     "https://www.militarytimes.com/veterans/military-history/2026/06/30/vessel-that-aided-in-discovery-of-famous-wwii-shipwrecks-finds-new-life-in-us-navy/",
     "https://www.militarytimes.com/news/your-military/2026/06/30/in-a-first-trump-will-travel-aboard-qatari-donated-air-force-one/",
     "https://www.militarytimes.com/global/europe/2026/07/01/ukraine-is-launching-strike-drones-from-everything-including-black-sea-robo-boats/",
-    "https://www.militarytimes.com/news/your-military/2026/07/01/marine-corps-adds-new-scout-mos-to-infantry-units/"
+    "https://www.militarytimes.com/news/your-military/2026/07/01/marine-corps-adds-new-scout-mos-to-infantry-units/",
+    "https://www.militarytimes.com/news/your-military/2026/07/01/us-armys-ranger-school-alters-mens-physiology-more-than-womens-study-shows/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/01/video-shows-a-ukrainian-unit-running-down-a-russian-shahed-the-kind-of-kill-the-us-is-racing-to-reproduce/"
   ]
 }
