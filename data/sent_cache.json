@@ -502,13 +502,6 @@
     "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01457-0",
-    "https://www.nature.com/articles/d41586-026-01455-2",
-    "https://www.nature.com/articles/d41586-026-01686-3",
-    "https://www.nature.com/articles/d41586-026-01462-3",
-    "https://www.nature.com/articles/d41586-026-01458-z",
-    "https://www.nature.com/articles/d41586-026-01460-5",
-    "https://www.nature.com/articles/d41586-026-01456-1",
     "https://www.nature.com/articles/d41586-026-01628-z",
     "https://www.nature.com/articles/d41586-026-01089-4",
     "https://www.nature.com/articles/s41586-026-10553-0",
@@ -1001,7 +994,14 @@
     "https://www.nature.com/articles/d41586-026-01813-0",
     "https://www.nature.com/articles/s41586-026-10837-5",
     "https://www.nature.com/articles/s41586-026-10816-w",
-    "https://www.nature.com/articles/s41586-026-10838-4"
+    "https://www.nature.com/articles/s41586-026-10838-4",
+    "https://www.science.org/content/article/provision-buried-controversial-u-s-rule-change-would-help-people-legally-challenge-woke",
+    "https://www.science.org/content/article/rubin-observatory-begins-10-year-movie-changing-universe",
+    "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+    "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+    "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+    "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
