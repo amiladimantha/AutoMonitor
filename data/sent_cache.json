@@ -502,9 +502,6 @@
     "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10541-4",
-    "https://www.nature.com/articles/s41586-026-10537-0",
-    "https://www.nature.com/articles/s41586-026-10525-4",
     "https://www.nature.com/articles/s41586-026-10584-7",
     "https://www.nature.com/articles/s41586-026-10556-x",
     "https://www.nature.com/articles/s41586-026-10591-8",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-01973-z",
     "https://www.nature.com/articles/d41586-026-01974-y",
     "https://www.nature.com/articles/d41586-026-01981-z",
-    "https://www.nature.com/articles/d41586-026-01977-9"
+    "https://www.nature.com/articles/d41586-026-01977-9",
+    "https://www.nature.com/articles/d41586-026-02067-6",
+    "https://www.nature.com/articles/d41586-026-01936-4",
+    "https://www.nature.com/articles/d41586-026-01908-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1630,6 +1630,8 @@
     "https://www.militarytimes.com/news/your-military/2026/06/30/the-us-army-goes-into-the-breach-without-soldiers/",
     "https://www.militarytimes.com/news/your-navy/2026/06/30/japanese-torpedo-sends-us-ship-to-the-ocean-floor-during-valiant-shield-exercise/",
     "https://www.militarytimes.com/veterans/military-history/2026/06/30/vessel-that-aided-in-discovery-of-famous-wwii-shipwrecks-finds-new-life-in-us-navy/",
-    "https://www.militarytimes.com/news/your-military/2026/06/30/in-a-first-trump-will-travel-aboard-qatari-donated-air-force-one/"
+    "https://www.militarytimes.com/news/your-military/2026/06/30/in-a-first-trump-will-travel-aboard-qatari-donated-air-force-one/",
+    "https://www.militarytimes.com/global/europe/2026/07/01/ukraine-is-launching-strike-drones-from-everything-including-black-sea-robo-boats/",
+    "https://www.militarytimes.com/news/your-military/2026/07/01/marine-corps-adds-new-scout-mos-to-infantry-units/"
   ]
 }
