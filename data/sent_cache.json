@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/05/windows-update-is-getting-better-at-saving-your-pc-from-buggy-drivers/",
-    "https://arstechnica.com/gadgets/2026/05/amazon-exec-downplays-new-fire-phone-rumors-no-clear-path-that-makes-sense/",
-    "https://arstechnica.com/ai/2026/05/anthropic-blames-dystopian-sci-fi-for-training-ai-models-to-act-evil/",
-    "https://arstechnica.com/space/2026/05/nasa-provides-some-details-about-artemis-iii-but-hard-decisions-remain/",
     "https://arstechnica.com/space/2026/05/a-new-us-military-wargame-series-began-by-simulating-a-nuclear-weapon-in-orbit/",
     "https://arstechnica.com/science/2026/05/neanderthals-drilled-cavities-to-treat-a-toothache-59000-years-ago/",
     "https://arstechnica.com/tech-policy/2026/05/altman-forced-to-confront-claims-at-openai-trial-that-hes-a-prolific-liar/",
@@ -499,7 +495,11 @@
     "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
     "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
     "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
-    "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/"
+    "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
+    "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
+    "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
+    "https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/",
+    "https://arstechnica.com/tech-policy/2026/07/after-spooking-trump-into-safety-testing-anthropic-ai-models-get-global-release/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01598-2",
@@ -1144,7 +1144,6 @@
     "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/04/30/the-us-army-wants-to-manufacture-meatless-proteins-in-combat-zones/",
     "https://www.militarytimes.com/news/your-navy/2026/04/30/us-navy-to-extend-service-life-of-amphibious-assault-ship-uss-wasp-by-5-years/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/29/dont-call-it-a-quagmire-defense-secretary-refuses-to-speculate-on-length-of-iran-war/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/",
@@ -1643,6 +1642,7 @@
     "https://www.militarytimes.com/pay-benefits/2026/07/01/dod-movers-try-to-ease-the-heavy-lift-for-troops-moving-this-summer/",
     "https://www.militarytimes.com/news/your-military/2026/07/01/staff-sergeant-becomes-only-airman-in-his-class-to-complete-army-air-assault-school/",
     "https://www.militarytimes.com/news/your-navy/2026/07/01/64-sailors-sickened-by-diesel-exhaust-fumes-from-uss-nebraska/",
-    "https://www.militarytimes.com/veterans/2026/07/01/va-uses-hundreds-of-ai-systems-veterans-may-not-know-when-theyre-involved/"
+    "https://www.militarytimes.com/veterans/2026/07/01/va-uses-hundreds-of-ai-systems-veterans-may-not-know-when-theyre-involved/",
+    "https://www.militarytimes.com/pay-benefits/2026/07/01/heres-where-the-services-stand-in-cutting-pcs-moves/"
   ]
 }
