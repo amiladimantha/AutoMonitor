@@ -502,7 +502,6 @@
     "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
     "https://www.nature.com/articles/d41586-026-01598-2",
     "https://www.nature.com/articles/d41586-026-01393-z",
     "https://www.nature.com/articles/s41586-026-10605-5",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-10726-x",
     "https://www.nature.com/articles/s41586-026-10514-7",
     "https://www.nature.com/articles/s41586-026-10731-0",
-    "https://www.nature.com/articles/s41586-026-10729-8"
+    "https://www.nature.com/articles/s41586-026-10729-8",
+    "https://www.nature.com/articles/s41586-026-10705-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1638,6 +1638,11 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/01/video-shows-a-ukrainian-unit-running-down-a-russian-shahed-the-kind-of-kill-the-us-is-racing-to-reproduce/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/07/01/marines-convert-uniform-manual-into-simple-phone-app/",
     "https://www.militarytimes.com/news/your-navy/2026/07/01/time-spent-on-select-super-hornet-repairs-could-be-cut-in-half-with-navys-3d-printing/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/01/following-an-outbreak-lawmakers-push-to-require-flu-vaccine-for-all-service-members-in-budget-bill-provision/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/01/following-an-outbreak-lawmakers-push-to-require-flu-vaccine-for-all-service-members-in-budget-bill-provision/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/01/us-navy-aviator-missing-after-helicopter-makes-emergency-landing-in-arabian-sea/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/01/pentagons-push-to-field-weapons-faster-risks-outrunning-its-own-oversight-watchdog-finds/",
+    "https://www.militarytimes.com/pay-benefits/2026/07/01/dod-movers-try-to-ease-the-heavy-lift-for-troops-moving-this-summer/",
+    "https://www.militarytimes.com/news/your-military/2026/07/01/staff-sergeant-becomes-only-airman-in-his-class-to-complete-army-air-assault-school/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/01/64-sailors-sickened-by-diesel-exhaust-fumes-from-uss-nebraska/"
   ]
 }
