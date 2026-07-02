@@ -502,8 +502,6 @@
     "https://arstechnica.com/health/2026/07/womans-puzzling-decline-turns-out-to-be-cobalt-poisoning-from-hip-replacement/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01671-w",
-    "https://www.nature.com/articles/d41586-026-01668-5",
     "https://www.nature.com/articles/d41586-026-01670-x",
     "https://www.nature.com/articles/d41586-026-01091-w",
     "https://www.nature.com/articles/d41586-026-01669-4",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch",
     "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
     "https://www.nature.com/articles/d41586-026-01773-5",
-    "https://www.nature.com/articles/d41586-026-02088-1"
+    "https://www.nature.com/articles/d41586-026-02088-1",
+    "https://www.nature.com/articles/s41586-026-10844-6",
+    "https://www.nature.com/articles/s41586-026-10854-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1144,9 +1144,6 @@
     "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/04/29/trump-says-he-discussed-a-ukraine-ceasefire-with-putin/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/",
-    "https://www.militarytimes.com/news/your-military/2026/04/29/air-force-releases-plan-to-recruit-retain-ai-professionals/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/04/29/brain-function-evaluations-to-be-part-of-marine-health-records/",
     "https://www.militarytimes.com/news/your-navy/2026/04/29/navy-releases-list-of-ships-it-plans-to-inactivate-this-year/",
     "https://www.militarytimes.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/",
@@ -1643,6 +1640,9 @@
     "https://www.militarytimes.com/veterans/2026/07/01/va-uses-hundreds-of-ai-systems-veterans-may-not-know-when-theyre-involved/",
     "https://www.militarytimes.com/pay-benefits/2026/07/01/heres-where-the-services-stand-in-cutting-pcs-moves/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/01/the-us-military-wants-a-fleet-of-laser-trucks-heres-what-they-might-look-like/",
-    "https://www.militarytimes.com/news/your-military/2026/07/02/transgender-troops-granted-class-action-lawsuit-against-government/"
+    "https://www.militarytimes.com/news/your-military/2026/07/02/transgender-troops-granted-class-action-lawsuit-against-government/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/02/us-navy-seeks-to-boost-production-of-new-anti-radar-missile/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/02/proposed-honor-and-remember-flag-resembles-communist-imagery-vietnam-veterans-argue/",
+    "https://www.militarytimes.com/off-duty/military-culture/2026/07/02/army-contractor-swindles-over-1-million-in-mres/"
   ]
 }
