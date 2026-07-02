@@ -502,11 +502,6 @@
     "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01598-2",
-    "https://www.nature.com/articles/d41586-026-01393-z",
-    "https://www.nature.com/articles/s41586-026-10605-5",
-    "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-    "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/",
     "https://www.nature.com/articles/s41586-026-10717-y",
     "https://www.nature.com/articles/s41586-026-10665-7",
     "https://www.nature.com/articles/d41586-026-01671-w",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/s41586-026-10514-7",
     "https://www.nature.com/articles/s41586-026-10731-0",
     "https://www.nature.com/articles/s41586-026-10729-8",
-    "https://www.nature.com/articles/s41586-026-10705-2"
+    "https://www.nature.com/articles/s41586-026-10705-2",
+    "https://www.science.org/content/article/paleontologist-neil-shubin-vows-keep-national-academy-sciences-relevant",
+    "https://www.science.org/content/article/usda-accelerates-plan-close-its-flagship-scientific-campus",
+    "https://www.science.org/content/article/these-flesh-eating-superworms-can-clean-skeleton-hours",
+    "https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch",
+    "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
