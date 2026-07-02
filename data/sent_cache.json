@@ -502,12 +502,6 @@
     "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01670-x",
-    "https://www.nature.com/articles/d41586-026-01091-w",
-    "https://www.nature.com/articles/d41586-026-01669-4",
-    "https://www.nature.com/articles/d41586-026-01736-w",
-    "https://www.nature.com/articles/d41586-026-01630-5",
-    "https://www.nature.com/articles/d41586-026-01708-0",
     "https://www.nature.com/articles/d41586-026-01692-5",
     "https://www.nature.com/articles/d41586-026-01706-2",
     "https://www.nature.com/articles/d41586-026-01732-0",
@@ -1001,7 +995,13 @@
     "https://www.nature.com/articles/d41586-026-01773-5",
     "https://www.nature.com/articles/d41586-026-02088-1",
     "https://www.nature.com/articles/s41586-026-10844-6",
-    "https://www.nature.com/articles/s41586-026-10854-4"
+    "https://www.nature.com/articles/s41586-026-10854-4",
+    "https://www.science.org/content/article/key-arctic-science-outpost-finds-itself-tangled-geopolitical-web",
+    "https://www.science.org/content/article/how-ancient-continental-breakup-helped-spawn-antarctic-ice-sheet",
+    "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+    "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+    "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+    "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
