@@ -502,9 +502,6 @@
     "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01706-2",
-    "https://www.nature.com/articles/d41586-026-01732-0",
-    "https://www.science.org/content/article/brazil-s-rolling-stone-reefs-teem-hidden-diversity-dna-reveals",
     "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/",
     "https://www.science.org/content/article/could-be-game-changer-antiviral-pill-gets-first-test-ebola-prevention",
     "https://www.science.org/content/article/white-house-seeks-tighten-political-oversight-grantmaking",
@@ -1001,7 +998,10 @@
     "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
     "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
     "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-    "https://www.nature.com/articles/d41586-026-02034-1"
+    "https://www.nature.com/articles/d41586-026-02034-1",
+    "https://www.science.org/content/article/being-taller-tree-doesn-t-doom-you-drought-after-all",
+    "https://www.science.org/content/article/major-ukraine-research-center-damaged-russian-strikes",
+    "https://www.science.org/content/article/first-ever-treatment-trial-ebola-bundibugyo-kicks-congo"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1144,7 +1144,6 @@
     "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/military-history/2026/04/28/how-a-band-of-marines-staved-off-the-british-and-helped-save-the-declaration-of-independence/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/28/trump-showcases-us-military-in-king-charles-white-house-visit/",
     "https://www.militarytimes.com/news/your-military/2026/04/28/us-soldier-pleads-not-guilty-to-charges-of-gambling-on-maduro-ouster/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/28/pentagons-fy27-budget-seeks-85-f-35s-but-most-ride-on-reconciliation/",
@@ -1643,6 +1642,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/07/02/navy-hits-45000-recruits-three-months-ahead-of-schedule/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/02/hegseth-creates-powerful-new-drone-office-pulling-authority-from-the-military-services/",
     "https://www.militarytimes.com/news/your-military/2026/07/02/air-force-medical-commander-removed-from-post-at-virginia-base/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/02/air-force-major-arrested-on-capitol-steps-during-protest-calling-for-trump-impeachment/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/02/air-force-major-arrested-on-capitol-steps-during-protest-calling-for-trump-impeachment/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/03/kyiv-military-chief-salutes-outgoing-us-army-commander-as-war-rages-in-ukraine/"
   ]
 }
