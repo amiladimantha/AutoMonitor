@@ -502,9 +502,6 @@
     "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/"
   ],
   "Science": [
-    "https://www.science.org/content/article/white-house-seeks-tighten-political-oversight-grantmaking",
-    "https://www.nature.com/articles/d41586-026-01728-w",
-    "https://www.nature.com/articles/d41586-026-01729-9",
     "https://www.nature.com/articles/d41586-026-01768-2",
     "https://www.nature.com/articles/d41586-026-01730-2",
     "https://www.nature.com/articles/d41586-026-00507-x",
@@ -1001,7 +998,10 @@
     "https://www.science.org/content/article/major-ukraine-research-center-damaged-russian-strikes",
     "https://www.science.org/content/article/first-ever-treatment-trial-ebola-bundibugyo-kicks-congo",
     "https://www.nature.com/articles/d41586-026-01989-5",
-    "https://www.nature.com/articles/d41586-026-02108-0"
+    "https://www.nature.com/articles/d41586-026-02108-0",
+    "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+    "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+    "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
