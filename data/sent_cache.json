@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/05/preprint-server-arxiv-will-ban-submitters-of-ai-generated-hallucinations/",
-    "https://arstechnica.com/tech-policy/2026/05/openai-feels-burned-by-apples-crappy-chatgpt-integration-insiders-say/",
-    "https://arstechnica.com/cars/2026/05/how-the-other-half-lives-vw-shows-off-electric-polo-gti-for-europe/",
-    "https://arstechnica.com/space/2026/05/threes-a-party-us-china-and-now-russia-are-on-the-prowl-in-geo/",
     "https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/",
     "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
     "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
@@ -499,10 +495,13 @@
     "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
     "https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/",
     "https://arstechnica.com/space/2026/07/there-were-not-one-but-two-asteroid-encounters-this-weekend/",
-    "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/"
+    "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+    "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
+    "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+    "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
+    "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01488-7",
     "https://www.nature.com/articles/d41586-026-00821-4",
     "https://www.nature.com/articles/d41586-026-01760-w",
     "https://www.science.org/content/article/desperate-fight-ebola-outbreak-congo-weighs-using-longshot-vaccine-options",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02096-1",
     "https://www.nature.com/articles/d41586-026-01358-2",
     "https://www.nature.com/articles/d41586-026-02087-2",
-    "https://www.nature.com/articles/d41586-026-02116-0"
+    "https://www.nature.com/articles/d41586-026-02116-0",
+    "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1147,7 +1147,6 @@
     "https://huggingface.co/blog/Photoroom/prx-part4-data"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/air-space-forces-request-over-24-billion-for-fiscal-2027-weapons-sustainment-program/",
     "https://www.militarytimes.com/industry/techwatch/2026/04/30/pacific-marines-will-be-first-to-test-drive-new-pilot-optional-helicopter/",
     "https://www.militarytimes.com/veterans/2026/04/30/va-shuttering-underperforming-clinics-addressing-leadership-shortcomings-at-others/",
     "https://www.militarytimes.com/news/your-military/2026/04/30/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-of-italy-spain/",
@@ -1646,6 +1645,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/06/pentagon-launches-war-force-campaign-in-push-for-software-engineers/",
     "https://www.militarytimes.com/news/your-military/2026/07/06/tennessee-national-guard-soldiers-on-patrol-shoot-kill-civilian-during-armed-pursuit/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/06/pentagons-top-new-weapons-programs-are-12-years-behind-schedule-watchdog/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/06/us-navy-suspends-search-for-missing-aviator-in-arabian-sea/"
+    "https://www.militarytimes.com/news/your-navy/2026/07/06/us-navy-suspends-search-for-missing-aviator-in-arabian-sea/",
+    "https://www.militarytimes.com/news/your-military/2026/07/06/two-retired-warships-to-be-sunk-during-rim-of-the-pacific-exercise/"
   ]
 }
