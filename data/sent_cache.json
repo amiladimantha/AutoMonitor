@@ -502,8 +502,6 @@
     "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01768-2",
-    "https://www.nature.com/articles/d41586-026-01730-2",
     "https://www.nature.com/articles/d41586-026-00507-x",
     "https://www.nature.com/articles/d41586-026-01693-4",
     "https://www.nature.com/articles/d41586-026-01688-1",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02108-0",
     "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
     "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-    "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
+    "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+    "https://www.nature.com/articles/d41586-026-02099-y",
+    "https://www.nature.com/articles/d41586-026-02097-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1142,7 +1142,8 @@
     "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
     "https://huggingface.co/blog/ibm-research/scarfbench",
     "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-    "https://huggingface.co/blog/revamped-kernels"
+    "https://huggingface.co/blog/revamped-kernels",
+    "https://huggingface.co/blog/lerobot-release-v060"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/newsletters/daily-news-roundup/2026/04/28/what-we-know-about-the-us-militarys-new-joint-laser-weapon-system/",
