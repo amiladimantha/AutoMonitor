@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/",
-    "https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/",
-    "https://arstechnica.com/gadgets/2026/05/weather-monitoring-firm-hangs-dark-cloud-over-customers-heads-by-forcing-new-app/",
     "https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/",
     "https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/",
     "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/science/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
     "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
     "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
-    "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/"
+    "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
+    "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
+    "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
+    "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-00821-4",
@@ -1147,7 +1147,6 @@
     "https://huggingface.co/blog/Photoroom/prx-part4-data"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/04/30/pacific-marines-will-be-first-to-test-drive-new-pilot-optional-helicopter/",
     "https://www.militarytimes.com/veterans/2026/04/30/va-shuttering-underperforming-clinics-addressing-leadership-shortcomings-at-others/",
     "https://www.militarytimes.com/news/your-military/2026/04/30/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-of-italy-spain/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/congress-ends-partial-government-shutdown-funding-coast-guard/",
@@ -1646,6 +1645,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/06/tennessee-national-guard-soldiers-on-patrol-shoot-kill-civilian-during-armed-pursuit/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/06/pentagons-top-new-weapons-programs-are-12-years-behind-schedule-watchdog/",
     "https://www.militarytimes.com/news/your-navy/2026/07/06/us-navy-suspends-search-for-missing-aviator-in-arabian-sea/",
-    "https://www.militarytimes.com/news/your-military/2026/07/06/two-retired-warships-to-be-sunk-during-rim-of-the-pacific-exercise/"
+    "https://www.militarytimes.com/news/your-military/2026/07/06/two-retired-warships-to-be-sunk-during-rim-of-the-pacific-exercise/",
+    "https://www.militarytimes.com/news/your-military/2026/07/06/marine-one-helipad-to-be-built-on-white-house-lawn-trump-says/"
   ]
 }
