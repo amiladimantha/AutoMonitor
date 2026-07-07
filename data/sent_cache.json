@@ -502,12 +502,6 @@
     "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01760-w",
-    "https://www.science.org/content/article/desperate-fight-ebola-outbreak-congo-weighs-using-longshot-vaccine-options",
-    "https://www.science.org/content/article/court-blocks-nsf-s-transfer-climate-lab-s-supercomputing-facility",
-    "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
-    "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-    "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/",
     "https://www.nature.com/articles/d41586-026-01775-3",
     "https://www.nature.com/articles/d41586-026-01778-0",
     "https://www.nature.com/articles/d41586-026-01776-2",
@@ -1001,7 +995,13 @@
     "https://www.nature.com/articles/d41586-026-02087-2",
     "https://www.nature.com/articles/d41586-026-02116-0",
     "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-    "https://www.science.org/content/article/philosophers-call-their-journals-require-conflict-interest-disclosures"
+    "https://www.science.org/content/article/philosophers-call-their-journals-require-conflict-interest-disclosures",
+    "https://www.nature.com/articles/d41586-026-02110-6",
+    "https://www.nature.com/articles/d41586-026-02109-z",
+    "https://www.nature.com/articles/d41586-026-02111-5",
+    "https://www.nature.com/articles/d41586-026-02100-8",
+    "https://www.nature.com/articles/d41586-026-02000-x",
+    "https://www.nature.com/articles/d41586-026-02098-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
