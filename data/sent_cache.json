@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/",
-    "https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/",
     "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
     "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
     "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
@@ -499,13 +497,11 @@
     "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
     "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
     "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
-    "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/"
+    "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
+    "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
+    "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01775-3",
-    "https://www.nature.com/articles/d41586-026-01778-0",
-    "https://www.nature.com/articles/d41586-026-01776-2",
-    "https://www.nature.com/articles/d41586-026-01777-1",
     "https://www.nature.com/articles/d41586-026-01726-y",
     "https://www.nature.com/articles/d41586-026-01731-1",
     "https://www.nature.com/articles/d41586-026-01782-4",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02111-5",
     "https://www.nature.com/articles/d41586-026-02100-8",
     "https://www.nature.com/articles/d41586-026-02000-x",
-    "https://www.nature.com/articles/d41586-026-02098-z"
+    "https://www.nature.com/articles/d41586-026-02098-z",
+    "https://www.nature.com/articles/s41586-026-10882-0",
+    "https://www.nature.com/articles/d41586-026-02101-7",
+    "https://www.nature.com/articles/d41586-026-02105-3",
+    "https://www.nature.com/articles/d41586-026-02095-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1147,7 +1147,6 @@
     "https://huggingface.co/blog/Photoroom/prx-part4-data"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/04/30/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-of-italy-spain/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/congress-ends-partial-government-shutdown-funding-coast-guard/",
     "https://www.militarytimes.com/opinion/commentary/2026/04/30/a-combat-infantryman-stood-in-the-gap-made-the-calculation-pulled-the-trigger-but-at-what-cost/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/ceasefire-stops-war-powers-clock-on-iran-hegseth-claims/",
@@ -1646,6 +1645,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/07/06/us-navy-suspends-search-for-missing-aviator-in-arabian-sea/",
     "https://www.militarytimes.com/news/your-military/2026/07/06/two-retired-warships-to-be-sunk-during-rim-of-the-pacific-exercise/",
     "https://www.militarytimes.com/news/your-military/2026/07/06/marine-one-helipad-to-be-built-on-white-house-lawn-trump-says/",
-    "https://www.militarytimes.com/veterans/2026/07/06/vfw-defends-first-amendment-rights-amid-blowback-over-political-cartoon/"
+    "https://www.militarytimes.com/veterans/2026/07/06/vfw-defends-first-amendment-rights-amid-blowback-over-political-cartoon/",
+    "https://www.militarytimes.com/global/europe/2026/07/07/us-will-lift-sanctions-on-turkey-possibly-sell-f-35-fighter-jets-trump-says/"
   ]
 }
