@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/",
     "https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/",
     "https://arstechnica.com/space/2026/05/the-us-space-enterprise-is-desperately-waiting-for-starship-will-it-finally-deliver/",
     "https://arstechnica.com/cars/2026/05/bmw-sends-off-the-6th-gen-m3-cs-with-a-manual-gearbox-rear-wheel-drive/",
@@ -499,13 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
     "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
     "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
-    "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/"
+    "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+    "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01726-y",
-    "https://www.nature.com/articles/d41586-026-01731-1",
-    "https://www.nature.com/articles/d41586-026-01782-4",
-    "https://www.nature.com/articles/d41586-026-01724-0",
     "https://www.nature.com/articles/d41586-026-01337-7",
     "https://www.nature.com/articles/s41586-026-10728-9",
     "https://www.nature.com/articles/s41586-026-10693-3",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/s41586-026-10882-0",
     "https://www.nature.com/articles/d41586-026-02101-7",
     "https://www.nature.com/articles/d41586-026-02105-3",
-    "https://www.nature.com/articles/d41586-026-02095-2"
+    "https://www.nature.com/articles/d41586-026-02095-2",
+    "https://www.science.org/content/article/british-first-fleet-brought-smallpox-australia-and-may-have-killed-millions",
+    "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
+    "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1144,11 +1144,10 @@
     "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
     "https://huggingface.co/blog/revamped-kernels",
     "https://huggingface.co/blog/lerobot-release-v060",
-    "https://huggingface.co/blog/Photoroom/prx-part4-data"
+    "https://huggingface.co/blog/Photoroom/prx-part4-data",
+    "https://huggingface.co/blog/microsoft/foundry-managed-compute"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/congress-ends-partial-government-shutdown-funding-coast-guard/",
-    "https://www.militarytimes.com/opinion/commentary/2026/04/30/a-combat-infantryman-stood-in-the-gap-made-the-calculation-pulled-the-trigger-but-at-what-cost/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/04/30/ceasefire-stops-war-powers-clock-on-iran-hegseth-claims/",
     "https://www.militarytimes.com/news/your-military/2026/05/01/us-combatant-chiefs-want-more-amphibious-ready-groups-marine-commandant-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/01/some-us-troops-cite-benefits-of-germany-presence-as-trump-threatens-pullback/",
@@ -1646,6 +1645,8 @@
     "https://www.militarytimes.com/news/your-military/2026/07/06/two-retired-warships-to-be-sunk-during-rim-of-the-pacific-exercise/",
     "https://www.militarytimes.com/news/your-military/2026/07/06/marine-one-helipad-to-be-built-on-white-house-lawn-trump-says/",
     "https://www.militarytimes.com/veterans/2026/07/06/vfw-defends-first-amendment-rights-amid-blowback-over-political-cartoon/",
-    "https://www.militarytimes.com/global/europe/2026/07/07/us-will-lift-sanctions-on-turkey-possibly-sell-f-35-fighter-jets-trump-says/"
+    "https://www.militarytimes.com/global/europe/2026/07/07/us-will-lift-sanctions-on-turkey-possibly-sell-f-35-fighter-jets-trump-says/",
+    "https://www.militarytimes.com/news/your-military/2026/07/07/marine-corps-creates-new-small-drone-training-unit/",
+    "https://www.militarytimes.com/news/your-military/2026/07/07/marines-recognized-for-response-during-north-carolina-nightclub-shooting/"
   ]
 }
