@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/",
     "https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/",
     "https://arstechnica.com/science/2026/05/pompeii-victim-idd-as-a-likely-doctor/",
     "https://arstechnica.com/culture/2026/05/new-lanterns-teaser-brings-back-the-superhero-vibes/",
@@ -499,7 +498,8 @@
     "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
     "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
     "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
-    "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/"
+    "https://arstechnica.com/science/2026/07/dragonflies-maneuver-like-fighter-pilots/",
+    "https://arstechnica.com/gaming/2026/07/bethesda-id-software-reportedly-hit-hard-by-microsoft-layoffs/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-10728-9",
@@ -1149,7 +1149,6 @@
     "https://huggingface.co/blog/skypilot-hf-storage"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/01/some-us-troops-cite-benefits-of-germany-presence-as-trump-threatens-pullback/",
     "https://www.militarytimes.com/naval/2026/05/01/us-navy-turns-to-ai-firm-domino-for-options-to-counter-iranian-mines/",
     "https://www.militarytimes.com/global/asia-pacific/2026/05/01/us-army-tests-fresh-drones-3d-printers-at-balikatan-drill-in-the-philippines/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/01/hegseth-supports-bill-eliminating-offsets-for-combat-disabled-military-retirees/",
@@ -1648,6 +1647,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/07/marine-corps-creates-new-small-drone-training-unit/",
     "https://www.militarytimes.com/news/your-military/2026/07/07/marines-recognized-for-response-during-north-carolina-nightclub-shooting/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/07/us-navy-fears-ballistic-missile-subs-can-be-hit-by-drones-anti-tank-rockets/",
-    "https://www.militarytimes.com/news/your-military/2026/07/07/army-scraps-height-and-weight-tables-in-favor-of-waist-to-height-assessment/"
+    "https://www.militarytimes.com/news/your-military/2026/07/07/army-scraps-height-and-weight-tables-in-favor-of-waist-to-height-assessment/",
+    "https://www.militarytimes.com/veterans/2026/07/07/vas-top-health-administrator-departs-post-temporary-replacement-named/"
   ]
 }
