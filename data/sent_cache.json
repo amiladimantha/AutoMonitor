@@ -502,9 +502,6 @@
     "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10728-9",
-    "https://www.nature.com/articles/s41586-026-10693-3",
-    "https://www.nature.com/articles/d41586-026-01723-1",
     "https://www.nature.com/articles/d41586-026-01766-4",
     "https://www.nature.com/articles/d41586-026-01495-8",
     "https://www.nature.com/articles/d41586-026-01763-7",
@@ -1001,7 +998,10 @@
     "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
     "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
     "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-    "https://www.nature.com/articles/d41586-026-02040-3"
+    "https://www.nature.com/articles/d41586-026-02040-3",
+    "https://www.science.org/content/article/chatbots-can-help-perpetuate-stigma-around-certain-health-conditions",
+    "https://www.science.org/content/article/flu-virus-threatens-its-unique-bird-species-new-zealand-pins-hopes-vaccine",
+    "https://www.science.org/content/article/uranus-and-neptune-may-not-be-ice-giants-after-all"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
