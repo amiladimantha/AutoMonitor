@@ -502,10 +502,6 @@
     "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01766-4",
-    "https://www.nature.com/articles/d41586-026-01495-8",
-    "https://www.nature.com/articles/d41586-026-01763-7",
-    "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
     "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
     "https://www.science.org/content/article/how-europe-hopes-lure-foreign-researchers-massive-new-grants",
     "https://www.science.org/content/article/radical-proposal-would-block-solar-storms-orbital-airbag",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02040-3",
     "https://www.science.org/content/article/chatbots-can-help-perpetuate-stigma-around-certain-health-conditions",
     "https://www.science.org/content/article/flu-virus-threatens-its-unique-bird-species-new-zealand-pins-hopes-vaccine",
-    "https://www.science.org/content/article/uranus-and-neptune-may-not-be-ice-giants-after-all"
+    "https://www.science.org/content/article/uranus-and-neptune-may-not-be-ice-giants-after-all",
+    "https://www.nature.com/articles/d41586-026-01673-8",
+    "https://www.nature.com/articles/d41586-026-01933-7",
+    "https://www.nature.com/articles/d41586-026-02090-7",
+    "https://www.nature.com/articles/d41586-026-02136-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1150,7 +1150,6 @@
     "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/military-history/2026/05/01/a-history-of-the-war-powers-resolution-and-what-it-means-for-the-iran-war/",
     "https://www.militarytimes.com/news/your-military/2026/05/01/us-marine-corps-replaces-basic-reconnaissance-course-with-expanded-training/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/01/pentagon-freezes-out-anthropic-as-it-signs-deals-with-ai-rivals/",
     "https://www.militarytimes.com/pay-benefits/2026/05/01/a-beans-and-rice-diet-government-watchdog-finds-issues-with-military-cost-of-living-pay/",
@@ -1649,6 +1648,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
     "https://www.militarytimes.com/news/your-military/2026/07/07/us-launches-new-strikes-on-iran-after-reinstating-oil-sanctions-over-shipping-attacks/",
     "https://www.militarytimes.com/news/your-navy/2026/07/07/squadron-commanding-officer-identified-as-navy-aviator-killed-in-downed-helicopter/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/07/08/china-shows-snazzy-clip-of-df-17-missile-on-state-tv-in-show-of-force/"
+    "https://www.militarytimes.com/global/asia-pacific/2026/07/08/china-shows-snazzy-clip-of-df-17-missile-on-state-tv-in-show-of-force/",
+    "https://www.militarytimes.com/global/europe/2026/07/08/trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks/"
   ]
 }
