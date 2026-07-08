@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/05/iran-demands-big-tech-pay-fees-for-undersea-internet-cables-in-strait-of-hormuz/",
-    "https://arstechnica.com/tech-policy/2026/05/electrical-utility-megamerger-is-all-about-the-data-centers/",
     "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/",
     "https://arstechnica.com/cars/2026/05/bipartisan-bill-in-congress-includes-130-annual-ev-registration-fee/",
     "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time/",
@@ -499,29 +497,11 @@
     "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets/",
     "https://arstechnica.com/science/2026/07/us-rare-earths-flow-to-asia-as-domestic-demand-is-slow-to-emerge/",
     "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
-    "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/"
+    "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
+    "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
+    "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/"
   ],
   "Science": [
-    "https://www.science.org/content/article/doubling-down-controversial-claims-microsoft-accelerates-quantum-computing-plans",
-    "https://www.science.org/content/article/how-europe-hopes-lure-foreign-researchers-massive-new-grants",
-    "https://www.science.org/content/article/radical-proposal-would-block-solar-storms-orbital-airbag",
-    "https://www.science.org/content/article/exclusive-nsf-watchdog-unit-no-longer-investigating-research-misconduct",
-    "https://www.science.org/content/article/brain-mapping-effort-searches-roots-parkinson-s-and-other-diseases",
-    "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-    "https://www.technologyreview.com/2026/06/02/1137827/rehumanizing-global-health-care-with-agentic-ai/",
-    "https://www.technologyreview.com/2026/06/02/1138227/how-small-businesses-can-leverage-ai/",
-    "https://www.nature.com/articles/d41586-026-01725-z",
-    "https://www.nature.com/articles/d41586-026-01727-x",
-    "https://www.nature.com/articles/d41586-026-01791-3",
-    "https://www.nature.com/articles/d41586-026-01716-0",
-    "https://www.nature.com/articles/d41586-026-01788-y",
-    "https://www.nature.com/articles/s41586-026-10727-w",
-    "https://www.nature.com/articles/s41586-026-10561-0",
-    "https://www.nature.com/articles/s41586-026-10562-z",
-    "https://www.nature.com/articles/s41586-026-10589-2",
-    "https://www.nature.com/articles/s41586-026-10624-2",
-    "https://www.nature.com/articles/s41586-026-10473-z",
-    "https://www.nature.com/articles/s41586-026-10612-6",
     "https://www.nature.com/articles/s41586-026-10551-2",
     "https://www.nature.com/articles/s41586-026-10603-7",
     "https://www.nature.com/articles/s41586-026-10575-8",
@@ -1001,7 +981,27 @@
     "https://www.nature.com/articles/d41586-026-01673-8",
     "https://www.nature.com/articles/d41586-026-01933-7",
     "https://www.nature.com/articles/d41586-026-02090-7",
-    "https://www.nature.com/articles/d41586-026-02136-w"
+    "https://www.nature.com/articles/d41586-026-02136-w",
+    "https://www.nature.com/articles/d41586-026-02141-z",
+    "https://www.nature.com/articles/s41586-026-10725-y",
+    "https://www.nature.com/articles/s41586-026-10796-x",
+    "https://www.nature.com/articles/s41586-026-10732-z",
+    "https://www.nature.com/articles/s41586-026-10737-8",
+    "https://www.nature.com/articles/s41586-026-10744-9",
+    "https://www.nature.com/articles/s41586-026-10759-2",
+    "https://www.nature.com/articles/s41586-026-10742-x",
+    "https://www.nature.com/articles/s41586-026-10747-6",
+    "https://www.nature.com/articles/s41586-026-10785-0",
+    "https://www.nature.com/articles/s41586-026-10622-4",
+    "https://www.nature.com/articles/s41586-026-10761-8",
+    "https://www.nature.com/articles/s41586-026-10712-3",
+    "https://www.nature.com/articles/s41586-026-10783-2",
+    "https://www.nature.com/articles/s41586-026-10752-9",
+    "https://www.nature.com/articles/s41586-026-10689-z",
+    "https://www.nature.com/articles/s41586-026-10715-0",
+    "https://www.nature.com/articles/s41586-026-10703-4",
+    "https://www.nature.com/articles/s41586-026-10750-x",
+    "https://www.nature.com/articles/s41586-026-10736-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1151,12 +1151,6 @@
     "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/pay-benefits/2026/05/01/a-beans-and-rice-diet-government-watchdog-finds-issues-with-military-cost-of-living-pay/",
-    "https://www.militarytimes.com/news/your-military/2026/05/01/engineering-casualty-knocks-out-electricity-and-propulsion-on-uss-higgins/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/01/trump-nominates-new-chief-of-space-operations/",
-    "https://www.militarytimes.com/news/your-military/2026/05/01/air-force-units-earn-honors-for-rescues-during-us-evacuation-from-afghanistan/",
-    "https://www.militarytimes.com/news/your-military/2026/05/01/us-to-close-its-flagship-gaza-mission-as-trump-plan-stalls/",
-    "https://www.militarytimes.com/industry/techwatch/2026/05/01/marine-corps-fields-3500-first-person-view-attack-drones/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/01/us-withdrawing-5000-troops-from-germany-us-officials-say/",
     "https://www.militarytimes.com/news/your-military/2026/05/03/2-us-troops-reported-missing-amid-africa-lion-exercise/",
     "https://www.militarytimes.com/news/your-military/2026/05/04/trump-says-us-operation-will-aid-ships-stranded-in-strait-of-hormuz/",
@@ -1650,6 +1644,12 @@
     "https://www.militarytimes.com/global/asia-pacific/2026/07/08/china-shows-snazzy-clip-of-df-17-missile-on-state-tv-in-show-of-force/",
     "https://www.militarytimes.com/global/europe/2026/07/08/trump-turns-on-spain-and-demands-greenland-as-nato-summit-exposes-cracks/",
     "https://www.militarytimes.com/global/europe/2026/07/08/ukraine-to-get-license-for-making-patriot-interceptors-trump-pledges/",
-    "https://www.militarytimes.com/news/your-military/2026/07/08/us-army-will-mothball-10000-sets-of-clunky-ivas-goggles-report-reveals/"
+    "https://www.militarytimes.com/news/your-military/2026/07/08/us-army-will-mothball-10000-sets-of-clunky-ivas-goggles-report-reveals/",
+    "https://www.militarytimes.com/news/your-army/2026/07/08/do-you-meet-the-armys-new-waist-to-height-standard-find-out-with-our-calculator/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/08/pentagon-to-explore-cheaper-replacements-for-the-mq-9-reaper/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/08/salesforce-security-platform-tapped-to-manage-air-force-global-vehicle-fleet/",
+    "https://www.militarytimes.com/news/your-military/2026/07/08/the-pentagon-wants-decision-advantage-is-that-enough/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/08/sailors-with-unmanageable-permanent-razor-bumps-to-face-separation-navy-says/",
+    "https://www.militarytimes.com/opinion/2026/07/08/the-us-military-is-not-organized-for-cyber-war/"
   ]
 }
