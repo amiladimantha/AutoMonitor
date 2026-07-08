@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/05/you-probably-dont-need-a-1000-hz-gaming-monitor/",
-    "https://arstechnica.com/cars/2026/05/bipartisan-bill-in-congress-includes-130-annual-ev-registration-fee/",
-    "https://arstechnica.com/gaming/2026/05/civilization-vii-finally-lets-you-build-a-civilization-that-stands-the-test-of-time/",
-    "https://arstechnica.com/health/2026/05/rfk-jr-forced-to-withdraw-charter-that-opened-cdc-panel-to-anti-vaccine-quacks/",
-    "https://arstechnica.com/google/2026/05/google-announces-agent-optimized-gemini-3-5-flash-and-a-do-anything-model-called-omni/",
     "https://arstechnica.com/science/2026/05/two-ai-based-science-assistants-succeed-with-drug-retargeting-tasks/",
     "https://arstechnica.com/google/2026/05/googles-synthid-ai-watermarking-tech-is-being-adopted-by-openai-nvidia-and-more/",
     "https://arstechnica.com/information-technology/2026/05/in-stunning-display-of-stupid-secret-cisa-credentials-found-in-public-github-repo/",
@@ -499,13 +494,14 @@
     "https://arstechnica.com/space/2026/07/blue-origin-for-the-first-time-is-expected-to-raise-private-capital/",
     "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
     "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
-    "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/"
+    "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
+    "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
+    "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
+    "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
+    "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
+    "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10551-2",
-    "https://www.nature.com/articles/s41586-026-10603-7",
-    "https://www.nature.com/articles/s41586-026-10575-8",
-    "https://www.nature.com/articles/s41586-026-10610-8",
     "https://www.nature.com/articles/s41586-026-10627-z",
     "https://www.nature.com/articles/s41586-026-10606-4",
     "https://www.nature.com/articles/s41586-026-10597-2",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/s41586-026-10715-0",
     "https://www.nature.com/articles/s41586-026-10703-4",
     "https://www.nature.com/articles/s41586-026-10750-x",
-    "https://www.nature.com/articles/s41586-026-10736-9"
+    "https://www.nature.com/articles/s41586-026-10736-9",
+    "https://www.science.org/content/article/springer-nature-restores-max-planck-s-mysteriously-retracted-papers",
+    "https://www.science.org/content/article/detection-schemes-could-deter-putting-nuclear-warheads-space",
+    "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
+    "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1148,11 +1148,10 @@
     "https://huggingface.co/blog/microsoft/foundry-managed-compute",
     "https://huggingface.co/blog/skypilot-hf-storage",
     "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
-    "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
+    "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+    "https://huggingface.co/blog/nvidia/open-data-for-agents"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/01/us-withdrawing-5000-troops-from-germany-us-officials-say/",
-    "https://www.militarytimes.com/news/your-military/2026/05/03/2-us-troops-reported-missing-amid-africa-lion-exercise/",
     "https://www.militarytimes.com/news/your-military/2026/05/04/trump-says-us-operation-will-aid-ships-stranded-in-strait-of-hormuz/",
     "https://www.militarytimes.com/global/asia-pacific/2026/05/04/interview-gen-ronald-clark-us-army-pacific-commander/",
     "https://www.militarytimes.com/news/your-military/2026/05/04/us-denies-iranian-reports-of-strike-on-warship-says-ships-transit-hormuz/",
@@ -1650,6 +1649,8 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/08/salesforce-security-platform-tapped-to-manage-air-force-global-vehicle-fleet/",
     "https://www.militarytimes.com/news/your-military/2026/07/08/the-pentagon-wants-decision-advantage-is-that-enough/",
     "https://www.militarytimes.com/news/your-navy/2026/07/08/sailors-with-unmanageable-permanent-razor-bumps-to-face-separation-navy-says/",
-    "https://www.militarytimes.com/opinion/2026/07/08/the-us-military-is-not-organized-for-cyber-war/"
+    "https://www.militarytimes.com/opinion/2026/07/08/the-us-military-is-not-organized-for-cyber-war/",
+    "https://www.militarytimes.com/veterans/military-history/2026/07/08/this-soldier-tried-to-cover-a-retreat-and-ended-up-compelling-the-enemy-to/",
+    "https://www.militarytimes.com/news/your-air-force/2026/07/08/hard-for-everyone-air-force-rescinds-135-promotions-after-admin-flub/"
   ]
 }
