@@ -502,9 +502,6 @@
     "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10627-z",
-    "https://www.nature.com/articles/s41586-026-10606-4",
-    "https://www.nature.com/articles/s41586-026-10597-2",
     "https://www.nature.com/articles/s41586-026-10637-x",
     "https://www.nature.com/articles/s41586-026-10557-w",
     "https://www.nature.com/articles/s41586-026-10592-7",
@@ -1001,7 +998,10 @@
     "https://www.science.org/content/article/springer-nature-restores-max-planck-s-mysteriously-retracted-papers",
     "https://www.science.org/content/article/detection-schemes-could-deter-putting-nuclear-warheads-space",
     "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-    "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/"
+    "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+    "https://www.science.org/content/article/study-dampens-hope-meningitis-vaccine-can-also-prevent-gonorrhea",
+    "https://www.science.org/content/article/molecular-quirk-unique-octopuses-makes-them-better-building-proteins",
+    "https://www.science.org/content/article/surprising-claim-superstringy-universe-may-be-based-mistake"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
