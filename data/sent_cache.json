@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
-    "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
     "https://arstechnica.com/cars/2026/05/these-clever-active-beam-headlights-are-finally-coming-to-america/",
     "https://arstechnica.com/gadgets/2026/05/us-government-takes-2-billion-equity-stake-in-nine-quantum-computing-firms/",
     "https://arstechnica.com/cars/2026/05/plug-in-hybrids-get-plugged-in-more-than-you-might-think/",
@@ -499,12 +497,11 @@
     "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
     "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
     "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
-    "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/"
+    "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
+    "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+    "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01623-4",
-    "https://www.nature.com/articles/d41586-026-01764-6",
-    "https://www.nature.com/articles/s41586-026-10694-2",
     "https://www.nature.com/articles/d41586-026-01770-8",
     "https://www.nature.com/articles/d41586-026-01765-5",
     "https://www.science.org/content/article/ai-executives-join-call-stricter-regulation-synthetic-biology",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02113-3",
     "https://www.nature.com/articles/d41586-026-02091-6",
     "https://www.nature.com/articles/d41586-026-02177-1",
-    "https://www.nature.com/articles/d41586-026-02185-1"
+    "https://www.nature.com/articles/d41586-026-02185-1",
+    "https://www.nature.com/articles/d41586-026-02167-3",
+    "https://www.nature.com/articles/d41586-026-02172-6",
+    "https://www.nature.com/articles/d41586-026-02135-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1153,9 +1153,6 @@
     "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/europe/2026/05/05/policies-needed-to-share-ai-generated-intel-across-nato-countries-official-says/",
-    "https://www.militarytimes.com/news/your-military/2026/05/05/marine-promoted-to-gunnery-sergeant-after-beating-lymphatic-cancer/",
-    "https://www.militarytimes.com/news/your-navy/2026/05/05/pentagon-assures-safe-passage-through-strait-of-hormuz-despite-presence-of-mines/",
     "https://www.militarytimes.com/news/your-military/2026/05/05/danger-pay-for-us-troops-could-double-expand-to-more-regions/",
     "https://www.militarytimes.com/news/your-military/2026/05/06/coast-guard-to-deploy-autonomous-saildrones-on-great-lakes/",
     "https://www.militarytimes.com/news/your-military/2026/05/06/heres-whats-behind-the-us-armys-21b-rd-funding-increase/",
@@ -1652,6 +1649,9 @@
     "https://www.militarytimes.com/global/europe/2026/07/10/testing-is-now-underway-zelenskyy-confirms-progress-on-major-us-defense-deals/",
     "https://www.militarytimes.com/news/your-military/2026/07/10/pentagon-seemly-lifts-suspension-of-low-flying-south-carolina-apache-pilots/",
     "https://www.militarytimes.com/veterans/2026/07/10/how-veterans-groups-came-to-clash-over-a-sweeping-va-benefits-bill/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/10/inside-the-pentagons-new-handbook-on-countering-drones/"
+    "https://www.militarytimes.com/industry/techwatch/2026/07/10/inside-the-pentagons-new-handbook-on-countering-drones/",
+    "https://www.militarytimes.com/news/your-military/2026/07/10/he-left-mongolia-to-pursue-higher-education-he-returned-as-a-us-soldier/",
+    "https://www.militarytimes.com/news/your-air-force/2026/07/10/b-21-raider-to-fly-with-two-pilot-configuration/",
+    "https://www.militarytimes.com/news/your-military/2026/07/10/us-marines-successfully-test-fire-new-medium-range-air-defense-system/"
   ]
 }
