@@ -502,7 +502,6 @@
     "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01770-8",
     "https://www.nature.com/articles/d41586-026-01765-5",
     "https://www.science.org/content/article/ai-executives-join-call-stricter-regulation-synthetic-biology",
     "https://www.science.org/content/article/house-spending-panel-proposes-slight-raise-nih-2027",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02185-1",
     "https://www.nature.com/articles/d41586-026-02167-3",
     "https://www.nature.com/articles/d41586-026-02172-6",
-    "https://www.nature.com/articles/d41586-026-02135-x"
+    "https://www.nature.com/articles/d41586-026-02135-x",
+    "https://www.nature.com/articles/s41586-026-10853-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1153,9 +1153,6 @@
     "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/05/danger-pay-for-us-troops-could-double-expand-to-more-regions/",
-    "https://www.militarytimes.com/news/your-military/2026/05/06/coast-guard-to-deploy-autonomous-saildrones-on-great-lakes/",
-    "https://www.militarytimes.com/news/your-military/2026/05/06/heres-whats-behind-the-us-armys-21b-rd-funding-increase/",
     "https://www.militarytimes.com/news/your-military/2026/05/06/coast-guard-to-stand-up-special-forces-command/",
     "https://www.militarytimes.com/veterans/military-history/2026/05/06/life-or-death-centered-around-a-canteen-for-this-aef-soldier/",
     "https://www.militarytimes.com/news/your-military/2026/05/06/b-52-engine-replacement-clears-critical-design-review-first-modifications-to-begin-this-year/",
@@ -1652,6 +1649,9 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/10/inside-the-pentagons-new-handbook-on-countering-drones/",
     "https://www.militarytimes.com/news/your-military/2026/07/10/he-left-mongolia-to-pursue-higher-education-he-returned-as-a-us-soldier/",
     "https://www.militarytimes.com/news/your-air-force/2026/07/10/b-21-raider-to-fly-with-two-pilot-configuration/",
-    "https://www.militarytimes.com/news/your-military/2026/07/10/us-marines-successfully-test-fire-new-medium-range-air-defense-system/"
+    "https://www.militarytimes.com/news/your-military/2026/07/10/us-marines-successfully-test-fire-new-medium-range-air-defense-system/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/10/ukraine-can-soon-build-its-own-patriots-but-it-could-take-years/",
+    "https://www.militarytimes.com/pay-benefits/2026/07/10/retired-army-officer-tapped-to-lead-military-commissary-system/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/10/zelenskyy-taps-european-allies-to-build-freya-a-cheaper-patriot-alternative-to-russias-ballistic-missiles/"
   ]
 }
