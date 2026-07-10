@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/05/nasas-psyche-spacecraft-returns-unfamiliar-views-of-a-familiar-world/",
     "https://arstechnica.com/health/2026/05/trump-admin-didnt-want-ebola-exposed-americans-sent-them-to-berlin-prague/",
     "https://arstechnica.com/space/2026/05/spacex-submits-detailed-financial-filing-ahead-of-going-public-in-june/",
     "https://arstechnica.com/cars/2026/05/these-clever-active-beam-headlights-are-finally-coming-to-america/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/",
     "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
     "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
-    "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/"
+    "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
+    "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01789-x",
     "https://www.nature.com/articles/d41586-026-01623-4",
     "https://www.nature.com/articles/d41586-026-01764-6",
     "https://www.nature.com/articles/s41586-026-10694-2",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02057-8",
     "https://www.nature.com/articles/d41586-026-02113-3",
     "https://www.nature.com/articles/d41586-026-02091-6",
-    "https://www.nature.com/articles/d41586-026-02177-1"
+    "https://www.nature.com/articles/d41586-026-02177-1",
+    "https://www.nature.com/articles/d41586-026-02185-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1153,9 +1153,6 @@
     "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/05/as-us-eyes-smaller-military-footprint-in-europe-new-unit-trains-for-drone-warfare/",
-    "https://www.militarytimes.com/global/europe/2026/05/05/nato-nations-size-up-an-interceptor-drone-bazaar-where-low-price-is-everything/",
-    "https://www.militarytimes.com/veterans/military-history/2026/05/05/refusing-evacuation-this-marine-packed-dirt-into-his-wound-and-continued-to-fight/",
     "https://www.militarytimes.com/global/europe/2026/05/05/policies-needed-to-share-ai-generated-intel-across-nato-countries-official-says/",
     "https://www.militarytimes.com/news/your-military/2026/05/05/marine-promoted-to-gunnery-sergeant-after-beating-lymphatic-cancer/",
     "https://www.militarytimes.com/news/your-navy/2026/05/05/pentagon-assures-safe-passage-through-strait-of-hormuz-despite-presence-of-mines/",
@@ -1652,6 +1649,9 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/09/gop-lawmakers-request-review-of-vfws-claims-assistance-authority-amid-controversial-cartoon/",
     "https://www.militarytimes.com/news/your-army/2026/07/09/army-orders-mass-shutdown-of-official-social-media-accounts/",
     "https://www.militarytimes.com/news/your-military/2026/07/09/us-transfers-retired-marine-corps-aavs-to-allies-defending-black-sea-region/",
-    "https://www.militarytimes.com/global/europe/2026/07/10/testing-is-now-underway-zelenskyy-confirms-progress-on-major-us-defense-deals/"
+    "https://www.militarytimes.com/global/europe/2026/07/10/testing-is-now-underway-zelenskyy-confirms-progress-on-major-us-defense-deals/",
+    "https://www.militarytimes.com/news/your-military/2026/07/10/pentagon-seemly-lifts-suspension-of-low-flying-south-carolina-apache-pilots/",
+    "https://www.militarytimes.com/veterans/2026/07/10/how-veterans-groups-came-to-clash-over-a-sweeping-va-benefits-bill/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/10/inside-the-pentagons-new-handbook-on-countering-drones/"
   ]
 }
