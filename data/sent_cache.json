@@ -1149,7 +1149,8 @@
     "https://huggingface.co/blog/skypilot-hf-storage",
     "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
     "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-    "https://huggingface.co/blog/nvidia/open-data-for-agents"
+    "https://huggingface.co/blog/nvidia/open-data-for-agents",
+    "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/your-military/2026/05/05/as-us-eyes-smaller-military-footprint-in-europe-new-unit-trains-for-drone-warfare/",
