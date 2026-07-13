@@ -502,11 +502,6 @@
     "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01765-5",
-    "https://www.science.org/content/article/ai-executives-join-call-stricter-regulation-synthetic-biology",
-    "https://www.science.org/content/article/house-spending-panel-proposes-slight-raise-nih-2027",
-    "https://www.science.org/content/article/amid-flood-ai-advances-astrophysicists-are-questioning-soul-their-field",
-    "https://www.science.org/content/article/bees-just-did-something-no-other-insect-has-been-shown-do",
     "https://www.science.org/content/article/u-s-health-agencies-join-fight-against-ultraprocessed-foods-whatever-they-are",
     "https://www.science.org/content/article/democrats-house-china-committee-decry-dismissal-national-science-board",
     "https://www.science.org/content/article/nih-scientists-criminally-charged-bringing-monkeypox-virus-us-although-samples",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-02167-3",
     "https://www.nature.com/articles/d41586-026-02172-6",
     "https://www.nature.com/articles/d41586-026-02135-x",
-    "https://www.nature.com/articles/s41586-026-10853-5"
+    "https://www.nature.com/articles/s41586-026-10853-5",
+    "https://www.nature.com/articles/d41586-026-02121-3",
+    "https://www.nature.com/articles/d41586-026-01339-5",
+    "https://www.nature.com/articles/d41586-026-02153-9",
+    "https://www.nature.com/articles/d41586-026-02151-x",
+    "https://www.nature.com/articles/d41586-026-02198-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
