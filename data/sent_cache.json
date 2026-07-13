@@ -502,9 +502,6 @@
     "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/"
   ],
   "Science": [
-    "https://www.science.org/content/article/nih-scientists-criminally-charged-bringing-monkeypox-virus-us-although-samples",
-    "https://www.science.org/content/article/after-empty-promises-string-theory-finds-new-uses",
-    "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
     "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
     "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
     "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02151-x",
     "https://www.nature.com/articles/d41586-026-02198-w",
     "https://www.nature.com/articles/d41586-026-02152-w",
-    "https://www.nature.com/articles/d41586-026-01654-x"
+    "https://www.nature.com/articles/d41586-026-01654-x",
+    "https://www.nature.com/articles/s41586-026-10869-x",
+    "https://www.nature.com/articles/s41586-026-10855-3",
+    "https://www.nature.com/articles/d41586-026-02173-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1153,8 +1153,6 @@
     "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/military-history/2026/05/06/life-or-death-centered-around-a-canteen-for-this-aef-soldier/",
-    "https://www.militarytimes.com/news/your-military/2026/05/06/b-52-engine-replacement-clears-critical-design-review-first-modifications-to-begin-this-year/",
     "https://www.militarytimes.com/news/your-navy/2026/05/06/us-forces-fire-at-disable-iran-flagged-tanker-trying-to-evade-blockade/",
     "https://www.militarytimes.com/naval/2026/05/06/france-moves-aircraft-carrier-to-red-sea-with-eye-on-hormuz-mission/",
     "https://www.militarytimes.com/news/your-navy/2026/05/06/naval-aviators-will-no-longer-command-amphibious-warships-cno-says/",
@@ -1652,6 +1650,8 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/10/ukraine-can-soon-build-its-own-patriots-but-it-could-take-years/",
     "https://www.militarytimes.com/pay-benefits/2026/07/10/retired-army-officer-tapped-to-lead-military-commissary-system/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/10/zelenskyy-taps-european-allies-to-build-freya-a-cheaper-patriot-alternative-to-russias-ballistic-missiles/",
-    "https://www.militarytimes.com/news/your-military/2026/07/10/pentagon-seemingly-lifts-suspension-of-low-flying-south-carolina-apache-pilots/"
+    "https://www.militarytimes.com/news/your-military/2026/07/10/pentagon-seemingly-lifts-suspension-of-low-flying-south-carolina-apache-pilots/",
+    "https://www.militarytimes.com/news/your-military/2026/07/13/f-16-pilot-awarded-distinguished-flying-cross-for-bravery-in-saudi-arabia-deployment/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/13/us-industrial-base-is-becoming-stronger-for-wartime-production-study-finds/"
   ]
 }
