@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/",
     "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
     "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
     "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/security/2026/07/the-us-government-warns-that-russia-state-hackers-are-coming-after-your-router/",
     "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
     "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
-    "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/"
+    "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
+    "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/"
   ],
   "Science": [
-    "https://www.science.org/content/article/how-novel-research-paper-competition-quantify-concept-crowns-winner",
     "https://www.nature.com/articles/s41586-026-10745-8",
     "https://www.nature.com/articles/d41586-026-01848-3",
     "https://www.nature.com/articles/d41586-026-01846-5",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
     "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
     "https://www.nature.com/articles/d41586-026-02102-6",
-    "https://www.nature.com/articles/d41586-026-02122-2"
+    "https://www.nature.com/articles/d41586-026-02122-2",
+    "https://www.nature.com/articles/d41586-026-02041-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1153,7 +1153,6 @@
     "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/07/military-moves-to-issue-medical-disqualifications-earlier-in-the-recruitment-process/",
     "https://www.militarytimes.com/opinion/2026/05/07/why-congress-must-end-the-remarriage-penalty-for-military-survivors/",
     "https://www.militarytimes.com/news/your-military/2026/05/07/presidential-fitness-test-to-be-required-at-defense-department-schools/",
     "https://www.militarytimes.com/news/your-navy/2026/05/07/maverick-act-saves-last-3-f-14-tomcats-from-destruction/",
@@ -1652,6 +1651,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/13/active-duty-airmen-have-18-days-to-submit-current-waist-to-height-ratio-wilsbach-says/",
     "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/07/13/nearly-12000-military-tricare-beneficiaries-warned-of-data-breach/",
     "https://www.militarytimes.com/global/europe/2026/07/14/9-nations-back-ukraines-patriot-alternative-freyja-and-want-it-flying-in-a-year/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/14/the-us-military-measures-readiness-what-about-adaptability/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/14/the-us-military-measures-readiness-what-about-adaptability/",
+    "https://www.militarytimes.com/news/your-military/2026/07/14/army-to-move-aerial-intelligence-brigade-to-texas-for-hades-program/"
   ]
 }
