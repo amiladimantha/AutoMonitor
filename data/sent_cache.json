@@ -502,25 +502,6 @@
     "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "https://www.nature.com/articles/d41586-026-01831-y",
-    "https://www.nature.com/articles/d41586-026-01827-8",
-    "https://www.nature.com/articles/d41586-026-01821-0",
-    "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/",
-    "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
-    "https://www.nature.com/articles/d41586-026-01820-1",
-    "https://www.nature.com/articles/d41586-026-01780-6",
-    "https://www.nature.com/articles/d41586-026-01689-0",
-    "https://www.nature.com/articles/d41586-026-01818-9",
-    "https://www.nature.com/articles/d41586-026-01795-z",
-    "https://www.nature.com/articles/d41586-026-01837-6",
-    "https://www.nature.com/articles/d41586-026-01828-7",
-    "https://www.nature.com/articles/d41586-026-01584-8",
-    "https://www.nature.com/articles/s41586-026-10749-4",
-    "https://www.nature.com/articles/s41586-026-10735-w",
-    "https://www.nature.com/articles/s41586-026-10738-7",
-    "https://www.science.org/content/article/nih-plans-cap-number-grants-scientist-can-have-once",
-    "https://www.science.org/content/article/leading-supplier-research-monkeys-declares-bankruptcy",
     "https://www.science.org/content/article/how-did-so-many-theropod-dinosaurs-come-have-tiny-arms",
     "https://www.science.org/content/article/embryo-editing-first-more-complicated-headlines-suggest",
     "https://www.science.org/content/article/how-novel-research-paper-competition-quantify-concept-crowns-winner",
@@ -1001,7 +982,26 @@
     "https://www.nature.com/articles/d41586-026-02148-6",
     "https://www.nature.com/articles/d41586-026-01988-6",
     "https://www.nature.com/articles/d41586-026-02149-5",
-    "https://www.nature.com/articles/d41586-026-02206-z"
+    "https://www.nature.com/articles/d41586-026-02206-z",
+    "https://www.science.org/content/article/scrawled-signature-names-maya-astronomer-first-time",
+    "https://www.science.org/content/article/plan-turn-major-monkey-research-facility-sanctuary-may-be-dead",
+    "https://www.science.org/content/article/arctic-warms-gray-whale-boom-turns-bust",
+    "https://www.science.org/content/article/ai-can-invent-entirely-new-languages-it-creative",
+    "https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists",
+    "https://www.science.org/content/article/ancient-dna-solves-medici-murder-mystery",
+    "https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump",
+    "https://www.science.org/content/article/nsf-makes-billion-dollar-gamble-research-economic-payoff",
+    "https://www.science.org/content/article/largest-research-organization-spain-confronts-its-dark-past",
+    "https://www.science.org/content/article/thin-air-frozen-temps-toxic-food-how-these-mice-survive-extreme-elevations",
+    "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+    "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
+    "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+    "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
+    "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1153,7 +1153,6 @@
     "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/07/military-spouses-head-to-the-hill-push-for-removal-of-barriers-to-small-businesses-to-boost-retention/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/07/military-moves-to-issue-medical-disqualifications-earlier-in-the-recruitment-process/",
     "https://www.militarytimes.com/opinion/2026/05/07/why-congress-must-end-the-remarriage-penalty-for-military-survivors/",
     "https://www.militarytimes.com/news/your-military/2026/05/07/presidential-fitness-test-to-be-required-at-defense-department-schools/",
@@ -1652,6 +1651,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
     "https://www.militarytimes.com/news/your-military/2026/07/13/active-duty-airmen-have-18-days-to-submit-current-waist-to-height-ratio-wilsbach-says/",
     "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/07/13/nearly-12000-military-tricare-beneficiaries-warned-of-data-breach/",
-    "https://www.militarytimes.com/global/europe/2026/07/14/9-nations-back-ukraines-patriot-alternative-freyja-and-want-it-flying-in-a-year/"
+    "https://www.militarytimes.com/global/europe/2026/07/14/9-nations-back-ukraines-patriot-alternative-freyja-and-want-it-flying-in-a-year/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/14/the-us-military-measures-readiness-what-about-adaptability/"
   ]
 }
