@@ -502,11 +502,6 @@
     "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/"
   ],
   "Science": [
-    "https://www.science.org/content/article/satellite-maps-sinking-coastlines-come-under-scrutiny",
-    "https://www.science.org/content/article/extinct-brown-bear-had-surprising-diet",
-    "https://www.science.org/content/article/does-distant-alien-world-harbor-promising-signs-life-most-astrobiologists-say-no",
-    "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-    "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
     "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
     "https://www.nature.com/articles/d41586-026-01831-y",
     "https://www.nature.com/articles/d41586-026-01827-8",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-02189-x",
     "https://www.nature.com/articles/d41586-026-02187-z",
     "https://www.nature.com/articles/d41586-026-01128-0",
-    "https://www.nature.com/articles/d41586-026-02154-8"
+    "https://www.nature.com/articles/d41586-026-02154-8",
+    "https://www.nature.com/articles/d41586-026-01855-4",
+    "https://www.nature.com/articles/d41586-026-02148-6",
+    "https://www.nature.com/articles/d41586-026-01988-6",
+    "https://www.nature.com/articles/d41586-026-02149-5",
+    "https://www.nature.com/articles/d41586-026-02206-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
