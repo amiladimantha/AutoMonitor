@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/",
-    "https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/",
-    "https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/",
     "https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/",
     "https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/",
     "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/space/2026/07/spacex-is-gearing-up-for-starships-13th-test-flight-later-this-week/",
     "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
     "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
-    "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/"
+    "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
+    "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
+    "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
+    "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-10745-8",
@@ -1153,10 +1153,6 @@
     "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/07/presidential-fitness-test-to-be-required-at-defense-department-schools/",
-    "https://www.militarytimes.com/news/your-navy/2026/05/07/maverick-act-saves-last-3-f-14-tomcats-from-destruction/",
-    "https://www.militarytimes.com/news/your-military/2026/05/08/as-the-us-army-adds-drones-to-formations-heres-how-one-base-trains-its-operators/",
-    "https://www.militarytimes.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/",
     "https://www.militarytimes.com/news/your-military/2026/05/08/the-us-marine-corps-is-looking-for-a-few-good-robots-to-build-airfields/",
     "https://www.militarytimes.com/global/asia-pacific/2026/05/08/india-to-build-strategic-outpost-near-key-shipping-lane-in-indo-pacific/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/05/08/marines-to-phase-out-fa-18-maintenance-jobs-as-hornet-era-ends/",
@@ -1652,6 +1648,10 @@
     "https://www.militarytimes.com/global/europe/2026/07/14/9-nations-back-ukraines-patriot-alternative-freyja-and-want-it-flying-in-a-year/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/14/the-us-military-measures-readiness-what-about-adaptability/",
     "https://www.militarytimes.com/news/your-military/2026/07/14/army-to-move-aerial-intelligence-brigade-to-texas-for-hades-program/",
-    "https://www.militarytimes.com/news/your-military/2026/07/14/manufacturing-woes-hamper-us-155-mm-ammo-production/"
+    "https://www.militarytimes.com/news/your-military/2026/07/14/manufacturing-woes-hamper-us-155-mm-ammo-production/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/14/navy-awards-tote-22-billion-to-build-medium-landing-ships/",
+    "https://www.militarytimes.com/news/your-military/2026/07/14/move-over-asvab-marines-seek-better-way-to-predict-troop-success/",
+    "https://www.militarytimes.com/news/your-military/2026/07/14/space-force-offers-25k-for-8-year-enlistments-in-new-pilot/",
+    "https://www.militarytimes.com/news/your-military/2026/07/14/air-force-uh-1n-helicopter-makes-emergency-landing-in-dc-after-crew-hears-vibrations-in-flight/"
   ]
 }
