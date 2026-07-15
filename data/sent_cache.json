@@ -502,7 +502,6 @@
     "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01849-2",
     "https://www.nature.com/articles/d41586-026-01847-4",
     "https://www.nature.com/articles/d41586-026-01822-z",
     "https://www.nature.com/articles/d41586-026-01852-7",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02041-2",
     "https://www.science.org/content/article/bungee-jumping-mice-may-reveal-why-astronauts-skip-moon",
     "https://www.science.org/content/article/u-s-researchers-outraged-proposed-changes-federal-grants",
-    "https://www.science.org/content/article/astronomo-maya-identificado-por-primera-vez-gracias-firma-en-un-mural"
+    "https://www.science.org/content/article/astronomo-maya-identificado-por-primera-vez-gracias-firma-en-un-mural",
+    "https://www.nature.com/articles/d41586-026-02192-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1153,7 +1153,6 @@
     "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/08/b-1-returns-to-flight-after-restoration-surviving-the-boneyard/",
     "https://www.militarytimes.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
     "https://www.militarytimes.com/news/your-army/2026/05/08/makeshift-tourniquets-saved-soldiers-life-after-arkansas-training-accident/",
@@ -1652,6 +1651,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/14/air-force-uh-1n-helicopter-makes-emergency-landing-in-dc-after-crew-hears-vibrations-in-flight/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/14/space-force-agency-awards-tech-companies-175-billion-contract-for-missile-warning-tracking-satellites/",
     "https://www.militarytimes.com/news/your-military/2026/07/14/4000-troops-lose-air-conditioning-in-hawaii/",
-    "https://www.militarytimes.com/veterans/2026/07/14/va-hhs-to-increase-psychedelic-therapy-research-for-ptsd-military-related-mental-health-issues/"
+    "https://www.militarytimes.com/veterans/2026/07/14/va-hhs-to-increase-psychedelic-therapy-research-for-ptsd-military-related-mental-health-issues/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/"
   ]
 }
