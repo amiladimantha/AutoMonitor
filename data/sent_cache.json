@@ -502,26 +502,6 @@
     "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01815-y",
-    "https://www.nature.com/articles/d41586-026-01209-0",
-    "https://www.nature.com/articles/s41586-026-10769-0",
-    "https://www.nature.com/articles/d41586-026-00799-z",
-    "https://www.nature.com/articles/d41586-026-01690-7",
-    "https://www.nature.com/articles/d41586-026-01234-z",
-    "https://www.nature.com/articles/d41586-026-01810-3",
-    "https://www.nature.com/articles/d41586-026-01825-w",
-    "https://www.nature.com/articles/d41586-026-01823-y",
-    "https://www.nature.com/articles/s41586-026-10748-5",
-    "https://www.nature.com/articles/d41586-026-01840-x",
-    "https://www.nature.com/articles/d41586-026-01737-9",
-    "https://www.nature.com/articles/d41586-026-01826-9",
-    "https://www.science.org/content/article/working-without-them-painful-who-s-ebola-chief-reflects-u-s-colleagues-absence",
-    "https://www.science.org/content/article/canadian-biologists-decry-plans-bypass-environmental-reviews-infrastructure-projects",
-    "https://www.science.org/content/article/misconduct-sleuth-china-swiftly-gains-acclaim-calling-out-questionable-papers",
-    "https://www.science.org/content/article/nsf-imposes-stricter-conflict-interest-rules-grant-review-panels",
-    "https://www.science.org/content/article/frozen-squirrel-poop-rewrites-rodent-evolution-reveals-new-details-about-mammoths",
-    "https://www.science.org/content/article/diabetes-society-officials-resign-after-removal-trump-protestors-conference",
-    "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
     "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
     "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
     "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
@@ -1001,7 +981,27 @@
     "https://www.nature.com/articles/d41586-026-02133-z",
     "https://www.nature.com/articles/d41586-026-02216-x",
     "https://www.nature.com/articles/d41586-026-01674-7",
-    "https://www.nature.com/articles/d41586-026-02222-z"
+    "https://www.nature.com/articles/d41586-026-02222-z",
+    "https://www.nature.com/articles/s41586-026-10897-7",
+    "https://www.nature.com/articles/s41586-026-10895-9",
+    "https://www.nature.com/articles/d41586-026-02186-0",
+    "https://www.nature.com/articles/d41586-026-02221-0",
+    "https://www.nature.com/articles/s41586-026-10789-w",
+    "https://www.nature.com/articles/s41586-026-10772-5",
+    "https://www.nature.com/articles/s41586-026-10760-9",
+    "https://www.nature.com/articles/s41586-026-10709-y",
+    "https://www.nature.com/articles/s41586-026-10775-2",
+    "https://www.nature.com/articles/s41586-026-10782-3",
+    "https://www.nature.com/articles/s41586-026-10801-3",
+    "https://www.nature.com/articles/s41586-026-10655-9",
+    "https://www.nature.com/articles/s41586-026-10780-5",
+    "https://www.nature.com/articles/s41586-026-10804-0",
+    "https://www.nature.com/articles/s41586-026-10757-4",
+    "https://www.nature.com/articles/s41586-026-10790-3",
+    "https://www.nature.com/articles/s41586-026-10743-w",
+    "https://www.nature.com/articles/s41586-026-10668-4",
+    "https://www.nature.com/articles/s41586-026-10722-1",
+    "https://www.nature.com/articles/s41586-026-10793-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1154,9 +1154,6 @@
     "https://huggingface.co/blog/real-world-voiceeq"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-army/2026/05/08/makeshift-tourniquets-saved-soldiers-life-after-arkansas-training-accident/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/trump-administration-releases-first-tranche-of-never-before-seen-ufo-files/",
-    "https://www.militarytimes.com/flashpoints/ukraine/2026/05/08/russia-ukraine-to-enter-temporary-ceasefire-with-prisoner-exchange-trump-says/",
     "https://www.militarytimes.com/unmanned/2026/05/08/ukraine-ramps-up-ground-robot-production-to-spare-soldiers-haul-ammo-and-rescue-grandma/",
     "https://www.militarytimes.com/news/your-navy/2026/05/11/epic-fury-has-navy-rethinking-carrier-deployment-tempo/",
     "https://www.militarytimes.com/news/your-military/2026/05/11/remains-of-missing-soldier-found-off-the-coast-of-morocco/",
@@ -1653,6 +1650,9 @@
     "https://www.militarytimes.com/veterans/2026/07/14/va-hhs-to-increase-psychedelic-therapy-research-for-ptsd-military-related-mental-health-issues/",
     "https://www.militarytimes.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",
     "https://www.militarytimes.com/news/your-military/2026/07/15/cruelty-was-the-point-transgender-troops-look-back-on-their-ban-as-its-set-to-end/",
-    "https://www.militarytimes.com/opinion/commentary/2026/07/15/every-ambush-in-vietnam-held-surprises-this-one-ended-in-death/"
+    "https://www.militarytimes.com/opinion/commentary/2026/07/15/every-ambush-in-vietnam-held-surprises-this-one-ended-in-death/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/07/15/first-the-coast-guard-then-an-icbm-china-tests-new-long-term-ways-to-hold-off-rivals-in-asia/",
+    "https://www.militarytimes.com/news/your-military/2026/07/15/pressure-mounts-on-defense-executives-to-boost-weapons-production/",
+    "https://www.militarytimes.com/flashpoints/2026/07/15/us-launches-new-round-of-strikes-against-iran/"
   ]
 }
