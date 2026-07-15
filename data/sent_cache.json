@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/",
     "https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/",
     "https://arstechnica.com/cars/2026/05/the-most-controversial-ferrari-ever-meet-the-luce-its-first-ever-ev/",
     "https://arstechnica.com/culture/2026/05/review-the-boroughs-is-a-smart-pitch-perfect-creature-feature/",
@@ -499,13 +498,10 @@
     "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
     "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
     "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
-    "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/"
+    "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
+    "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01822-z",
-    "https://www.nature.com/articles/d41586-026-01852-7",
-    "https://www.nature.com/articles/d41586-026-01836-7",
-    "https://www.nature.com/articles/d41586-026-01817-w",
     "https://www.nature.com/articles/d41586-026-01815-y",
     "https://www.nature.com/articles/d41586-026-01209-0",
     "https://www.nature.com/articles/s41586-026-10769-0",
@@ -1001,7 +997,11 @@
     "https://www.science.org/content/article/u-s-researchers-outraged-proposed-changes-federal-grants",
     "https://www.science.org/content/article/astronomo-maya-identificado-por-primera-vez-gracias-firma-en-un-mural",
     "https://www.nature.com/articles/d41586-026-02192-2",
-    "https://www.nature.com/articles/d41586-026-02150-y"
+    "https://www.nature.com/articles/d41586-026-02150-y",
+    "https://www.nature.com/articles/d41586-026-02133-z",
+    "https://www.nature.com/articles/d41586-026-02216-x",
+    "https://www.nature.com/articles/d41586-026-01674-7",
+    "https://www.nature.com/articles/d41586-026-02222-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1150,10 +1150,10 @@
     "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
     "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
     "https://huggingface.co/blog/nvidia/open-data-for-agents",
-    "https://huggingface.co/blog/torch-attention-profile"
+    "https://huggingface.co/blog/torch-attention-profile",
+    "https://huggingface.co/blog/real-world-voiceeq"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
     "https://www.militarytimes.com/news/your-army/2026/05/08/makeshift-tourniquets-saved-soldiers-life-after-arkansas-training-accident/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/trump-administration-releases-first-tranche-of-never-before-seen-ufo-files/",
     "https://www.militarytimes.com/flashpoints/ukraine/2026/05/08/russia-ukraine-to-enter-temporary-ceasefire-with-prisoner-exchange-trump-says/",
@@ -1652,6 +1652,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/14/4000-troops-lose-air-conditioning-in-hawaii/",
     "https://www.militarytimes.com/veterans/2026/07/14/va-hhs-to-increase-psychedelic-therapy-research-for-ptsd-military-related-mental-health-issues/",
     "https://www.militarytimes.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",
-    "https://www.militarytimes.com/news/your-military/2026/07/15/cruelty-was-the-point-transgender-troops-look-back-on-their-ban-as-its-set-to-end/"
+    "https://www.militarytimes.com/news/your-military/2026/07/15/cruelty-was-the-point-transgender-troops-look-back-on-their-ban-as-its-set-to-end/",
+    "https://www.militarytimes.com/opinion/commentary/2026/07/15/every-ambush-in-vietnam-held-surprises-this-one-ended-in-death/"
   ]
 }
