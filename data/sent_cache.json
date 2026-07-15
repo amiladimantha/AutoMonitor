@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/05/the-witcher-3-is-a-good-game-but-that-doesnt-mean-you-have-to-like-it/",
-    "https://arstechnica.com/tech-policy/2026/05/citing-gandalf-pope-leo-says-we-must-disarm-ai/",
     "https://arstechnica.com/cars/2026/05/porsches-cayenne-coupe-electric-brings-formula-e-tech-to-the-autobahn/",
     "https://arstechnica.com/space/2026/05/analyst-on-chinas-spent-rocket-stages-things-only-continue-to-get-worse/",
     "https://arstechnica.com/cars/2026/05/the-most-controversial-ferrari-ever-meet-the-luce-its-first-ever-ev/",
@@ -499,7 +497,9 @@
     "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
     "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
     "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-    "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/"
+    "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
+    "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
+    "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01822-z",
@@ -1153,7 +1153,6 @@
     "https://huggingface.co/blog/torch-attention-profile"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
     "https://www.militarytimes.com/news/your-army/2026/05/08/makeshift-tourniquets-saved-soldiers-life-after-arkansas-training-accident/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/08/trump-administration-releases-first-tranche-of-never-before-seen-ufo-files/",
@@ -1652,6 +1651,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/14/space-force-agency-awards-tech-companies-175-billion-contract-for-missile-warning-tracking-satellites/",
     "https://www.militarytimes.com/news/your-military/2026/07/14/4000-troops-lose-air-conditioning-in-hawaii/",
     "https://www.militarytimes.com/veterans/2026/07/14/va-hhs-to-increase-psychedelic-therapy-research-for-ptsd-military-related-mental-health-issues/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/"
+    "https://www.militarytimes.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",
+    "https://www.militarytimes.com/news/your-military/2026/07/15/cruelty-was-the-point-transgender-troops-look-back-on-their-ban-as-its-set-to-end/"
   ]
 }
