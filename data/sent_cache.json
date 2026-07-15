@@ -1151,10 +1151,12 @@
     "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
     "https://huggingface.co/blog/nvidia/open-data-for-agents",
     "https://huggingface.co/blog/torch-attention-profile",
-    "https://huggingface.co/blog/real-world-voiceeq"
+    "https://huggingface.co/blog/real-world-voiceeq",
+    "https://huggingface.co/blog/allenai/shippy-tech-blog",
+    "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+    "https://huggingface.co/blog/thinkingmachines-inkling"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/unmanned/2026/05/08/ukraine-ramps-up-ground-robot-production-to-spare-soldiers-haul-ammo-and-rescue-grandma/",
     "https://www.militarytimes.com/news/your-navy/2026/05/11/epic-fury-has-navy-rethinking-carrier-deployment-tempo/",
     "https://www.militarytimes.com/news/your-military/2026/05/11/remains-of-missing-soldier-found-off-the-coast-of-morocco/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/",
@@ -1653,6 +1655,7 @@
     "https://www.militarytimes.com/opinion/commentary/2026/07/15/every-ambush-in-vietnam-held-surprises-this-one-ended-in-death/",
     "https://www.militarytimes.com/global/asia-pacific/2026/07/15/first-the-coast-guard-then-an-icbm-china-tests-new-long-term-ways-to-hold-off-rivals-in-asia/",
     "https://www.militarytimes.com/news/your-military/2026/07/15/pressure-mounts-on-defense-executives-to-boost-weapons-production/",
-    "https://www.militarytimes.com/flashpoints/2026/07/15/us-launches-new-round-of-strikes-against-iran/"
+    "https://www.militarytimes.com/flashpoints/2026/07/15/us-launches-new-round-of-strikes-against-iran/",
+    "https://www.militarytimes.com/news/your-military/2026/07/15/forged-by-the-t-pentagon-launches-testosterone-screening-program-for-troops/"
   ]
 }
