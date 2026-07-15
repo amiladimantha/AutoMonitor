@@ -502,7 +502,6 @@
     "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01847-4",
     "https://www.nature.com/articles/d41586-026-01822-z",
     "https://www.nature.com/articles/d41586-026-01852-7",
     "https://www.nature.com/articles/d41586-026-01836-7",
@@ -1001,7 +1000,8 @@
     "https://www.science.org/content/article/bungee-jumping-mice-may-reveal-why-astronauts-skip-moon",
     "https://www.science.org/content/article/u-s-researchers-outraged-proposed-changes-federal-grants",
     "https://www.science.org/content/article/astronomo-maya-identificado-por-primera-vez-gracias-firma-en-un-mural",
-    "https://www.nature.com/articles/d41586-026-02192-2"
+    "https://www.nature.com/articles/d41586-026-02192-2",
+    "https://www.nature.com/articles/d41586-026-02150-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
