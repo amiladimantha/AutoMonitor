@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/05/windows-classic-3d-space-cadet-pinball-is-getting-a-physical-re-creation/",
     "https://arstechnica.com/tech-policy/2026/05/fbi-easily-nabs-man-selling-sexy-deepfakes-who-used-his-own-photo-in-profile/",
     "https://arstechnica.com/ai/2026/05/3d-printable-humanoid-legs-let-robotics-experiments-run-wild/",
     "https://arstechnica.com/science/2026/05/the-oxygenation-of-earths-air-might-owe-a-lot-to-plate-tectonics/",
@@ -499,14 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/07/fcc-to-repeal-39-tv-ownership-cap-in-boost-for-trump-friendly-news-orgs/",
     "https://arstechnica.com/culture/2026/07/in-memoriam-seven-of-our-favorite-sam-neill-films/",
     "https://arstechnica.com/gadgets/2026/07/third-party-app-stores-coming-to-google-play-next-week-as-epic-settlement-withdrawn/",
-    "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/"
+    "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+    "https://arstechnica.com/security/2026/07/windows-0-day-drops-the-same-day-microsoft-releases-record-number-of-patches/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-    "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
-    "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-    "https://www.nature.com/articles/s41586-026-10763-6",
-    "https://www.science.org/content/article/how-can-you-tell-whether-your-dog-right-pawed-or-left-pawed",
     "https://www.nature.com/articles/d41586-026-01662-x",
     "https://www.nature.com/articles/d41586-026-01816-x",
     "https://www.nature.com/articles/d41586-026-01824-x",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/s41586-026-10743-w",
     "https://www.nature.com/articles/s41586-026-10668-4",
     "https://www.nature.com/articles/s41586-026-10722-1",
-    "https://www.nature.com/articles/s41586-026-10793-0"
+    "https://www.nature.com/articles/s41586-026-10793-0",
+    "https://www.science.org/content/article/mysterious-orange-lipped-monkey-discovered-deep-congo-rainforest-new-species",
+    "https://www.science.org/content/article/tree-killing-beetle-spreading-urban-forests-around-world",
+    "https://www.science.org/content/article/did-u-s-scrutiny-foreign-research-drive-prominent-geneticist-decline-authorship",
+    "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1157,9 +1157,6 @@
     "https://huggingface.co/blog/thinkingmachines-inkling"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/11/remains-of-missing-soldier-found-off-the-coast-of-morocco/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/11/ukraine-and-russia-fight-on-despite-us-mediated-ceasefire/",
-    "https://www.militarytimes.com/news/your-military/2026/05/11/air-force-experimenting-with-using-ai-for-promotion-boards/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/11/5-us-bases-selected-for-anti-drone-pilot-program/",
     "https://www.militarytimes.com/news/your-military/2026/05/11/marines-expand-arctic-footprint-with-new-alaska-rotation/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/11/trump-says-war-on-iran-not-done-but-concerns-rise-about-munitions-shortages/",
@@ -1656,6 +1653,9 @@
     "https://www.militarytimes.com/news/your-military/2026/07/15/pressure-mounts-on-defense-executives-to-boost-weapons-production/",
     "https://www.militarytimes.com/flashpoints/2026/07/15/us-launches-new-round-of-strikes-against-iran/",
     "https://www.militarytimes.com/news/your-military/2026/07/15/forged-by-the-t-pentagon-launches-testosterone-screening-program-for-troops/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/15/top-house-democrat-calls-to-split-veterans-omnibus-advance-major-richard-star-act/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/15/top-house-democrat-calls-to-split-veterans-omnibus-advance-major-richard-star-act/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/15/air-force-completes-first-ever-cca-live-fire-test-with-anduril-yfq-44a/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/15/panel-to-study-pentagons-covid-vaccine-mandate-troops-dismissal/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/15/us-air-force-turns-to-cheaper-cruise-missiles-it-can-buy-by-the-thousand/"
   ]
 }
