@@ -502,7 +502,6 @@
     "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10546-z",
     "https://www.nature.com/articles/s41586-026-10629-x",
     "https://www.nature.com/articles/s41586-026-10596-3",
     "https://www.nature.com/articles/s41586-026-10631-3",
@@ -1001,7 +1000,8 @@
     "https://www.science.org/content/article/dna-african-graves-provides-surprising-window-slave-trade",
     "https://www.science.org/content/article/oldest-known-mars-rock-offers-glimpse-planet-s-watery-youth",
     "https://www.science.org/content/article/bacteria-clusters-can-eject-escape-pods-survive",
-    "https://www.science.org/content/article/climate-scientists-sharpen-tools-linking-global-warming-extreme-weather"
+    "https://www.science.org/content/article/climate-scientists-sharpen-tools-linking-global-warming-extreme-weather",
+    "https://www.science.org/content/article/alzheimer-s-trial-results-lend-momentum-strategies-targeting-tau"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1165,7 +1165,6 @@
     "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/pentagon/2026/05/12/defense-contractors-have-donated-millions-to-members-of-congress-new-report-finds/",
     "https://www.militarytimes.com/news/your-military/2026/05/12/in-an-age-of-drones-army-rangers-will-now-stab-through-a-new-bayonet-course/",
     "https://www.militarytimes.com/news/your-military/2026/05/12/coast-guard-bans-kratom-similar-drugs-immediately/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/",
@@ -1664,6 +1663,7 @@
     "https://www.militarytimes.com/pay-benefits/2026/07/16/bad-actors-use-bogus-offers-to-go-after-payouts-to-families-affected-by-first-atomic-bomb-test/",
     "https://www.militarytimes.com/news/your-navy/2026/07/16/navy-initiates-safety-review-after-blue-angels-fly-low-over-florida-beach/",
     "https://www.militarytimes.com/global/europe/2026/07/16/russian-troops-survive-just-20-30-minutes-on-ukraines-front-lines-cia-director-says/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/"
+    "https://www.militarytimes.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/space-increasingly-becoming-a-warfighting-domain-says-space-force-chief-nominee/"
   ]
 }
