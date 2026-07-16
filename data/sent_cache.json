@@ -1,13 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/05/volvo-gets-us-government-approval-to-bypass-chinese-connected-car-ban/",
-    "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
-    "https://arstechnica.com/culture/2026/05/disclosure-day-final-trailer-features-spielberg-himself/",
-    "https://arstechnica.com/google/2026/05/youtube-to-begin-automatically-labeling-ai-videos/",
-    "https://arstechnica.com/gadgets/2026/05/govee-says-it-mistakenly-licensed-white-supremacy-book-pic-to-sell-smart-lights/",
-    "https://arstechnica.com/gadgets/2026/05/roku-oss-home-screen-now-features-a-large-permanent-ad/",
-    "https://arstechnica.com/gadgets/2026/05/valves-steam-deck-is-back-in-stock-after-months-but-you-wont-like-it/",
-    "https://arstechnica.com/health/2026/05/us-walls-itself-off-from-ebola-beefed-up-travel-ban-no-citizen-repatriation/",
     "https://arstechnica.com/science/2026/05/little-red-dot-in-early-universe-is-a-naked-supermassive-black-hole/",
     "https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/",
     "https://arstechnica.com/gadgets/2026/05/nasa-satellites-can-spot-gps-jammers-on-earth/",
@@ -499,15 +491,17 @@
     "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
     "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
     "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
-    "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/"
+    "https://arstechnica.com/science/2026/07/weve-seen-helium-baked-off-a-rocky-exoplanets-atmosphere/",
+    "https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/",
+    "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+    "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+    "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+    "https://arstechnica.com/culture/2026/07/trump-teleprompter-aide-made-100000-betting-on-what-trump-would-say-reports-say/",
+    "https://arstechnica.com/cars/2026/07/2026-toyota-rav4-plug-in-review-good-but-skip-the-gr-sport/",
+    "https://arstechnica.com/security/2026/07/now-even-russias-most-elite-hackers-are-using-clickfix-to-infect-devices/",
+    "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
-    "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
-    "https://www.nature.com/articles/d41586-026-01832-x",
-    "https://www.nature.com/articles/d41586-026-01864-3",
-    "https://www.nature.com/articles/s41586-026-10640-2",
-    "https://www.nature.com/articles/s41586-026-10645-x",
     "https://www.nature.com/articles/s41586-026-10546-z",
     "https://www.nature.com/articles/s41586-026-10629-x",
     "https://www.nature.com/articles/s41586-026-10596-3",
@@ -1001,7 +995,13 @@
     "https://www.nature.com/articles/d41586-026-02214-z",
     "https://www.nature.com/articles/d41586-026-01389-9",
     "https://www.nature.com/articles/d41586-026-02175-3",
-    "https://www.nature.com/articles/d41586-026-02225-w"
+    "https://www.nature.com/articles/d41586-026-02225-w",
+    "https://www.science.org/content/article/rocked-aid-cuts-malawi-rethinks-how-it-funds-health",
+    "https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world",
+    "https://www.science.org/content/article/dna-african-graves-provides-surprising-window-slave-trade",
+    "https://www.science.org/content/article/oldest-known-mars-rock-offers-glimpse-planet-s-watery-youth",
+    "https://www.science.org/content/article/bacteria-clusters-can-eject-escape-pods-survive",
+    "https://www.science.org/content/article/climate-scientists-sharpen-tools-linking-global-warming-extreme-weather"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1165,7 +1165,6 @@
     "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-army/2026/05/12/army-plans-summer-deployments-to-southern-border/",
     "https://www.militarytimes.com/pentagon/2026/05/12/defense-contractors-have-donated-millions-to-members-of-congress-new-report-finds/",
     "https://www.militarytimes.com/news/your-military/2026/05/12/in-an-age-of-drones-army-rangers-will-now-stab-through-a-new-bayonet-course/",
     "https://www.militarytimes.com/news/your-military/2026/05/12/coast-guard-bans-kratom-similar-drugs-immediately/",
@@ -1664,6 +1663,7 @@
     "https://www.militarytimes.com/veterans/2026/07/16/disputed-veterans-benefits-bill-gets-pulled-before-house-vote/",
     "https://www.militarytimes.com/pay-benefits/2026/07/16/bad-actors-use-bogus-offers-to-go-after-payouts-to-families-affected-by-first-atomic-bomb-test/",
     "https://www.militarytimes.com/news/your-navy/2026/07/16/navy-initiates-safety-review-after-blue-angels-fly-low-over-florida-beach/",
-    "https://www.militarytimes.com/global/europe/2026/07/16/russian-troops-survive-just-20-30-minutes-on-ukraines-front-lines-cia-director-says/"
+    "https://www.militarytimes.com/global/europe/2026/07/16/russian-troops-survive-just-20-30-minutes-on-ukraines-front-lines-cia-director-says/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/"
   ]
 }
