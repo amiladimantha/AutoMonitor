@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/05/were-starting-to-see-some-pc-makers-respond-to-apples-macbook-neo/",
-    "https://arstechnica.com/tech-policy/2026/05/is-peter-thiel-the-target-of-pope-leos-gandalf-quote-an-investigation/",
-    "https://arstechnica.com/ai/2026/05/us-law-enforcement-warns-of-anti-tech-extremism-as-ai-hatred-grows/",
-    "https://arstechnica.com/gadgets/2026/05/motorolas-2026-razrs-are-almost-worth-buying-just-for-their-stunning-looks-almost/",
     "https://arstechnica.com/gadgets/2026/05/nvidia-kills-windows-xp-era-control-panel-after-20-years-of-dedicated-service/",
     "https://arstechnica.com/cars/2026/05/volvo-gets-us-government-approval-to-bypass-chinese-connected-car-ban/",
     "https://arstechnica.com/space/2026/05/us-space-force-confirms-spacex-will-build-sensor-to-shooter-targeting-network/",
@@ -499,7 +495,11 @@
     "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
     "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
     "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
-    "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/"
+    "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
+    "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
+    "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
+    "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+    "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/"
   ],
   "Science": [
     "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
@@ -1161,10 +1161,10 @@
     "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
     "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
     "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-    "https://huggingface.co/blog/security-incident-july-2026"
+    "https://huggingface.co/blog/security-incident-july-2026",
+    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/11/us-partner-nations-sink-two-decommissioned-ships-during-exercise-balikatan/",
     "https://www.militarytimes.com/news/your-navy/2026/05/12/us-navy-open-to-building-ships-overseas-new-plan-says/",
     "https://www.militarytimes.com/veterans/2026/05/12/former-nfl-tight-end-convicted-for-medicare-va-fraud-scheme/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/12/pentagon-seeks-additional-funding-as-cost-of-iran-war-tops-29-billon/",
@@ -1663,6 +1663,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/07/15/uss-sampson-spills-roughly-2000-gallons-of-diesel-fuel-into-seattle-harbor/",
     "https://www.militarytimes.com/news/your-military/2026/07/16/marines-working-with-dod-to-build-direct-hire-path-for-civilian-jobs/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/senators-question-whether-military-pharmacy-program-is-the-best-deal-for-beneficiaries/",
-    "https://www.militarytimes.com/news/your-military/2026/07/16/navy-develops-strategy-to-weaponize-data-ai/"
+    "https://www.militarytimes.com/news/your-military/2026/07/16/navy-develops-strategy-to-weaponize-data-ai/",
+    "https://www.militarytimes.com/news/your-military/2026/07/16/army-fields-device-that-detects-traumatic-brain-injuries-in-just-15-minutes/"
   ]
 }
