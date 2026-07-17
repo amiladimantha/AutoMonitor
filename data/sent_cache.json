@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/05/mina-the-hollower-is-the-best-old-school-action-adventure-ive-played-in-a-while/",
-    "https://arstechnica.com/tech-policy/2026/05/nvidia-ceo-wants-taiwan-to-be-center-of-ai-revolution-not-us/",
-    "https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/",
-    "https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/",
     "https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/",
     "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
     "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
@@ -499,11 +495,13 @@
     "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
     "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
     "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-    "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/"
+    "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
+    "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
+    "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
+    "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
+    "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10634-0",
-    "https://www.nature.com/articles/s41586-026-10646-w",
     "https://www.nature.com/articles/s41586-026-10639-9",
     "https://www.nature.com/articles/s41586-026-10613-5",
     "https://www.nature.com/articles/s41586-026-10632-2",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02193-1",
     "https://www.nature.com/articles/d41586-026-02200-5",
     "https://www.nature.com/articles/d41586-026-02226-9",
-    "https://www.nature.com/articles/d41586-026-02217-w"
+    "https://www.nature.com/articles/d41586-026-02217-w",
+    "https://www.nature.com/articles/d41586-026-02264-3",
+    "https://www.nature.com/articles/d41586-026-02191-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1165,8 +1165,6 @@
     "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/12/in-an-age-of-drones-army-rangers-will-now-stab-through-a-new-bayonet-course/",
-    "https://www.militarytimes.com/news/your-military/2026/05/12/coast-guard-bans-kratom-similar-drugs-immediately/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/",
     "https://www.militarytimes.com/news/your-military/2026/05/13/ukraines-battlefield-integration-surpasses-us-militarys-army-secretary-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/13/us-special-operations-leaders-frustrated-by-inability-to-modify-their-own-equipment/",
@@ -1664,6 +1662,8 @@
     "https://www.militarytimes.com/news/your-navy/2026/07/16/navy-initiates-safety-review-after-blue-angels-fly-low-over-florida-beach/",
     "https://www.militarytimes.com/global/europe/2026/07/16/russian-troops-survive-just-20-30-minutes-on-ukraines-front-lines-cia-director-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/space-increasingly-becoming-a-warfighting-domain-says-space-force-chief-nominee/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/space-increasingly-becoming-a-warfighting-domain-says-space-force-chief-nominee/",
+    "https://www.militarytimes.com/news/your-military/2026/07/17/hegseth-ordered-a-new-study-of-women-in-combat-critics-say-its-built-to-reach-one-conclusion/",
+    "https://www.militarytimes.com/news/your-military/2026/07/17/the-new-military-family-staying-together-while-living-apart/"
   ]
 }
