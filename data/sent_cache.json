@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/05/one-dose-of-gene-editing-drug-cut-bad-cholesterol-62-for-months-in-small-trial/",
-    "https://arstechnica.com/tech-policy/2026/05/trump-loses-more-control-over-ai-regulation-as-illinois-passes-landmark-law/",
-    "https://arstechnica.com/gaming/2026/05/despite-price-hike-steam-deck-is-already-sold-out-in-north-america/",
     "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
     "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
     "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
     "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
     "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
-    "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/"
+    "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
+    "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
+    "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
+    "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-10613-5",
@@ -1162,12 +1162,10 @@
     "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
     "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
     "https://huggingface.co/blog/security-incident-july-2026",
-    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
+    "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+    "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/",
-    "https://www.militarytimes.com/news/your-military/2026/05/13/ukraines-battlefield-integration-surpasses-us-militarys-army-secretary-says/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/13/us-special-operations-leaders-frustrated-by-inability-to-modify-their-own-equipment/",
     "https://www.militarytimes.com/news/your-military/2026/05/13/marines-mandate-servicewide-ai-training-by-years-end/",
     "https://www.militarytimes.com/news/your-military/2026/05/13/ai-tool-has-saved-a-lot-of-aircraft-in-epic-fury-afsoc-chief-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/13/pentagon-reaches-agreements-with-defense-firms-on-containerized-missiles/",
@@ -1664,6 +1662,9 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/space-increasingly-becoming-a-warfighting-domain-says-space-force-chief-nominee/",
     "https://www.militarytimes.com/news/your-military/2026/07/17/hegseth-ordered-a-new-study-of-women-in-combat-critics-say-its-built-to-reach-one-conclusion/",
-    "https://www.militarytimes.com/news/your-military/2026/07/17/the-new-military-family-staying-together-while-living-apart/"
+    "https://www.militarytimes.com/news/your-military/2026/07/17/the-new-military-family-staying-together-while-living-apart/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/17/space-force-must-continue-to-rebuild-civilian-personnel-staff-after-cuts-chief-nominee-says/",
+    "https://www.militarytimes.com/news/your-army/2026/07/17/soldiers-recognized-in-army-national-guard-2026-best-warrior-competition/",
+    "https://www.militarytimes.com/news/your-military/2026/07/17/military-spouses-can-find-jobs-keeping-careers-is-the-hard-part/"
   ]
 }
