@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
-    "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
-    "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
-    "https://arstechnica.com/space/2026/05/amazon-turns-to-jeff-bezos-other-company-to-do-some-heavy-lifting/",
     "https://arstechnica.com/science/2026/05/how-pigeons-exploit-magnetic-fields-for-navigation/",
     "https://arstechnica.com/gadgets/2026/05/intel-makes-a-bid-for-handheld-gaming-pcs-with-new-arc-g3-processors/",
     "https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/",
@@ -499,10 +495,13 @@
     "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
     "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
     "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
-    "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/"
+    "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
+    "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
+    "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
+    "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
+    "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10588-3",
     "https://www.nature.com/articles/s41586-026-10623-3",
     "https://www.nature.com/articles/s41586-026-10628-y",
     "https://www.nature.com/articles/s41586-026-10611-7",
@@ -1001,7 +1000,8 @@
     "https://www.science.org/content/article/prominent-salk-institute-biologist-resign-following-sexual-misconduct-investigation",
     "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
     "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
-    "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
+    "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+    "https://www.nature.com/articles/d41586-026-02218-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1166,9 +1166,6 @@
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/13/air-force-mq-9-fleet-drops-to-135-aircraft-after-iran-combat-losses/",
-    "https://www.militarytimes.com/news/your-army/2026/05/13/us-army-abruptly-cancels-deployment-of-4000-soldiers-to-poland/",
-    "https://www.militarytimes.com/news/your-navy/2026/05/13/us-navy-could-run-out-of-money-by-july-top-officer-warns/",
     "https://www.militarytimes.com/news/your-military/2026/05/13/contractor-awarded-35-billion-to-build-out-coast-guards-arctic-security-cutters-fleet/",
     "https://www.militarytimes.com/news/your-military/2026/05/13/uss-gerald-r-ford-air-wing-returns-home-after-11-months/",
     "https://www.militarytimes.com/news/your-military/2026/05/13/no-indo-pacific-peace-without-industry-surge-and-burden-sharing-us-general-says/",
@@ -1665,6 +1662,9 @@
     "https://www.militarytimes.com/news/your-army/2026/07/17/dc-national-guard-gets-its-first-security-vessel/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/17/saronic-picks-brownsville-texas-for-3-billion-port-alpha-shipyard/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/17/230-troops-discharged-for-refusing-covid-19-vaccine-have-rejoined-pentagon-says/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/17/blue-angels-wont-be-punished-after-low-beach-flyover-acting-secnav-says/"
+    "https://www.militarytimes.com/news/your-navy/2026/07/17/blue-angels-wont-be-punished-after-low-beach-flyover-acting-secnav-says/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/17/let-the-ai-do-it-former-air-force-secretary-pits-machine-against-human-operators/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/17/us-navy-2-years-behind-on-hypersonic-missile-installation-on-zumwalt-destroyers/",
+    "https://www.militarytimes.com/news/your-military/2026/07/17/wheels-up-instructor-down-army-aviation-students-to-fly-solo-cross-country/"
   ]
 }
