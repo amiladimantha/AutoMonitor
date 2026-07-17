@@ -502,10 +502,6 @@
     "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10629-x",
-    "https://www.nature.com/articles/s41586-026-10596-3",
-    "https://www.nature.com/articles/s41586-026-10631-3",
-    "https://www.nature.com/articles/s41586-026-10636-y",
     "https://www.nature.com/articles/s41586-026-10634-0",
     "https://www.nature.com/articles/s41586-026-10646-w",
     "https://www.nature.com/articles/s41586-026-10639-9",
@@ -1001,7 +997,11 @@
     "https://www.science.org/content/article/oldest-known-mars-rock-offers-glimpse-planet-s-watery-youth",
     "https://www.science.org/content/article/bacteria-clusters-can-eject-escape-pods-survive",
     "https://www.science.org/content/article/climate-scientists-sharpen-tools-linking-global-warming-extreme-weather",
-    "https://www.science.org/content/article/alzheimer-s-trial-results-lend-momentum-strategies-targeting-tau"
+    "https://www.science.org/content/article/alzheimer-s-trial-results-lend-momentum-strategies-targeting-tau",
+    "https://www.nature.com/articles/d41586-026-02193-1",
+    "https://www.nature.com/articles/d41586-026-02200-5",
+    "https://www.nature.com/articles/d41586-026-02226-9",
+    "https://www.nature.com/articles/d41586-026-02217-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
