@@ -502,7 +502,6 @@
     "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10639-9",
     "https://www.nature.com/articles/s41586-026-10613-5",
     "https://www.nature.com/articles/s41586-026-10632-2",
     "https://www.nature.com/articles/s41586-026-10580-x",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02226-9",
     "https://www.nature.com/articles/d41586-026-02217-w",
     "https://www.nature.com/articles/d41586-026-02264-3",
-    "https://www.nature.com/articles/d41586-026-02191-3"
+    "https://www.nature.com/articles/d41586-026-02191-3",
+    "https://www.nature.com/articles/d41586-026-02263-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
