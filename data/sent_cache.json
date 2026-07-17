@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/",
-    "https://arstechnica.com/science/2026/05/researchers-develop-a-new-process-to-get-lithium-out-of-rocks/",
     "https://arstechnica.com/tech-policy/2026/05/fbi-says-google-engineer-used-internal-search-data-to-win-1-2m-on-polymarket/",
     "https://arstechnica.com/gaming/2026/05/a-respectable-port-of-age-of-empires-ii-definitive-edition-invades-macos/",
     "https://arstechnica.com/ai/2026/05/apple-reportedly-trying-to-distill-googles-multi-trillion-parameter-gemini-ai-to-run-on-iphone/",
@@ -499,13 +497,11 @@
     "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
     "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
     "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-    "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/"
+    "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
+    "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
+    "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10613-5",
-    "https://www.nature.com/articles/s41586-026-10632-2",
-    "https://www.nature.com/articles/s41586-026-10580-x",
-    "https://www.nature.com/articles/s41586-026-10538-z",
     "https://www.nature.com/articles/s41586-026-10588-3",
     "https://www.nature.com/articles/s41586-026-10623-3",
     "https://www.nature.com/articles/s41586-026-10628-y",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02217-w",
     "https://www.nature.com/articles/d41586-026-02264-3",
     "https://www.nature.com/articles/d41586-026-02191-3",
-    "https://www.nature.com/articles/d41586-026-02263-4"
+    "https://www.nature.com/articles/d41586-026-02263-4",
+    "https://www.science.org/content/article/prominent-salk-institute-biologist-resign-following-sexual-misconduct-investigation",
+    "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+    "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+    "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1166,9 +1166,6 @@
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/05/13/pentagon-reaches-agreements-with-defense-firms-on-containerized-missiles/",
-    "https://www.militarytimes.com/global/europe/2026/05/13/austrian-jets-intercept-us-military-planes-two-days-in-a-row/",
-    "https://www.militarytimes.com/news/your-military/2026/05/13/role-of-indo-pacific-air-defenders-has-evolved-dramatically-us-army-commander-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/13/air-force-mq-9-fleet-drops-to-135-aircraft-after-iran-combat-losses/",
     "https://www.militarytimes.com/news/your-army/2026/05/13/us-army-abruptly-cancels-deployment-of-4000-soldiers-to-poland/",
     "https://www.militarytimes.com/news/your-navy/2026/05/13/us-navy-could-run-out-of-money-by-july-top-officer-warns/",
@@ -1665,6 +1662,9 @@
     "https://www.militarytimes.com/news/your-army/2026/07/17/soldiers-recognized-in-army-national-guard-2026-best-warrior-competition/",
     "https://www.militarytimes.com/news/your-military/2026/07/17/military-spouses-can-find-jobs-keeping-careers-is-the-hard-part/",
     "https://www.militarytimes.com/news/your-navy/2026/07/17/navy-instructs-commands-to-remove-portraits-biographies-from-websites/",
-    "https://www.militarytimes.com/news/your-army/2026/07/17/dc-national-guard-gets-its-first-security-vessel/"
+    "https://www.militarytimes.com/news/your-army/2026/07/17/dc-national-guard-gets-its-first-security-vessel/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/17/saronic-picks-brownsville-texas-for-3-billion-port-alpha-shipyard/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/17/230-troops-discharged-for-refusing-covid-19-vaccine-have-rejoined-pentagon-says/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/17/blue-angels-wont-be-punished-after-low-beach-flyover-acting-secnav-says/"
   ]
 }
