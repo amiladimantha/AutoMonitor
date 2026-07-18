@@ -502,9 +502,6 @@
     "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10623-3",
-    "https://www.nature.com/articles/s41586-026-10628-y",
-    "https://www.nature.com/articles/s41586-026-10611-7",
     "https://www.science.org/content/article/will-world-cup-kick-disease-outbreaks",
     "https://www.science.org/content/article/first-results-put-neutrino-experiment-china-track-breakthrough",
     "https://www.science.org/content/article/study-finds-sharp-decline-black-hispanic-researchers-receiving-nih-funding",
@@ -1001,7 +998,10 @@
     "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
     "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
     "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-    "https://www.nature.com/articles/d41586-026-02218-9"
+    "https://www.nature.com/articles/d41586-026-02218-9",
+    "https://www.science.org/content/article/trump-administration-officially-ends-dozens-grants-studying-patient-care",
+    "https://www.science.org/content/article/china-s-detention-u-s-seismologist-and-data-sharing-crackdown-alarm-researchers",
+    "https://www.science.org/content/article/u-k-government-details-plan-dramatic-aid-cuts-african-nations"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
