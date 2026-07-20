@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
-    "https://arstechnica.com/space/2026/05/rocket-report-blue-origin-suffers-setback-spacexs-falcon-9-wins-new-business/",
     "https://arstechnica.com/features/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
     "https://arstechnica.com/space/2026/05/heres-why-the-failure-of-blue-origins-new-glenn-rocket-is-so-catastrophic/",
     "https://arstechnica.com/ai/2026/05/robot-training-startup-will-send-humans-wearing-cameras-to-clean-your-home/",
@@ -499,7 +497,9 @@
     "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
     "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/",
     "https://arstechnica.com/culture/2026/07/the-first-trailer-for-avengers-doomsday-is-finally-here/",
-    "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/"
+    "https://arstechnica.com/security/2026/07/pay-up-or-not-ransomware-surge-has-victims-facing-tough-choices/",
+    "https://arstechnica.com/cars/2026/07/f1-in-belgium-the-2026-cars-look-pathetic-on-all-the-best-racetracks/",
+    "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01866-1",
@@ -1163,11 +1163,10 @@
     "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
     "https://huggingface.co/blog/security-incident-july-2026",
     "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-    "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
+    "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+    "https://huggingface.co/blog/nvidia/cosmos3edge"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/europe/2026/05/15/near-russian-border-nato-grapples-with-ground-robots-in-combat/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/15/dod-faces-mounting-pressure-to-pass-clean-audit-for-the-first-time/",
     "https://www.militarytimes.com/news/your-air-force/2026/05/15/air-force-underestimating-aircraft-maintenance-delays-gao-finds/",
     "https://www.militarytimes.com/news/your-navy/2026/05/15/future-aircraft-carrier-doris-miller-delayed-until-2034/",
     "https://www.militarytimes.com/global/asia-pacific/2026/05/15/us-marines-practice-seizing-remote-islands-in-philippine-exercise/",
@@ -1665,6 +1664,8 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/20/lockheed-martins-morfius-x-rotor-built-to-fry-50-enemy-drones-in-one-flight/",
     "https://www.militarytimes.com/news/your-military/2026/07/20/lockheed-martin-announces-cheaper-patriot-interceptor-missile/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/20/thunderstruck-anduril-unveils-autonomous-attack-rotorcraft/",
-    "https://www.militarytimes.com/news/your-military/2026/07/20/new-ai-tool-helps-afghan-allies-at-risk-find-visa-pathways/"
+    "https://www.militarytimes.com/news/your-military/2026/07/20/new-ai-tool-helps-afghan-allies-at-risk-find-visa-pathways/",
+    "https://www.militarytimes.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
+    "https://www.militarytimes.com/news/your-military/2026/07/20/new-air-force-one-to-get-maxed-out-upgrades-after-security-questions/"
   ]
 }
