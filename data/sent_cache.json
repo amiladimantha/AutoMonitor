@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/",
     "https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/",
     "https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/",
     "https://arstechnica.com/health/2026/05/these-researchers-would-be-in-africa-fighting-ebola-but-trump-cut-their-funding/",
@@ -499,12 +498,10 @@
     "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
     "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
     "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
-    "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/"
+    "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+    "https://arstechnica.com/ai/2026/07/beyond-grep-the-case-for-a-context-rich-ai-coding-harness/"
   ],
   "Science": [
-    "https://www.science.org/content/article/first-results-put-neutrino-experiment-china-track-breakthrough",
-    "https://www.science.org/content/article/study-finds-sharp-decline-black-hispanic-researchers-receiving-nih-funding",
-    "https://www.nature.com/articles/d41586-026-01707-1",
     "https://www.nature.com/articles/d41586-026-01865-2",
     "https://www.nature.com/articles/d41586-026-01886-x",
     "https://www.nature.com/articles/d41586-026-01129-z",
@@ -1001,7 +998,10 @@
     "https://www.science.org/content/article/trump-administration-officially-ends-dozens-grants-studying-patient-care",
     "https://www.science.org/content/article/china-s-detention-u-s-seismologist-and-data-sharing-crackdown-alarm-researchers",
     "https://www.science.org/content/article/u-k-government-details-plan-dramatic-aid-cuts-african-nations",
-    "https://www.nature.com/articles/d41586-026-02231-y"
+    "https://www.nature.com/articles/d41586-026-02231-y",
+    "https://www.nature.com/articles/d41586-026-02234-9",
+    "https://www.nature.com/articles/d41586-026-02272-3",
+    "https://www.nature.com/articles/d41586-026-02261-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1166,9 +1166,6 @@
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/14/us-army-recovers-remains-of-second-soldier-reported-missing-during-moroccan-exercise/",
-    "https://www.militarytimes.com/news/your-military/2026/05/14/admirals-to-be-scored-first-on-coast-guards-first-ever-pt-test/",
-    "https://www.militarytimes.com/global/europe/2026/05/14/blacklists-corruption-and-frontline-needs-ukraine-tackles-an-arms-export-puzzle/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/14/barracks-improvements-installation-safety-top-priorities-for-military-construction-budget/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/14/iran-military-threat-is-diminished-but-not-eliminated-centcom-chief-says/",
     "https://www.militarytimes.com/veterans/2026/05/14/west-side-skid-row-pests-crime-litigation-plague-plans-for-vas-los-angeles-campus/",
@@ -1665,6 +1662,9 @@
     "https://www.militarytimes.com/news/your-army/2026/07/18/soldier-girlfriend-allegedly-starved-child-and-dogs-to-death/",
     "https://www.militarytimes.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/",
     "https://www.militarytimes.com/news/your-military/2026/07/19/doctors-question-evidence-behind-pentagons-testosterone-screening-plan/",
-    "https://www.militarytimes.com/news/your-military/2026/07/19/us-service-member-killed-in-northern-iraq-us-central-command-says/"
+    "https://www.militarytimes.com/news/your-military/2026/07/19/us-service-member-killed-in-northern-iraq-us-central-command-says/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/20/trust-between-operators-ccas-starts-with-simulations-former-air-force-secretary/",
+    "https://www.militarytimes.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/20/us-air-force-seeking-air-defense-missile-system-to-protect-air-bases/"
   ]
 }
