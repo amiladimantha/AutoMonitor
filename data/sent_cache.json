@@ -1164,10 +1164,10 @@
     "https://huggingface.co/blog/security-incident-july-2026",
     "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-    "https://huggingface.co/blog/nvidia/cosmos3edge"
+    "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "https://huggingface.co/blog/grabette"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/15/no-sound-of-silence-us-soldiers-train-eyes-and-ears-for-drone-swarms/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/15/us-army-to-receive-thousands-of-barracuda-500m-cruise-missiles-in-anduril-deal/",
     "https://www.militarytimes.com/news/your-military/2026/05/15/army-leaders-in-hot-seat-over-poland-deployment-cancellation/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/15/congress-clashes-with-pentagon-over-civilian-harm-reduction-program/",
@@ -1666,6 +1666,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/20/coast-guard-monitors-chinese-research-vessel-as-it-cuts-through-sovereign-us-waters-to-the-arctic/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/20/air-force-begins-piloted-flights-autonomy-tests-for-modified-f-16s/",
     "https://www.militarytimes.com/news/your-military/2026/07/20/airman-dies-in-equipment-incident-at-california-space-force-base/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/",
+    "https://www.militarytimes.com/opinion/2026/07/21/from-depot-to-detonation-the-case-for-a-unified-logistics-picture/"
   ]
 }
