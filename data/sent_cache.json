@@ -502,10 +502,6 @@
     "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
-    "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
-    "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
-    "https://www.nature.com/articles/d41586-026-01876-z",
     "https://www.nature.com/articles/d41586-026-01911-z",
     "https://www.nature.com/articles/d41586-026-01912-y",
     "https://www.nature.com/articles/d41586-026-01888-9",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02285-y",
     "https://www.nature.com/articles/d41586-026-02213-0",
     "https://www.nature.com/articles/d41586-026-02103-5",
-    "https://www.nature.com/articles/d41586-026-02215-y"
+    "https://www.nature.com/articles/d41586-026-02215-y",
+    "https://www.science.org/content/article/u-s-judge-rejects-trump-s-justification-terminating-thousands-grants",
+    "https://www.science.org/content/article/scientists-attack-ban-adding-noise-u-s-census-data-and-many-surveys",
+    "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+    "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1168,9 +1168,6 @@
     "https://huggingface.co/blog/grabette"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/15/us-armys-7th-infantry-division-1st-mdtf-to-merge-as-multi-domain-command-pacific/",
-    "https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties/",
-    "https://www.militarytimes.com/news/your-navy/2026/05/18/crew-members-safely-ejected-after-navy-jets-collide-at-idaho-air-show/",
     "https://www.militarytimes.com/news/your-military/2026/05/18/coast-guard-plans-new-medal-for-fittest-troops/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/18/us-air-force-looks-to-convert-offshore-oil-rigs-into-rocket-recovery-platforms/",
     "https://www.militarytimes.com/veterans/military-history/2026/05/18/historians-nearly-two-decade-quest-to-piece-together-americas-last-major-offensive-in-vietnam/",
@@ -1667,6 +1664,9 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/",
     "https://www.militarytimes.com/news/your-military/2026/07/21/us-marine-corps-turns-to-ai-powered-bullfrog-as-drone-threats-expand/",
     "https://www.militarytimes.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/",
-    "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-soldier-killed-in-controlled-detonation-of-iranian-drone/"
+    "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-soldier-killed-in-controlled-detonation-of-iranian-drone/",
+    "https://www.militarytimes.com/air/2026/07/21/boeing-on-track-for-2028-air-force-one-delivery-costs-rise/",
+    "https://www.militarytimes.com/news/recruiting/2026/07/21/space-force-swears-in-first-batch-of-part-time-workers/",
+    "https://www.militarytimes.com/pentagon/2026/07/21/hanwha-philly-shipyard-awarded-2-billion-to-build-2-missile-tracking-vessels/"
   ]
 }
