@@ -502,7 +502,6 @@
     "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/"
   ],
   "Science": [
-    "https://www.science.org/content/article/el-nino-has-begun-it-may-become-strongest-century",
     "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
     "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
     "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02228-7",
     "https://www.nature.com/articles/d41586-026-02212-1",
     "https://www.nature.com/articles/d41586-026-02281-2",
-    "https://www.nature.com/articles/d41586-026-02285-y"
+    "https://www.nature.com/articles/d41586-026-02285-y",
+    "https://www.nature.com/articles/d41586-026-02213-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1168,7 +1168,6 @@
     "https://huggingface.co/blog/grabette"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/15/army-leaders-in-hot-seat-over-poland-deployment-cancellation/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/15/congress-clashes-with-pentagon-over-civilian-harm-reduction-program/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/15/senators-introduce-bill-to-abolish-military-draft-agency/",
     "https://www.militarytimes.com/news/your-military/2026/05/15/us-armys-7th-infantry-division-1st-mdtf-to-merge-as-multi-domain-command-pacific/",
@@ -1667,6 +1666,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/20/airman-dies-in-equipment-incident-at-california-space-force-base/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/",
     "https://www.militarytimes.com/opinion/2026/07/21/from-depot-to-detonation-the-case-for-a-unified-logistics-picture/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/"
+    "https://www.militarytimes.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/",
+    "https://www.militarytimes.com/news/your-military/2026/07/21/us-marine-corps-turns-to-ai-powered-bullfrog-as-drone-threats-expand/"
   ]
 }
