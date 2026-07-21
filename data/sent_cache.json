@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/",
-    "https://arstechnica.com/tech-policy/2026/05/trump-fcc-warns-all-broadcasters-to-follow-orders-or-be-punished-like-abc/",
-    "https://arstechnica.com/tech-policy/2026/05/doj-sues-states-that-rejected-ice-requests-for-undercover-license-plates/",
     "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
     "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
     "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
@@ -499,11 +496,12 @@
     "https://arstechnica.com/tech-policy/2026/07/cop-charged-with-covering-bodycam-to-photograph-naked-prisoners/",
     "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
     "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-    "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/"
+    "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
+    "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
+    "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
+    "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-    "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
     "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
     "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
     "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02212-1",
     "https://www.nature.com/articles/d41586-026-02281-2",
     "https://www.nature.com/articles/d41586-026-02285-y",
-    "https://www.nature.com/articles/d41586-026-02213-0"
+    "https://www.nature.com/articles/d41586-026-02213-0",
+    "https://www.nature.com/articles/d41586-026-02103-5",
+    "https://www.nature.com/articles/d41586-026-02215-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1168,8 +1168,6 @@
     "https://huggingface.co/blog/grabette"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/15/congress-clashes-with-pentagon-over-civilian-harm-reduction-program/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/15/senators-introduce-bill-to-abolish-military-draft-agency/",
     "https://www.militarytimes.com/news/your-military/2026/05/15/us-armys-7th-infantry-division-1st-mdtf-to-merge-as-multi-domain-command-pacific/",
     "https://www.militarytimes.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties/",
     "https://www.militarytimes.com/news/your-navy/2026/05/18/crew-members-safely-ejected-after-navy-jets-collide-at-idaho-air-show/",
@@ -1667,6 +1665,8 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/",
     "https://www.militarytimes.com/opinion/2026/07/21/from-depot-to-detonation-the-case-for-a-unified-logistics-picture/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/",
-    "https://www.militarytimes.com/news/your-military/2026/07/21/us-marine-corps-turns-to-ai-powered-bullfrog-as-drone-threats-expand/"
+    "https://www.militarytimes.com/news/your-military/2026/07/21/us-marine-corps-turns-to-ai-powered-bullfrog-as-drone-threats-expand/",
+    "https://www.militarytimes.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/",
+    "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-soldier-killed-in-controlled-detonation-of-iranian-drone/"
   ]
 }
