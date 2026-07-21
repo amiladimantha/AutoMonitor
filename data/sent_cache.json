@@ -1165,10 +1165,10 @@
     "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "https://huggingface.co/blog/grabette"
+    "https://huggingface.co/blog/grabette",
+    "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/military-history/2026/05/18/historians-nearly-two-decade-quest-to-piece-together-americas-last-major-offensive-in-vietnam/",
     "https://www.militarytimes.com/news/your-military/2026/05/18/air-space-forces-revamp-religious-accommodations-to-align-with-pentagon-guidance/",
     "https://www.militarytimes.com/news/your-navy/2026/05/18/ford-carrier-strike-group-receives-presidential-unit-citation-after-historic-deployment/",
     "https://www.militarytimes.com/veterans/military-history/2026/05/18/the-f4f-wildcat-the-little-fighter-that-could/",
@@ -1667,6 +1667,7 @@
     "https://www.militarytimes.com/news/recruiting/2026/07/21/space-force-swears-in-first-batch-of-part-time-workers/",
     "https://www.militarytimes.com/pentagon/2026/07/21/hanwha-philly-shipyard-awarded-2-billion-to-build-2-missile-tracking-vessels/",
     "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/iran-warns-bulgaria-against-aiding-us-military-operations/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/iran-warns-bulgaria-against-aiding-us-military-operations/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/21/uss-charlotte-crew-that-reportedly-sank-iranian-frigate-awarded-navy-unit-commendation/"
   ]
 }
