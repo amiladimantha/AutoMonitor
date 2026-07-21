@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/",
-    "https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/",
-    "https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/",
     "https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/",
     "https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/",
     "https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/",
@@ -499,11 +496,12 @@
     "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
     "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
     "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
-    "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/"
+    "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
+    "https://arstechnica.com/gaming/2026/07/steam-deck-sales-are-losing-steam-since-mays-price-hike/",
+    "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+    "https://arstechnica.com/gadgets/2026/07/treesize-wont-renew-perpetual-license-support-unless-users-subscribe/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01911-z",
-    "https://www.nature.com/articles/d41586-026-01912-y",
     "https://www.nature.com/articles/d41586-026-01888-9",
     "https://www.nature.com/articles/d41586-026-01858-1",
     "https://www.nature.com/articles/d41586-026-01902-0",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/u-s-judge-rejects-trump-s-justification-terminating-thousands-grants",
     "https://www.science.org/content/article/scientists-attack-ban-adding-noise-u-s-census-data-and-many-surveys",
     "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-    "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+    "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+    "https://www.nature.com/articles/d41586-026-02210-3",
+    "https://www.nature.com/articles/d41586-026-02258-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1168,8 +1168,6 @@
     "https://huggingface.co/blog/grabette"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/18/coast-guard-plans-new-medal-for-fittest-troops/",
-    "https://www.militarytimes.com/industry/techwatch/2026/05/18/us-air-force-looks-to-convert-offshore-oil-rigs-into-rocket-recovery-platforms/",
     "https://www.militarytimes.com/veterans/military-history/2026/05/18/historians-nearly-two-decade-quest-to-piece-together-americas-last-major-offensive-in-vietnam/",
     "https://www.militarytimes.com/news/your-military/2026/05/18/air-space-forces-revamp-religious-accommodations-to-align-with-pentagon-guidance/",
     "https://www.militarytimes.com/news/your-navy/2026/05/18/ford-carrier-strike-group-receives-presidential-unit-citation-after-historic-deployment/",
@@ -1667,6 +1665,8 @@
     "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-soldier-killed-in-controlled-detonation-of-iranian-drone/",
     "https://www.militarytimes.com/air/2026/07/21/boeing-on-track-for-2028-air-force-one-delivery-costs-rise/",
     "https://www.militarytimes.com/news/recruiting/2026/07/21/space-force-swears-in-first-batch-of-part-time-workers/",
-    "https://www.militarytimes.com/pentagon/2026/07/21/hanwha-philly-shipyard-awarded-2-billion-to-build-2-missile-tracking-vessels/"
+    "https://www.militarytimes.com/pentagon/2026/07/21/hanwha-philly-shipyard-awarded-2-billion-to-build-2-missile-tracking-vessels/",
+    "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/iran-warns-bulgaria-against-aiding-us-military-operations/"
   ]
 }
