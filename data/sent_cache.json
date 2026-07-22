@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/06/doctors-blast-trump-for-doubling-down-on-vaccine-policy-modeled-after-denmark/",
-    "https://arstechnica.com/tech-policy/2026/06/florida-sues-openai-sam-altman-after-multiple-chatgpt-linked-murders/",
-    "https://arstechnica.com/cars/2026/06/from-15-hours-to-one-minute-how-ai-ml-is-speeding-up-gms-development/",
-    "https://arstechnica.com/ai/2026/06/allegedly-trashing-airbnbs-to-test-robots-puts-startup-in-legal-trouble/",
     "https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/",
     "https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/",
     "https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/",
@@ -499,29 +495,13 @@
     "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
     "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
     "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
-    "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/"
+    "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
+    "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
+    "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
+    "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/",
+    "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01834-9",
-    "https://www.nature.com/articles/d41586-026-01833-w",
-    "https://www.nature.com/articles/d41586-026-01887-w",
-    "https://www.nature.com/articles/d41586-026-01889-8",
-    "https://www.nature.com/articles/d41586-026-01885-y",
-    "https://www.nature.com/articles/s41586-026-10768-1",
-    "https://www.nature.com/articles/d41586-026-01867-0",
-    "https://www.nature.com/articles/d41586-026-01863-4",
-    "https://www.nature.com/articles/d41586-026-01917-7",
-    "https://www.nature.com/articles/d41586-026-01916-8",
-    "https://www.nature.com/articles/d41586-026-01914-w",
-    "https://www.nature.com/articles/d41586-026-01915-9",
-    "https://www.nature.com/articles/d41586-026-01877-y",
-    "https://www.nature.com/articles/d41586-026-01884-z",
-    "https://www.nature.com/articles/s41586-026-10770-7",
-    "https://www.nature.com/articles/d41586-026-01811-2",
-    "https://www.nature.com/articles/d41586-026-01929-3",
-    "https://www.nature.com/articles/d41586-026-01903-z",
-    "https://www.nature.com/articles/d41586-026-01882-1",
-    "https://www.nature.com/articles/d41586-026-01883-0",
     "https://www.nature.com/articles/d41586-026-01719-x",
     "https://www.nature.com/articles/d41586-026-01938-2",
     "https://www.nature.com/articles/d41586-026-01881-2",
@@ -1001,7 +981,27 @@
     "https://www.nature.com/articles/d41586-026-02256-3",
     "https://www.nature.com/articles/d41586-026-02020-7",
     "https://www.nature.com/articles/d41586-026-02273-2",
-    "https://www.nature.com/articles/d41586-026-02259-0"
+    "https://www.nature.com/articles/d41586-026-02259-0",
+    "https://www.nature.com/articles/s41586-026-10919-4",
+    "https://www.nature.com/articles/s41586-026-10913-w",
+    "https://www.nature.com/articles/d41586-026-02299-6",
+    "https://www.nature.com/articles/d41586-026-02219-8",
+    "https://www.nature.com/articles/s41586-026-10701-6",
+    "https://www.nature.com/articles/s41586-026-10833-9",
+    "https://www.nature.com/articles/s41586-026-10824-w",
+    "https://www.nature.com/articles/s41586-026-10803-1",
+    "https://www.nature.com/articles/s41586-026-10831-x",
+    "https://www.nature.com/articles/s41586-026-10817-9",
+    "https://www.nature.com/articles/s41586-026-10751-w",
+    "https://www.nature.com/articles/s41586-026-10808-w",
+    "https://www.nature.com/articles/s41586-026-10827-7",
+    "https://www.nature.com/articles/s41586-026-10794-z",
+    "https://www.nature.com/articles/s41586-026-10820-0",
+    "https://www.nature.com/articles/s41586-026-10778-z",
+    "https://www.nature.com/articles/s41586-026-10797-w",
+    "https://www.nature.com/articles/s41586-026-10832-w",
+    "https://www.nature.com/articles/s41586-026-10811-1",
+    "https://www.nature.com/articles/s41586-026-10823-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1169,8 +1169,6 @@
     "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/18/isis-leader-killed-in-africa-as-us-commander-raises-force-reduction-concerns/",
-    "https://www.militarytimes.com/news/your-military/2026/05/19/hegseth-mulls-benefits-fix-for-veterans-exposed-to-radiation-at-a-bomb-test-site/",
     "https://www.militarytimes.com/news/your-military/2026/05/19/hegseth-campaigns-for-congressional-race-breaking-with-pentagon-neutrality/",
     "https://www.militarytimes.com/global/europe/2026/05/19/polish-officials-vent-worries-over-scrapped-us-troop-deployment/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/19/pentagon-inks-500-million-deal-with-perennial-autonomy-for-counter-drone-tech/",
@@ -1668,6 +1666,8 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
     "https://www.militarytimes.com/opinion/2026/07/22/america-cannot-surge-experience/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/07/22/marines-release-updated-heat-cold-injury-safety-guidance/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/22/too-many-trucks-too-many-zeros-army-audit-drive-exposes-flaws-as-pentagon-nears-2028-goal/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/22/too-many-trucks-too-many-zeros-army-audit-drive-exposes-flaws-as-pentagon-nears-2028-goal/",
+    "https://www.militarytimes.com/news/your-military/2026/07/22/4-us-soldiers-killed-in-iran-war-return-to-american-soil/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/22/boeings-mq-28-ghost-bat-makes-farnborough-airshow-debut/"
   ]
 }
