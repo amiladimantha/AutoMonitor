@@ -502,8 +502,6 @@
     "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-    "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
     "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
     "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
     "https://www.nature.com/articles/d41586-026-01834-9",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/rapid-spread-ebola-spurs-remarkably-quick-drug-and-vaccine-trials",
     "https://www.science.org/content/article/earth-s-core-may-be-far-cooler-scientists-thought",
     "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-    "https://www.nature.com/articles/d41586-026-02229-6"
+    "https://www.nature.com/articles/d41586-026-02229-6",
+    "https://www.nature.com/articles/d41586-026-02256-3",
+    "https://www.nature.com/articles/d41586-026-02020-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1169,7 +1169,6 @@
     "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/military-history/2026/05/18/the-f4f-wildcat-the-little-fighter-that-could/",
     "https://www.militarytimes.com/global/europe/2026/05/18/ukraine-declares-its-first-homegrown-guided-aerial-bomb-combat-ready/",
     "https://www.militarytimes.com/news/your-navy/2026/05/18/us-navy-commissions-final-littoral-combat-ship-after-years-of-issues/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/18/isis-leader-killed-in-africa-as-us-commander-raises-force-reduction-concerns/",
@@ -1668,6 +1667,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/iran-warns-bulgaria-against-aiding-us-military-operations/",
     "https://www.militarytimes.com/news/your-navy/2026/07/21/uss-charlotte-crew-that-reportedly-sank-iranian-frigate-awarded-navy-unit-commendation/",
     "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
+    "https://www.militarytimes.com/opinion/2026/07/22/america-cannot-surge-experience/"
   ]
 }
