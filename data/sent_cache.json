@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/",
-    "https://arstechnica.com/security/2026/06/dozens-of-red-hat-packages-backdoored-through-its-offical-npm-channel/",
-    "https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/",
     "https://arstechnica.com/tech-policy/2026/06/trumps-doe-restarts-energy-rebate-program-with-dumb-conditions/",
     "https://arstechnica.com/space/2026/06/impulse-space-raises-500-million-as-orbital-maneuvering-race-heats-up/",
     "https://arstechnica.com/space/2026/06/blue-origin-vows-to-fly-its-new-glenn-rocket-before-the-end-of-this-year/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/gadgets/2026/07/ukrainian-drones-deliver-robots-directly-into-battle-by-sea-and-air/",
     "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
     "https://arstechnica.com/space/2026/07/next-space-force-chief-throws-cold-water-on-the-idea-of-space-privateers/",
-    "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/"
+    "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+    "https://arstechnica.com/gaming/2026/07/microsoft-brings-original-xbox-backward-compatibility-to-windows-pcs/",
+    "https://arstechnica.com/tech-policy/2026/07/isps-long-nightmare-of-having-to-list-all-the-fees-they-charge-is-finally-over/",
+    "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-01719-x",
@@ -1169,7 +1169,6 @@
     "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/19/mq-25a-stingray-cleared-for-deployment-says-cao/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/19/trump-edges-toward-new-strikes-on-iran/",
     "https://www.militarytimes.com/news/your-military/2026/05/19/war-in-pieces-air-force-wants-special-ops-plane-that-can-be-built-on-the-fly/",
     "https://www.militarytimes.com/veterans/2026/05/19/va-hospitals-earn-top-marks-in-federal-review/",
@@ -1668,6 +1667,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/07/22/thousands-of-marines-sailors-back-in-japan-after-deploying-for-iran-war/",
     "https://www.militarytimes.com/veterans/2026/07/22/va-reduces-improper-payments-for-private-health-care-by-98-since-2020/",
     "https://www.militarytimes.com/news/your-military/2026/07/22/us-navy-moving-forward-on-west-coast-dock-for-aircraft-carriers/",
-    "https://www.militarytimes.com/news/your-military/2026/07/22/two-wyoming-air-national-guard-commanders-relieved-of-duty/"
+    "https://www.militarytimes.com/news/your-military/2026/07/22/two-wyoming-air-national-guard-commanders-relieved-of-duty/",
+    "https://www.militarytimes.com/news/your-military/2026/07/22/the-brrrrt-act-would-keep-more-warthogs-flying-and-force-the-air-force-to-reverse-course/"
   ]
 }
