@@ -502,10 +502,6 @@
     "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01888-9",
-    "https://www.nature.com/articles/d41586-026-01858-1",
-    "https://www.nature.com/articles/d41586-026-01902-0",
-    "https://www.science.org/content/article/new-documentary-follows-researchers-increasingly-fraught-career-path",
     "https://www.science.org/content/article/metal-driven-chemical-reaction-deep-sea-may-explain-origin-life",
     "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
     "https://www.technologyreview.com/2026/06/12/1138518/you-do-your-own-time-fiction/",
@@ -1001,7 +997,11 @@
     "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
     "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
     "https://www.nature.com/articles/d41586-026-02210-3",
-    "https://www.nature.com/articles/d41586-026-02258-1"
+    "https://www.nature.com/articles/d41586-026-02258-1",
+    "https://www.science.org/content/article/chimps-and-bonobos-hug-and-hold-hands-just-us",
+    "https://www.science.org/content/article/rapid-spread-ebola-spurs-remarkably-quick-drug-and-vaccine-trials",
+    "https://www.science.org/content/article/earth-s-core-may-be-far-cooler-scientists-thought",
+    "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
