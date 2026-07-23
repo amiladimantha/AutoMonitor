@@ -502,7 +502,6 @@
     "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10614-4",
     "https://www.nature.com/articles/s41586-026-10586-5",
     "https://www.nature.com/articles/s41586-026-10638-w",
     "https://www.nature.com/articles/s41586-026-10673-7",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02295-w",
     "https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system",
     "https://www.science.org/content/article/contagious-fish-cancer-overruns-new-england-lake",
-    "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/"
+    "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+    "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
