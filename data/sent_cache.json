@@ -502,9 +502,6 @@
     "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01881-2",
-    "https://www.nature.com/articles/s41586-026-10764-5",
-    "https://www.nature.com/articles/d41586-026-01941-7",
     "https://www.nature.com/articles/s41586-026-10614-4",
     "https://www.nature.com/articles/s41586-026-10586-5",
     "https://www.nature.com/articles/s41586-026-10638-w",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/s41586-026-10811-1",
     "https://www.nature.com/articles/s41586-026-10823-x",
     "https://www.nature.com/articles/d41586-026-02174-4",
-    "https://www.nature.com/articles/d41586-026-02295-w"
+    "https://www.nature.com/articles/d41586-026-02295-w",
+    "https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system",
+    "https://www.science.org/content/article/contagious-fish-cancer-overruns-new-england-lake",
+    "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1166,7 +1166,8 @@
     "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
     "https://huggingface.co/blog/nvidia/cosmos3edge",
     "https://huggingface.co/blog/grabette",
-    "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
+    "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+    "https://huggingface.co/blog/nunchaku-diffusers"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/veterans/2026/05/19/va-hospitals-earn-top-marks-in-federal-review/",
