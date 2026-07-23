@@ -502,7 +502,6 @@
     "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10617-1",
     "https://www.nature.com/articles/s41586-026-10657-7",
     "https://www.nature.com/articles/s41586-026-10676-4",
     "https://www.nature.com/articles/s41586-025-09553-3",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
     "https://www.nature.com/articles/d41586-026-02024-3",
     "https://www.nature.com/articles/d41586-026-02275-0",
-    "https://www.nature.com/articles/d41586-026-02169-1"
+    "https://www.nature.com/articles/d41586-026-02169-1",
+    "https://www.nature.com/articles/d41586-026-02293-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1170,9 +1170,6 @@
     "https://huggingface.co/blog/nunchaku-diffusers"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/19/trump-reveals-new-details-of-bunker-like-ballroom-with-drone-base/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/20/pentagon-policy-isnt-keeping-pace-with-autonomous-weapons-senators-argue/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/20/pentagon-watchdog-evaluating-us-militarys-strikes-on-alleged-drug-boats/",
     "https://www.militarytimes.com/veterans/military-history/2026/05/20/official-trailer-for-jimmy-stewart-biopic-released/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/05/20/marines-lower-time-in-service-requirement-for-sergeant-promotions/",
     "https://www.militarytimes.com/news/your-navy/2026/05/20/us-marines-board-and-redirect-iranian-flagged-tanker-amid-ongoing-blockade/",
@@ -1669,6 +1666,9 @@
     "https://www.militarytimes.com/news/your-military/2026/07/23/trump-promised-redemption-for-troops-who-refused-covid-shots-a-year-later-many-are-still-waiting/",
     "https://www.militarytimes.com/opinion/2026/07/23/widespread-hormone-replacement-could-yield-long-term-detriments-that-outweigh-benefits/",
     "https://www.militarytimes.com/opinion/2026/07/23/peace-through-secure-supply-chains/",
-    "https://www.militarytimes.com/veterans/military-history/2026/07/23/25-years-later-band-of-brothers-still-resonates/"
+    "https://www.militarytimes.com/veterans/military-history/2026/07/23/25-years-later-band-of-brothers-still-resonates/",
+    "https://www.militarytimes.com/news/your-military/2026/07/23/navys-dinosaur-carrier-delivery-plane-flies-into-sunset/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/23/even-500-could-make-a-difference-for-military-childcare-workers-researchers-find/",
+    "https://www.militarytimes.com/news/your-military/2026/07/23/navy-announces-recipients-of-2026-expeditionary-warfare-excellence-awards/"
   ]
 }
