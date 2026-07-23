@@ -502,7 +502,6 @@
     "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01719-x",
     "https://www.nature.com/articles/d41586-026-01938-2",
     "https://www.nature.com/articles/d41586-026-01881-2",
     "https://www.nature.com/articles/s41586-026-10764-5",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-10797-w",
     "https://www.nature.com/articles/s41586-026-10832-w",
     "https://www.nature.com/articles/s41586-026-10811-1",
-    "https://www.nature.com/articles/s41586-026-10823-x"
+    "https://www.nature.com/articles/s41586-026-10823-x",
+    "https://www.nature.com/articles/d41586-026-02174-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
