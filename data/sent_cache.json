@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/06/trumps-ai-executive-order-may-not-prevent-dangerous-deployments/",
-    "https://arstechnica.com/gadgets/2026/06/new-social-features-further-plexs-evolution-from-media-server-business/",
-    "https://arstechnica.com/cars/2026/06/robotaxis-dont-cut-traffic-any-more-than-ride-hailing-study-finds/",
     "https://arstechnica.com/ai/2026/06/inside-metas-attempts-to-play-catch-up-with-ai/",
     "https://arstechnica.com/science/2026/06/microsoft-atom-computing-eeroq-update-their-quantum-computing-progress/",
     "https://arstechnica.com/science/2026/06/used-waymo-robotaxi-batteries-become-backup-storage-for-power-grids/",
@@ -499,10 +496,12 @@
     "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
     "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
     "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
-    "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/"
+    "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
+    "https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/",
+    "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
+    "https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/"
   ],
   "Science": [
-    "https://www.science.org/content/article/russia-s-plan-drill-superdeep-holes-arctic-revives-controversial-theory-endless-oil",
     "https://www.science.org/content/article/dismantling-key-ocean-telescope-raises-fears-u-s-retreat-marine-science",
     "https://www.science.org/content/article/ai-models-have-troubling-knack-discovering-legal-loopholes",
     "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
@@ -1001,7 +1000,8 @@
     "https://www.science.org/content/article/drug-could-help-end-hiv-epidemic-its-rollout-has-hit-speed-bumps",
     "https://www.science.org/content/article/fda-committee-votes-make-peptides-more-widely-available",
     "https://www.science.org/content/article/are-dolphins-only-animals-call-each-other-name",
-    "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+    "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+    "https://www.nature.com/articles/d41586-026-02332-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1170,7 +1170,6 @@
     "https://huggingface.co/blog/nunchaku-diffusers"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/05/21/ai-powered-tool-helps-navy-talk-thousands-of-sailors-out-of-leaving/",
     "https://www.militarytimes.com/news/your-military/2026/05/21/air-force-dubs-mq-9-the-mvp-of-epic-fury-as-lawmakers-press-manned-unmanned-future/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/21/the-us-navy-is-full-speed-ahead-on-building-a-laser-fleet/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/21/administration-budget-maneuvers-could-affect-army-barracks-family-housing-projects/",
@@ -1669,6 +1668,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/24/national-guard-awards-292-million-for-2000-apartment-style-units-for-dc-deployments/",
     "https://www.militarytimes.com/news/your-military/2026/07/24/selective-service-system-wants-to-wargame-the-draft/",
     "https://www.militarytimes.com/news/your-military/2026/07/24/pentagon-nominates-lt-gen-admiral-to-command-us-army-europe-and-africa/",
-    "https://www.militarytimes.com/news/your-military/2026/07/24/texas-joint-base-medical-barracks-to-be-demolished-forcing-the-relocation-of-enlisted-students/"
+    "https://www.militarytimes.com/news/your-military/2026/07/24/texas-joint-base-medical-barracks-to-be-demolished-forcing-the-relocation-of-enlisted-students/",
+    "https://www.militarytimes.com/global/europe/2026/07/24/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships/"
   ]
 }
