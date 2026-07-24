@@ -502,10 +502,6 @@
     "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/"
   ],
   "Science": [
-    "https://www.science.org/content/article/space-telescope-falling-earth-nasa-racing-rescue-it",
-    "https://www.science.org/content/article/big-ebola-outbreak-puts-spotlight-little-known-virus",
-    "https://www.science.org/content/article/earliest-plague-epidemics-may-have-been-caused-marmots",
-    "https://www.science.org/content/article/new-space-telescope-will-map-galaxies-ghostly-halos-and-streams",
     "https://www.science.org/content/article/russia-s-plan-drill-superdeep-holes-arctic-revives-controversial-theory-endless-oil",
     "https://www.science.org/content/article/dismantling-key-ocean-telescope-raises-fears-u-s-retreat-marine-science",
     "https://www.science.org/content/article/ai-models-have-troubling-knack-discovering-legal-loopholes",
@@ -1001,7 +997,11 @@
     "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
     "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
     "https://www.nature.com/articles/s41586-026-10911-y",
-    "https://www.nature.com/articles/d41586-026-02268-z"
+    "https://www.nature.com/articles/d41586-026-02268-z",
+    "https://www.science.org/content/article/drug-could-help-end-hiv-epidemic-its-rollout-has-hit-speed-bumps",
+    "https://www.science.org/content/article/fda-committee-votes-make-peptides-more-widely-available",
+    "https://www.science.org/content/article/are-dolphins-only-animals-call-each-other-name",
+    "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
