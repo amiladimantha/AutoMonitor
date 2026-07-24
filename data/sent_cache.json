@@ -502,7 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-025-09473-2",
     "https://www.nature.com/articles/s41586-026-10650-0",
     "https://www.nature.com/articles/s41586-026-10664-8",
     "https://www.nature.com/articles/s41586-026-10679-1",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02293-y",
     "https://www.nature.com/articles/d41586-026-02279-w",
     "https://www.nature.com/articles/d41586-026-02280-3",
-    "https://www.nature.com/articles/d41586-026-02307-9"
+    "https://www.nature.com/articles/d41586-026-02307-9",
+    "https://www.nature.com/articles/d41586-026-02267-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
