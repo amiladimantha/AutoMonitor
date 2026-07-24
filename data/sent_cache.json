@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/",
     "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
     "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
     "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
     "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
     "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-    "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/"
+    "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+    "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10650-0",
     "https://www.nature.com/articles/s41586-026-10664-8",
     "https://www.nature.com/articles/s41586-026-10679-1",
     "https://www.nature.com/articles/s41586-026-10643-z",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02279-w",
     "https://www.nature.com/articles/d41586-026-02280-3",
     "https://www.nature.com/articles/d41586-026-02307-9",
-    "https://www.nature.com/articles/d41586-026-02267-0"
+    "https://www.nature.com/articles/d41586-026-02267-0",
+    "https://www.nature.com/articles/d41586-026-02338-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1170,7 +1170,6 @@
     "https://huggingface.co/blog/nunchaku-diffusers"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/pentagon/2026/05/20/trump-says-ukraine-lacks-leverage-his-own-officials-say-otherwise/",
     "https://www.militarytimes.com/news/your-military/2026/05/21/why-is-it-taking-so-long-to-identify-americas-unknown-fallen-heroes/",
     "https://www.militarytimes.com/news/your-military/2026/05/21/amid-rising-military-suicides-services-cant-tell-if-prevention-training-is-effective/",
     "https://www.militarytimes.com/news/your-military/2026/05/21/marines-now-eligible-for-mexican-border-defense-medal/",
@@ -1669,6 +1668,7 @@
     "https://www.militarytimes.com/global/europe/2026/07/23/incredible-work-ukrainian-f-16-downs-russian-fighter-jet-for-first-time/",
     "https://www.militarytimes.com/news/your-military/2026/07/23/colonel-takes-helm-at-nevada-air-base-wing-as-units-first-female-commander/",
     "https://www.militarytimes.com/veterans/2026/07/23/in-a-suicide-crisis-eligible-veterans-can-go-to-any-er-for-free-nearly-50000-already-have/",
-    "https://www.militarytimes.com/news/your-military/2026/07/23/parris-island-drill-instructor-found-dead-in-apartment/"
+    "https://www.militarytimes.com/news/your-military/2026/07/23/parris-island-drill-instructor-found-dead-in-apartment/",
+    "https://www.militarytimes.com/news/your-military/2026/07/24/meet-the-48-year-old-space-force-guardian-setting-hawaii-state-powerlifting-records/"
   ]
 }
