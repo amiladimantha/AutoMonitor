@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/",
-    "https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/",
-    "https://arstechnica.com/science/2026/06/beans-use-an-immune-receptor-to-call-in-airstrikes-on-caterpillars/",
     "https://arstechnica.com/health/2026/06/flesh-eating-screwworm-infection-detected-in-south-texas-usda-says/",
     "https://arstechnica.com/tech-policy/2026/06/google-ordered-to-put-clearer-links-in-ai-search-and-let-uk-publishers-opt-out/",
     "https://arstechnica.com/security/2026/06/dashlane-issues-opaque-advisory-warning-20-encrypted-vaults-were-stolen/",
@@ -499,19 +496,12 @@
     "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
     "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-    "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/"
+    "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
+    "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
+    "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
+    "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10664-8",
-    "https://www.nature.com/articles/s41586-026-10679-1",
-    "https://www.nature.com/articles/s41586-026-10643-z",
-    "https://www.nature.com/articles/s41586-026-10648-8",
-    "https://www.nature.com/articles/s41586-026-10667-5",
-    "https://www.nature.com/articles/s41586-026-10653-x",
-    "https://www.nature.com/articles/s41586-026-10660-y",
-    "https://www.nature.com/articles/s41586-026-10540-5",
-    "https://www.nature.com/articles/d41586-026-01923-9",
-    "https://www.nature.com/articles/d41586-026-01870-5",
     "https://www.nature.com/articles/d41586-026-01868-z",
     "https://www.science.org/content/article/do-animals-perceive-time-differently-humans",
     "https://www.science.org/content/article/space-telescope-falling-earth-nasa-racing-rescue-it",
@@ -1001,7 +991,17 @@
     "https://www.nature.com/articles/d41586-026-02280-3",
     "https://www.nature.com/articles/d41586-026-02307-9",
     "https://www.nature.com/articles/d41586-026-02267-0",
-    "https://www.nature.com/articles/d41586-026-02338-2"
+    "https://www.nature.com/articles/d41586-026-02338-2",
+    "https://www.science.org/content/article/nih-again-terminating-grants-trump-administration-dislikes",
+    "https://www.science.org/content/article/four-takeaways-our-investigation-hidden-gene-editing-death",
+    "https://www.science.org/content/article/genesis-mission-department-energy-s-big-ai-push-unveils-first-grants",
+    "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+    "https://www.science.org/content/article/these-insects-should-implode-during-deep-dives-unusual-organ-keeps-them-alive",
+    "https://www.science.org/content/article/25-million-project-will-hunt-self-antibodies-alter-cancer-risk",
+    "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
+    "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
+    "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
+    "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1170,8 +1170,6 @@
     "https://huggingface.co/blog/nunchaku-diffusers"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/21/why-is-it-taking-so-long-to-identify-americas-unknown-fallen-heroes/",
-    "https://www.militarytimes.com/news/your-military/2026/05/21/amid-rising-military-suicides-services-cant-tell-if-prevention-training-is-effective/",
     "https://www.militarytimes.com/news/your-military/2026/05/21/marines-now-eligible-for-mexican-border-defense-medal/",
     "https://www.militarytimes.com/veterans/military-history/2026/05/21/tom-hanks-led-world-war-ii-docuseries-set-to-debut-over-memorial-day/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/21/ai-powered-tool-helps-navy-talk-thousands-of-sailors-out-of-leaving/",
@@ -1669,6 +1667,8 @@
     "https://www.militarytimes.com/news/your-military/2026/07/23/colonel-takes-helm-at-nevada-air-base-wing-as-units-first-female-commander/",
     "https://www.militarytimes.com/veterans/2026/07/23/in-a-suicide-crisis-eligible-veterans-can-go-to-any-er-for-free-nearly-50000-already-have/",
     "https://www.militarytimes.com/news/your-military/2026/07/23/parris-island-drill-instructor-found-dead-in-apartment/",
-    "https://www.militarytimes.com/news/your-military/2026/07/24/meet-the-48-year-old-space-force-guardian-setting-hawaii-state-powerlifting-records/"
+    "https://www.militarytimes.com/news/your-military/2026/07/24/meet-the-48-year-old-space-force-guardian-setting-hawaii-state-powerlifting-records/",
+    "https://www.militarytimes.com/news/your-military/2026/07/24/national-guard-awards-292-million-for-2000-apartment-style-units-for-dc-deployments/",
+    "https://www.militarytimes.com/news/your-military/2026/07/24/selective-service-system-wants-to-wargame-the-draft/"
   ]
 }
