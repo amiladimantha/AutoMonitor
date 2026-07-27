@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/",
-    "https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/",
-    "https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/",
-    "https://arstechnica.com/apple/2026/06/steve-jobs-in-exile-is-a-fine-profile-of-jobs-years-at-next/",
     "https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/",
     "https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/",
     "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/",
@@ -499,10 +495,13 @@
     "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/",
     "https://arstechnica.com/health/2026/07/how-emotionally-powerful-stories-fuel-vaccine-skepticism/",
     "https://arstechnica.com/gadgets/2026/07/activist-charged-with-felony-after-giving-border-agent-duress-code-that-wiped-his-phone/",
-    "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/"
+    "https://arstechnica.com/gadgets/2026/07/framework-laptop-13-pro-review-much-better-battery-much-worse-price/",
+    "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
+    "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
+    "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
+    "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01841-w",
     "https://www.nature.com/articles/d41586-026-01871-4",
     "https://www.nature.com/articles/d41586-026-01947-1",
     "https://www.nature.com/articles/d41586-026-01960-4",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
     "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
     "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/"
+    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+    "https://www.nature.com/articles/d41586-026-02294-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1171,7 +1171,6 @@
     "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/22/hegseth-orders-broad-review-of-military-legal-system/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/22/socom-begins-fielding-new-battlefield-biometrics-system/",
     "https://www.militarytimes.com/global/asia-pacific/2026/05/22/taiwan-says-it-has-not-been-told-by-us-of-arms-sales-delays/",
     "https://www.militarytimes.com/news/your-navy/2026/05/22/uss-nimitz-claims-title-of-longest-serving-aircraft-carrier-from-big-e/",
@@ -1670,6 +1669,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/27/private-bedrooms-wont-be-available-to-all-enlisted-marines/",
     "https://www.militarytimes.com/news/your-military/2026/07/27/pentagon-moves-recent-kia-numbers-from-iran-war-into-overseas-operations-category/",
     "https://www.militarytimes.com/news/your-military/2026/07/27/airmens-waist-to-height-ratios-not-to-be-scored-in-physical-fitness-assessments/",
-    "https://www.militarytimes.com/news/your-military/2026/07/27/roaches-descend-on-us-army-dining-facility-viral-video-appears-to-show/"
+    "https://www.militarytimes.com/news/your-military/2026/07/27/roaches-descend-on-us-army-dining-facility-viral-video-appears-to-show/",
+    "https://www.militarytimes.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/"
   ]
 }
