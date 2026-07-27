@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/",
     "https://arstechnica.com/tech-policy/2026/06/cable-lobby-warns-of-chaos-if-fcc-doesnt-relax-ban-on-foreign-routers/",
     "https://arstechnica.com/science/2026/06/bumblebees-can-spontaneously-solve-problems-study-finds/",
     "https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/",
@@ -499,13 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
     "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
     "https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/",
-    "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/"
+    "https://arstechnica.com/culture/2026/07/first-teaser-for-apple-tvs-neuromancer-debuts-at-sdcc/",
+    "https://arstechnica.com/tech-policy/2026/07/artist-sues-ai-meme-generator-for-selling-deeply-personal-comic-as-ad-template/"
   ],
   "Science": [
-    "https://www.science.org/content/article/ai-models-have-troubling-knack-discovering-legal-loopholes",
-    "https://www.science.org/content/article/french-physicist-and-media-star-loses-doctorate-after-plagiarism-investigation",
-    "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
-    "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
     "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
     "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
     "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
@@ -1001,7 +997,11 @@
     "https://www.science.org/content/article/are-dolphins-only-animals-call-each-other-name",
     "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
     "https://www.nature.com/articles/d41586-026-02332-8",
-    "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct"
+    "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
+    "https://www.nature.com/articles/d41586-026-02171-7",
+    "https://www.nature.com/articles/d41586-026-02313-x",
+    "https://www.nature.com/articles/d41586-026-02316-8",
+    "https://www.nature.com/articles/d41586-026-02314-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1167,10 +1167,10 @@
     "https://huggingface.co/blog/nvidia/cosmos3edge",
     "https://huggingface.co/blog/grabette",
     "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "https://huggingface.co/blog/nunchaku-diffusers"
+    "https://huggingface.co/blog/nunchaku-diffusers",
+    "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/05/21/the-us-navy-is-full-speed-ahead-on-building-a-laser-fleet/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/21/administration-budget-maneuvers-could-affect-army-barracks-family-housing-projects/",
     "https://www.militarytimes.com/news/your-military/2026/05/21/crossed-skis-return-to-the-armys-10th-mountain-division-insignia/",
     "https://www.militarytimes.com/news/your-navy/2026/05/21/uss-nimitz-arrives-in-caribbean-as-us-cuba-tension-mounts/",
@@ -1669,6 +1669,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/24/pentagon-nominates-lt-gen-admiral-to-command-us-army-europe-and-africa/",
     "https://www.militarytimes.com/news/your-military/2026/07/24/texas-joint-base-medical-barracks-to-be-demolished-forcing-the-relocation-of-enlisted-students/",
     "https://www.militarytimes.com/global/europe/2026/07/24/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships/",
-    "https://www.militarytimes.com/global/mideast-africa/2026/07/26/iran-says-ukrainian-attack-on-vessel-in-caspian-sea-killed-sailor/"
+    "https://www.militarytimes.com/global/mideast-africa/2026/07/26/iran-says-ukrainian-attack-on-vessel-in-caspian-sea-killed-sailor/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/07/27/us-congress-approves-money-for-taiwan-defense-does-it-mean-trump-is-done-hesitating/"
   ]
 }
