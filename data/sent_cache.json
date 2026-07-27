@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/06/amd-radeon-rx-9070-gre-review-shrinkflation-isnt-just-for-groceries-anymore/",
-    "https://arstechnica.com/cars/2026/06/not-the-next-r8-audi-reveals-mid-engined-plug-in-hybrid-v8-nuvolari/",
-    "https://arstechnica.com/space/2026/06/rocket-report-blue-origin-explosion-still-making-headlines-impulse-raises-money/",
-    "https://arstechnica.com/space/2026/06/safety-officials-finally-have-a-good-idea-of-what-a-big-rocket-explosion-can-do/",
-    "https://arstechnica.com/science/2026/06/trump-admin-tries-again-to-revive-dying-coal-industry/",
-    "https://arstechnica.com/gadgets/2026/06/the-fitbit-air-is-great-but-googles-ai-is-too-nice-to-be-your-coach/",
     "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
     "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
     "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
@@ -499,13 +493,15 @@
     "https://arstechnica.com/tech-policy/2026/07/5th-circuit-blocks-texas-law-requiring-websites-to-filter-harmful-speech/",
     "https://arstechnica.com/ai/2026/07/verizon-seeks-ai-profits-with-mini-data-centers-1b-dark-fiber-deal-with-google/",
     "https://arstechnica.com/space/2026/07/despite-recent-successes-rapid-reuse-of-starship-remains-a-tough-nut-to-crack/",
-    "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/"
+    "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+    "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
+    "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+    "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+    "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
+    "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+    "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01871-4",
-    "https://www.nature.com/articles/d41586-026-01947-1",
-    "https://www.nature.com/articles/d41586-026-01960-4",
-    "https://www.nature.com/articles/d41586-026-01925-7",
     "https://www.nature.com/articles/s41586-026-10812-0",
     "https://www.nature.com/articles/d41586-026-01963-1",
     "https://www.nature.com/articles/d41586-026-01967-x",
@@ -1001,7 +997,11 @@
     "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
     "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
     "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-    "https://www.nature.com/articles/d41586-026-02294-x"
+    "https://www.nature.com/articles/d41586-026-02294-x",
+    "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public-mandarin",
+    "https://www.science.org/content/article/clear-sighting-wandering-black-hole-reveals-escapee-galaxy-merger",
+    "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
+    "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1171,8 +1171,6 @@
     "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/05/22/uss-nimitz-claims-title-of-longest-serving-aircraft-carrier-from-big-e/",
-    "https://www.militarytimes.com/veterans/military-history/2026/05/22/thank-the-gods-of-war-d-day-success-hinges-on-weather-forecast-in-pressure/",
     "https://www.militarytimes.com/veterans/2026/05/22/veteran-who-lost-both-of-his-legs-in-combat-reenlists-in-the-marine-corps/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/05/22/us-marine-corps-tests-using-helicopter-as-mobile-drone-command-center/",
@@ -1670,6 +1668,8 @@
     "https://www.militarytimes.com/news/your-military/2026/07/27/roaches-descend-on-us-army-dining-facility-viral-video-appears-to-show/",
     "https://www.militarytimes.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/",
     "https://www.militarytimes.com/news/your-navy/2026/07/27/navy-announces-new-flu-vaccination-requirements-for-sailors/",
-    "https://www.militarytimes.com/veterans/2026/07/27/suicidal-ideations-rise-among-veterans-but-attempts-remain-stable-study-finds/"
+    "https://www.militarytimes.com/veterans/2026/07/27/suicidal-ideations-rise-among-veterans-but-attempts-remain-stable-study-finds/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/27/navy-asks-private-sector-for-help-building-temporary-housing-during-renovations/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/27/uss-george-washington-operating-in-south-china-sea-as-china-philippines-tension-escalates/"
   ]
 }
