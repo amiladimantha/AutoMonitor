@@ -502,11 +502,6 @@
     "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
-    "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
-    "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
-    "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
-    "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
     "https://www.nature.com/articles/d41586-026-01948-0",
     "https://www.nature.com/articles/d41586-026-01909-7",
     "https://www.nature.com/articles/d41586-026-01957-z",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-02311-z",
     "https://www.nature.com/articles/d41586-026-02355-1",
     "https://www.nature.com/articles/d41586-026-02104-4",
-    "https://www.nature.com/articles/d41586-026-02300-2"
+    "https://www.nature.com/articles/d41586-026-02300-2",
+    "https://www.science.org/content/article/gene-may-help-lizards-get-grip-hurricane-force-winds",
+    "https://www.science.org/content/article/future-giant-monkey-research-facility-uncertain-even-sanctuary-plan-dropped",
+    "https://www.science.org/content/article/watch-killer-flies-zigzag-flight-escape-their-cannibal-mates",
+    "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+    "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1168,11 +1168,10 @@
     "https://huggingface.co/blog/grabette",
     "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
     "https://huggingface.co/blog/nunchaku-diffusers",
-    "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
+    "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/",
-    "https://www.militarytimes.com/news/your-marine-corps/2026/05/22/us-marine-corps-tests-using-helicopter-as-mobile-drone-command-center/",
     "https://www.militarytimes.com/news/your-army/2026/05/22/scarlet-for-ya-irish-team-takes-first-place-on-bradleys-in-us-armys-armor-competition-despite-having-none-at-home/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/22/all-female-senate-delegation-sets-off-for-high-north-amid-growing-military-tensions/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/22/rubio-ratchets-up-pressure-on-nato-at-key-summit/",
@@ -1670,6 +1669,8 @@
     "https://www.militarytimes.com/veterans/2026/07/27/suicidal-ideations-rise-among-veterans-but-attempts-remain-stable-study-finds/",
     "https://www.militarytimes.com/news/your-navy/2026/07/27/navy-asks-private-sector-for-help-building-temporary-housing-during-renovations/",
     "https://www.militarytimes.com/news/your-navy/2026/07/27/uss-george-washington-operating-in-south-china-sea-as-china-philippines-tension-escalates/",
-    "https://www.militarytimes.com/news/your-military/2026/07/28/shrapnel-broken-bones-and-head-trauma-new-records-show-how-us-troops-were-wounded-in-iran-war/"
+    "https://www.militarytimes.com/news/your-military/2026/07/28/shrapnel-broken-bones-and-head-trauma-new-records-show-how-us-troops-were-wounded-in-iran-war/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force/",
+    "https://www.militarytimes.com/news/your-military/2026/07/28/white-phosphorus-leaks-at-us-air-base-in-south-korea-seoul-says/"
   ]
 }
