@@ -502,10 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/"
   ],
   "Science": [
-    "https://www.science.org/content/article/new-nih-security-rules-genomic-data-sets-are-slowing-research-prompting-workarounds",
-    "https://www.science.org/content/article/new-law-european-union-can-more-quickly-greenlight-gene-edited-crops",
-    "https://www.science.org/content/article/speedy-spiraling-electrical-waves-may-be-key-brain-s-information-flow",
-    "https://www.science.org/content/article/wolves-are-reconquering-europe-can-people-learn-live-them",
     "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
     "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
     "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02349-z",
     "https://www.nature.com/articles/d41586-026-02347-1",
     "https://www.nature.com/articles/d41586-026-02348-0",
-    "https://www.nature.com/articles/d41586-026-02315-9"
+    "https://www.nature.com/articles/d41586-026-02315-9",
+    "https://www.nature.com/articles/d41586-026-01935-5",
+    "https://www.nature.com/articles/d41586-026-02125-z",
+    "https://www.nature.com/articles/d41586-026-02311-z",
+    "https://www.nature.com/articles/d41586-026-02355-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
