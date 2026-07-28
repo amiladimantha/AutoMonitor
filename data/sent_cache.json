@@ -502,8 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10800-4",
-    "https://www.nature.com/articles/s41586-026-10771-6",
     "https://www.nature.com/articles/d41586-026-01801-4",
     "https://www.nature.com/articles/d41586-026-01802-3",
     "https://www.nature.com/articles/d41586-026-01949-z",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02333-7",
     "https://www.nature.com/articles/d41586-026-02287-w",
     "https://www.nature.com/articles/d41586-026-02278-x",
-    "https://www.nature.com/articles/d41586-026-02286-x"
+    "https://www.nature.com/articles/d41586-026-02286-x",
+    "https://www.science.org/content/article/how-does-universe-set-black-holes-collision-course",
+    "https://www.science.org/content/article/trump-adviser-s-golden-age-report-u-s-science-missed-opportunity-critics-say"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
