@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/culture/2026/06/review-spider-noir-recaptures-the-magic-of-a-bygone-era/",
     "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
     "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
     "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
@@ -499,11 +498,10 @@
     "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
     "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
     "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-    "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/"
+    "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+    "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-    "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
     "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
     "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
     "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-01935-5",
     "https://www.nature.com/articles/d41586-026-02125-z",
     "https://www.nature.com/articles/d41586-026-02311-z",
-    "https://www.nature.com/articles/d41586-026-02355-1"
+    "https://www.nature.com/articles/d41586-026-02355-1",
+    "https://www.nature.com/articles/d41586-026-02104-4",
+    "https://www.nature.com/articles/d41586-026-02300-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1171,7 +1171,6 @@
     "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/05/22/veteran-who-lost-both-of-his-legs-in-combat-reenlists-in-the-marine-corps/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/05/22/us-marine-corps-tests-using-helicopter-as-mobile-drone-command-center/",
     "https://www.militarytimes.com/news/your-army/2026/05/22/scarlet-for-ya-irish-team-takes-first-place-on-bradleys-in-us-armys-armor-competition-despite-having-none-at-home/",
@@ -1670,6 +1669,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/07/27/navy-announces-new-flu-vaccination-requirements-for-sailors/",
     "https://www.militarytimes.com/veterans/2026/07/27/suicidal-ideations-rise-among-veterans-but-attempts-remain-stable-study-finds/",
     "https://www.militarytimes.com/news/your-navy/2026/07/27/navy-asks-private-sector-for-help-building-temporary-housing-during-renovations/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/27/uss-george-washington-operating-in-south-china-sea-as-china-philippines-tension-escalates/"
+    "https://www.militarytimes.com/news/your-navy/2026/07/27/uss-george-washington-operating-in-south-china-sea-as-china-philippines-tension-escalates/",
+    "https://www.militarytimes.com/news/your-military/2026/07/28/shrapnel-broken-bones-and-head-trauma-new-records-show-how-us-troops-were-wounded-in-iran-war/"
   ]
 }
