@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/",
-    "https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/",
     "https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/",
     "https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/",
     "https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/",
@@ -499,7 +497,9 @@
     "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
     "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
     "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
-    "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/"
+    "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
+    "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
+    "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-10800-4",
@@ -1170,13 +1170,10 @@
     "https://huggingface.co/blog/nunchaku-diffusers",
     "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
+    "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+    "https://huggingface.co/blog/agent-intrusion-technical-timeline"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/05/22/return-of-the-dead-the-unthinkable-choice-faced-by-military-families-after-wwii/",
-    "https://www.militarytimes.com/global/europe/2026/05/26/report-us-to-cut-strategic-bombers-and-warships-available-to-nato-in-a-crisis/",
-    "https://www.militarytimes.com/veterans/military-history/2026/05/26/81-years-after-iwo-these-marines-reunited-on-memorial-day-and-instantly-started-trash-talking/",
-    "https://www.militarytimes.com/news/your-military/2026/05/26/the-pentagon-wants-to-improve-medical-care-for-wounded-military-dogs/",
     "https://www.militarytimes.com/veterans/2026/05/26/sapper-turned-influencer-charged-for-bomb-making-tutorials/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/bill-aims-to-make-military-hazing-a-separate-criminal-offense/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/they-gave-everything-trump-salutes-guardian-angels-in-memorial-day-address/",
@@ -1672,6 +1669,10 @@
     "https://www.militarytimes.com/news/your-military/2026/07/28/white-phosphorus-leaks-at-us-air-base-in-south-korea-seoul-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/28/first-anduril-yfq-44a-rolls-off-production-line-for-us-cca-program/",
     "https://www.militarytimes.com/news/your-navy/2026/07/28/navy-changes-title-for-sailors-working-in-cybersecurity-to-reflect-warfighting-ethos/",
-    "https://www.militarytimes.com/news/your-military/2026/07/28/army-sunsets-legendary-buffalo-soldiers-unit/"
+    "https://www.militarytimes.com/news/your-military/2026/07/28/army-sunsets-legendary-buffalo-soldiers-unit/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/28/resendiz-murder-prompts-navy-to-update-policy-for-sexual-assault-suspects/",
+    "https://www.militarytimes.com/opinion/2026/07/28/el-nino-is-a-threat-indicator-the-military-should-treat-it-like-one/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/28/south-carolina-military-base-to-be-renamed-after-lindsey-graham/",
+    "https://www.militarytimes.com/veterans/2026/07/28/job-search-coaches-gear-up-to-help-transitioning-troops-meet-ai-challenge/"
   ]
 }
