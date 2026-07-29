@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/",
-    "https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/",
-    "https://arstechnica.com/space/2026/06/artemis-ii-crew-flew-fast-earned-new-patch-astronauts-mach-39-emblem/",
-    "https://arstechnica.com/apple/2026/06/say-hi-to-siri-ai-apple-announces-new-more-conversational-voice-assistant/",
-    "https://arstechnica.com/ai/2026/06/gemini-3-5-and-antigravity-come-to-google-notebooklm/",
-    "https://arstechnica.com/science/2026/06/your-empty-cuppa-could-capture-carbon/",
-    "https://arstechnica.com/security/2026/06/for-the-2nd-time-in-weeks-microsoft-packages-laced-with-credential-stealer/",
     "https://arstechnica.com/gadgets/2026/06/apples-ios-27-macos-27-golden-gate-and-other-updates-focus-on-refinement/",
     "https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/",
     "https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/",
@@ -499,7 +492,14 @@
     "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
     "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
     "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
-    "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/"
+    "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
+    "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
+    "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
+    "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
+    "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
+    "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
+    "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
+    "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/"
   ],
   "Science": [
     "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
@@ -1174,7 +1174,6 @@
     "https://huggingface.co/blog/agent-intrusion-technical-timeline"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/europe/2026/05/27/senior-ukrainian-commander-sees-imminent-turning-point-in-war/",
     "https://www.militarytimes.com/news/your-military/2026/05/27/us-army-receives-first-lightweight-javelin-launchers/",
     "https://www.militarytimes.com/news/your-military/2026/05/27/us-army-integrates-veterinarians-into-human-combat-care/",
     "https://www.militarytimes.com/news/your-military/2026/05/27/how-us-army-combat-medics-are-preparing-for-an-indo-pacific-fight/",
@@ -1673,6 +1672,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/29/ford-gm-defense-bc-customs-to-compete-for-us-armys-new-infantry-squad-vehicle/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/29/boeing-attributes-280-million-loss-in-second-quarter-to-air-force-one-program/",
     "https://www.militarytimes.com/news/your-military/2026/07/29/us-navy-deploys-garc-uncrewed-surface-vessel-in-first-live-fire-training-exercise/",
-    "https://www.militarytimes.com/news/your-marine-corps/2026/07/29/us-marine-corps-welcomes-delivery-of-final-mv-22b-osprey/"
+    "https://www.militarytimes.com/news/your-marine-corps/2026/07/29/us-marine-corps-welcomes-delivery-of-final-mv-22b-osprey/",
+    "https://www.militarytimes.com/pay-benefits/mil-money/2026/07/29/program-offering-free-food-to-moving-military-families-expands-to-four-more-states/"
   ]
 }
