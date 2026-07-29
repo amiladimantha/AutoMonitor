@@ -502,15 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
-    "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-    "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
-    "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
-    "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-    "https://www.nature.com/articles/d41586-026-01970-2",
-    "https://www.nature.com/articles/d41586-026-01971-1",
-    "https://www.nature.com/articles/d41586-026-01969-9",
-    "https://www.nature.com/articles/d41586-026-01972-0",
     "https://www.nature.com/articles/d41586-026-01951-5",
     "https://www.nature.com/articles/d41586-026-01955-1",
     "https://www.nature.com/articles/d41586-026-01130-6",
@@ -1001,7 +992,16 @@
     "https://www.nature.com/articles/d41586-026-02282-1",
     "https://www.nature.com/articles/d41586-026-02308-8",
     "https://www.nature.com/articles/d41586-026-02340-8",
-    "https://www.nature.com/articles/d41586-026-02312-y"
+    "https://www.nature.com/articles/d41586-026-02312-y",
+    "https://www.nature.com/articles/s41586-026-10945-2",
+    "https://www.nature.com/articles/d41586-026-02179-z",
+    "https://www.nature.com/articles/d41586-026-02183-3",
+    "https://www.nature.com/articles/d41586-026-02254-5",
+    "https://www.nature.com/articles/d41586-026-02341-7",
+    "https://www.nature.com/articles/d41586-026-02181-5",
+    "https://www.nature.com/articles/d41586-025-03966-w",
+    "https://www.nature.com/articles/d41586-026-02182-4",
+    "https://www.nature.com/articles/d41586-026-02180-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1174,10 +1174,6 @@
     "https://huggingface.co/blog/agent-intrusion-technical-timeline"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/bill-aims-to-make-military-hazing-a-separate-criminal-offense/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/they-gave-everything-trump-salutes-guardian-angels-in-memorial-day-address/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/pentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war/",
-    "https://www.militarytimes.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/us-lawmakers-weigh-aviation-fuel-cost-increase-from-iran-war-in-fiscal-2027-defense-hearing/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/26/darpa-launches-search-for-robot-medics-to-treat-battlefield-casualties/",
     "https://www.militarytimes.com/opinion/commentary/2026/05/27/immigration-stress-a-readiness-problem-the-pentagon-does-not-measure/",
@@ -1673,6 +1669,10 @@
     "https://www.militarytimes.com/opinion/2026/07/28/el-nino-is-a-threat-indicator-the-military-should-treat-it-like-one/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/28/south-carolina-military-base-to-be-renamed-after-lindsey-graham/",
     "https://www.militarytimes.com/veterans/2026/07/28/job-search-coaches-gear-up-to-help-transitioning-troops-meet-ai-challenge/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/",
+    "https://www.militarytimes.com/news/your-military/2026/07/29/us-military-may-require-some-troops-in-mideast-to-surrender-cell-phones-sources-say/",
+    "https://www.militarytimes.com/news/your-military/2026/07/29/military-heatstroke-cases-still-on-the-rise-as-units-push-tech-awareness/",
+    "https://www.militarytimes.com/news/your-marine-corps/2026/07/29/marines-offering-early-separations-for-select-jobs/",
+    "https://www.militarytimes.com/news/your-military/2026/07/29/ford-gm-defense-bc-customs-to-compete-for-us-armys-new-infantry-squad-vehicle/"
   ]
 }
