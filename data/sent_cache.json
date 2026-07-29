@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/",
-    "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
     "https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/",
     "https://arstechnica.com/cars/2026/06/f1-in-monaco-finally-the-cars-were-flat-out-in-qualifying/",
     "https://arstechnica.com/space/2026/06/a-falcon-9-booster-turns-five-years-old-and-just-set-a-remarkable-reuse-record/",
@@ -499,11 +497,11 @@
     "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
     "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
     "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-    "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/"
+    "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
+    "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
+    "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/"
   ],
   "Science": [
-    "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
-    "https://www.science.org/content/article/your-heartbeat-quietly-shapes-how-your-brain-processes-information",
     "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
     "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
     "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/fossil-skull-flattening-suggests-ancient-origins-infant-helplessness",
     "https://www.science.org/content/article/activists-and-leaders-global-hiv-meeting-decry-price-prevention-drug",
     "https://www.nature.com/articles/d41586-026-02282-1",
-    "https://www.nature.com/articles/d41586-026-02308-8"
+    "https://www.nature.com/articles/d41586-026-02308-8",
+    "https://www.nature.com/articles/d41586-026-02340-8",
+    "https://www.nature.com/articles/d41586-026-02312-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1174,7 +1174,6 @@
     "https://huggingface.co/blog/agent-intrusion-technical-timeline"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/05/26/sapper-turned-influencer-charged-for-bomb-making-tutorials/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/bill-aims-to-make-military-hazing-a-separate-criminal-offense/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/they-gave-everything-trump-salutes-guardian-angels-in-memorial-day-address/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/pentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war/",
@@ -1673,6 +1672,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/07/28/resendiz-murder-prompts-navy-to-update-policy-for-sexual-assault-suspects/",
     "https://www.militarytimes.com/opinion/2026/07/28/el-nino-is-a-threat-indicator-the-military-should-treat-it-like-one/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/28/south-carolina-military-base-to-be-renamed-after-lindsey-graham/",
-    "https://www.militarytimes.com/veterans/2026/07/28/job-search-coaches-gear-up-to-help-transitioning-troops-meet-ai-challenge/"
+    "https://www.militarytimes.com/veterans/2026/07/28/job-search-coaches-gear-up-to-help-transitioning-troops-meet-ai-challenge/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/"
   ]
 }
