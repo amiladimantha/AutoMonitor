@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/",
     "https://arstechnica.com/cars/2026/06/michigan-politicians-want-to-ban-chinese-badged-cars-from-even-visiting-the-us/",
     "https://arstechnica.com/ai/2026/06/chat-is-dead-openai-preps-overhaul-of-chatgpt/",
     "https://arstechnica.com/tech-policy/2026/06/man-jailed-for-a-month-despite-flock-showing-he-was-5-miles-from-crime-scene/",
@@ -499,11 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
     "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
     "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
-    "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/"
+    "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+    "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01802-3",
-    "https://www.nature.com/articles/d41586-026-01949-z",
     "https://www.science.org/content/article/after-backlash-cdc-revises-plan-retire-research-monkeys-texas-sanctuary",
     "https://www.science.org/content/article/interstellar-comet-unlike-anything-seen-our-solar-system",
     "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02286-x",
     "https://www.science.org/content/article/how-does-universe-set-black-holes-collision-course",
     "https://www.science.org/content/article/trump-adviser-s-golden-age-report-u-s-science-missed-opportunity-critics-say",
-    "https://www.nature.com/articles/d41586-026-02351-5"
+    "https://www.nature.com/articles/d41586-026-02351-5",
+    "https://www.science.org/content/article/fossil-skull-flattening-suggests-ancient-origins-infant-helplessness",
+    "https://www.science.org/content/article/activists-and-leaders-global-hiv-meeting-decry-price-prevention-drug"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
