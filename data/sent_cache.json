@@ -502,8 +502,6 @@
     "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/"
   ],
   "Science": [
-    "https://www.science.org/content/article/after-backlash-cdc-revises-plan-retire-research-monkeys-texas-sanctuary",
-    "https://www.science.org/content/article/interstellar-comet-unlike-anything-seen-our-solar-system",
     "https://www.science.org/content/article/exclusive-nsf-slashes-research-programs-support-new-tech-initiative-insiders-say",
     "https://www.science.org/content/article/your-heartbeat-quietly-shapes-how-your-brain-processes-information",
     "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/trump-adviser-s-golden-age-report-u-s-science-missed-opportunity-critics-say",
     "https://www.nature.com/articles/d41586-026-02351-5",
     "https://www.science.org/content/article/fossil-skull-flattening-suggests-ancient-origins-infant-helplessness",
-    "https://www.science.org/content/article/activists-and-leaders-global-hiv-meeting-decry-price-prevention-drug"
+    "https://www.science.org/content/article/activists-and-leaders-global-hiv-meeting-decry-price-prevention-drug",
+    "https://www.nature.com/articles/d41586-026-02282-1",
+    "https://www.nature.com/articles/d41586-026-02308-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
