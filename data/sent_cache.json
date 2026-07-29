@@ -502,7 +502,6 @@
     "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
     "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
     "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
     "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-10849-1",
     "https://www.nature.com/articles/s41586-026-10856-2",
     "https://www.nature.com/articles/s41586-026-10825-9",
-    "https://www.nature.com/articles/s41586-026-10868-y"
+    "https://www.nature.com/articles/s41586-026-10868-y",
+    "https://www.nature.com/articles/s41586-026-10942-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1174,9 +1174,6 @@
     "https://huggingface.co/blog/agent-intrusion-technical-timeline"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/26/us-lawmakers-weigh-aviation-fuel-cost-increase-from-iran-war-in-fiscal-2027-defense-hearing/",
-    "https://www.militarytimes.com/industry/techwatch/2026/05/26/darpa-launches-search-for-robot-medics-to-treat-battlefield-casualties/",
-    "https://www.militarytimes.com/opinion/commentary/2026/05/27/immigration-stress-a-readiness-problem-the-pentagon-does-not-measure/",
     "https://www.militarytimes.com/global/europe/2026/05/27/senior-ukrainian-commander-sees-imminent-turning-point-in-war/",
     "https://www.militarytimes.com/news/your-military/2026/05/27/us-army-receives-first-lightweight-javelin-launchers/",
     "https://www.militarytimes.com/news/your-military/2026/05/27/us-army-integrates-veterinarians-into-human-combat-care/",
@@ -1673,6 +1670,9 @@
     "https://www.militarytimes.com/news/your-military/2026/07/29/us-military-may-require-some-troops-in-mideast-to-surrender-cell-phones-sources-say/",
     "https://www.militarytimes.com/news/your-military/2026/07/29/military-heatstroke-cases-still-on-the-rise-as-units-push-tech-awareness/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/07/29/marines-offering-early-separations-for-select-jobs/",
-    "https://www.militarytimes.com/news/your-military/2026/07/29/ford-gm-defense-bc-customs-to-compete-for-us-armys-new-infantry-squad-vehicle/"
+    "https://www.militarytimes.com/news/your-military/2026/07/29/ford-gm-defense-bc-customs-to-compete-for-us-armys-new-infantry-squad-vehicle/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/29/boeing-attributes-280-million-loss-in-second-quarter-to-air-force-one-program/",
+    "https://www.militarytimes.com/news/your-military/2026/07/29/us-navy-deploys-garc-uncrewed-surface-vessel-in-first-live-fire-training-exercise/",
+    "https://www.militarytimes.com/news/your-marine-corps/2026/07/29/us-marine-corps-welcomes-delivery-of-final-mv-22b-osprey/"
   ]
 }
