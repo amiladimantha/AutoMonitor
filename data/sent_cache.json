@@ -502,8 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
-    "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
     "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
     "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
     "https://www.nature.com/articles/s41586-026-10810-2",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/s41586-026-10825-9",
     "https://www.nature.com/articles/s41586-026-10868-y",
     "https://www.nature.com/articles/s41586-026-10942-5",
-    "https://www.nature.com/articles/s41586-026-10851-7"
+    "https://www.nature.com/articles/s41586-026-10851-7",
+    "https://www.nature.com/articles/d41586-026-01843-8",
+    "https://www.nature.com/articles/d41586-026-02079-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1174,7 +1174,6 @@
     "https://huggingface.co/blog/agent-intrusion-technical-timeline"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/27/pentagon-eyes-drone-testing-ground-in-mississippi/",
     "https://www.militarytimes.com/breaking-news/2026/05/28/us-carries-out-new-strikes-in-iran-against-military-site-official-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/",
@@ -1673,6 +1672,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/29/pentagon-puts-out-call-for-robot-boats-that-launch-attack-drones/",
     "https://www.militarytimes.com/news/your-military/2026/07/29/national-guard-officer-pleads-guilty-to-sham-double-marriage-government-theft-of-54000/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/29/pentagon-has-kicked-off-review-of-us-force-posture-in-europe/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/29/coast-guard-icebreaker-healy-towed-to-washington-after-engine-failure/"
+    "https://www.militarytimes.com/news/your-navy/2026/07/29/coast-guard-icebreaker-healy-towed-to-washington-after-engine-failure/",
+    "https://www.militarytimes.com/flashpoints/ukraine/2026/07/30/ukraines-f-16s-are-being-worn-out-from-intercepting-russian-drones/"
   ]
 }
