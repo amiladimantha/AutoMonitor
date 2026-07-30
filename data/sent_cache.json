@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/apple/2026/06/apple-says-its-ai-is-still-private-even-when-its-running-on-googles-servers/",
     "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
     "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
     "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
@@ -499,12 +498,10 @@
     "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
     "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
     "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-    "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/"
+    "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
+    "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10704-3",
-    "https://www.nature.com/articles/s41586-026-10688-0",
-    "https://www.nature.com/articles/s41586-026-10683-5",
     "https://www.nature.com/articles/s41586-026-10599-0",
     "https://www.nature.com/articles/s41586-026-10662-w",
     "https://www.nature.com/articles/s41586-026-10702-5",
@@ -1001,7 +998,10 @@
     "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
     "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
     "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-    "https://www.nature.com/articles/d41586-026-02195-z"
+    "https://www.nature.com/articles/d41586-026-02195-z",
+    "https://www.nature.com/articles/s41586-026-10939-0",
+    "https://www.nature.com/articles/s41586-026-10920-x",
+    "https://www.nature.com/articles/d41586-026-02361-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1175,9 +1175,6 @@
     "https://huggingface.co/blog/Dharma-AI/gpu-management"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/05/28/army-turns-resupply-drone-into-rocket-launcher-in-new-test/",
-    "https://www.militarytimes.com/veterans/military-history/2026/05/28/double-amputee-paratrooper-to-jump-into-normandy-for-82nd-anniversary-of-d-day/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/white-house-proposes-all-federal-employees-sign-nondisclosure-agreements/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/29/pentagon-looks-to-reinvent-the-bunker-buster-bomb/",
     "https://www.militarytimes.com/opinion/commentary/2026/05/29/my-grandpa-was-killed-in-world-war-ii-i-met-him-through-his-letters-home/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/05/29/marine-acv-crews-to-face-thinking-adversaries-in-new-vr-simulator/",
@@ -1674,6 +1671,9 @@
     "https://www.militarytimes.com/news/your-military/2026/07/30/coast-guard-seizes-2380-pounds-of-marijuana-near-bahamas/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/30/space-food-for-soldiers-advanced-military-rations-promoted-in-ndaa/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/30/us-strikes-586-billion-patriot-missile-deal-amid-rising-stockpile-concerns/",
-    "https://www.militarytimes.com/news/your-military/2026/07/30/darpa-challenge-pushes-limits-of-heavy-lift-drone-technology/"
+    "https://www.militarytimes.com/news/your-military/2026/07/30/darpa-challenge-pushes-limits-of-heavy-lift-drone-technology/",
+    "https://www.militarytimes.com/news/your-navy/2026/07/30/uss-george-washington-arrives-in-vietnam-amid-china-philippines-strain/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/30/b-21-raiders-set-to-be-on-the-ramp-at-ellsworth-air-force-base-in-2027/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/"
   ]
 }
