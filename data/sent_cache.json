@@ -502,15 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-    "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
-    "https://www.nature.com/articles/s41586-026-10810-2",
-    "https://www.nature.com/articles/s41586-026-10568-7",
-    "https://www.nature.com/articles/s41586-026-10567-8",
-    "https://www.nature.com/articles/s41586-026-10767-2",
-    "https://www.nature.com/articles/d41586-026-02032-3",
-    "https://www.nature.com/articles/s41586-026-10685-3",
-    "https://www.nature.com/articles/s41586-026-10593-6",
     "https://www.nature.com/articles/s41586-026-10697-z",
     "https://www.nature.com/articles/s41586-026-10704-3",
     "https://www.nature.com/articles/s41586-026-10688-0",
@@ -1001,7 +992,16 @@
     "https://www.nature.com/articles/s41586-026-10942-5",
     "https://www.nature.com/articles/s41586-026-10851-7",
     "https://www.nature.com/articles/d41586-026-01843-8",
-    "https://www.nature.com/articles/d41586-026-02079-2"
+    "https://www.nature.com/articles/d41586-026-02079-2",
+    "https://www.science.org/content/article/under-fire-republican-senators-fauci-takes-fifth-covid-19-hearing",
+    "https://www.science.org/content/article/new-u-s-rules-risky-pathogen-research-draw-mixed-reviews",
+    "https://www.science.org/content/article/why-tracing-source-cyclosporiasis-outbreaks-so-difficult",
+    "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+    "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+    "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+    "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+    "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
+    "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1174,7 +1174,6 @@
     "https://huggingface.co/blog/agent-intrusion-technical-timeline"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/27/pentagon-eyes-drone-testing-ground-in-mississippi/",
     "https://www.militarytimes.com/breaking-news/2026/05/28/us-carries-out-new-strikes-in-iran-against-military-site-official-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/",
     "https://www.militarytimes.com/news/your-military/2026/05/28/22nd-meu-iwo-jima-arg-head-home-after-10-month-deployment/",
@@ -1673,6 +1672,7 @@
     "https://www.militarytimes.com/news/your-military/2026/07/29/national-guard-officer-pleads-guilty-to-sham-double-marriage-government-theft-of-54000/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/29/pentagon-has-kicked-off-review-of-us-force-posture-in-europe/",
     "https://www.militarytimes.com/news/your-navy/2026/07/29/coast-guard-icebreaker-healy-towed-to-washington-after-engine-failure/",
-    "https://www.militarytimes.com/flashpoints/ukraine/2026/07/30/ukraines-f-16s-are-being-worn-out-from-intercepting-russian-drones/"
+    "https://www.militarytimes.com/flashpoints/ukraine/2026/07/30/ukraines-f-16s-are-being-worn-out-from-intercepting-russian-drones/",
+    "https://www.militarytimes.com/news/your-military/2026/07/30/coast-guard-seizes-2380-pounds-of-marijuana-near-bahamas/"
   ]
 }
