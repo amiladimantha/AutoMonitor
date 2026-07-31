@@ -502,7 +502,6 @@
     "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/"
   ],
   "Science": [
-    "https://www.science.org/content/article/inbreeding-didn-t-doom-neanderthals-study-suggests",
     "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
     "https://www.nature.com/articles/s41586-026-10813-z",
     "https://www.nature.com/articles/d41586-026-01987-7",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02362-2",
     "https://www.nature.com/articles/d41586-026-02420-9",
     "https://www.nature.com/articles/d41586-026-02334-6",
-    "https://www.nature.com/articles/d41586-026-02274-1"
+    "https://www.nature.com/articles/d41586-026-02274-1",
+    "https://www.nature.com/articles/d41586-026-02419-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1175,8 +1175,6 @@
     "https://huggingface.co/blog/Dharma-AI/gpu-management"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/29/trump-class-battleships-should-not-be-built-until-weapons-technology-is-ready-lawmakers-say/",
-    "https://www.militarytimes.com/global/europe/2026/05/29/nearly-500000-russian-soldiers-killed-in-ukraine-top-uk-intel-chief-says/",
     "https://www.militarytimes.com/news/your-military/2026/05/30/us-general-holds-rare-meeting-with-cuban-military-officials-near-guantanamo-bay/",
     "https://www.militarytimes.com/news/your-navy/2026/06/01/us-military-continues-self-defense-strikes-against-iran-intercepts-missiles/",
     "https://www.militarytimes.com/news/your-military/2026/06/01/not-just-a-gun-new-socom-rifle-allows-barrel-swapping-and-cartridge-changes/",
@@ -1674,6 +1672,8 @@
     "https://www.militarytimes.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
     "https://www.militarytimes.com/pay-benefits/mil-money/2026/07/31/good-samaritans-beware-scammers-ramp-up-targeting-of-troops-goodwill/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/31/senate-democrats-press-pentagon-over-medical-care-for-troops-wounded-in-kuwait-drone-strike/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/31/navy-offering-up-to-150000-retention-bonuses-for-select-aviation-billets/"
+    "https://www.militarytimes.com/news/your-navy/2026/07/31/navy-offering-up-to-150000-retention-bonuses-for-select-aviation-billets/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/07/31/just-one-in-three-americans-back-iran-war-most-unsure-of-trumps-goals-poll-finds/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/31/b-52-modernization-faces-delays-cost-increases-watchdog-says/"
   ]
 }
