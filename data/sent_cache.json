@@ -502,10 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10813-z",
-    "https://www.nature.com/articles/d41586-026-01987-7",
-    "https://www.nature.com/articles/d41586-026-01986-8",
-    "https://www.science.org/content/article/universe-unexpectedly-stringy-which-could-unravel-theory-cosmos",
     "https://www.science.org/content/article/migrating-sea-turtles-only-sort-know-where-they-re-going",
     "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
     "https://www.science.org/content/article/after-menopause-ovaries-may-transform-organs-immune-powers",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02334-6",
     "https://www.nature.com/articles/d41586-026-02274-1",
     "https://www.nature.com/articles/d41586-026-02419-2",
-    "https://www.nature.com/articles/d41586-026-02397-5"
+    "https://www.nature.com/articles/d41586-026-02397-5",
+    "https://www.science.org/content/article/what-triggered-one-most-dramatic-changes-earth-s-history",
+    "https://www.science.org/content/article/these-moths-smell-their-wings",
+    "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+    "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
