@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
-    "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
-    "https://arstechnica.com/science/2026/06/__trashed-19/",
-    "https://arstechnica.com/tech-policy/2026/06/racist-comments-targeting-politicians-tripled-since-meta-relaxed-its-rules/",
-    "https://arstechnica.com/cars/2026/06/gm-energy-introduces-v2g-support-and-new-energy-storage-battery-chemistry/",
     "https://arstechnica.com/space/2026/06/we-managed-to-glean-some-interesting-details-about-the-artemis-iii-mission/",
     "https://arstechnica.com/tech-policy/2026/06/nobody-needs-ai-to-search-the-internet-court-says-in-ruling-against-google/",
     "https://arstechnica.com/gadgets/2026/06/cheap-iranian-drone-downed-25-million-us-army-helicopter-maybe-by-chance/",
@@ -499,10 +494,14 @@
     "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
     "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
     "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
-    "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/"
+    "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/",
+    "https://arstechnica.com/tech-policy/2026/07/high-school-defends-staying-silent-while-boys-made-ai-nudes-of-59-classmates/",
+    "https://arstechnica.com/science/2026/07/see-the-heat-an-infrared-imaging-system-that-outputs-in-color/",
+    "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
+    "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
+    "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
     "https://www.nature.com/articles/s41586-026-10813-z",
     "https://www.nature.com/articles/d41586-026-01987-7",
     "https://www.nature.com/articles/d41586-026-01986-8",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02420-9",
     "https://www.nature.com/articles/d41586-026-02334-6",
     "https://www.nature.com/articles/d41586-026-02274-1",
-    "https://www.nature.com/articles/d41586-026-02419-2"
+    "https://www.nature.com/articles/d41586-026-02419-2",
+    "https://www.nature.com/articles/d41586-026-02397-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
