@@ -1,17 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/06/first-drive-the-2027-rivian-r2-entirely-changes-the-ev-game/",
-    "https://arstechnica.com/gadgets/2026/06/us-military-claims-first-drone-boat-rescue-of-downed-helicopter-crew/",
-    "https://arstechnica.com/security/2026/06/a-single-errant-character-in-the-linux-kernel-allows-attacker-to-gain-root/",
-    "https://arstechnica.com/science/2026/06/gold-isnt-inert-it-just-has-bodyguards-protecting-it/",
-    "https://arstechnica.com/cars/2026/06/heres-audis-next-q7-suv-and-us-only-sq7-now-with-an-rs-v8/",
-    "https://arstechnica.com/tech-policy/2026/06/one-day-after-discovery-meta-pulls-facial-recognition-code-from-its-smart-glasses/",
-    "https://arstechnica.com/space/2026/06/nasa-assigns-crew-for-artemis-iii-sets-aggressive-timeline-for-flying-it/",
-    "https://arstechnica.com/health/2026/06/screwworms-in-us-human-risk-is-low-but-they-can-burrow-through-your-skull/",
-    "https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/",
-    "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
-    "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
-    "https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/",
     "https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/",
     "https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/",
     "https://arstechnica.com/science/2026/06/__trashed-19/",
@@ -499,11 +487,21 @@
     "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
     "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
     "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
-    "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/"
+    "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
+    "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+    "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
+    "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+    "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
+    "https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large/",
+    "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
+    "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
+    "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
+    "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
+    "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
+    "https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/",
+    "https://arstechnica.com/space/2026/07/space-force-backed-mission-does-its-best-impression-of-top-gun-in-orbit/"
   ],
   "Science": [
-    "https://www.science.org/content/article/retraction-questions-claim-cancer-therapy-works-better-morning",
-    "https://www.science.org/content/article/why-were-mysterious-ancient-humans-found-african-cave-all-female",
     "https://www.science.org/content/article/inbreeding-didn-t-doom-neanderthals-study-suggests",
     "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
     "https://www.nature.com/articles/s41586-026-10813-z",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02366-y",
     "https://www.nature.com/articles/s41586-026-10921-w",
     "https://www.nature.com/articles/d41586-026-02362-2",
-    "https://www.nature.com/articles/d41586-026-02420-9"
+    "https://www.nature.com/articles/d41586-026-02420-9",
+    "https://www.nature.com/articles/d41586-026-02334-6",
+    "https://www.nature.com/articles/d41586-026-02274-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1175,8 +1175,6 @@
     "https://huggingface.co/blog/Dharma-AI/gpu-management"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-air-force/2026/05/29/vance-advises-air-force-academy-graduates-to-not-concede-decision-making-to-ai/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/05/29/scary-and-silencing-troops-families-receive-threats-from-foreign-bad-actors/",
     "https://www.militarytimes.com/industry/techwatch/2026/05/29/spacex-awarded-4-billion-space-force-contract-to-track-airborne-threats/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/05/29/pentagon-failed-to-assess-impact-of-cuts-to-civilian-workforce-watchdog-finds/",
     "https://www.militarytimes.com/pay-benefits/2026/05/29/air-force-slashes-number-of-fields-eligible-for-fiscal-year-2026-reenlistment-bonuses/",
@@ -1674,6 +1672,8 @@
     "https://www.militarytimes.com/opinion/commentary/2026/07/30/my-little-sister-is-deployed-in-the-middle-east-her-base-was-hit/",
     "https://www.militarytimes.com/veterans/military-history/2026/07/30/review-new-wargame-captures-uncertainty-of-the-american-revolution/",
     "https://www.militarytimes.com/news/your-military/2026/07/30/see-what-its-like-to-be-on-a-ship-getting-hit-by-us-missiles/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/"
+    "https://www.militarytimes.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
+    "https://www.militarytimes.com/news/your-military/2026/07/31/marsoc-wants-to-automate-armory-recordkeeping/",
+    "https://www.militarytimes.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/"
   ]
 }
