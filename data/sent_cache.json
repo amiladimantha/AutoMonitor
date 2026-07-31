@@ -502,10 +502,6 @@
     "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10599-0",
-    "https://www.nature.com/articles/s41586-026-10662-w",
-    "https://www.nature.com/articles/s41586-026-10702-5",
-    "https://www.nature.com/articles/s41586-026-10674-6",
     "https://www.nature.com/articles/s41586-026-10698-y",
     "https://www.nature.com/articles/s41586-026-10681-7",
     "https://www.nature.com/articles/s41586-026-10625-1",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02195-z",
     "https://www.nature.com/articles/s41586-026-10939-0",
     "https://www.nature.com/articles/s41586-026-10920-x",
-    "https://www.nature.com/articles/d41586-026-02361-3"
+    "https://www.nature.com/articles/d41586-026-02361-3",
+    "https://www.science.org/content/article/exclusive-congo-s-ebola-epidemic-started-least-4-months-it-was-detected",
+    "https://www.science.org/content/article/high-speed-orcas-are-blowing-sunfish-smithereens",
+    "https://www.science.org/content/article/ancient-dna-confirms-historical-accounts-how-smallpox-got-americas",
+    "https://www.technologyreview.com/2026/07/30/1140942/montana-experimental-medical-hub-pushed-forward-right-to-try/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
