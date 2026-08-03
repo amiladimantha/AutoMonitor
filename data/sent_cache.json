@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
-    "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
-    "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/",
     "https://arstechnica.com/health/2026/06/ebola-cases-in-drc-rise-to-676-as-kenya-protests-erupt-over-us-plans/",
     "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
     "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
     "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
     "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
-    "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/"
+    "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
+    "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
+    "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
+    "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02047-w",
@@ -1175,7 +1175,6 @@
     "https://huggingface.co/blog/Dharma-AI/gpu-management"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/02/immigration-concerns-and-the-very-typical-impact-on-military-recruiting/",
     "https://www.militarytimes.com/veterans/military-history/2026/06/02/medal-of-honor-recipient-bruce-crandall-whose-heroism-was-chronicled-in-we-were-soldiers-once-dies-at-93/",
     "https://www.militarytimes.com/news/your-military/2026/06/02/parris-island-drill-instructor-found-deceased-in-florida-hotel/",
     "https://www.militarytimes.com/news/your-military/2026/06/02/future-presence-of-us-troops-in-lithuania-is-under-review-says-minister/",
@@ -1674,6 +1673,7 @@
     "https://www.militarytimes.com/off-duty/military-culture/2026/08/03/tsa-stops-alabama-traveler-for-civil-war-era-cannonballs-in-luggage/",
     "https://www.militarytimes.com/news/your-military/2026/08/03/army-approves-service-wide-wear-of-jungle-tab/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/03/trumps-new-commission-will-target-quality-of-life-for-military-spouses/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/03/us-coast-guard-had-14-suicides-in-2024-the-highest-in-a-decade/"
+    "https://www.militarytimes.com/news/your-navy/2026/08/03/us-coast-guard-had-14-suicides-in-2024-the-highest-in-a-decade/",
+    "https://www.militarytimes.com/veterans/2026/08/03/va-medical-center-clinics-in-spokane-evacuated-for-wildfire/"
   ]
 }
