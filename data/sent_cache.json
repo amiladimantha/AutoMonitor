@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/06/this-cannot-continue-xbox-leaders-lay-out-hard-truths-behind-sagging-brand/",
-    "https://arstechnica.com/science/2026/06/did-iron-age-britons-remove-brains-of-the-dead/",
     "https://arstechnica.com/space/2026/06/after-nearly-breaking-nasas-deep-space-network-worked-well-on-artemis-ii/",
     "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
     "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
@@ -499,11 +497,11 @@
     "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
     "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
     "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
-    "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/"
+    "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+    "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
+    "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-    "https://www.nature.com/articles/d41586-026-01978-8",
     "https://www.nature.com/articles/s41586-026-10826-8",
     "https://www.nature.com/articles/s41586-026-10792-1",
     "https://www.nature.com/articles/d41586-026-01994-8",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02388-6",
     "https://www.nature.com/articles/d41586-026-01850-9",
     "https://www.nature.com/articles/d41586-026-01360-8",
-    "https://www.nature.com/articles/d41586-026-02387-7"
+    "https://www.nature.com/articles/d41586-026-02387-7",
+    "https://www.nature.com/articles/d41586-026-02372-0",
+    "https://www.nature.com/articles/d41586-026-02432-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1175,7 +1175,6 @@
     "https://huggingface.co/blog/Dharma-AI/gpu-management"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/06/01/us-military-continues-self-defense-strikes-against-iran-intercepts-missiles/",
     "https://www.militarytimes.com/news/your-military/2026/06/01/not-just-a-gun-new-socom-rifle-allows-barrel-swapping-and-cartridge-changes/",
     "https://www.militarytimes.com/news/your-military/2026/06/01/us-military-seeks-cultural-advisors-in-somalia-amid-regional-strikes/",
     "https://www.militarytimes.com/news/your-air-force/2026/06/01/air-force-returns-t-38-talon-to-flight-status-while-crash-investigation-continues/",
@@ -1674,6 +1673,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/07/31/navy-offering-up-to-150000-retention-bonuses-for-select-aviation-billets/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/31/just-one-in-three-americans-back-iran-war-most-unsure-of-trumps-goals-poll-finds/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/31/b-52-modernization-faces-delays-cost-increases-watchdog-says/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/31/virginia-class-submarine-uss-minnesota-completes-first-deployment/"
+    "https://www.militarytimes.com/news/your-navy/2026/07/31/virginia-class-submarine-uss-minnesota-completes-first-deployment/",
+    "https://www.militarytimes.com/news/your-military/2026/08/03/meet-drone-round-the-company-supplying-marines-with-anti-drone-ammo/"
   ]
 }
