@@ -502,11 +502,6 @@
     "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/"
   ],
   "Science": [
-    "https://www.science.org/content/article/medical-students-are-using-popular-research-tool-pump-out-misleading-studies",
-    "https://www.science.org/content/article/after-menopause-ovaries-may-transform-organs-immune-powers",
-    "https://www.nature.com/articles/d41586-026-01899-6",
-    "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-    "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
     "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
     "https://www.nature.com/articles/d41586-026-01978-8",
     "https://www.nature.com/articles/s41586-026-10826-8",
@@ -1001,7 +996,12 @@
     "https://www.science.org/content/article/these-moths-smell-their-wings",
     "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
     "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-    "https://www.nature.com/articles/d41586-026-02339-1"
+    "https://www.nature.com/articles/d41586-026-02339-1",
+    "https://www.nature.com/articles/s41586-026-10943-4",
+    "https://www.nature.com/articles/d41586-026-02388-6",
+    "https://www.nature.com/articles/d41586-026-01850-9",
+    "https://www.nature.com/articles/d41586-026-01360-8",
+    "https://www.nature.com/articles/d41586-026-02387-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
