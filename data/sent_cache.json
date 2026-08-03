@@ -502,10 +502,6 @@
     "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02047-w",
-    "https://www.nature.com/articles/d41586-026-02036-z",
-    "https://www.nature.com/articles/d41586-026-02027-0",
-    "https://www.nature.com/articles/s41586-026-10829-5",
     "https://www.nature.com/articles/d41586-026-02028-z",
     "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
     "https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02432-5",
     "https://www.nature.com/articles/s41586-026-10957-y",
     "https://www.nature.com/articles/d41586-026-02398-4",
-    "https://www.nature.com/articles/d41586-026-02083-6"
+    "https://www.nature.com/articles/d41586-026-02083-6",
+    "https://www.science.org/content/article/major-highway-human-nervous-system-gets-complete-road-map",
+    "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+    "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
