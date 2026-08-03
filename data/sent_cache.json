@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/06/whats-so-special-about-a-formula-1-driver-in-the-loop-simulator/",
     "https://arstechnica.com/tech-policy/2026/06/ted-cruz-and-ron-wyden-try-to-fight-censorship-with-bipartisan-jawbone-act/",
     "https://arstechnica.com/gadgets/2026/06/iot-gadget-firm-acurite-delays-forced-app-migration-due-to-new-apps-shortfalls/",
     "https://arstechnica.com/gadgets/2026/06/cameras-sensors-and-3d-body-scans-all-the-tech-helping-eliminate-blown-calls/",
@@ -499,7 +498,8 @@
     "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
     "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
     "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
-    "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/"
+    "https://arstechnica.com/space/2026/08/spacex-is-set-to-acquire-130000-acres-of-marshland-in-southern-louisiana/",
+    "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02047-w",
@@ -1175,10 +1175,6 @@
     "https://huggingface.co/blog/Dharma-AI/gpu-management"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/01/us-court-blocks-pentagon-from-removing-transgender-troops-for-now/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
-    "https://www.militarytimes.com/opinion/2026/06/02/nato-in-hormuz-is-not-mission-creep/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/02/us-navy-selects-companies-for-at-sea-musv-prototype-testing/",
     "https://www.militarytimes.com/news/your-military/2026/06/02/us-airman-found-dead-on-yokota-air-base/",
     "https://www.militarytimes.com/news/your-air-force/2026/06/02/air-force-crew-honors-wwii-era-flying-tigers-with-a-10-paint-job/",
     "https://www.militarytimes.com/news/your-military/2026/06/02/immigration-concerns-and-the-very-typical-impact-on-military-recruiting/",
@@ -1674,6 +1670,10 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/03/pentagon-moves-to-triple-patriot-quadruple-thaad-interceptor-production/",
     "https://www.militarytimes.com/news/your-navy/2026/08/03/navy-orders-commands-to-submit-monthly-facial-hair-waiver-accountability-reports/",
     "https://www.militarytimes.com/news/your-navy/2026/08/03/navy-fires-commanding-officer-of-uss-west-virginia/",
-    "https://www.militarytimes.com/pay-benefits/2026/08/03/army-offers-bonuses-topping-200k-to-keep-aviation-warrant-officers-in-unform/"
+    "https://www.militarytimes.com/pay-benefits/2026/08/03/army-offers-bonuses-topping-200k-to-keep-aviation-warrant-officers-in-unform/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
+    "https://www.militarytimes.com/veterans/2026/08/03/desert-shield-and-desert-storm-memorial-slated-for-october-unveiling/",
+    "https://www.militarytimes.com/off-duty/military-culture/2026/08/03/tsa-stops-alabama-traveler-for-civil-war-era-cannonballs-in-luggage/",
+    "https://www.militarytimes.com/news/your-military/2026/08/03/army-approves-service-wide-wear-of-jungle-tab/"
   ]
 }
