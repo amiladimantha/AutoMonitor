@@ -502,8 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02043-0",
-    "https://www.nature.com/articles/d41586-026-02046-x",
     "https://www.science.org/content/article/nasa-s-cheapest-missions-deliver-less-scientific-bang-buck-study-finds",
     "https://www.science.org/content/article/engineers-cram-100-billion-transistors-microchip",
     "https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02358-y",
     "https://www.nature.com/articles/s41586-026-10958-x",
     "https://www.nature.com/articles/d41586-026-02379-7",
-    "https://www.nature.com/articles/d41586-026-02428-1"
+    "https://www.nature.com/articles/d41586-026-02428-1",
+    "https://www.nature.com/articles/d41586-026-02350-6",
+    "https://www.nature.com/articles/d41586-026-02384-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1176,7 +1176,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/02/rubio-faces-lawmakers-as-iran-ceasefire-hangs-in-the-balance/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/02/national-guards-dc-deployment-has-had-no-measurable-effect-on-violent-crime-report/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/02/the-us-military-wants-to-showcase-battle-ready-laser-weapons-by-2028/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/03/socom-wants-to-revive-legacy-m4-carbine-with-hypervelocity-cartridge/",
@@ -1675,6 +1674,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/08/04/us-navy-is-reclassifying-19-virginia-class-submarines-to-reflect-increased-attack-capabilities/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/04/house-oversight-democrats-seek-records-behind-pentagon-changes-to-iran-war-casualty-database/",
     "https://www.militarytimes.com/news/your-military/2026/08/04/armys-new-battlefield-command-system-ready-to-scale/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say/"
+    "https://www.militarytimes.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say/",
+    "https://www.militarytimes.com/news/your-military/2026/08/04/325-narcan-doses-43-lost-children-dc-national-guard-mission-wraps-first-year/"
   ]
 }
