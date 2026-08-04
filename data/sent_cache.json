@@ -502,13 +502,6 @@
     "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/"
   ],
   "Science": [
-    "https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted",
-    "https://www.science.org/content/article/better-chatbots-get-harder-build-ai-turns-simulated-worlds",
-    "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "https://www.nature.com/articles/d41586-026-02055-w",
-    "https://www.nature.com/articles/d41586-026-01794-0",
-    "https://www.nature.com/articles/d41586-026-01976-w",
-    "https://www.science.org/content/article/having-child-during-grad-school-especially-hard-women",
     "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
     "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
     "https://www.nature.com/articles/d41586-026-02059-6",
@@ -1001,7 +994,14 @@
     "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
     "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/",
-    "https://www.nature.com/articles/d41586-026-02436-1"
+    "https://www.nature.com/articles/d41586-026-02436-1",
+    "https://www.nature.com/articles/d41586-026-02426-3",
+    "https://www.nature.com/articles/d41586-026-02424-5",
+    "https://www.nature.com/articles/d41586-026-02427-2",
+    "https://www.nature.com/articles/d41586-026-02425-4",
+    "https://www.nature.com/articles/d41586-026-02389-5",
+    "https://www.nature.com/articles/d41586-026-02022-5",
+    "https://www.nature.com/articles/d41586-026-02385-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
