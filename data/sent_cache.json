@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
-    "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
-    "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-    "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
     "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
     "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
     "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
@@ -499,11 +495,13 @@
     "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
     "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
     "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
-    "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/"
+    "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
+    "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
+    "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
+    "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
+    "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/"
   ],
   "Science": [
-    "https://www.science.org/content/article/nasa-s-cheapest-missions-deliver-less-scientific-bang-buck-study-finds",
-    "https://www.science.org/content/article/engineers-cram-100-billion-transistors-microchip",
     "https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged",
     "https://www.nature.com/articles/d41586-026-01924-8",
     "https://www.nature.com/articles/d41586-026-02023-4",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02379-7",
     "https://www.nature.com/articles/d41586-026-02428-1",
     "https://www.nature.com/articles/d41586-026-02350-6",
-    "https://www.nature.com/articles/d41586-026-02384-w"
+    "https://www.nature.com/articles/d41586-026-02384-w",
+    "https://www.nature.com/articles/d41586-026-02288-9",
+    "https://www.nature.com/articles/d41586-026-01845-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
