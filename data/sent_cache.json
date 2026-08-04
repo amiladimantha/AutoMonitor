@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-    "https://arstechnica.com/tech-policy/2026/06/verizon-sent-man-a-refurbished-phone-with-mdm-then-deleted-his-data-remotely/",
     "https://arstechnica.com/space/2026/06/rocket-report-nova-moving-through-test-campaign-spacex-ipo-launches-friday/",
     "https://arstechnica.com/tech-policy/2026/06/lawsuit-chatgpt-validated-suicidal-womans-distrust-of-crisis-lines/",
     "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
@@ -499,12 +497,11 @@
     "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
     "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
     "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-    "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/"
+    "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
+    "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
+    "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-    "https://www.nature.com/articles/d41586-026-02059-6",
-    "https://www.nature.com/articles/d41586-026-02060-z",
     "https://www.nature.com/articles/d41586-026-02043-0",
     "https://www.nature.com/articles/d41586-026-02046-x",
     "https://www.science.org/content/article/nasa-s-cheapest-missions-deliver-less-scientific-bang-buck-study-finds",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02389-5",
     "https://www.nature.com/articles/d41586-026-02022-5",
     "https://www.nature.com/articles/d41586-026-02385-9",
-    "https://www.nature.com/articles/d41586-026-02358-y"
+    "https://www.nature.com/articles/d41586-026-02358-y",
+    "https://www.nature.com/articles/s41586-026-10958-x",
+    "https://www.nature.com/articles/d41586-026-02379-7",
+    "https://www.nature.com/articles/d41586-026-02428-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1172,11 +1172,10 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "https://huggingface.co/blog/Dharma-AI/gpu-management"
+    "https://huggingface.co/blog/Dharma-AI/gpu-management",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/02/future-presence-of-us-troops-in-lithuania-is-under-review-says-minister/",
-    "https://www.militarytimes.com/news/your-military/2026/06/02/hackers-compromised-a-senior-space-force-officials-instagram-posting-anti-american-content/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/02/rubio-faces-lawmakers-as-iran-ceasefire-hangs-in-the-balance/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/02/national-guards-dc-deployment-has-had-no-measurable-effect-on-violent-crime-report/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/02/the-us-military-wants-to-showcase-battle-ready-laser-weapons-by-2028/",
@@ -1674,6 +1673,8 @@
     "https://www.militarytimes.com/news/your-navy/2026/08/03/us-coast-guard-had-14-suicides-in-2024-the-highest-in-a-decade/",
     "https://www.militarytimes.com/veterans/2026/08/03/va-medical-center-clinics-in-spokane-evacuated-for-wildfire/",
     "https://www.militarytimes.com/news/your-navy/2026/08/04/us-navy-is-reclassifying-19-virginia-class-submarines-to-reflect-increased-attack-capabilities/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/04/house-oversight-democrats-seek-records-behind-pentagon-changes-to-iran-war-casualty-database/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/04/house-oversight-democrats-seek-records-behind-pentagon-changes-to-iran-war-casualty-database/",
+    "https://www.militarytimes.com/news/your-military/2026/08/04/armys-new-battlefield-command-system-ready-to-scale/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say/"
   ]
 }
