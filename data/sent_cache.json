@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-    "https://arstechnica.com/health/2026/06/rfk-jr-melts-down-over-nyt-report-admits-he-blacklists-reporters/",
     "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/",
     "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
     "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
@@ -499,14 +497,11 @@
     "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
     "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
     "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
-    "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
+    "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
+    "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
+    "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/"
   ],
   "Science": [
-    "https://www.science.org/content/article/venezuela-s-double-earthquake-struck-faults-scientists-had-flagged",
-    "https://www.nature.com/articles/d41586-026-01924-8",
-    "https://www.nature.com/articles/d41586-026-02023-4",
-    "https://www.nature.com/articles/d41586-026-01672-9",
-    "https://www.nature.com/articles/d41586-026-01979-7",
     "https://www.nature.com/articles/d41586-026-01496-7",
     "https://www.nature.com/articles/d41586-026-01137-z",
     "https://www.nature.com/articles/s41586-026-10815-x",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-02350-6",
     "https://www.nature.com/articles/d41586-026-02384-w",
     "https://www.nature.com/articles/d41586-026-02288-9",
-    "https://www.nature.com/articles/d41586-026-01845-6"
+    "https://www.nature.com/articles/d41586-026-01845-6",
+    "https://www.science.org/content/article/lucky-dive-scientists-get-front-row-view-creation-earth-s-surface",
+    "https://www.science.org/content/article/weekly-anti-hiv-pill-nears-market-vaccine-research-faces-new-hurdles",
+    "https://www.science.org/content/article/nasa-mission-predicts-solar-explosion-s-arrival-earth-stunning-precision",
+    "https://www.science.org/content/article/antimalaria-pesticide-may-have-backfired-helping-mosquitoes-find-love",
+    "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
