@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
-    "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-    "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
-    "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/",
     "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/",
     "https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/",
     "https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/",
@@ -499,7 +495,11 @@
     "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
     "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
     "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
-    "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/"
+    "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/",
+    "https://arstechnica.com/gadgets/2026/08/after-jacking-up-prices-disney-and-netflix-consider-offering-free-alternatives/",
+    "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
+    "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
+    "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/"
   ],
   "Science": [
     "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
@@ -1176,8 +1176,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/03/army-consolidates-air-and-missile-defense-roles-into-new-mos/",
-    "https://www.militarytimes.com/news/your-military/2026/06/03/lockheeds-grizzly-c-uas-system-downs-attack-drone-in-live-fire-demo/",
     "https://www.militarytimes.com/news/your-military/2026/06/03/gulf-tensions-escalate-as-iran-hits-kuwait-us-strikes-near-hormuz/",
     "https://www.militarytimes.com/news/your-army/2026/06/03/army-seeks-us-manufacturer-to-supply-boots/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/lawmakers-quarrel-over-effort-to-boost-defense-tech-integration-between-us-and-israel/",
@@ -1675,6 +1673,8 @@
     "https://www.militarytimes.com/news/your-military/2026/08/04/325-narcan-doses-43-lost-children-dc-national-guard-mission-wraps-first-year/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/04/us-army-wants-a-surface-to-air-missile-that-can-destroy-small-drones/",
     "https://www.militarytimes.com/veterans/2026/08/04/risk-of-developing-als-varies-by-service-study-finds/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role/"
+    "https://www.militarytimes.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role/",
+    "https://www.militarytimes.com/news/your-military/2026/08/05/meatball-no-more-marine-recruit-drops-over-100-pounds-for-boot-camp/",
+    "https://www.militarytimes.com/news/your-military/2026/08/05/the-army-certifies-its-first-equestrians-as-it-revamps-horse-care/"
   ]
 }
