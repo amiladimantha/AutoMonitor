@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/06/the-biggest-race-in-the-world-the-24-hours-of-le-mans-is-this-weekend/",
     "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
     "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
     "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
     "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
     "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
-    "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/"
+    "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
+    "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10815-x",
     "https://www.nature.com/articles/d41586-026-02063-w",
     "https://www.nature.com/articles/d41586-026-02065-8",
     "https://www.science.org/content/article/nih-likely-award-fewer-grants-it-races-spend-2026-budget",
@@ -1001,7 +1000,8 @@
     "https://www.science.org/content/article/antimalaria-pesticide-may-have-backfired-helping-mosquitoes-find-love",
     "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "https://www.nature.com/articles/d41586-026-02437-0",
-    "https://www.nature.com/articles/d41586-026-02386-8"
+    "https://www.nature.com/articles/d41586-026-02386-8",
+    "https://www.nature.com/articles/s41586-026-10963-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
