@@ -502,9 +502,6 @@
     "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02063-w",
-    "https://www.nature.com/articles/d41586-026-02065-8",
-    "https://www.science.org/content/article/nih-likely-award-fewer-grants-it-races-spend-2026-budget",
     "https://www.science.org/content/article/scientists-have-only-discovered-tiny-fraction-living-insect-species",
     "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
     "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
@@ -1001,7 +998,10 @@
     "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
     "https://www.nature.com/articles/d41586-026-02437-0",
     "https://www.nature.com/articles/d41586-026-02386-8",
-    "https://www.nature.com/articles/s41586-026-10963-0"
+    "https://www.nature.com/articles/s41586-026-10963-0",
+    "https://www.nature.com/articles/d41586-026-01772-6",
+    "https://www.nature.com/articles/d41586-026-02252-7",
+    "https://www.nature.com/articles/d41586-026-02444-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
