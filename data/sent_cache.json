@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/",
     "https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/",
     "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
     "https://arstechnica.com/science/2026/06/have-politics-finally-come-for-the-national-academies-of-science/",
@@ -499,28 +498,10 @@
     "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
     "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
     "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
-    "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/"
+    "https://arstechnica.com/cars/2026/08/pushing-the-limits-infinite-machines-olto-is-barely-a-bicycle/",
+    "https://arstechnica.com/ai/2026/08/spacex-spooks-investors-with-debut-earnings-report/"
   ],
   "Science": [
-    "https://www.science.org/content/article/scientists-have-only-discovered-tiny-fraction-living-insect-species",
-    "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
-    "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/",
-    "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/",
-    "https://www.nature.com/articles/d41586-026-02068-5",
-    "https://www.nature.com/articles/d41586-026-02070-x",
-    "https://www.nature.com/articles/d41586-026-02069-4",
-    "https://www.nature.com/articles/d41586-026-01873-2",
-    "https://www.nature.com/articles/d41586-026-01980-0",
-    "https://www.nature.com/articles/d41586-026-01965-z",
-    "https://www.nature.com/articles/d41586-026-02075-6",
-    "https://www.nature.com/articles/d41586-026-01813-0",
-    "https://www.nature.com/articles/s41586-026-10837-5",
-    "https://www.nature.com/articles/s41586-026-10816-w",
-    "https://www.nature.com/articles/s41586-026-10838-4",
-    "https://www.science.org/content/article/provision-buried-controversial-u-s-rule-change-would-help-people-legally-challenge-woke",
-    "https://www.science.org/content/article/rubin-observatory-begins-10-year-movie-changing-universe",
-    "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-    "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
     "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
     "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
     "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
@@ -1001,7 +982,26 @@
     "https://www.nature.com/articles/s41586-026-10963-0",
     "https://www.nature.com/articles/d41586-026-01772-6",
     "https://www.nature.com/articles/d41586-026-02252-7",
-    "https://www.nature.com/articles/d41586-026-02444-1"
+    "https://www.nature.com/articles/d41586-026-02444-1",
+    "https://www.nature.com/articles/s41586-026-10970-1",
+    "https://www.nature.com/articles/s41586-026-10977-8",
+    "https://www.nature.com/articles/d41586-026-02445-0",
+    "https://www.nature.com/articles/s41586-026-10798-9",
+    "https://www.nature.com/articles/s41586-026-10871-3",
+    "https://www.nature.com/articles/s41586-026-10890-0",
+    "https://www.nature.com/articles/s41586-026-10883-z",
+    "https://www.nature.com/articles/s41586-026-10874-0",
+    "https://www.nature.com/articles/s41586-026-10843-7",
+    "https://www.nature.com/articles/s41586-026-10867-z",
+    "https://www.nature.com/articles/s41586-026-10822-y",
+    "https://www.nature.com/articles/s41586-026-10865-1",
+    "https://www.nature.com/articles/s41586-026-10879-9",
+    "https://www.nature.com/articles/s41586-026-10806-y",
+    "https://www.nature.com/articles/s41586-026-10860-6",
+    "https://www.nature.com/articles/s41586-026-10884-y",
+    "https://www.nature.com/articles/s41586-026-10740-z",
+    "https://www.nature.com/articles/s41586-026-10863-3",
+    "https://www.nature.com/articles/s41586-026-10875-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1176,7 +1176,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/06/03/socom-wants-to-revive-legacy-m4-carbine-with-hypervelocity-cartridge/",
     "https://www.militarytimes.com/news/your-military/2026/06/03/army-consolidates-air-and-missile-defense-roles-into-new-mos/",
     "https://www.militarytimes.com/news/your-military/2026/06/03/lockheeds-grizzly-c-uas-system-downs-attack-drone-in-live-fire-demo/",
     "https://www.militarytimes.com/news/your-military/2026/06/03/gulf-tensions-escalate-as-iran-hits-kuwait-us-strikes-near-hormuz/",
@@ -1675,6 +1674,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say/",
     "https://www.militarytimes.com/news/your-military/2026/08/04/325-narcan-doses-43-lost-children-dc-national-guard-mission-wraps-first-year/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/04/us-army-wants-a-surface-to-air-missile-that-can-destroy-small-drones/",
-    "https://www.militarytimes.com/veterans/2026/08/04/risk-of-developing-als-varies-by-service-study-finds/"
+    "https://www.militarytimes.com/veterans/2026/08/04/risk-of-developing-als-varies-by-service-study-finds/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role/"
   ]
 }
