@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/06/foxs-22b-roku-acquisition-aims-to-expand-its-reach-into-smart-tvs-advertising/",
     "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
     "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
     "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
     "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
     "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
-    "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/"
+    "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
+    "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
     "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
     "https://www.nature.com/articles/d41586-026-01975-x",
     "https://www.nature.com/articles/d41586-026-01982-y",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-10740-z",
     "https://www.nature.com/articles/s41586-026-10863-3",
     "https://www.nature.com/articles/s41586-026-10875-z",
-    "https://www.nature.com/articles/d41586-026-02429-0"
+    "https://www.nature.com/articles/d41586-026-02429-0",
+    "https://www.nature.com/articles/d41586-026-02235-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1176,7 +1176,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/06/03/grab-and-go-food-stations-will-be-open-all-day-by-end-of-2026/",
     "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/06/03/dod-should-review-special-needs-health-care-programs-to-ensure-theyre-helping-military-families-watchdog-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/creating-a-separate-cyber-force-would-require-10-billion-and-a-minimum-of-1-year-report-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/draft-defense-bill-would-halt-cuts-closures-of-military-health-facilities/",
@@ -1675,6 +1674,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/08/05/the-countdown-begins-national-coast-guard-museum-one-year-from-opening/",
     "https://www.militarytimes.com/news/your-army/2026/08/06/30-days-after-army-communications-overhaul-questions-remain-about-access-to-information/",
     "https://www.militarytimes.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/05/firestorm-labs-builds-drones-aboard-uss-essex-without-shore-resupply/"
+    "https://www.militarytimes.com/industry/techwatch/2026/08/05/firestorm-labs-builds-drones-aboard-uss-essex-without-shore-resupply/",
+    "https://www.militarytimes.com/news/your-military/2026/08/06/north-carolina-national-guard-settles-lawsuit-over-blocking-facebook-critic/"
   ]
 }
