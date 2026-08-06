@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/06/users-cry-foul-after-amd-stripped-memory-crypto-from-its-consumer-cpus/",
     "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
     "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
     "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
@@ -499,19 +498,10 @@
     "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
     "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
     "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
-    "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/"
+    "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
+    "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-    "https://www.nature.com/articles/d41586-026-01975-x",
-    "https://www.nature.com/articles/d41586-026-01982-y",
-    "https://www.nature.com/articles/d41586-026-01973-z",
-    "https://www.nature.com/articles/d41586-026-01974-y",
-    "https://www.nature.com/articles/d41586-026-01981-z",
-    "https://www.nature.com/articles/d41586-026-01977-9",
-    "https://www.nature.com/articles/d41586-026-02067-6",
-    "https://www.nature.com/articles/d41586-026-01936-4",
-    "https://www.nature.com/articles/d41586-026-01908-8",
     "https://www.science.org/content/article/proposed-new-satellite-fleets-could-overwhelm-night-sky",
     "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
     "https://www.nature.com/articles/s41586-026-10720-3",
@@ -1001,7 +991,17 @@
     "https://www.nature.com/articles/s41586-026-10863-3",
     "https://www.nature.com/articles/s41586-026-10875-z",
     "https://www.nature.com/articles/d41586-026-02429-0",
-    "https://www.nature.com/articles/d41586-026-02235-8"
+    "https://www.nature.com/articles/d41586-026-02235-8",
+    "https://www.science.org/content/article/tau-protein-can-sneak-brain-cells-energy-factories-and-wreak-havoc",
+    "https://www.science.org/content/article/nih-director-bhattacharya-kills-more-health-disparities-grants",
+    "https://www.science.org/content/article/i-am-what-i-am-fauci-s-private-notes-reveal-scientist-navigating-science-politics-and",
+    "https://www.science.org/content/article/astrophysicists-find-best-evidence-yet-galaxies-get-some-spin-birth",
+    "https://www.science.org/content/article/covid-19-can-wake-dormant-viruses-body-large-study-confirms",
+    "https://www.science.org/content/article/neanderthal-growth-gene-turns-modern-humans-muscle-heads",
+    "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+    "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+    "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+    "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1173,12 +1173,10 @@
     "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "https://huggingface.co/blog/agent-intrusion-technical-timeline",
     "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "https://huggingface.co/blog/baseten"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/06/03/dod-should-review-special-needs-health-care-programs-to-ensure-theyre-helping-military-families-watchdog-says/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/creating-a-separate-cyber-force-would-require-10-billion-and-a-minimum-of-1-year-report-says/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/draft-defense-bill-would-halt-cuts-closures-of-military-health-facilities/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/experts-warn-terrorism-threat-is-rising-in-africa-as-us-pulls-back/",
     "https://www.militarytimes.com/news/your-military/2026/06/04/army-identifies-soldier-who-died-in-training-accident-in-iraq/",
     "https://www.militarytimes.com/news/your-navy/2026/06/04/navy-recognizes-uss-carl-vinson-with-battle-e-award/",
@@ -1675,6 +1673,9 @@
     "https://www.militarytimes.com/news/your-army/2026/08/06/30-days-after-army-communications-overhaul-questions-remain-about-access-to-information/",
     "https://www.militarytimes.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/05/firestorm-labs-builds-drones-aboard-uss-essex-without-shore-resupply/",
-    "https://www.militarytimes.com/news/your-military/2026/08/06/north-carolina-national-guard-settles-lawsuit-over-blocking-facebook-critic/"
+    "https://www.militarytimes.com/news/your-military/2026/08/06/north-carolina-national-guard-settles-lawsuit-over-blocking-facebook-critic/",
+    "https://www.militarytimes.com/global/mideast-africa/2026/08/06/iran-issues-warning-to-gulf-states-us-must-desist-or-youll-be-hit-hard/",
+    "https://www.militarytimes.com/news/your-military/2026/08/06/navy-removes-the-head-of-its-drone-program-just-8-months-into-her-tenure/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/06/senator-introduces-bill-to-stop-va-from-recouping-military-separation-pay-from-disabled-vets/"
   ]
 }
