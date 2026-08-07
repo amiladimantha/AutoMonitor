@@ -1,16 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/06/uk-to-ban-social-media-for-kids-under-16-may-impose-overnight-curfews/",
-    "https://arstechnica.com/health/2026/06/covid-vaccines-still-protect-against-heart-problems-large-study-finds/",
-    "https://arstechnica.com/space/2026/06/key-mission-for-europes-commercial-space-enterprise-scrubbed-again/",
-    "https://arstechnica.com/gadgets/2026/06/commodores-newest-gadget-is-a-flip-phone-that-blocks-social-media-and-browsers/",
-    "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-    "https://arstechnica.com/staff/2026/06/the-ars-technica-2026-reader-survey-let-your-voice-be-heard/",
-    "https://arstechnica.com/cars/2026/06/mobileye-is-entering-the-us-robotaxi-market-with-standalone-service/",
-    "https://arstechnica.com/ai/2026/06/pentagon-boasts-of-using-ai-to-write-reports-mandated-by-congress/",
-    "https://arstechnica.com/gadgets/2026/06/android-17-starts-hitting-pixel-phones-and-watches-today/",
-    "https://arstechnica.com/science/2026/06/trump-admin-abandons-fight-against-wind-energy-as-clean-energy-output-surges/",
-    "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
     "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
     "https://arstechnica.com/tech-policy/2026/06/us-approval-of-paramount-warner-bros-deal-surprised-doj-lawyers-report-says/",
     "https://arstechnica.com/science/2026/06/cockroaches-scurry-around-with-thousands-of-pieces-of-bacterial-genomes/",
@@ -499,14 +488,20 @@
     "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
     "https://arstechnica.com/security/2026/08/thousands-of-servers-can-be-backdoored-by-exploiting-buggy-motherboard-controllers/",
     "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-    "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/"
+    "https://arstechnica.com/cars/2026/08/ford-picks-fathom-for-its-affordable-truck-name-starts-at-28350/",
+    "https://arstechnica.com/health/2026/08/us-to-shutter-organ-donation-group-accused-of-trying-to-take-living-mans-organs/",
+    "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+    "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+    "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+    "https://arstechnica.com/ai/2026/08/anthropic-confirms-plans-to-build-an-in-house-silicon-team/",
+    "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+    "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
+    "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
+    "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
+    "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
+    "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/"
   ],
   "Science": [
-    "https://www.science.org/content/article/proposed-new-satellite-fleets-could-overwhelm-night-sky",
-    "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-    "https://www.nature.com/articles/s41586-026-10720-3",
-    "https://www.nature.com/articles/s41586-026-10621-5",
-    "https://www.nature.com/articles/s41586-026-10574-9",
     "https://www.nature.com/articles/s41586-026-10723-0",
     "https://www.nature.com/articles/s41586-026-10711-4",
     "https://www.nature.com/articles/s41586-026-10695-1",
@@ -1001,7 +996,12 @@
     "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
     "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
     "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/"
+    "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+    "https://www.nature.com/articles/s41586-026-10953-2",
+    "https://www.nature.com/articles/d41586-026-02360-4",
+    "https://www.nature.com/articles/d41586-026-02458-9",
+    "https://www.nature.com/articles/d41586-026-02430-7",
+    "https://www.nature.com/articles/d41586-026-02460-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1177,12 +1177,6 @@
     "https://huggingface.co/blog/baseten"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/03/experts-warn-terrorism-threat-is-rising-in-africa-as-us-pulls-back/",
-    "https://www.militarytimes.com/news/your-military/2026/06/04/army-identifies-soldier-who-died-in-training-accident-in-iraq/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/04/navy-recognizes-uss-carl-vinson-with-battle-e-award/",
-    "https://www.militarytimes.com/global/mideast-africa/2026/06/04/hidden-chemical-weapons-sites-emerge-in-syria-amid-fragile-security-transition/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/04/navy-fires-leadership-trio-of-ship-repair-facility-in-japan/",
-    "https://www.militarytimes.com/news/your-military/2026/06/04/navy-eliminates-regular-performance-fitness-reports-for-select-paygrades/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/04/pentagon-balks-at-court-order-allowing-hiv-positive-persons-to-serve/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/04/house-rejects-attempt-to-get-answers-about-army-flyby-of-kid-rocks-mansion/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/04/the-us-needs-drones-not-trump-class-battleships-democrats-argue/",
@@ -1676,6 +1670,12 @@
     "https://www.militarytimes.com/news/your-military/2026/08/06/north-carolina-national-guard-settles-lawsuit-over-blocking-facebook-critic/",
     "https://www.militarytimes.com/global/mideast-africa/2026/08/06/iran-issues-warning-to-gulf-states-us-must-desist-or-youll-be-hit-hard/",
     "https://www.militarytimes.com/news/your-military/2026/08/06/navy-removes-the-head-of-its-drone-program-just-8-months-into-her-tenure/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/06/senator-introduces-bill-to-stop-va-from-recouping-military-separation-pay-from-disabled-vets/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/06/senator-introduces-bill-to-stop-va-from-recouping-military-separation-pay-from-disabled-vets/",
+    "https://www.militarytimes.com/news/your-military/2026/08/06/an-air-force-robot-made-the-c-17-part-no-vendor-would/",
+    "https://www.militarytimes.com/news/2026/08/06/major-va-study-to-examine-effectiveness-of-psilocybin-on-depression-ptsd/",
+    "https://www.militarytimes.com/news/your-military/2026/08/06/navys-head-auditor-harassed-ridiculed-subordinates-probe-finds/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/06/southcom-replaces-southern-spear-with-western-hemisphere-task-force-targeting-criminal-networks/",
+    "https://www.militarytimes.com/news/your-military/2026/08/06/boeing-wins-first-production-contract-for-jet-powered-jdam/",
+    "https://www.militarytimes.com/veterans/2026/08/06/their-military-careers-were-cut-short-in-combat-now-theyre-fighting-congress-for-their-full-benefits/"
   ]
 }
