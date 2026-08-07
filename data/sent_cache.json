@@ -502,8 +502,6 @@
     "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10723-0",
-    "https://www.nature.com/articles/s41586-026-10711-4",
     "https://www.nature.com/articles/s41586-026-10695-1",
     "https://www.nature.com/articles/s41586-026-10730-1",
     "https://www.nature.com/articles/s41586-026-10716-z",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02360-4",
     "https://www.nature.com/articles/d41586-026-02458-9",
     "https://www.nature.com/articles/d41586-026-02430-7",
-    "https://www.nature.com/articles/d41586-026-02460-1"
+    "https://www.nature.com/articles/d41586-026-02460-1",
+    "https://www.science.org/content/article/global-warming-coming-countryside",
+    "https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
