@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/06/anthropic-pauses-token-based-billing-for-its-claude-agent-sdk/",
-    "https://arstechnica.com/tech-policy/2026/06/trump-admin-helps-xai-fight-pollution-lawsuit-says-military-needs-grok-for-war/",
     "https://arstechnica.com/information-technology/2026/06/hpe-tempts-vmware-users-partners-with-year-of-free-virtualization-software/",
     "https://arstechnica.com/cars/2026/06/native-nacs-ports-infotainment-upgrade-for-my27-porsche-taycan/",
     "https://arstechnica.com/security/2026/06/windows-and-linux-users-the-deadline-to-update-secure-boot-keys-is-near/",
@@ -499,10 +497,11 @@
     "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
     "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
     "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
-    "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/"
+    "https://arstechnica.com/science/2026/08/trump-is-losing-his-war-on-wind-power/",
+    "https://arstechnica.com/health/2026/08/report-white-house-drafting-executive-order-linking-vaccines-and-autism/",
+    "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10730-1",
     "https://www.nature.com/articles/s41586-026-10716-z",
     "https://www.nature.com/articles/s41586-026-10707-0",
     "https://www.nature.com/articles/s41586-026-10671-9",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02460-1",
     "https://www.science.org/content/article/global-warming-coming-countryside",
     "https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future",
-    "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
+    "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+    "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1177,8 +1177,6 @@
     "https://huggingface.co/blog/baseten"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/04/the-us-needs-drones-not-trump-class-battleships-democrats-argue/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/military-pay-raises-changes-to-housing-allowance-included-in-house-passed-115-trillion-defense-budget/",
     "https://www.militarytimes.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/house-advances-measure-to-give-troops-a-discount-on-gas/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/05/the-us-army-wants-thousands-of-air-defense-missiles-to-replace-the-stinger/",
@@ -1676,6 +1674,8 @@
     "https://www.militarytimes.com/news/your-military/2026/08/06/boeing-wins-first-production-contract-for-jet-powered-jdam/",
     "https://www.militarytimes.com/veterans/2026/08/06/their-military-careers-were-cut-short-in-combat-now-theyre-fighting-congress-for-their-full-benefits/",
     "https://www.militarytimes.com/news/your-military/2026/08/07/pentagon-ready-to-deploy-ai-agents-for-admin-tasks/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/"
+    "https://www.militarytimes.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/",
+    "https://www.militarytimes.com/news/your-military/2026/08/07/marine-corps-hackathon-announced-for-fall/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/07/senate-confirms-new-chief-of-space-operations/"
   ]
 }
