@@ -502,7 +502,6 @@
     "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10714-1",
     "https://www.nature.com/articles/s41586-026-10719-w",
     "https://www.nature.com/articles/s41586-026-10686-2",
     "https://www.nature.com/articles/s41586-026-10424-8",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
     "https://www.nature.com/articles/d41586-026-02488-3",
     "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
-    "https://www.nature.com/articles/d41586-026-02462-z"
+    "https://www.nature.com/articles/d41586-026-02462-z",
+    "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
