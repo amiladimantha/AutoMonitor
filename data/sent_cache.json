@@ -502,9 +502,6 @@
     "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10719-w",
-    "https://www.nature.com/articles/s41586-026-10686-2",
-    "https://www.nature.com/articles/s41586-026-10424-8",
     "https://www.nature.com/articles/s41586-026-10641-1",
     "https://www.nature.com/articles/s41586-026-10726-x",
     "https://www.nature.com/articles/s41586-026-10514-7",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02488-3",
     "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
     "https://www.nature.com/articles/d41586-026-02462-z",
-    "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research"
+    "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research",
+    "https://www.nature.com/articles/s41586-026-10984-9",
+    "https://www.nature.com/articles/d41586-026-02447-y",
+    "https://www.nature.com/articles/d41586-026-01681-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1175,7 +1175,8 @@
     "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
     "https://huggingface.co/blog/baseten",
-    "https://huggingface.co/blog/allenai/tutormoments"
+    "https://huggingface.co/blog/allenai/tutormoments",
+    "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/house-advances-measure-to-give-troops-a-discount-on-gas/",
