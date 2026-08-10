@@ -502,8 +502,6 @@
     "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10705-2",
-    "https://www.science.org/content/article/paleontologist-neil-shubin-vows-keep-national-academy-sciences-relevant",
     "https://www.science.org/content/article/usda-accelerates-plan-close-its-flagship-scientific-campus",
     "https://www.science.org/content/article/these-flesh-eating-superworms-can-clean-skeleton-hours",
     "https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/s41586-026-10978-7",
     "https://www.nature.com/articles/d41586-026-02450-3",
     "https://www.nature.com/articles/d41586-026-02276-z",
-    "https://www.nature.com/articles/d41586-026-02453-0"
+    "https://www.nature.com/articles/d41586-026-02453-0",
+    "https://www.nature.com/articles/d41586-026-02435-2",
+    "https://www.nature.com/articles/d41586-026-02199-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1180,8 +1180,6 @@
     "https://huggingface.co/blog/muse-glimmer"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/06/05/the-us-army-wants-thousands-of-air-defense-missiles-to-replace-the-stinger/",
-    "https://www.militarytimes.com/global/europe/2026/06/05/huge-fascist-era-underground-cisterns-draw-western-special-forces-to-italy-for-tunnel-training/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/pentagon-must-divulge-cost-of-iran-war-under-house-proposal/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/05/ai-companies-have-a-responsibility-to-safeguard-models-against-exploitation-pentagon-chief-technology-officer-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/house-panel-votes-to-reinstate-non-confederate-base-names-and-adopt-department-of-war/",
@@ -1679,6 +1677,8 @@
     "https://www.militarytimes.com/news/your-military/2026/08/07/marine-corps-hackathon-announced-for-fall/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/07/senate-confirms-new-chief-of-space-operations/",
     "https://www.militarytimes.com/news/your-military/2026/08/07/air-national-guard-dangles-7500-bonus-for-eligible-reenlistments/",
-    "https://www.militarytimes.com/news/your-military/2026/08/10/marine-corps-to-get-production-ready-microwave-drone-swarm-killer/"
+    "https://www.militarytimes.com/news/your-military/2026/08/10/marine-corps-to-get-production-ready-microwave-drone-swarm-killer/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/pentagon-launches-online-marketplace-for-counter-uas-technology/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/10/cmp-approved-to-sell-more-than-100000-surplus-m14-rifles/"
   ]
 }
