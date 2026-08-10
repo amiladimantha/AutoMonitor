@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/",
-    "https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/",
-    "https://arstechnica.com/space/2026/06/cosmonaut-aleksandr-samokutyaev-56-is-first-former-iss-crew-member-to-die/",
-    "https://arstechnica.com/science/2026/06/hunter-gatherers-in-siberia-died-of-a-plague-outbreak-5500-years-ago/",
     "https://arstechnica.com/science/2026/06/after-senate-vote-trump-admin-backs-off-plans-to-kill-ocean-monitoring/",
     "https://arstechnica.com/information-technology/2026/06/before-spacex-ipo-investors-in-china-secretly-acquired-stakes/",
     "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry/",
@@ -499,7 +495,11 @@
     "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
     "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
     "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
-    "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/"
+    "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
+    "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
+    "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
+    "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
+    "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/"
   ],
   "Science": [
     "https://www.science.org/content/article/usda-accelerates-plan-close-its-flagship-scientific-campus",
@@ -1180,8 +1180,6 @@
     "https://huggingface.co/blog/muse-glimmer"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/pentagon-must-divulge-cost-of-iran-war-under-house-proposal/",
-    "https://www.militarytimes.com/industry/techwatch/2026/06/05/ai-companies-have-a-responsibility-to-safeguard-models-against-exploitation-pentagon-chief-technology-officer-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/house-panel-votes-to-reinstate-non-confederate-base-names-and-adopt-department-of-war/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/joint-chiefs-head-makes-first-official-visit-to-post-maduro-venezuela/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/05/lawmakers-move-to-require-chaperones-for-sensitive-appointments-in-military-health-system/",
@@ -1679,6 +1677,8 @@
     "https://www.militarytimes.com/news/your-military/2026/08/07/air-national-guard-dangles-7500-bonus-for-eligible-reenlistments/",
     "https://www.militarytimes.com/news/your-military/2026/08/10/marine-corps-to-get-production-ready-microwave-drone-swarm-killer/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/pentagon-launches-online-marketplace-for-counter-uas-technology/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/10/cmp-approved-to-sell-more-than-100000-surplus-m14-rifles/"
+    "https://www.militarytimes.com/industry/techwatch/2026/08/10/cmp-approved-to-sell-more-than-100000-surplus-m14-rifles/",
+    "https://www.militarytimes.com/veterans/2026/08/10/veterans-unemployment-stable-despite-job-market-cratering-in-july-report-shows/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/"
   ]
 }
