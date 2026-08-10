@@ -502,7 +502,6 @@
     "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/"
   ],
   "Science": [
-    "https://www.science.org/content/article/these-flesh-eating-superworms-can-clean-skeleton-hours",
     "https://www.science.org/content/article/lab-created-spudcell-marks-major-step-toward-building-life-scratch",
     "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
     "https://www.nature.com/articles/d41586-026-01773-5",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02453-0",
     "https://www.nature.com/articles/d41586-026-02435-2",
     "https://www.nature.com/articles/d41586-026-02199-9",
-    "https://www.nature.com/articles/s41586-026-10989-4"
+    "https://www.nature.com/articles/s41586-026-10989-4",
+    "https://www.nature.com/articles/d41586-026-02493-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
