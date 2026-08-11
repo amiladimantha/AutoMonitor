@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/",
     "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
     "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
     "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
     "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
     "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
-    "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/"
+    "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
+    "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/"
   ],
   "Science": [
-    "https://www.science.org/content/article/first-ever-treatment-trial-ebola-bundibugyo-kicks-congo",
     "https://www.nature.com/articles/d41586-026-01989-5",
     "https://www.nature.com/articles/d41586-026-02108-0",
     "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-10947-0",
     "https://www.nature.com/articles/d41586-026-02452-1",
     "https://www.nature.com/articles/d41586-026-02142-y",
-    "https://www.nature.com/articles/d41586-026-02449-w"
+    "https://www.nature.com/articles/d41586-026-02449-w",
+    "https://www.nature.com/articles/d41586-026-02380-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1178,7 +1178,8 @@
     "https://huggingface.co/blog/allenai/tutormoments",
     "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
     "https://huggingface.co/blog/muse-glimmer",
-    "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+    "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/your-navy/2026/06/08/sailor-charged-for-isis-conspiracy-to-kill-us-troops/",
