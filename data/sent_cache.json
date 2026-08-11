@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/",
     "https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/",
     "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
     "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
     "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
     "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
-    "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/"
+    "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
+    "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01989-5",
     "https://www.nature.com/articles/d41586-026-02108-0",
     "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
     "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02452-1",
     "https://www.nature.com/articles/d41586-026-02142-y",
     "https://www.nature.com/articles/d41586-026-02449-w",
-    "https://www.nature.com/articles/d41586-026-02380-0"
+    "https://www.nature.com/articles/d41586-026-02380-0",
+    "https://www.nature.com/articles/d41586-026-02454-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1182,8 +1182,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/06/08/sailor-charged-for-isis-conspiracy-to-kill-us-troops/",
-    "https://www.militarytimes.com/industry/techwatch/2026/06/08/chokepoint-busters-marines-seek-toolkit-to-help-aviators-clear-way-for-amphibs/",
     "https://www.militarytimes.com/news/your-military/2026/06/09/us-soldiers-rescued-after-apache-helicopter-goes-down-near-the-coast-of-oman/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/09/army-mortar-crews-trade-laptops-for-phone-app/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/",
@@ -1681,6 +1679,8 @@
     "https://www.militarytimes.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
     "https://www.militarytimes.com/news/your-navy/2026/08/10/uss-thomas-hudner-returns-home-from-operation-epic-fury-southern-spear-deployments/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/10/navy-restricts-process-for-anonymously-reporting-harassment-and-discrimination/"
+    "https://www.militarytimes.com/news/your-navy/2026/08/10/navy-restricts-process-for-anonymously-reporting-harassment-and-discrimination/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/11/pentagon-gives-industry-21-days-to-submit-plans-for-significantly-faster-weapons-production/",
+    "https://www.militarytimes.com/news/your-military/2026/08/11/lockheed-martin-launches-modular-missile-tech-with-dedicated-storefront/"
   ]
 }
