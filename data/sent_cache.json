@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/",
-    "https://arstechnica.com/science/2026/06/trump-admins-coal-investments-assist-plants-with-repeated-violations/",
-    "https://arstechnica.com/features/2026/06/this-former-hacker-saw-the-light-and-now-wants-to-collect-all-of-it/",
     "https://arstechnica.com/ai/2026/06/how-anthropic-may-have-talked-itself-into-an-ai-export-ban/",
     "https://arstechnica.com/cars/2026/06/lucid-lays-off-1500-workers-in-second-big-cut-of-the-year/",
     "https://arstechnica.com/space/2026/06/a-us-military-exercise-in-space-got-underway-with-barely-anyone-noticing/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
     "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
     "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
-    "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/"
+    "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/",
+    "https://arstechnica.com/health/2026/08/less-than-2-5-of-taylor-farms-recalled-lettuce-went-to-taco-bells/",
+    "https://arstechnica.com/science/2026/08/tracking-extreme-heat-by-the-hour-makes-climate-change-seem-even-worse/",
+    "https://arstechnica.com/gadgets/2026/08/a-google-insider-spills-the-tea-on-how-the-company-forsook-its-founding-ideals/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02099-y",
@@ -1182,11 +1182,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/06/09/marine-corps-looks-to-equip-armored-vehicles-with-360-degree-cameras/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/09/sailor-sentenced-to-44-years-in-prison-for-murder-of-angelina-resendiz/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/09/senator-warns-of-government-shutdown-over-dispute-on-fiscal-2027-defense-budget/",
-    "https://www.militarytimes.com/news/your-military/2026/06/09/us-launches-new-strikes-on-iran-after-helicopter-downed/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/06/10/the-us-usually-sells-weapons-to-taiwan-with-drones-expect-the-reverse/",
     "https://www.militarytimes.com/news/your-military/2026/06/10/qatari-donated-air-force-one-now-sports-red-white-and-blue-paint-job/",
     "https://www.militarytimes.com/news/your-navy/2026/06/10/navy-chaplains-to-remove-rank-insignia-from-all-working-and-utility-uniforms/",
     "https://www.militarytimes.com/news/your-military/2026/06/10/iraq-and-afghanistan-veterans-are-retiring-how-will-new-leaders-inherit-their-lessons-learned/",
@@ -1681,6 +1676,11 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/11/transportation-secretary-working-on-telecom-issues-after-close-call-involving-marine-one/",
     "https://www.militarytimes.com/off-duty/military-culture/2026/08/11/from-the-draft-to-dungeons-and-dragons/",
     "https://www.militarytimes.com/news/your-military/2026/08/11/russia-frees-former-us-marine-from-detention/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/11/navy-bringing-free-concerts-to-50-installations/"
+    "https://www.militarytimes.com/news/your-navy/2026/08/11/navy-bringing-free-concerts-to-50-installations/",
+    "https://www.militarytimes.com/news/your-military/2026/08/11/marines-must-update-religious-affiliation-as-service-slashes-list-to-30-options/",
+    "https://www.militarytimes.com/news/your-military/2026/08/11/asbestos-mold-and-crumbling-walls-the-us-militarys-pacific-bases-are-falling-apart/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/11/boeing-unveils-cheap-radar-seeker-built-from-off-the-shelf-parts/",
+    "https://www.militarytimes.com/news/your-military/2026/08/11/air-force-promotes-over-12500-senior-airmen-to-staff-sergeant/",
+    "https://www.militarytimes.com/veterans/2026/08/11/majority-of-va-mental-health-visits-are-timely-but-referrals-lag-watchdog/"
   ]
 }
