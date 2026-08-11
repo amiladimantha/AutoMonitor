@@ -502,10 +502,6 @@
     "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
-    "https://www.nature.com/articles/d41586-026-02034-1",
-    "https://www.science.org/content/article/being-taller-tree-doesn-t-doom-you-drought-after-all",
-    "https://www.science.org/content/article/major-ukraine-research-center-damaged-russian-strikes",
     "https://www.science.org/content/article/first-ever-treatment-trial-ebola-bundibugyo-kicks-congo",
     "https://www.nature.com/articles/d41586-026-01989-5",
     "https://www.nature.com/articles/d41586-026-02108-0",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02464-x",
     "https://www.nature.com/articles/d41586-026-02490-9",
     "https://www.nature.com/articles/d41586-026-02491-8",
-    "https://www.nature.com/articles/d41586-026-02451-2"
+    "https://www.nature.com/articles/d41586-026-02451-2",
+    "https://www.nature.com/articles/s41586-026-10947-0",
+    "https://www.nature.com/articles/d41586-026-02452-1",
+    "https://www.nature.com/articles/d41586-026-02142-y",
+    "https://www.nature.com/articles/d41586-026-02449-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
