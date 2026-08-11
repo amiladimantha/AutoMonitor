@@ -502,9 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/08/trump-to-give-republicans-a-3-1-fcc-majority-isnt-filling-empty-democratic-seat/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-    "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-    "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
     "https://www.nature.com/articles/d41586-026-02099-y",
     "https://www.nature.com/articles/d41586-026-02097-0",
     "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02449-w",
     "https://www.nature.com/articles/d41586-026-02380-0",
     "https://www.nature.com/articles/d41586-026-02454-z",
-    "https://www.nature.com/articles/s41586-026-10991-w"
+    "https://www.nature.com/articles/s41586-026-10991-w",
+    "https://www.nature.com/articles/d41586-026-02431-6",
+    "https://www.nature.com/articles/d41586-026-02374-y",
+    "https://www.nature.com/articles/d41586-026-02489-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1182,8 +1182,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/",
-    "https://www.militarytimes.com/news/your-military/2026/06/09/flashpoint-campaigns-cold-war-is-the-ultimate-ooda-loop-wargame/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/06/09/marines-to-have-their-own-barracks-bedrooms-at-japan-base/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/09/marine-corps-looks-to-equip-armored-vehicles-with-360-degree-cameras/",
     "https://www.militarytimes.com/news/your-navy/2026/06/09/sailor-sentenced-to-44-years-in-prison-for-murder-of-angelina-resendiz/",
@@ -1681,6 +1679,8 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/11/pentagon-gives-industry-21-days-to-submit-plans-for-significantly-faster-weapons-production/",
     "https://www.militarytimes.com/news/your-military/2026/08/11/lockheed-martin-launches-modular-missile-tech-with-dedicated-storefront/",
     "https://www.militarytimes.com/global/asia-pacific/2026/08/11/colby-pushes-back-on-dwindling-stockpile-reports-amid-southeast-asia-tour/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/11/transportation-secretary-working-on-telecom-issues-after-close-call-involving-marine-one/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/11/transportation-secretary-working-on-telecom-issues-after-close-call-involving-marine-one/",
+    "https://www.militarytimes.com/off-duty/military-culture/2026/08/11/from-the-draft-to-dungeons-and-dragons/",
+    "https://www.militarytimes.com/news/your-military/2026/08/11/russia-frees-former-us-marine-from-detention/"
   ]
 }
