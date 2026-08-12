@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation/",
     "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/",
     "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
     "https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/",
@@ -499,11 +498,10 @@
     "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
     "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
     "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
-    "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/"
+    "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/",
+    "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10732-z",
-    "https://www.nature.com/articles/s41586-026-10737-8",
     "https://www.nature.com/articles/s41586-026-10744-9",
     "https://www.nature.com/articles/s41586-026-10759-2",
     "https://www.nature.com/articles/s41586-026-10742-x",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/s41586-026-10891-z",
     "https://www.nature.com/articles/s41586-026-10896-8",
     "https://www.nature.com/articles/s41586-026-10903-y",
-    "https://www.nature.com/articles/s41586-026-10870-4"
+    "https://www.nature.com/articles/s41586-026-10870-4",
+    "https://www.nature.com/articles/d41586-026-02463-y",
+    "https://www.nature.com/articles/d41586-026-02461-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1184,8 +1184,6 @@
     "https://huggingface.co/blog/allenai/olmoearth-embeddings"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/06/10/us-navy-stands-up-naval-support-activity-in-western-australia/",
-    "https://www.militarytimes.com/news/your-military/2026/06/10/us-army-astronaut-tapped-for-nasas-artemis-iii-mission/",
     "https://www.militarytimes.com/veterans/2026/06/10/va-introduces-new-electronic-health-records-system-to-four-additional-sites/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/10/pentagon-to-launch-cyber-mastery-incentive-pay-program/",
     "https://www.militarytimes.com/news/your-military/2026/06/10/first-look-at-the-global-war-on-terrorism-memorial-design-in-washington/",
@@ -1683,6 +1681,8 @@
     "https://www.militarytimes.com/news/your-military/2026/08/12/urine-test-could-predict-stress-fractures-in-boot-camp/",
     "https://www.militarytimes.com/news/your-air-force/2026/08/12/parents-sue-air-force-academy-over-graduates-suicide-after-sexual-assault/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/12/air-force-should-regard-ai-as-readiness-issue-across-critical-career-fields-report-says/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say/",
+    "https://www.militarytimes.com/news/your-military/2026/08/12/joint-base-andrews-to-recieve-26-hh-60ws-stand-up-helicopter-squadron/",
+    "https://www.militarytimes.com/news/your-military/2026/08/12/air-force-expedites-covid-reinstatement-process-for-separated-airmen-guardians/"
   ]
 }
