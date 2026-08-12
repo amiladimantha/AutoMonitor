@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/",
     "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
     "https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation/",
     "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/science/2026/08/feces-fueled-a-flurry-of-evolution-during-the-cambrian-study-suggests/",
     "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
     "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
-    "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/"
+    "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
+    "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02000-x",
     "https://www.nature.com/articles/d41586-026-02098-z",
     "https://www.nature.com/articles/s41586-026-10882-0",
     "https://www.nature.com/articles/d41586-026-02101-7",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02498-1",
     "https://www.nature.com/articles/d41586-026-02408-5",
     "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
-    "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/"
+    "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+    "https://www.science.org/content/article/new-telescope-reveals-missing-link-cosmic-recycling-matter"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1183,8 +1183,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/06/10/us-aircraft-fires-at-disables-another-oil-tanker-in-gulf-of-oman/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/10/they-got-very-lucky-trump-says-of-downed-apache-helicopters-crew/",
     "https://www.militarytimes.com/news/your-navy/2026/06/10/us-navy-stands-up-naval-support-activity-in-western-australia/",
     "https://www.militarytimes.com/news/your-military/2026/06/10/us-army-astronaut-tapped-for-nasas-artemis-iii-mission/",
     "https://www.militarytimes.com/veterans/2026/06/10/va-introduces-new-electronic-health-records-system-to-four-additional-sites/",
@@ -1682,6 +1680,8 @@
     "https://www.militarytimes.com/veterans/2026/08/11/majority-of-va-mental-health-visits-are-timely-but-referrals-lag-watchdog/",
     "https://www.militarytimes.com/news/your-military/2026/08/11/multiple-uss-abraham-lincoln-sailors-have-tried-to-go-overboard-amid-extended-deployment-families-say/",
     "https://www.militarytimes.com/news/your-military/2026/08/12/urine-test-could-predict-stress-fractures-in-boot-camp/",
-    "https://www.militarytimes.com/news/your-air-force/2026/08/12/parents-sue-air-force-academy-over-graduates-suicide-after-sexual-assault/"
+    "https://www.militarytimes.com/news/your-air-force/2026/08/12/parents-sue-air-force-academy-over-graduates-suicide-after-sexual-assault/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/12/air-force-should-regard-ai-as-readiness-issue-across-critical-career-fields-report-says/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say/"
   ]
 }
