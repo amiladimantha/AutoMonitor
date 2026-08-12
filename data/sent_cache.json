@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
     "https://arstechnica.com/tech-policy/2026/06/everyone-pays-the-price-as-patent-holders-on-seeds-stifle-innovation/",
     "https://arstechnica.com/culture/2026/06/taika-waititi-brings-more-dramatic-tone-to-klara-and-the-sun-trailer/",
     "https://arstechnica.com/health/2026/06/trump-may-be-mystery-patient-in-odd-case-of-79yo-getting-experimental-obesity-drug/",
@@ -499,29 +498,10 @@
     "https://arstechnica.com/gadgets/2026/08/google-reveals-2026-hardware-lineup-pixel-11-pixel-watch-5-and-pixel-tag/",
     "https://arstechnica.com/security/2026/08/researchers-found-a-way-to-hijack-devices-through-zoom-screen-sharing/",
     "https://arstechnica.com/cars/2026/08/formula-e-finds-a-new-home-on-disney-espn/",
-    "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/"
+    "https://arstechnica.com/tech-policy/2026/08/heres-a-balm-if-the-idea-of-destroying-books-to-train-ai-breaks-your-heart/",
+    "https://arstechnica.com/tech-policy/2026/08/us-tries-to-override-new-york-gambling-laws-orders-kalshi-to-keep-operating/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02098-z",
-    "https://www.nature.com/articles/s41586-026-10882-0",
-    "https://www.nature.com/articles/d41586-026-02101-7",
-    "https://www.nature.com/articles/d41586-026-02105-3",
-    "https://www.nature.com/articles/d41586-026-02095-2",
-    "https://www.science.org/content/article/british-first-fleet-brought-smallpox-australia-and-may-have-killed-millions",
-    "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-    "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
-    "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-    "https://www.nature.com/articles/d41586-026-02040-3",
-    "https://www.science.org/content/article/chatbots-can-help-perpetuate-stigma-around-certain-health-conditions",
-    "https://www.science.org/content/article/flu-virus-threatens-its-unique-bird-species-new-zealand-pins-hopes-vaccine",
-    "https://www.science.org/content/article/uranus-and-neptune-may-not-be-ice-giants-after-all",
-    "https://www.nature.com/articles/d41586-026-01673-8",
-    "https://www.nature.com/articles/d41586-026-01933-7",
-    "https://www.nature.com/articles/d41586-026-02090-7",
-    "https://www.nature.com/articles/d41586-026-02136-w",
-    "https://www.nature.com/articles/d41586-026-02141-z",
-    "https://www.nature.com/articles/s41586-026-10725-y",
-    "https://www.nature.com/articles/s41586-026-10796-x",
     "https://www.nature.com/articles/s41586-026-10732-z",
     "https://www.nature.com/articles/s41586-026-10737-8",
     "https://www.nature.com/articles/s41586-026-10744-9",
@@ -1001,7 +981,27 @@
     "https://www.nature.com/articles/d41586-026-02408-5",
     "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
     "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-    "https://www.science.org/content/article/new-telescope-reveals-missing-link-cosmic-recycling-matter"
+    "https://www.science.org/content/article/new-telescope-reveals-missing-link-cosmic-recycling-matter",
+    "https://www.nature.com/articles/s41586-026-10994-7",
+    "https://www.nature.com/articles/s41586-026-10773-4",
+    "https://www.nature.com/articles/s41586-026-10774-3",
+    "https://www.nature.com/articles/d41586-026-02521-5",
+    "https://www.nature.com/articles/s41586-026-10787-y",
+    "https://www.nature.com/articles/s41586-026-10788-x",
+    "https://www.nature.com/articles/s41586-026-10805-z",
+    "https://www.nature.com/articles/s41586-026-10909-6",
+    "https://www.nature.com/articles/s41586-026-10916-7",
+    "https://www.nature.com/articles/s41586-026-10756-5",
+    "https://www.nature.com/articles/s41586-026-10888-8",
+    "https://www.nature.com/articles/s41586-026-10886-w",
+    "https://www.nature.com/articles/s41586-026-10907-8",
+    "https://www.nature.com/articles/s41586-026-10846-4",
+    "https://www.nature.com/articles/s41586-026-10905-w",
+    "https://www.nature.com/articles/s41586-026-10889-7",
+    "https://www.nature.com/articles/s41586-026-10891-z",
+    "https://www.nature.com/articles/s41586-026-10896-8",
+    "https://www.nature.com/articles/s41586-026-10903-y",
+    "https://www.nature.com/articles/s41586-026-10870-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1180,7 +1180,8 @@
     "https://huggingface.co/blog/muse-glimmer",
     "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
     "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "https://huggingface.co/blog/allenai/olmoearth-embeddings"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/your-navy/2026/06/10/us-navy-stands-up-naval-support-activity-in-western-australia/",
