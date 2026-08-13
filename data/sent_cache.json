@@ -502,10 +502,6 @@
     "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10736-9",
-    "https://www.science.org/content/article/springer-nature-restores-max-planck-s-mysteriously-retracted-papers",
-    "https://www.science.org/content/article/detection-schemes-could-deter-putting-nuclear-warheads-space",
-    "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
     "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
     "https://www.science.org/content/article/study-dampens-hope-meningitis-vaccine-can-also-prevent-gonorrhea",
     "https://www.science.org/content/article/molecular-quirk-unique-octopuses-makes-them-better-building-proteins",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02503-7",
     "https://www.nature.com/articles/d41586-026-02525-1",
     "https://www.nature.com/articles/s41586-026-10959-w",
-    "https://www.nature.com/articles/d41586-026-02502-8"
+    "https://www.nature.com/articles/d41586-026-02502-8",
+    "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
+    "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
+    "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
+    "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1182,10 +1182,10 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
     "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
     "https://huggingface.co/blog/allenai/olmoearth-embeddings",
-    "https://huggingface.co/blog/icml-2026-open-reproductions"
+    "https://huggingface.co/blog/icml-2026-open-reproductions",
+    "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/11/in-us-air-force-first-commandos-complete-grueling-argentine-mountain-warfare-course/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/11/air-force-cites-dei-ban-in-cancellation-of-wreath-laying-honoring-women-vets/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/11/trump-vows-to-seize-irans-kharg-island/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/11/senate-committee-backs-department-of-war-name-change/",
@@ -1684,6 +1684,7 @@
     "https://www.militarytimes.com/news/your-military/2026/08/12/two-dead-after-apache-crash-in-texas/",
     "https://www.militarytimes.com/news/your-military/2026/08/13/senator-presses-navy-for-answers-on-uss-abraham-lincoln-deployment/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/08/13/marine-corps-identifies-recruit-killed-at-camp-pendleton/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/13/marines-train-to-shoot-down-combat-drones-with-standard-weapons/"
+    "https://www.militarytimes.com/industry/techwatch/2026/08/13/marines-train-to-shoot-down-combat-drones-with-standard-weapons/",
+    "https://www.militarytimes.com/news/2026/08/13/if-long-deployments-are-the-future-endurance-cant-be-the-navys-only-plan/"
   ]
 }
