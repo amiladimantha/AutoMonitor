@@ -502,13 +502,6 @@
     "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10744-9",
-    "https://www.nature.com/articles/s41586-026-10759-2",
-    "https://www.nature.com/articles/s41586-026-10742-x",
-    "https://www.nature.com/articles/s41586-026-10747-6",
-    "https://www.nature.com/articles/s41586-026-10785-0",
-    "https://www.nature.com/articles/s41586-026-10622-4",
-    "https://www.nature.com/articles/s41586-026-10761-8",
     "https://www.nature.com/articles/s41586-026-10712-3",
     "https://www.nature.com/articles/s41586-026-10783-2",
     "https://www.nature.com/articles/s41586-026-10752-9",
@@ -1001,7 +994,14 @@
     "https://www.nature.com/articles/s41586-026-10903-y",
     "https://www.nature.com/articles/s41586-026-10870-4",
     "https://www.nature.com/articles/d41586-026-02463-y",
-    "https://www.nature.com/articles/d41586-026-02461-0"
+    "https://www.nature.com/articles/d41586-026-02461-0",
+    "https://www.science.org/content/article/were-these-ancient-rock-images-painted-human-blood",
+    "https://www.science.org/content/article/can-new-safer-class-pain-drugs-ever-rival-opioids",
+    "https://www.science.org/content/article/denisovans-towered-over-their-contemporaries-and-munched-bunch-meat",
+    "https://www.science.org/content/article/hundreds-paper-mill-papers-peddled-ads-were-later-published",
+    "https://www.science.org/content/article/arson-attack-jolts-italy-s-bid-host-einstein-telescope",
+    "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
