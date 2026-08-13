@@ -502,7 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10752-9",
     "https://www.nature.com/articles/s41586-026-10689-z",
     "https://www.nature.com/articles/s41586-026-10715-0",
     "https://www.nature.com/articles/s41586-026-10703-4",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
     "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
     "https://www.nature.com/articles/s41586-026-10960-3",
-    "https://www.nature.com/articles/d41586-026-01904-y"
+    "https://www.nature.com/articles/d41586-026-01904-y",
+    "https://www.nature.com/articles/d41586-026-02494-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
