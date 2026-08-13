@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/",
     "https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/",
     "https://arstechnica.com/space/2026/06/november-launch-set-for-space-shuttle-endeavours-towering-display/",
     "https://arstechnica.com/tech-policy/2026/06/white-house-app-auto-downloads-to-government-phones-cant-be-uninstalled/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
     "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
     "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-    "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/"
+    "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+    "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10783-2",
     "https://www.nature.com/articles/s41586-026-10752-9",
     "https://www.nature.com/articles/s41586-026-10689-z",
     "https://www.nature.com/articles/s41586-026-10715-0",
@@ -1001,7 +1000,8 @@
     "https://www.science.org/content/article/arson-attack-jolts-italy-s-bid-host-einstein-telescope",
     "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
     "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "https://www.nature.com/articles/s41586-026-10960-3"
+    "https://www.nature.com/articles/s41586-026-10960-3",
+    "https://www.nature.com/articles/d41586-026-01904-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
