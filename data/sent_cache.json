@@ -502,7 +502,6 @@
     "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10853-5",
     "https://www.nature.com/articles/d41586-026-02121-3",
     "https://www.nature.com/articles/d41586-026-01339-5",
     "https://www.nature.com/articles/d41586-026-02153-9",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
     "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
     "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-    "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
+    "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+    "https://www.nature.com/articles/s41586-026-11023-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1187,7 +1187,6 @@
     "https://huggingface.co/blog/state-of-open-models-summer-2026"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/06/12/navy-to-reevaluate-religious-accommodations-for-facial-hair/",
     "https://www.militarytimes.com/news/your-military/2026/06/12/as-tick-threat-grows-navy-lab-investigates-gummy-bear-bug-repellent/",
     "https://www.militarytimes.com/news/your-military/2026/06/12/sounds-like-a-mutiny-secret-recording-exposes-claims-of-toxic-leadership-after-a-marines-suicide/",
     "https://www.militarytimes.com/news/your-navy/2026/06/12/navy-to-commission-tech-leaders-as-officers-for-navy-innovation-unit/",
@@ -1686,6 +1685,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/14/bill-seeks-nationwide-concealed-carry-for-special-operators/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
     "https://www.militarytimes.com/news/your-military/2026/08/14/army-identifies-two-soldiers-killed-in-apache-crash/",
-    "https://www.militarytimes.com/news/your-military/2026/08/14/woman-charged-over-vandalism-of-world-war-ii-memorial/"
+    "https://www.militarytimes.com/news/your-military/2026/08/14/woman-charged-over-vandalism-of-world-war-ii-memorial/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/14/white-house-national-security-official-to-depart-administration/"
   ]
 }
