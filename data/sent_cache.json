@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/06/analysis-finds-the-exploration-programs-nasa-recently-canceled-were-running-way-late/",
-    "https://arstechnica.com/health/2026/06/us-ends-hantavirus-outbreak-response-with-no-answers-on-draconian-quarantines/",
-    "https://arstechnica.com/gadgets/2026/06/ibm-claims-worlds-first-sub-1-nanometer-chip-technology/",
-    "https://arstechnica.com/science/2026/06/the-sad-inevitability-of-europes-heat-wave/",
     "https://arstechnica.com/science/2026/06/new-effort-will-get-genome-sequences-for-entire-endangered-species-list/",
     "https://arstechnica.com/science/2026/06/every-homo-naledi-we-know-of-is-female-and-the-implications-are-fascinating/",
     "https://arstechnica.com/cars/2026/06/feds-deny-polestar-authorization-to-sell-cars-in-us-from-model-year-2027/",
@@ -499,14 +495,13 @@
     "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
     "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
     "https://arstechnica.com/gadgets/2026/08/samsung-galaxy-z-fold-8-ultra-review-the-ultra-foldable-with-an-ultra-price/",
-    "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/"
+    "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+    "https://arstechnica.com/gaming/2026/08/ars-live-recap-how-can-we-stop-publishers-from-killing-their-own-games/",
+    "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+    "https://arstechnica.com/culture/2026/08/r-rated-directors-cut-of-x-files-film-restores-chris-carters-original-horror-vision/",
+    "https://arstechnica.com/health/2026/08/taylor-farms-connections-to-trump-admin-spurs-probe-into-cyclospora-response/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02177-1",
-    "https://www.nature.com/articles/d41586-026-02185-1",
-    "https://www.nature.com/articles/d41586-026-02167-3",
-    "https://www.nature.com/articles/d41586-026-02172-6",
-    "https://www.nature.com/articles/d41586-026-02135-x",
     "https://www.nature.com/articles/s41586-026-10853-5",
     "https://www.nature.com/articles/d41586-026-02121-3",
     "https://www.nature.com/articles/d41586-026-01339-5",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-02542-0",
     "https://www.nature.com/articles/d41586-026-02558-6",
     "https://www.nature.com/articles/d41586-026-02504-6",
-    "https://www.nature.com/articles/d41586-026-02562-w"
+    "https://www.nature.com/articles/d41586-026-02562-w",
+    "https://www.science.org/content/article/surprising-uniqueness-puerto-rico-s-trees-could-make-them-more-resistant-drought",
+    "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+    "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+    "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+    "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1187,7 +1187,6 @@
     "https://huggingface.co/blog/state-of-open-models-summer-2026"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/12/us-army-commissions-second-cohort-of-tech-executives-into-innovation-unit/",
     "https://www.militarytimes.com/news/your-navy/2026/06/12/navy-to-reevaluate-religious-accommodations-for-facial-hair/",
     "https://www.militarytimes.com/news/your-military/2026/06/12/as-tick-threat-grows-navy-lab-investigates-gummy-bear-bug-repellent/",
     "https://www.militarytimes.com/news/your-military/2026/06/12/sounds-like-a-mutiny-secret-recording-exposes-claims-of-toxic-leadership-after-a-marines-suicide/",
@@ -1686,6 +1685,7 @@
     "https://www.militarytimes.com/opinion/2026/08/13/if-long-deployments-are-the-future-endurance-cant-be-the-navys-only-plan/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/14/bill-seeks-nationwide-concealed-carry-for-special-operators/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
-    "https://www.militarytimes.com/news/your-military/2026/08/14/army-identifies-two-soldiers-killed-in-apache-crash/"
+    "https://www.militarytimes.com/news/your-military/2026/08/14/army-identifies-two-soldiers-killed-in-apache-crash/",
+    "https://www.militarytimes.com/news/your-military/2026/08/14/woman-charged-over-vandalism-of-world-war-ii-memorial/"
   ]
 }
