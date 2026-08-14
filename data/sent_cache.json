@@ -502,9 +502,6 @@
     "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01242-z",
-    "https://www.nature.com/articles/d41586-026-01357-3",
-    "https://www.nature.com/articles/d41586-026-02057-8",
     "https://www.nature.com/articles/d41586-026-02113-3",
     "https://www.nature.com/articles/d41586-026-02091-6",
     "https://www.nature.com/articles/d41586-026-02177-1",
@@ -1001,7 +998,10 @@
     "https://www.science.org/content/article/new-explanation-why-universe-s-supply-nuclear-matter-fixed",
     "https://www.science.org/content/article/una-investigaci\u00f3n-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
     "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-    "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/"
+    "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+    "https://www.nature.com/articles/s41586-026-11022-4",
+    "https://www.nature.com/articles/d41586-026-02542-0",
+    "https://www.nature.com/articles/d41586-026-02558-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
