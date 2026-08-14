@@ -502,7 +502,6 @@
     "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02113-3",
     "https://www.nature.com/articles/d41586-026-02091-6",
     "https://www.nature.com/articles/d41586-026-02177-1",
     "https://www.nature.com/articles/d41586-026-02185-1",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
     "https://www.nature.com/articles/s41586-026-11022-4",
     "https://www.nature.com/articles/d41586-026-02542-0",
-    "https://www.nature.com/articles/d41586-026-02558-6"
+    "https://www.nature.com/articles/d41586-026-02558-6",
+    "https://www.nature.com/articles/d41586-026-02504-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1186,7 +1186,6 @@
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/11/senate-committee-backs-department-of-war-name-change/",
     "https://www.militarytimes.com/pentagon/2026/06/12/us-plans-major-cut-to-jets-warships-for-nato-operations-in-europe-nyt-reports/",
     "https://www.militarytimes.com/global/europe/2026/06/12/ukraines-defense-ai-chief-predicts-new-paradigm-of-warfare/",
     "https://www.militarytimes.com/news/your-military/2026/06/12/us-army-commissions-second-cohort-of-tech-executives-into-innovation-unit/",
@@ -1685,6 +1684,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/08/13/marines-train-to-shoot-down-combat-drones-with-standard-weapons/",
     "https://www.militarytimes.com/news/2026/08/13/if-long-deployments-are-the-future-endurance-cant-be-the-navys-only-plan/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/08/13/us-marines-roam-far-and-wide-from-temporary-darwin-base/",
-    "https://www.militarytimes.com/opinion/2026/08/13/if-long-deployments-are-the-future-endurance-cant-be-the-navys-only-plan/"
+    "https://www.militarytimes.com/opinion/2026/08/13/if-long-deployments-are-the-future-endurance-cant-be-the-navys-only-plan/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/14/bill-seeks-nationwide-concealed-carry-for-special-operators/"
   ]
 }
