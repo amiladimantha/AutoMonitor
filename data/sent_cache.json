@@ -502,11 +502,6 @@
     "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/"
   ],
   "Science": [
-    "https://www.science.org/content/article/study-dampens-hope-meningitis-vaccine-can-also-prevent-gonorrhea",
-    "https://www.science.org/content/article/molecular-quirk-unique-octopuses-makes-them-better-building-proteins",
-    "https://www.science.org/content/article/surprising-claim-superstringy-universe-may-be-based-mistake",
-    "https://www.nature.com/articles/d41586-026-02114-2",
-    "https://www.nature.com/articles/d41586-026-02112-4",
     "https://www.nature.com/articles/d41586-026-01242-z",
     "https://www.nature.com/articles/d41586-026-01357-3",
     "https://www.nature.com/articles/d41586-026-02057-8",
@@ -1001,7 +996,12 @@
     "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
     "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
     "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "https://www.nature.com/articles/d41586-026-02544-y"
+    "https://www.nature.com/articles/d41586-026-02544-y",
+    "https://www.science.org/content/article/science-investigation-casts-doubt-genes-hailed-warding-alzheimer-s-disease",
+    "https://www.science.org/content/article/new-explanation-why-universe-s-supply-nuclear-matter-fixed",
+    "https://www.science.org/content/article/una-investigaci\u00f3n-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
+    "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
+    "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
