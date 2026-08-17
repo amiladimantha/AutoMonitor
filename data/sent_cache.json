@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/06/ars-live-whats-the-latest-in-the-aftermath-of-the-new-glenn-catastrophe/",
     "https://arstechnica.com/health/2026/06/antibiotic-megacluster-discovery-provides-new-strategy-to-fight-superbugs/",
     "https://arstechnica.com/tech-policy/2026/06/fcc-accused-of-hiding-chairman-carrs-messages-with-doge-and-musk/",
     "https://arstechnica.com/gadgets/2026/06/netflix-now-requires-every-user-profile-to-be-tied-to-unique-email-address/",
@@ -499,11 +498,10 @@
     "https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/",
     "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
     "https://arstechnica.com/cars/2026/08/the-opposite-of-a-hypercar-is-fun-meet-the-gasolini-ar1/",
-    "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
+    "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
+    "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01855-4",
-    "https://www.nature.com/articles/d41586-026-02148-6",
     "https://www.nature.com/articles/d41586-026-01988-6",
     "https://www.nature.com/articles/d41586-026-02149-5",
     "https://www.nature.com/articles/d41586-026-02206-z",
@@ -1001,7 +999,9 @@
     "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
     "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
     "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
-    "https://www.nature.com/articles/d41586-026-02552-y"
+    "https://www.nature.com/articles/d41586-026-02552-y",
+    "https://www.science.org/content/article/justice-department-calls-three-nsf-diversity-programs-unconstitutional",
+    "https://www.science.org/content/article/massive-new-animal-disease-lab-kansas-runs-more-delays"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1187,8 +1187,6 @@
     "https://huggingface.co/blog/state-of-open-models-summer-2026"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/15/us-wont-soften-military-posture-in-middle-east-despite-iran-agreement/",
-    "https://www.militarytimes.com/news/your-military/2026/06/15/general-atomics-awarded-us-army-contract-for-extended-range-artillery/",
     "https://www.militarytimes.com/news/your-military/2026/06/16/8-people-killed-in-b-52-bomber-crash-at-california-base-officials-confirm/",
     "https://www.militarytimes.com/news/your-military/2026/06/16/navy-officer-67-becomes-oldest-on-record-to-earn-fleet-marine-force-pin/",
     "https://www.militarytimes.com/news/your-military/2026/06/16/2-boeing-employees-among-8-killed-in-b-52-crash/",
@@ -1686,6 +1684,8 @@
     "https://www.militarytimes.com/news/your-navy/2026/08/17/centcom-commander-visits-uss-abraham-lincoln-amid-mental-health-concerns/",
     "https://www.militarytimes.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea/",
     "https://www.militarytimes.com/pay-benefits/mil-money/2026/08/17/aafes-boss-leaves-legacy-of-benefits-for-more-veterans-and-stronger-perks-for-all/",
-    "https://www.militarytimes.com/news/your-military/2026/08/17/pentagon-scrutinizes-foreign-research-ties-at-30-us-academic-institutions/"
+    "https://www.militarytimes.com/news/your-military/2026/08/17/pentagon-scrutinizes-foreign-research-ties-at-30-us-academic-institutions/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/17/us-air-force-looks-to-acquire-target-drones-that-can-mimic-stealth-jets/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/17/former-air-force-secretary-to-join-others-in-lawsuit-against-white-house-to-regain-security-clearance/"
   ]
 }
