@@ -502,8 +502,6 @@
     "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01988-6",
-    "https://www.nature.com/articles/d41586-026-02149-5",
     "https://www.nature.com/articles/d41586-026-02206-z",
     "https://www.science.org/content/article/scrawled-signature-names-maya-astronomer-first-time",
     "https://www.science.org/content/article/plan-turn-major-monkey-research-facility-sanctuary-may-be-dead",
@@ -1001,7 +999,9 @@
     "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
     "https://www.nature.com/articles/d41586-026-02552-y",
     "https://www.science.org/content/article/justice-department-calls-three-nsf-diversity-programs-unconstitutional",
-    "https://www.science.org/content/article/massive-new-animal-disease-lab-kansas-runs-more-delays"
+    "https://www.science.org/content/article/massive-new-animal-disease-lab-kansas-runs-more-delays",
+    "https://www.science.org/content/article/nih-plan-keep-peer-review-scores-secret-sparks-uproar",
+    "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
