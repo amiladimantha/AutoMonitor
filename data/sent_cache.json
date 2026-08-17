@@ -502,9 +502,6 @@
     "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02189-x",
-    "https://www.nature.com/articles/d41586-026-02187-z",
-    "https://www.nature.com/articles/d41586-026-01128-0",
     "https://www.nature.com/articles/d41586-026-02154-8",
     "https://www.nature.com/articles/d41586-026-01855-4",
     "https://www.nature.com/articles/d41586-026-02148-6",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02581-7",
     "https://www.nature.com/articles/s41586-026-11006-4",
     "https://www.nature.com/articles/s41586-026-11009-1",
-    "https://www.nature.com/articles/s41586-026-11010-8"
+    "https://www.nature.com/articles/s41586-026-11010-8",
+    "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+    "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+    "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1187,7 +1187,6 @@
     "https://huggingface.co/blog/state-of-open-models-summer-2026"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/15/navy-in-a-fight-for-the-narrative-hung-cao-presses-service-to-unify-public-messaging/",
     "https://www.militarytimes.com/news/your-military/2026/06/15/b-52-stratofortress-crashes-after-takeoff-at-california-air-base/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/15/us-wont-soften-military-posture-in-middle-east-despite-iran-agreement/",
     "https://www.militarytimes.com/news/your-military/2026/06/15/general-atomics-awarded-us-army-contract-for-extended-range-artillery/",
@@ -1686,6 +1685,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/17/us-awards-raytheon-229-billion-deal-to-boost-tomahawk-output/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
     "https://www.militarytimes.com/news/your-navy/2026/08/17/centcom-commander-visits-uss-abraham-lincoln-amid-mental-health-concerns/",
-    "https://www.militarytimes.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea/"
+    "https://www.militarytimes.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea/",
+    "https://www.militarytimes.com/pay-benefits/mil-money/2026/08/17/aafes-boss-leaves-legacy-of-benefits-for-more-veterans-and-stronger-perks-for-all/"
   ]
 }
