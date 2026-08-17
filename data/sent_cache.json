@@ -502,8 +502,6 @@
     "https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-01654-x",
-    "https://www.nature.com/articles/s41586-026-10869-x",
     "https://www.nature.com/articles/s41586-026-10855-3",
     "https://www.nature.com/articles/d41586-026-02173-5",
     "https://www.nature.com/articles/d41586-026-02170-8",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/slavery-linked-mortality-gap-between-black-and-white-americans-today",
     "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
     "https://www.nature.com/articles/d41586-026-02530-4",
-    "https://www.nature.com/articles/d41586-026-02526-0"
+    "https://www.nature.com/articles/d41586-026-02526-0",
+    "https://www.nature.com/articles/s41586-026-10995-6",
+    "https://www.nature.com/articles/d41586-026-02532-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
