@@ -1184,10 +1184,10 @@
     "https://huggingface.co/blog/allenai/olmoearth-embeddings",
     "https://huggingface.co/blog/icml-2026-open-reproductions",
     "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-    "https://huggingface.co/blog/state-of-open-models-summer-2026"
+    "https://huggingface.co/blog/state-of-open-models-summer-2026",
+    "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/16/8-people-killed-in-b-52-bomber-crash-at-california-base-officials-confirm/",
     "https://www.militarytimes.com/news/your-military/2026/06/16/navy-officer-67-becomes-oldest-on-record-to-earn-fleet-marine-force-pin/",
     "https://www.militarytimes.com/news/your-military/2026/06/16/2-boeing-employees-among-8-killed-in-b-52-crash/",
     "https://www.militarytimes.com/news/your-military/2026/06/16/us-air-force-tanker-availability-figures-may-be-inflated-study-finds/",
@@ -1686,6 +1686,7 @@
     "https://www.militarytimes.com/pay-benefits/mil-money/2026/08/17/aafes-boss-leaves-legacy-of-benefits-for-more-veterans-and-stronger-perks-for-all/",
     "https://www.militarytimes.com/news/your-military/2026/08/17/pentagon-scrutinizes-foreign-research-ties-at-30-us-academic-institutions/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/17/us-air-force-looks-to-acquire-target-drones-that-can-mimic-stealth-jets/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/17/former-air-force-secretary-to-join-others-in-lawsuit-against-white-house-to-regain-security-clearance/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/17/former-air-force-secretary-to-join-others-in-lawsuit-against-white-house-to-regain-security-clearance/",
+    "https://www.militarytimes.com/news/your-military/2026/08/17/army-shifts-helicopter-training-to-a-contractor-run-model/"
   ]
 }
