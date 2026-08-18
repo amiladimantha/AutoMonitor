@@ -502,7 +502,6 @@
     "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
     "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
     "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
     "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
     "https://www.nature.com/articles/d41586-026-02381-z",
     "https://www.nature.com/articles/d41586-026-02466-9",
-    "https://www.nature.com/articles/d41586-026-02524-2"
+    "https://www.nature.com/articles/d41586-026-02524-2",
+    "https://www.science.org/content/article/could-indigo-light-prevent-nearsightedness-children"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1189,7 +1189,6 @@
     "https://huggingface.co/blog/multi-vector-encoder"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/16/lawmakers-aim-to-ease-state-to-state-moves-for-military-homeschoolers/",
     "https://www.militarytimes.com/opinion/2026/06/16/not-just-a-flawed-design-charting-a-new-course-for-the-gwot-memorial/",
     "https://www.militarytimes.com/news/your-military/2026/06/16/mums-the-word-corps-stands-up-first-ever-marine-unmanned-maintenance-squadron/",
     "https://www.militarytimes.com/news/your-military/2026/06/16/kc-46a-boom-mishap-caused-by-operator-and-f-22-pilot-errors-investigation-finds/",
@@ -1688,6 +1687,7 @@
     "https://www.militarytimes.com/news/your-military/2026/08/17/2-commanders-removed-from-posts-in-new-mexico-air-national-guard/",
     "https://www.militarytimes.com/news/your-navy/2026/08/17/uss-john-f-kennedy-completes-acceptance-sea-trials/",
     "https://www.militarytimes.com/news/your-military/2026/08/18/us-army-requests-133000-gmlrs-rockets-by-2034/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/"
+    "https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight/"
   ]
 }
