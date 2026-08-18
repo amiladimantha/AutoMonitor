@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/06/quera-promises-thousands-of-error-corrected-qubits-by-2029/",
-    "https://arstechnica.com/tech-policy/2026/06/kalshi-sues-illinois-over-new-tax-on-prediction-market-sports-bets/",
     "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
     "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
     "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
@@ -499,11 +497,11 @@
     "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
     "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
     "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
-    "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/"
+    "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
+    "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+    "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-    "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
     "https://www.nature.com/articles/d41586-026-02102-6",
     "https://www.nature.com/articles/d41586-026-02122-2",
     "https://www.nature.com/articles/d41586-026-02041-2",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02466-9",
     "https://www.nature.com/articles/d41586-026-02524-2",
     "https://www.science.org/content/article/could-indigo-light-prevent-nearsightedness-children",
-    "https://www.nature.com/articles/d41586-026-02584-4"
+    "https://www.nature.com/articles/d41586-026-02584-4",
+    "https://www.science.org/content/article/medieval-europe-was-battered-16-catastrophic-floods-just-2-years",
+    "https://www.science.org/content/article/nih-lifts-ban-funding-research-south-africa"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
