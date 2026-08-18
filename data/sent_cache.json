@@ -502,7 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
     "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
     "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
     "https://www.nature.com/articles/d41586-026-02102-6",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02381-z",
     "https://www.nature.com/articles/d41586-026-02466-9",
     "https://www.nature.com/articles/d41586-026-02524-2",
-    "https://www.science.org/content/article/could-indigo-light-prevent-nearsightedness-children"
+    "https://www.science.org/content/article/could-indigo-light-prevent-nearsightedness-children",
+    "https://www.nature.com/articles/d41586-026-02584-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1190,7 +1190,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/pentagon-demands-human-performance-data-from-services-in-fitness-overhaul/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/fair-winds-indopacom-pentagon-returns-command-name-to-us-pacific-command/",
     "https://www.militarytimes.com/pay-benefits/2026/06/17/has-the-military-been-miscalculating-spouse-unemployment/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/congress-seeks-to-limit-us-navy-vessels-built-in-foreign-shipyards/",
@@ -1689,6 +1688,7 @@
     "https://www.militarytimes.com/veterans/2026/08/18/who-decides-what-works-inside-vas-mental-health-treatment-playbook/",
     "https://www.militarytimes.com/news/your-military/2026/08/18/army-buys-virginia-facility-to-stable-the-old-guards-caisson-horses/",
     "https://www.militarytimes.com/news/your-military/2026/08/18/us-judge-orders-release-of-woman-accused-of-vandalism-at-world-war-ii-memorial/",
-    "https://www.militarytimes.com/news/your-military/2026/08/18/as-close-as-it-gets-bodycam-footage-shows-marine-pilot-walking-away-from-crashed-fa-18-hornet/"
+    "https://www.militarytimes.com/news/your-military/2026/08/18/as-close-as-it-gets-bodycam-footage-shows-marine-pilot-walking-away-from-crashed-fa-18-hornet/",
+    "https://www.militarytimes.com/news/your-military/2026/08/18/airmen-rescue-5-navy-sailors-in-california-with-hh-60ws/"
   ]
 }
