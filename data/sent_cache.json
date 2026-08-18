@@ -502,7 +502,6 @@
     "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
     "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
     "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
     "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
     "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
     "https://www.nature.com/articles/d41586-026-02381-z",
-    "https://www.nature.com/articles/d41586-026-02466-9"
+    "https://www.nature.com/articles/d41586-026-02466-9",
+    "https://www.nature.com/articles/d41586-026-02524-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
