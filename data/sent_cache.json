@@ -502,8 +502,6 @@
     "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/"
   ],
   "Science": [
-    "https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists",
-    "https://www.science.org/content/article/ancient-dna-solves-medici-murder-mystery",
     "https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump",
     "https://www.science.org/content/article/nsf-makes-billion-dollar-gamble-research-economic-payoff",
     "https://www.science.org/content/article/largest-research-organization-spain-confronts-its-dark-past",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02575-5",
     "https://www.nature.com/articles/d41586-026-02578-2",
     "https://www.nature.com/articles/d41586-026-02576-4",
-    "https://www.nature.com/articles/d41586-026-02531-3"
+    "https://www.nature.com/articles/d41586-026-02531-3",
+    "https://www.nature.com/articles/d41586-026-02527-z",
+    "https://www.nature.com/articles/d41586-026-02589-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
