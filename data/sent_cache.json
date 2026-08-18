@@ -502,11 +502,6 @@
     "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02206-z",
-    "https://www.science.org/content/article/scrawled-signature-names-maya-astronomer-first-time",
-    "https://www.science.org/content/article/plan-turn-major-monkey-research-facility-sanctuary-may-be-dead",
-    "https://www.science.org/content/article/arctic-warms-gray-whale-boom-turns-bust",
-    "https://www.science.org/content/article/ai-can-invent-entirely-new-languages-it-creative",
     "https://www.science.org/content/article/new-nsf-policy-would-ban-almost-all-collaborations-chinese-scientists",
     "https://www.science.org/content/article/ancient-dna-solves-medici-murder-mystery",
     "https://www.science.org/content/article/dna-could-act-famed-gravity-defying-pump",
@@ -1001,7 +996,12 @@
     "https://www.science.org/content/article/justice-department-calls-three-nsf-diversity-programs-unconstitutional",
     "https://www.science.org/content/article/massive-new-animal-disease-lab-kansas-runs-more-delays",
     "https://www.science.org/content/article/nih-plan-keep-peer-review-scores-secret-sparks-uproar",
-    "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
+    "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+    "https://www.nature.com/articles/d41586-026-02577-3",
+    "https://www.nature.com/articles/d41586-026-02575-5",
+    "https://www.nature.com/articles/d41586-026-02578-2",
+    "https://www.nature.com/articles/d41586-026-02576-4",
+    "https://www.nature.com/articles/d41586-026-02531-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
