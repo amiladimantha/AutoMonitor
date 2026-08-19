@@ -502,8 +502,6 @@
     "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/"
   ],
   "Science": [
-    "https://www.science.org/content/article/did-u-s-scrutiny-foreign-research-drive-prominent-geneticist-decline-authorship",
-    "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
     "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
     "https://www.science.org/content/article/t-rex-named-gus-now-most-expensive-fossil-ever-sold",
     "https://www.science.org/content/article/scandinavian-radar-array-will-probe-mysteries-northern-lights",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/fastest-known-star-could-reveal-spin-our-galaxy-s-giant-black-hole",
     "https://www.science.org/content/article/mysterious-droplets-cat-kidneys-may-help-felines-send-long-lasting-messages",
     "https://www.science.org/content/article/china-mission-aims-moon-s-hidden-water-hopping-probe",
-    "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
+    "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
+    "https://www.science.org/content/article/truck-size-crocodilians-once-ruled-south-america-s-wetlands",
+    "https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
