@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
-    "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
-    "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-    "https://arstechnica.com/science/2026/06/ozone-damage-could-have-been-detected-decades-earlier/",
-    "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-    "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
     "https://arstechnica.com/science/2026/06/florida-bans-local-governments-from-pursuing-net-zero-emissions-goals/",
     "https://arstechnica.com/tech-policy/2026/06/trumps-plan-to-redesign-every-gov-website-leads-to-ai-designed-horrors/",
     "https://arstechnica.com/cars/2026/06/the-us-going-100-ev-by-2040-would-save-more-than-100k-lives-study-says/",
@@ -499,7 +493,13 @@
     "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
     "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
     "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
-    "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/"
+    "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
+    "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
+    "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
+    "https://arstechnica.com/gadgets/2026/08/google-pixel-11-series-review-is-the-magic-fading/",
+    "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+    "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
+    "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-10743-w",
@@ -1191,7 +1191,6 @@
     "https://huggingface.co/blog/LiquidAI/qad"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/17/air-force-identifies-8-people-killed-in-b-52-crash/",
     "https://www.militarytimes.com/off-duty/military-culture/2026/06/17/beyond-the-battlefield-how-3-marine-raiders-turned-combat-lessons-into-a-healing-mission/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/read-the-14-point-memorandum-of-understanding-between-the-united-states-and-iran/",
     "https://www.militarytimes.com/news/your-military/2026/06/17/air-force-updates-chaplain-maternity-uniform-guidance/",
@@ -1690,6 +1689,7 @@
     "https://www.militarytimes.com/news/your-military/2026/08/19/army-unit-offers-96-hour-grand-theft-auto-binge-as-incentive-for-reenlisting/",
     "https://www.militarytimes.com/news/your-military/2026/08/19/from-navy-seal-to-army-chaplain-how-one-veteran-found-a-new-purpose-in-service/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/19/us-south-korea-to-cut-length-scope-of-military-drills-after-trump-order/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/19/pentagon-needs-more-resources-to-meet-requirements-for-assessing-blast-exposure-gao-finds/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/19/pentagon-needs-more-resources-to-meet-requirements-for-assessing-blast-exposure-gao-finds/",
+    "https://www.militarytimes.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/"
   ]
 }
