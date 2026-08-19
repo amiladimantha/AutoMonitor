@@ -502,8 +502,6 @@
     "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/"
   ],
   "Science": [
-    "https://www.science.org/content/article/bungee-jumping-mice-may-reveal-why-astronauts-skip-moon",
-    "https://www.science.org/content/article/u-s-researchers-outraged-proposed-changes-federal-grants",
     "https://www.science.org/content/article/astronomo-maya-identificado-por-primera-vez-gracias-firma-en-un-mural",
     "https://www.nature.com/articles/d41586-026-02192-2",
     "https://www.nature.com/articles/d41586-026-02150-y",
@@ -1001,7 +999,9 @@
     "https://www.science.org/content/article/nih-lifts-ban-funding-research-south-africa",
     "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
     "https://www.nature.com/articles/d41586-026-02528-y",
-    "https://www.nature.com/articles/d41586-026-02516-2"
+    "https://www.nature.com/articles/d41586-026-02516-2",
+    "https://www.nature.com/articles/d41586-026-02037-y",
+    "https://www.nature.com/articles/d41586-026-02410-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1190,8 +1190,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/fair-winds-indopacom-pentagon-returns-command-name-to-us-pacific-command/",
-    "https://www.militarytimes.com/pay-benefits/2026/06/17/has-the-military-been-miscalculating-spouse-unemployment/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/congress-seeks-to-limit-us-navy-vessels-built-in-foreign-shipyards/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/senate-house-defense-bills-seek-to-prevent-renaming-of-us-navy-vessels/",
     "https://www.militarytimes.com/pay-benefits/mil-money/2026/06/17/doorstep-grocery-delivery-expanding-to-all-us-commissaries-soon/",
@@ -1689,6 +1687,8 @@
     "https://www.militarytimes.com/news/your-military/2026/08/18/army-buys-virginia-facility-to-stable-the-old-guards-caisson-horses/",
     "https://www.militarytimes.com/news/your-military/2026/08/18/us-judge-orders-release-of-woman-accused-of-vandalism-at-world-war-ii-memorial/",
     "https://www.militarytimes.com/news/your-military/2026/08/18/as-close-as-it-gets-bodycam-footage-shows-marine-pilot-walking-away-from-crashed-fa-18-hornet/",
-    "https://www.militarytimes.com/news/your-military/2026/08/18/airmen-rescue-5-navy-sailors-in-california-with-hh-60ws/"
+    "https://www.militarytimes.com/news/your-military/2026/08/18/airmen-rescue-5-navy-sailors-in-california-with-hh-60ws/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/19/pentagon-dubs-m18-handgun-safe-and-reliable-after-review/",
+    "https://www.militarytimes.com/news/your-military/2026/08/19/army-unit-offers-96-hour-grand-theft-auto-binge-as-incentive-for-reenlisting/"
   ]
 }
