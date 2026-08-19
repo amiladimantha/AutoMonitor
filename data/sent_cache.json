@@ -502,12 +502,6 @@
     "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10743-w",
-    "https://www.nature.com/articles/s41586-026-10668-4",
-    "https://www.nature.com/articles/s41586-026-10722-1",
-    "https://www.nature.com/articles/s41586-026-10793-0",
-    "https://www.science.org/content/article/mysterious-orange-lipped-monkey-discovered-deep-congo-rainforest-new-species",
-    "https://www.science.org/content/article/tree-killing-beetle-spreading-urban-forests-around-world",
     "https://www.science.org/content/article/did-u-s-scrutiny-foreign-research-drive-prominent-geneticist-decline-authorship",
     "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
     "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
@@ -1001,7 +995,13 @@
     "https://www.nature.com/articles/s41586-026-10910-z",
     "https://www.nature.com/articles/s41586-026-10894-w",
     "https://www.nature.com/articles/s41586-026-10687-1",
-    "https://www.nature.com/articles/d41586-026-02554-w"
+    "https://www.nature.com/articles/d41586-026-02554-w",
+    "https://www.science.org/content/article/brain-eating-amoeba-appears-love-crawling-narrow-spaces",
+    "https://www.science.org/content/article/former-fauci-adviser-pleads-guilty-hiding-covid-19-communications",
+    "https://www.science.org/content/article/fastest-known-star-could-reveal-spin-our-galaxy-s-giant-black-hole",
+    "https://www.science.org/content/article/mysterious-droplets-cat-kidneys-may-help-felines-send-long-lasting-messages",
+    "https://www.science.org/content/article/china-mission-aims-moon-s-hidden-water-hopping-probe",
+    "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
