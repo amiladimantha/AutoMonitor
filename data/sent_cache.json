@@ -502,9 +502,6 @@
     "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/"
   ],
   "Science": [
-    "https://www.science.org/content/article/rocked-aid-cuts-malawi-rethinks-how-it-funds-health",
-    "https://www.science.org/content/article/astronomers-spot-first-atmosphere-around-potentially-habitable-alien-world",
-    "https://www.science.org/content/article/dna-african-graves-provides-surprising-window-slave-trade",
     "https://www.science.org/content/article/oldest-known-mars-rock-offers-glimpse-planet-s-watery-youth",
     "https://www.science.org/content/article/bacteria-clusters-can-eject-escape-pods-survive",
     "https://www.science.org/content/article/climate-scientists-sharpen-tools-linking-global-warming-extreme-weather",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02612-3",
     "https://www.nature.com/articles/s41586-026-11043-z",
     "https://www.nature.com/articles/d41586-026-02556-8",
-    "https://www.nature.com/articles/d41586-026-02455-y"
+    "https://www.nature.com/articles/d41586-026-02455-y",
+    "https://www.science.org/content/article/scientific-spat-erupts-over-claim-bones-have-key-immune-vessels",
+    "https://www.science.org/content/article/nasa-abandons-orbit-boosting-rescue-mission-space-observatory",
+    "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1191,7 +1191,6 @@
     "https://huggingface.co/blog/LiquidAI/qad"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/opinion/2026/06/18/before-we-move-on-2-painful-lessons-from-the-iran-war/",
     "https://www.militarytimes.com/global/europe/2026/06/18/hegseth-announces-review-of-us-troops-in-europe-scorns-some-allies/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/18/senate-advances-effort-to-investigate-use-of-jag-officers-as-immigration-judges/",
     "https://www.militarytimes.com/news/your-military/2026/06/18/apache-going-down-near-oman-a-sign-of-air-combat-evolution-analysts-warn/",
@@ -1690,6 +1689,7 @@
     "https://www.militarytimes.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
     "https://www.militarytimes.com/news/your-military/2026/08/20/sailor-charged-with-murder-in-shooting-death-aboard-uss-john-f-kennedy/",
     "https://www.militarytimes.com/news/your-military/2026/08/20/hundreds-of-us-military-family-members-trapped-at-camp-facing-closure-group-says/",
-    "https://www.militarytimes.com/news/your-military/2026/08/20/thousands-of-soldiers-now-roam-washingtons-streets-they-seldom-stop-crime/"
+    "https://www.militarytimes.com/news/your-military/2026/08/20/thousands-of-soldiers-now-roam-washingtons-streets-they-seldom-stop-crime/",
+    "https://www.militarytimes.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar/"
   ]
 }
