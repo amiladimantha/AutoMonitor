@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
     "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
     "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
     "https://arstechnica.com/security/2026/06/ai-browsers-can-be-lulled-into-a-dream-world-where-guardrails-no-longer-apply/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
     "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
     "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-    "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/"
+    "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
+    "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02214-z",
     "https://www.nature.com/articles/d41586-026-01389-9",
     "https://www.nature.com/articles/d41586-026-02175-3",
     "https://www.nature.com/articles/d41586-026-02225-w",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
     "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
     "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/"
+    "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
+    "https://www.nature.com/articles/d41586-026-02612-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1191,7 +1191,6 @@
     "https://huggingface.co/blog/LiquidAI/qad"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/off-duty/military-culture/2026/06/17/beyond-the-battlefield-how-3-marine-raiders-turned-combat-lessons-into-a-healing-mission/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/17/read-the-14-point-memorandum-of-understanding-between-the-united-states-and-iran/",
     "https://www.militarytimes.com/news/your-military/2026/06/17/air-force-updates-chaplain-maternity-uniform-guidance/",
     "https://www.militarytimes.com/opinion/2026/06/18/before-we-move-on-2-painful-lessons-from-the-iran-war/",
@@ -1690,6 +1689,7 @@
     "https://www.militarytimes.com/news/your-military/2026/08/19/from-navy-seal-to-army-chaplain-how-one-veteran-found-a-new-purpose-in-service/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/19/us-south-korea-to-cut-length-scope-of-military-drills-after-trump-order/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/19/pentagon-needs-more-resources-to-meet-requirements-for-assessing-blast-exposure-gao-finds/",
-    "https://www.militarytimes.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/"
+    "https://www.militarytimes.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
+    "https://www.militarytimes.com/news/your-military/2026/08/20/sailor-charged-with-murder-in-shooting-death-aboard-uss-john-f-kennedy/"
   ]
 }
