@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/06/june-research-roundup-6-cool-science-stories-we-almost-missed/",
     "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
     "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
     "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
     "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
     "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-    "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/"
+    "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
+    "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02193-1",
     "https://www.nature.com/articles/d41586-026-02200-5",
     "https://www.nature.com/articles/d41586-026-02226-9",
     "https://www.nature.com/articles/d41586-026-02217-w",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02551-z",
     "https://www.nature.com/articles/d41586-026-02555-9",
     "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-    "https://www.science.org/content/article/footprints-may-reveal-biggest-known-mammal-age-dinosaurs"
+    "https://www.science.org/content/article/footprints-may-reveal-biggest-known-mammal-age-dinosaurs",
+    "https://www.nature.com/articles/d41586-026-02574-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1192,7 +1192,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/europe/2026/06/18/hegseth-announces-review-of-us-troops-in-europe-scorns-some-allies/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/18/senate-advances-effort-to-investigate-use-of-jag-officers-as-immigration-judges/",
     "https://www.militarytimes.com/news/your-military/2026/06/18/apache-going-down-near-oman-a-sign-of-air-combat-evolution-analysts-warn/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/18/senate-committee-proposes-36-military-pay-raise-rejecting-white-house-request-for-more/",
@@ -1691,6 +1690,7 @@
     "https://www.militarytimes.com/news/your-military/2026/08/20/sailor-charged-with-murder-in-shooting-death-aboard-uss-john-f-kennedy/",
     "https://www.militarytimes.com/news/your-military/2026/08/20/hundreds-of-us-military-family-members-trapped-at-camp-facing-closure-group-says/",
     "https://www.militarytimes.com/news/your-military/2026/08/20/thousands-of-soldiers-now-roam-washingtons-streets-they-seldom-stop-crime/",
-    "https://www.militarytimes.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar/"
+    "https://www.militarytimes.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar/",
+    "https://www.militarytimes.com/news/your-military/2026/08/20/us-air-force-flight-to-antarctica-turns-back-after-russian-hazardous-space-activity-warning/"
   ]
 }
