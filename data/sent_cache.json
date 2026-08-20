@@ -502,7 +502,6 @@
     "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/"
   ],
   "Science": [
-    "https://www.science.org/content/article/bacteria-clusters-can-eject-escape-pods-survive",
     "https://www.science.org/content/article/climate-scientists-sharpen-tools-linking-global-warming-extreme-weather",
     "https://www.science.org/content/article/alzheimer-s-trial-results-lend-momentum-strategies-targeting-tau",
     "https://www.nature.com/articles/d41586-026-02193-1",
@@ -1001,7 +1000,8 @@
     "https://www.science.org/content/article/scientific-spat-erupts-over-claim-bones-have-key-immune-vessels",
     "https://www.science.org/content/article/nasa-abandons-orbit-boosting-rescue-mission-space-observatory",
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "https://www.nature.com/articles/d41586-026-02551-z"
+    "https://www.nature.com/articles/d41586-026-02551-z",
+    "https://www.nature.com/articles/d41586-026-02555-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
