@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/06/rfk-jr-stacks-fda-panel-with-peptide-peddlers-as-fda-scientists-oppose-access/",
     "https://arstechnica.com/space/2026/06/nasa-may-send-a-backup-nuclear-powered-mars-rover-to-the-moon/",
     "https://arstechnica.com/gadgets/2026/06/google-kills-tenor-gif-api-forcing-changes-at-x-discord-and-more/",
     "https://arstechnica.com/tech-policy/2026/06/apple-takes-epic-fight-over-app-store-fees-to-the-supreme-court/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
     "https://arstechnica.com/tech-policy/2026/08/fcc-abolishes-gigabit-speed-goal-suggesting-it-is-unfair-to-slower-technologies/",
     "https://arstechnica.com/space/2026/08/the-floodgates-are-open-after-another-chinese-company-lands-a-reusable-rocket/",
-    "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/"
+    "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
+    "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
     "https://www.science.org/content/article/t-rex-named-gus-now-most-expensive-fossil-ever-sold",
     "https://www.science.org/content/article/scandinavian-radar-array-will-probe-mysteries-northern-lights",
     "https://www.science.org/content/article/undersea-lava-flows-named-after-game-thrones-dragon-may-reveal-new-type-volcanism",
@@ -1001,7 +1000,8 @@
     "https://www.science.org/content/article/china-mission-aims-moon-s-hidden-water-hopping-probe",
     "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
     "https://www.science.org/content/article/truck-size-crocodilians-once-ruled-south-america-s-wetlands",
-    "https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts"
+    "https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts",
+    "https://www.nature.com/articles/d41586-026-02586-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
