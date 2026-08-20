@@ -502,10 +502,6 @@
     "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/"
   ],
   "Science": [
-    "https://www.science.org/content/article/undersea-lava-flows-named-after-game-thrones-dragon-may-reveal-new-type-volcanism",
-    "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-    "https://www.nature.com/articles/d41586-026-02089-0",
-    "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
     "https://www.nature.com/articles/d41586-026-02214-z",
     "https://www.nature.com/articles/d41586-026-01389-9",
     "https://www.nature.com/articles/d41586-026-02175-3",
@@ -1001,7 +997,11 @@
     "https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts",
     "https://www.nature.com/articles/d41586-026-02586-2",
     "https://www.nature.com/articles/d41586-026-02549-7",
-    "https://www.nature.com/articles/d41586-026-02553-x"
+    "https://www.nature.com/articles/d41586-026-02553-x",
+    "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+    "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
+    "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
+    "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
