@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/06/reddit-will-require-you-to-log-in-to-use-old-reddit-com/",
-    "https://arstechnica.com/gadgets/2026/06/exec-blames-malware-threat-for-amazon-blocking-sideloading-on-new-fire-sticks/",
-    "https://arstechnica.com/health/2026/07/trump-and-rfk-jr-still-wrong-about-tylenol-and-autism-another-study-finds/",
     "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
     "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
     "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
     "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
     "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
-    "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/"
+    "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+    "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
+    "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
+    "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02200-5",
@@ -1192,7 +1192,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/18/senate-committee-proposes-36-military-pay-raise-rejecting-white-house-request-for-more/",
     "https://www.militarytimes.com/news/your-military/2026/06/18/us-army-fugitive-arrested-in-spain-after-decades-on-the-run/",
     "https://www.militarytimes.com/news/your-military/2026/06/18/vietnam-war-hero-of-dong-ha-bridge-to-be-awarded-the-medal-of-honor/",
     "https://www.militarytimes.com/global/europe/2026/06/18/ukraine-hits-moscow-refinery-in-major-drone-attack-on-russian-capital/",
@@ -1691,6 +1690,7 @@
     "https://www.militarytimes.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar/",
     "https://www.militarytimes.com/news/your-military/2026/08/20/us-air-force-flight-to-antarctica-turns-back-after-russian-hazardous-space-activity-warning/",
     "https://www.militarytimes.com/veterans/2026/08/20/he-earned-the-medal-of-honor-in-vietnam-why-did-it-take-decades-to-receive-it/",
-    "https://www.militarytimes.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/"
+    "https://www.militarytimes.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
+    "https://www.militarytimes.com/news/your-navy/2026/08/20/the-us-navy-has-battled-operational-tempo-ordeals-for-years-the-iran-war-exposed-the-flaws/"
   ]
 }
