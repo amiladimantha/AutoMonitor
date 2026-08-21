@@ -502,7 +502,6 @@
     "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02200-5",
     "https://www.nature.com/articles/d41586-026-02226-9",
     "https://www.nature.com/articles/d41586-026-02217-w",
     "https://www.nature.com/articles/d41586-026-02264-3",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02555-9",
     "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
     "https://www.science.org/content/article/footprints-may-reveal-biggest-known-mammal-age-dinosaurs",
-    "https://www.nature.com/articles/d41586-026-02574-6"
+    "https://www.nature.com/articles/d41586-026-02574-6",
+    "https://www.science.org/content/article/investigators-nih-s-autism-initiative-funding-comes-big-spotlight"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
