@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
     "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
     "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
     "https://arstechnica.com/culture/2026/07/ithacas-king-defies-the-gods-in-final-the-odyssey-trailer/",
@@ -499,7 +498,8 @@
     "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
     "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
     "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-    "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/"
+    "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
+    "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/"
   ],
   "Science": [
     "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
@@ -1193,7 +1193,6 @@
     "https://huggingface.co/blog/asr-benchmark-optimization"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/18/vietnam-war-hero-of-dong-ha-bridge-to-be-awarded-the-medal-of-honor/",
     "https://www.militarytimes.com/global/europe/2026/06/18/ukraine-hits-moscow-refinery-in-major-drone-attack-on-russian-capital/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/18/us-air-force-awards-first-cca-production-contracts-to-general-atomics-anduril/",
     "https://www.militarytimes.com/veterans/2026/06/18/va-eliminates-gender-identity-initiatives-reclassifies-lgbtq-care-coordinators/",
@@ -1692,6 +1691,7 @@
     "https://www.militarytimes.com/veterans/2026/08/20/he-earned-the-medal-of-honor-in-vietnam-why-did-it-take-decades-to-receive-it/",
     "https://www.militarytimes.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
     "https://www.militarytimes.com/news/your-navy/2026/08/20/the-us-navy-has-battled-operational-tempo-ordeals-for-years-the-iran-war-exposed-the-flaws/",
-    "https://www.militarytimes.com/news/your-military/2026/08/21/us-army-to-end-experimental-drone-battalion-in-europe/"
+    "https://www.militarytimes.com/news/your-military/2026/08/21/us-army-to-end-experimental-drone-battalion-in-europe/",
+    "https://www.militarytimes.com/news/your-military/2026/08/21/marine-corps-may-charter-more-commercial-vessels-amid-experimentation-efforts/"
   ]
 }
