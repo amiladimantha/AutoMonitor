@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/07/uk-likely-to-intervene-in-paramount-takeover-of-warner-bros-discovery/",
-    "https://arstechnica.com/space/2026/07/nasa-inspector-general-suggests-boeings-starliner-will-now-be-a-decade-late/",
     "https://arstechnica.com/space/2026/07/50-years-on-will-the-mars-lander-arm-that-opened-the-air-and-space-raise-its-hand/",
     "https://arstechnica.com/gaming/2026/07/sony-will-stop-making-physical-copies-of-playstation-games-in-2028/",
     "https://arstechnica.com/cars/2026/07/the-volvo-ex30-cross-country-review-a-victim-of-geopolitics/",
@@ -499,10 +497,11 @@
     "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
     "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
     "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-    "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/"
+    "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
+    "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
+    "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02263-4",
     "https://www.science.org/content/article/prominent-salk-institute-biologist-resign-following-sexual-misconduct-investigation",
     "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
     "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
     "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
     "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-    "https://www.nature.com/articles/d41586-026-02566-6"
+    "https://www.nature.com/articles/d41586-026-02566-6",
+    "https://www.nature.com/articles/d41586-026-02352-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1189,7 +1189,8 @@
     "https://huggingface.co/blog/multi-vector-encoder",
     "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "https://huggingface.co/blog/LiquidAI/qad",
-    "https://huggingface.co/blog/LiquidAI/lfm25-dspark"
+    "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "https://huggingface.co/blog/asr-benchmark-optimization"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/your-military/2026/06/18/vietnam-war-hero-of-dong-ha-bridge-to-be-awarded-the-medal-of-honor/",
