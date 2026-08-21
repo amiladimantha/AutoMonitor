@@ -502,8 +502,6 @@
     "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/"
   ],
   "Science": [
-    "https://www.science.org/content/article/prominent-salk-institute-biologist-resign-following-sexual-misconduct-investigation",
-    "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
     "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
     "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
     "https://www.nature.com/articles/d41586-026-02218-9",
@@ -1001,7 +999,9 @@
     "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
     "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
     "https://www.nature.com/articles/d41586-026-02566-6",
-    "https://www.nature.com/articles/d41586-026-02352-4"
+    "https://www.nature.com/articles/d41586-026-02352-4",
+    "https://www.nature.com/articles/d41586-026-02626-x",
+    "https://www.nature.com/articles/d41586-026-02617-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
