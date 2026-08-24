@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/07/artificial-cell-manages-a-few-rounds-of-cell-division/",
-    "https://arstechnica.com/gadgets/2026/07/google-loses-long-running-appeal-of-record-eu-fine-will-have-to-cough-up-4-7-billion/",
     "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
     "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
     "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
@@ -499,7 +497,9 @@
     "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
     "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
     "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
-    "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/"
+    "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
+    "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
+    "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02220-1",
@@ -1193,7 +1193,6 @@
     "https://huggingface.co/blog/asr-benchmark-optimization"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/18/senate-eyes-hegseth-travel-cuts-without-probes-into-iran-school-bombing-boat-strikes/",
     "https://www.militarytimes.com/news/your-military/2026/06/19/air-force-units-new-ammo-linking-machine-saves-4-million-a-year/",
     "https://www.militarytimes.com/opinion/2026/06/19/troop-cuts-in-europe-giving-away-something-for-nothing/",
     "https://www.militarytimes.com/veterans/military-history/2026/06/19/bravery-in-burma-rendered-blind-by-the-japanese-this-soldier-fought-on/",
@@ -1692,6 +1691,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/21/incidents-of-sexual-assault-harassment-continue-to-drop-in-us-military-report-finds/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/24/billboard-campaign-in-military-cities-connects-iran-war-to-high-prices/",
     "https://www.militarytimes.com/news/your-military/2026/08/24/ice-detained-an-army-sergeants-wife-his-family-is-still-waiting-for-answers/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints/"
+    "https://www.militarytimes.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints/",
+    "https://www.militarytimes.com/news/your-military/2026/08/24/space-force-honor-guard-showcases-new-ceremonial-uniform-in-dc-grand-prix/"
   ]
 }
