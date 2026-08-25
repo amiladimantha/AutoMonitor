@@ -502,8 +502,6 @@
     "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02281-2",
-    "https://www.nature.com/articles/d41586-026-02285-y",
     "https://www.nature.com/articles/d41586-026-02213-0",
     "https://www.nature.com/articles/d41586-026-02103-5",
     "https://www.nature.com/articles/d41586-026-02215-y",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02632-z",
     "https://www.nature.com/articles/d41586-026-02094-3",
     "https://www.nature.com/articles/d41586-026-02622-1",
-    "https://www.nature.com/articles/d41586-026-02573-7"
+    "https://www.nature.com/articles/d41586-026-02573-7",
+    "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
+    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
