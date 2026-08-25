@@ -502,9 +502,6 @@
     "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02213-0",
-    "https://www.nature.com/articles/d41586-026-02103-5",
-    "https://www.nature.com/articles/d41586-026-02215-y",
     "https://www.science.org/content/article/u-s-judge-rejects-trump-s-justification-terminating-thousands-grants",
     "https://www.science.org/content/article/scientists-attack-ban-adding-noise-u-s-census-data-and-many-surveys",
     "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02622-1",
     "https://www.nature.com/articles/d41586-026-02573-7",
     "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
-    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
+    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
+    "https://www.nature.com/articles/s41586-026-11017-1",
+    "https://www.nature.com/articles/d41586-026-02115-1",
+    "https://www.nature.com/articles/d41586-026-02550-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
