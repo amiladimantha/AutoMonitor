@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
-    "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
-    "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
     "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
     "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
     "https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/",
@@ -499,14 +496,12 @@
     "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
     "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
     "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
-    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+    "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
+    "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
+    "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/"
   ],
   "Science": [
-    "https://www.science.org/content/article/earth-s-core-may-be-far-cooler-scientists-thought",
-    "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-    "https://www.nature.com/articles/d41586-026-02229-6",
-    "https://www.nature.com/articles/d41586-026-02256-3",
-    "https://www.nature.com/articles/d41586-026-02020-7",
     "https://www.nature.com/articles/d41586-026-02273-2",
     "https://www.nature.com/articles/d41586-026-02259-0",
     "https://www.nature.com/articles/s41586-026-10919-4",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-02569-3",
     "https://www.nature.com/articles/d41586-026-02635-w",
     "https://www.nature.com/articles/d41586-026-02611-4",
-    "https://www.nature.com/articles/d41586-026-02661-8"
+    "https://www.nature.com/articles/d41586-026-02661-8",
+    "https://www.science.org/content/article/what-jurassic-forest-may-have-sounded",
+    "https://www.science.org/content/article/predict-tree-death-scientists-tapped-gamma-rays-peer-underground",
+    "https://www.science.org/content/article/fraudulent-images-are-rife-antibody-sellers-websites-researcher-says",
+    "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
+    "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
