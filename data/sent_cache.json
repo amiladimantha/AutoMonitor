@@ -502,9 +502,6 @@
     "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/"
   ],
   "Science": [
-    "https://www.science.org/content/article/u-s-judge-rejects-trump-s-justification-terminating-thousands-grants",
-    "https://www.science.org/content/article/scientists-attack-ban-adding-noise-u-s-census-data-and-many-surveys",
-    "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
     "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
     "https://www.nature.com/articles/d41586-026-02210-3",
     "https://www.nature.com/articles/d41586-026-02258-1",
@@ -1001,7 +998,10 @@
     "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
     "https://www.nature.com/articles/s41586-026-11017-1",
     "https://www.nature.com/articles/d41586-026-02115-1",
-    "https://www.nature.com/articles/d41586-026-02550-0"
+    "https://www.nature.com/articles/d41586-026-02550-0",
+    "https://www.nature.com/articles/d41586-026-02382-y",
+    "https://www.nature.com/articles/d41586-026-02665-4",
+    "https://www.nature.com/articles/d41586-026-02638-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1196,8 +1196,6 @@
     "https://huggingface.co/blog/pwc-search"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/19/air-force-units-new-ammo-linking-machine-saves-4-million-a-year/",
-    "https://www.militarytimes.com/opinion/2026/06/19/troop-cuts-in-europe-giving-away-something-for-nothing/",
     "https://www.militarytimes.com/veterans/military-history/2026/06/19/bravery-in-burma-rendered-blind-by-the-japanese-this-soldier-fought-on/",
     "https://www.militarytimes.com/news/your-military/2026/06/19/secret-service-agent-who-shielded-kennedy-laid-to-rest-at-arlington-in-full-circle-moment/",
     "https://www.militarytimes.com/news/your-military/2026/06/19/remains-of-8-individuals-who-died-in-b-52-crash-to-receive-post-mortem-care-at-delaware-base/",
@@ -1695,6 +1693,8 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/24/billboard-campaign-in-military-cities-connects-iran-war-to-high-prices/",
     "https://www.militarytimes.com/news/your-military/2026/08/24/ice-detained-an-army-sergeants-wife-his-family-is-still-waiting-for-answers/",
     "https://www.militarytimes.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints/",
-    "https://www.militarytimes.com/news/your-military/2026/08/24/space-force-honor-guard-showcases-new-ceremonial-uniform-in-dc-grand-prix/"
+    "https://www.militarytimes.com/news/your-military/2026/08/24/space-force-honor-guard-showcases-new-ceremonial-uniform-in-dc-grand-prix/",
+    "https://www.militarytimes.com/news/your-military/2026/08/25/marines-navy-mandate-yearly-gas-mask-training-to-reinforce-grooming-compliance/",
+    "https://www.militarytimes.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/"
   ]
 }
