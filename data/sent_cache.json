@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
     "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
     "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
     "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
@@ -499,12 +498,10 @@
     "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
     "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
     "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-    "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/"
+    "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
+    "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-    "https://www.nature.com/articles/d41586-026-02210-3",
-    "https://www.nature.com/articles/d41586-026-02258-1",
     "https://www.science.org/content/article/chimps-and-bonobos-hug-and-hold-hands-just-us",
     "https://www.science.org/content/article/rapid-spread-ebola-spurs-remarkably-quick-drug-and-vaccine-trials",
     "https://www.science.org/content/article/earth-s-core-may-be-far-cooler-scientists-thought",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-02550-0",
     "https://www.nature.com/articles/d41586-026-02382-y",
     "https://www.nature.com/articles/d41586-026-02665-4",
-    "https://www.nature.com/articles/d41586-026-02638-7"
+    "https://www.nature.com/articles/d41586-026-02638-7",
+    "https://www.nature.com/articles/d41586-026-02567-5",
+    "https://www.nature.com/articles/d41586-026-02569-3",
+    "https://www.nature.com/articles/d41586-026-02635-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
