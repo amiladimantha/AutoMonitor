@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
-    "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
     "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
     "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
     "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
@@ -499,7 +497,9 @@
     "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
     "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
     "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-    "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/"
+    "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
+    "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
+    "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
   ],
   "Science": [
     "https://www.science.org/content/article/chimps-and-bonobos-hug-and-hold-hands-just-us",
@@ -1197,8 +1197,6 @@
     "https://huggingface.co/blog/ibm-granite/granite-4-2"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/military-history/2026/06/19/bravery-in-burma-rendered-blind-by-the-japanese-this-soldier-fought-on/",
-    "https://www.militarytimes.com/news/your-military/2026/06/19/secret-service-agent-who-shielded-kennedy-laid-to-rest-at-arlington-in-full-circle-moment/",
     "https://www.militarytimes.com/news/your-military/2026/06/19/remains-of-8-individuals-who-died-in-b-52-crash-to-receive-post-mortem-care-at-delaware-base/",
     "https://www.militarytimes.com/veterans/military-history/2026/06/19/hell-ship-responsible-for-the-largest-single-day-loss-of-allied-pows-discovered-after-more-than-80-years/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/19/pentagon-tells-lawmakers-it-needs-80-billion-for-iran-war-other-expenses-wsj/",
@@ -1696,6 +1694,8 @@
     "https://www.militarytimes.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints/",
     "https://www.militarytimes.com/news/your-military/2026/08/24/space-force-honor-guard-showcases-new-ceremonial-uniform-in-dc-grand-prix/",
     "https://www.militarytimes.com/news/your-military/2026/08/25/marines-navy-mandate-yearly-gas-mask-training-to-reinforce-grooming-compliance/",
-    "https://www.militarytimes.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/"
+    "https://www.militarytimes.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/",
+    "https://www.militarytimes.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
+    "https://www.militarytimes.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-a-new-defense-industrial-base-office/"
   ]
 }
