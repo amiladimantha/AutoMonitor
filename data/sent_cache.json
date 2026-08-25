@@ -1191,7 +1191,9 @@
     "https://huggingface.co/blog/LiquidAI/qad",
     "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
     "https://huggingface.co/blog/asr-benchmark-optimization",
-    "https://huggingface.co/blog/gradio-workflow-guide"
+    "https://huggingface.co/blog/gradio-workflow-guide",
+    "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
+    "https://huggingface.co/blog/pwc-search"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/your-military/2026/06/19/air-force-units-new-ammo-linking-machine-saves-4-million-a-year/",
