@@ -502,13 +502,6 @@
     "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/"
   ],
   "Science": [
-    "https://www.science.org/content/article/goats-love-bash-heads-it-might-give-them-brain-damage",
-    "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-    "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-    "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-    "https://www.nature.com/articles/d41586-026-02232-x",
-    "https://www.nature.com/articles/d41586-026-02228-7",
-    "https://www.nature.com/articles/d41586-026-02212-1",
     "https://www.nature.com/articles/d41586-026-02281-2",
     "https://www.nature.com/articles/d41586-026-02285-y",
     "https://www.nature.com/articles/d41586-026-02213-0",
@@ -1001,7 +994,14 @@
     "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
     "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
     "https://www.science.org/content/article/china-abruptly-delays-mission-probe-moon-s-hidden-water",
-    "https://www.nature.com/articles/d41586-026-02620-3"
+    "https://www.nature.com/articles/d41586-026-02620-3",
+    "https://www.nature.com/articles/d41586-026-02633-y",
+    "https://www.nature.com/articles/d41586-026-02631-0",
+    "https://www.nature.com/articles/d41586-026-02634-x",
+    "https://www.nature.com/articles/d41586-026-02632-z",
+    "https://www.nature.com/articles/d41586-026-02094-3",
+    "https://www.nature.com/articles/d41586-026-02622-1",
+    "https://www.nature.com/articles/d41586-026-02573-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
