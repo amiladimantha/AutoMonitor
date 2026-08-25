@@ -502,8 +502,6 @@
     "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/"
   ],
   "Science": [
-    "https://www.science.org/content/article/chimps-and-bonobos-hug-and-hold-hands-just-us",
-    "https://www.science.org/content/article/rapid-spread-ebola-spurs-remarkably-quick-drug-and-vaccine-trials",
     "https://www.science.org/content/article/earth-s-core-may-be-far-cooler-scientists-thought",
     "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
     "https://www.nature.com/articles/d41586-026-02229-6",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02638-7",
     "https://www.nature.com/articles/d41586-026-02567-5",
     "https://www.nature.com/articles/d41586-026-02569-3",
-    "https://www.nature.com/articles/d41586-026-02635-w"
+    "https://www.nature.com/articles/d41586-026-02635-w",
+    "https://www.nature.com/articles/d41586-026-02611-4",
+    "https://www.nature.com/articles/d41586-026-02661-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1197,8 +1197,6 @@
     "https://huggingface.co/blog/ibm-granite/granite-4-2"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/19/remains-of-8-individuals-who-died-in-b-52-crash-to-receive-post-mortem-care-at-delaware-base/",
-    "https://www.militarytimes.com/veterans/military-history/2026/06/19/hell-ship-responsible-for-the-largest-single-day-loss-of-allied-pows-discovered-after-more-than-80-years/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/19/pentagon-tells-lawmakers-it-needs-80-billion-for-iran-war-other-expenses-wsj/",
     "https://www.militarytimes.com/news/your-military/2026/06/19/air-force-one-begins-commissioning-flights-final-step-before-presidential-use/",
     "https://www.militarytimes.com/news/your-military/2026/06/19/highway-patrol-us-marine-f-35s-conduct-flight-operations-on-finnish-roads/",
@@ -1696,6 +1694,8 @@
     "https://www.militarytimes.com/news/your-military/2026/08/25/marines-navy-mandate-yearly-gas-mask-training-to-reinforce-grooming-compliance/",
     "https://www.militarytimes.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/",
     "https://www.militarytimes.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
-    "https://www.militarytimes.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-a-new-defense-industrial-base-office/"
+    "https://www.militarytimes.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-a-new-defense-industrial-base-office/",
+    "https://www.militarytimes.com/news/your-navy/2026/08/25/navy-instructs-military-personnel-and-families-to-scrub-social-media-of-personal-information/",
+    "https://www.militarytimes.com/news/your-military/2026/08/25/wife-of-active-duty-army-sergeant-deported-to-honduras/"
   ]
 }
