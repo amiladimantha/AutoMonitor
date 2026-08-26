@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/07/the-incredible-shrinking-xbox-five-studios-3200-employees-let-go/",
-    "https://arstechnica.com/cars/2026/07/f1-in-britain-automated-software-to-blame-for-crushing-expectations/",
     "https://arstechnica.com/space/2026/07/whats-the-oldest-americana-flown-in-space/",
     "https://arstechnica.com/science/2026/07/nuclear-regulatory-commission-plans-really-minor-changes-to-safety-regs/",
     "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
@@ -499,28 +497,11 @@
     "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
     "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
     "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
-    "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/"
+    "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
+    "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
+    "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02275-0",
-    "https://www.nature.com/articles/d41586-026-02169-1",
-    "https://www.nature.com/articles/d41586-026-02293-y",
-    "https://www.nature.com/articles/d41586-026-02279-w",
-    "https://www.nature.com/articles/d41586-026-02280-3",
-    "https://www.nature.com/articles/d41586-026-02307-9",
-    "https://www.nature.com/articles/d41586-026-02267-0",
-    "https://www.nature.com/articles/d41586-026-02338-2",
-    "https://www.science.org/content/article/nih-again-terminating-grants-trump-administration-dislikes",
-    "https://www.science.org/content/article/four-takeaways-our-investigation-hidden-gene-editing-death",
-    "https://www.science.org/content/article/genesis-mission-department-energy-s-big-ai-push-unveils-first-grants",
-    "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
-    "https://www.science.org/content/article/these-insects-should-implode-during-deep-dives-unusual-organ-keeps-them-alive",
-    "https://www.science.org/content/article/25-million-project-will-hunt-self-antibodies-alter-cancer-risk",
-    "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-    "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
-    "https://www.technologyreview.com/2026/07/23/1140765/supercooled-kidneys-have-been-transplanted-into-pigs-in-a-landmark-achievement/",
-    "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
-    "https://www.nature.com/articles/s41586-026-10911-y",
     "https://www.nature.com/articles/d41586-026-02268-z",
     "https://www.science.org/content/article/drug-could-help-end-hiv-epidemic-its-rollout-has-hit-speed-bumps",
     "https://www.science.org/content/article/fda-committee-votes-make-peptides-more-widely-available",
@@ -1001,7 +982,26 @@
     "https://www.nature.com/articles/d41586-026-02508-2",
     "https://www.nature.com/articles/d41586-026-02664-5",
     "https://www.nature.com/articles/d41586-026-02469-6",
-    "https://www.nature.com/articles/d41586-026-02663-6"
+    "https://www.nature.com/articles/d41586-026-02663-6",
+    "https://www.nature.com/articles/d41586-026-02681-4",
+    "https://www.nature.com/articles/s41586-026-10949-y",
+    "https://www.nature.com/articles/s41586-026-10932-7",
+    "https://www.nature.com/articles/s41586-026-10753-8",
+    "https://www.nature.com/articles/s41586-026-10975-w",
+    "https://www.nature.com/articles/s41586-026-10577-6",
+    "https://www.nature.com/articles/s41586-026-10961-2",
+    "https://www.nature.com/articles/s41586-026-10902-z",
+    "https://www.nature.com/articles/s41586-026-10893-x",
+    "https://www.nature.com/articles/s41586-026-10980-z",
+    "https://www.nature.com/articles/s41586-026-10971-0",
+    "https://www.nature.com/articles/s41586-026-10936-3",
+    "https://www.nature.com/articles/s41586-026-10964-z",
+    "https://www.nature.com/articles/s41586-026-10988-5",
+    "https://www.nature.com/articles/s41586-026-10967-w",
+    "https://www.nature.com/articles/s41586-026-10927-4",
+    "https://www.nature.com/articles/s41586-026-10946-1",
+    "https://www.nature.com/articles/s41586-026-10901-0",
+    "https://www.nature.com/articles/s41586-026-10915-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1198,7 +1198,6 @@
     "https://huggingface.co/blog/train-multi-vector-encoder"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/22/us-army-tests-autonomous-boats-during-philippine-exercise/",
     "https://www.militarytimes.com/news/your-air-force/2026/06/22/flu-outbreak-sickens-200-trainees-at-lackland-air-force-base/",
     "https://www.militarytimes.com/veterans/military-history/2026/06/22/visa-battle-for-mother-of-cape-verde-footballer-puts-spotlight-on-nation-and-its-military-heritage/",
     "https://www.militarytimes.com/news/your-military/2026/06/22/us-coast-guard-helicopter-crashes-in-alaska-with-four-onboard/",
@@ -1697,6 +1696,7 @@
     "https://www.militarytimes.com/news/your-military/2026/08/25/marines-corpsmen-ran-toward-twentynine-palms-home-rocked-by-explosion/",
     "https://www.militarytimes.com/news/your-military/2026/08/25/toxic-suppressor-blowback-warrants-military-safety-reforms-advocates-say/",
     "https://www.militarytimes.com/news/your-military/2026/08/25/active-duty-air-force-officer-who-called-for-trump-impeachment-faces-three-charges/",
-    "https://www.militarytimes.com/news/your-military/2026/08/26/marine-corps-brings-back-flu-shot-mandate-for-some-troops/"
+    "https://www.militarytimes.com/news/your-military/2026/08/26/marine-corps-brings-back-flu-shot-mandate-for-some-troops/",
+    "https://www.militarytimes.com/global/2026/08/26/how-a-ukrainian-commander-sped-through-the-kill-zone-to-save-wounded-troops/"
   ]
 }
