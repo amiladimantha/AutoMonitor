@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/07/katalysts-satellite-rescue-mission-is-now-in-pursuit-of-nasas-swift/",
-    "https://arstechnica.com/tech-policy/2026/07/fcc-to-end-biden-era-rule-that-forces-isps-to-list-all-their-fees/",
-    "https://arstechnica.com/gadgets/2026/07/kremlin-suspected-of-flying-drones-over-europe-using-russian-shadow-fleet/",
-    "https://arstechnica.com/space/2026/07/after-a-stellar-career-ulas-atlas-v-rocket-last-act-is-waiting-on-starliner/",
-    "https://arstechnica.com/features/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
     "https://arstechnica.com/health/2026/07/new-virus-catalog-reveals-which-pathogens-pose-the-greatest-threat/",
     "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
     "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
@@ -499,7 +494,12 @@
     "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
     "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
     "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
-    "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/"
+    "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
+    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+    "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+    "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+    "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
+    "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02313-x",
@@ -1198,9 +1198,6 @@
     "https://huggingface.co/blog/train-multi-vector-encoder"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/06/23/us-marines-in-okinawa-receive-first-madis-nmesis-platforms/",
-    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/06/23/va-needs-to-do-more-to-care-for-menopausal-patients-watchdog-says/",
-    "https://www.militarytimes.com/news/your-military/2026/06/23/air-force-selects-new-technical-sergeants-with-highest-promotion-rate-since-2021/",
     "https://www.militarytimes.com/veterans/military-history/2026/06/23/gunfight-at-the-veracruz-custom-house-led-to-six-medal-of-honor-recipients/",
     "https://www.militarytimes.com/news/your-military/2026/06/23/just-one-in-four-americans-believes-the-war-with-iran-was-worth-its-costs/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/23/us-army-tests-fire-control-software-that-helps-moving-vehicles-kill-drones/",
@@ -1697,6 +1694,9 @@
     "https://www.militarytimes.com/news/your-military/2026/08/26/air-force-academy-to-sport-b-21-raider-inspired-uniform-in-game-against-navy/",
     "https://www.militarytimes.com/news/your-military/2026/08/26/marines-overhaul-infantry-stress-stealth-in-new-ground-combat-strategy/",
     "https://www.militarytimes.com/news/your-army/2026/08/26/us-army-seeks-8000-new-short-range-missiles-per-year/",
-    "https://www.militarytimes.com/news/your-military/2026/08/26/american-flags-lowered-to-half-staff-in-honor-of-dolly-parton/"
+    "https://www.militarytimes.com/news/your-military/2026/08/26/american-flags-lowered-to-half-staff-in-honor-of-dolly-parton/",
+    "https://www.militarytimes.com/veterans/2026/08/26/lawmakers-demand-va-bring-back-lgbtq-care-coordinators/",
+    "https://www.militarytimes.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/"
   ]
 }
