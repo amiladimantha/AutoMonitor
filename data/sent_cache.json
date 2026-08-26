@@ -502,7 +502,6 @@
     "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10794-z",
     "https://www.nature.com/articles/s41586-026-10820-0",
     "https://www.nature.com/articles/s41586-026-10778-z",
     "https://www.nature.com/articles/s41586-026-10797-w",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
     "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
     "https://www.nature.com/articles/d41586-026-02568-4",
-    "https://www.nature.com/articles/d41586-026-02570-w"
+    "https://www.nature.com/articles/d41586-026-02570-w",
+    "https://www.nature.com/articles/d41586-026-02412-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
