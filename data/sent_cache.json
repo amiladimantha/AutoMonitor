@@ -502,16 +502,6 @@
     "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10820-0",
-    "https://www.nature.com/articles/s41586-026-10778-z",
-    "https://www.nature.com/articles/s41586-026-10797-w",
-    "https://www.nature.com/articles/s41586-026-10832-w",
-    "https://www.nature.com/articles/s41586-026-10811-1",
-    "https://www.nature.com/articles/s41586-026-10823-x",
-    "https://www.nature.com/articles/d41586-026-02174-4",
-    "https://www.nature.com/articles/d41586-026-02295-w",
-    "https://www.science.org/content/article/white-house-report-calls-big-changes-calcified-u-s-science-system",
-    "https://www.science.org/content/article/contagious-fish-cancer-overruns-new-england-lake",
     "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
     "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
     "https://www.nature.com/articles/d41586-026-02024-3",
@@ -1001,7 +991,17 @@
     "https://www.technologyreview.com/2026/08/25/1140961/mit-tech-powered-the-artemis-ii-livestreams/",
     "https://www.nature.com/articles/d41586-026-02568-4",
     "https://www.nature.com/articles/d41586-026-02570-w",
-    "https://www.nature.com/articles/d41586-026-02412-9"
+    "https://www.nature.com/articles/d41586-026-02412-9",
+    "https://www.nature.com/articles/d41586-026-02514-4",
+    "https://www.nature.com/articles/d41586-026-02510-8",
+    "https://www.nature.com/articles/d41586-026-02506-4",
+    "https://www.nature.com/articles/d41586-026-02513-5",
+    "https://www.nature.com/articles/d41586-026-02509-1",
+    "https://www.nature.com/articles/d41586-026-02511-7",
+    "https://www.nature.com/articles/d41586-026-02507-3",
+    "https://www.nature.com/articles/d41586-026-02505-5",
+    "https://www.nature.com/articles/d41586-026-02512-6",
+    "https://www.nature.com/articles/d41586-026-02508-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1194,7 +1194,8 @@
     "https://huggingface.co/blog/gradio-workflow-guide",
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "https://huggingface.co/blog/pwc-search",
-    "https://huggingface.co/blog/ibm-granite/granite-4-2"
+    "https://huggingface.co/blog/ibm-granite/granite-4-2",
+    "https://huggingface.co/blog/train-multi-vector-encoder"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/your-military/2026/06/22/us-army-tests-autonomous-boats-during-philippine-exercise/",
