@@ -502,14 +502,6 @@
     "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02268-z",
-    "https://www.science.org/content/article/drug-could-help-end-hiv-epidemic-its-rollout-has-hit-speed-bumps",
-    "https://www.science.org/content/article/fda-committee-votes-make-peptides-more-widely-available",
-    "https://www.science.org/content/article/are-dolphins-only-animals-call-each-other-name",
-    "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-    "https://www.nature.com/articles/d41586-026-02332-8",
-    "https://www.science.org/content/article/saber-toothed-cats-became-inbred-and-struggled-move-they-went-extinct",
-    "https://www.nature.com/articles/d41586-026-02171-7",
     "https://www.nature.com/articles/d41586-026-02313-x",
     "https://www.nature.com/articles/d41586-026-02316-8",
     "https://www.nature.com/articles/d41586-026-02314-w",
@@ -1001,7 +993,15 @@
     "https://www.nature.com/articles/s41586-026-10927-4",
     "https://www.nature.com/articles/s41586-026-10946-1",
     "https://www.nature.com/articles/s41586-026-10901-0",
-    "https://www.nature.com/articles/s41586-026-10915-8"
+    "https://www.nature.com/articles/s41586-026-10915-8",
+    "https://www.science.org/content/article/how-does-football-cause-brain-disease-and-why-it-so-hard-diagnose",
+    "https://www.science.org/content/article/first-insects-had-way-more-six-legs",
+    "https://www.science.org/content/article/oh-swell-scientists-identify-new-way-your-car-corrode",
+    "https://www.science.org/content/article/shingles-vaccine-linked-reduced-heart-risks",
+    "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
+    "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+    "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1198,8 +1198,6 @@
     "https://huggingface.co/blog/train-multi-vector-encoder"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-air-force/2026/06/22/flu-outbreak-sickens-200-trainees-at-lackland-air-force-base/",
-    "https://www.militarytimes.com/veterans/military-history/2026/06/22/visa-battle-for-mother-of-cape-verde-footballer-puts-spotlight-on-nation-and-its-military-heritage/",
     "https://www.militarytimes.com/news/your-military/2026/06/22/us-coast-guard-helicopter-crashes-in-alaska-with-four-onboard/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/22/house-to-vote-on-landmark-bill-that-boosts-dod-and-va-benefits-for-some-while-cutting-others/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/23/us-marines-in-okinawa-receive-first-madis-nmesis-platforms/",
@@ -1697,6 +1695,8 @@
     "https://www.militarytimes.com/news/your-military/2026/08/25/toxic-suppressor-blowback-warrants-military-safety-reforms-advocates-say/",
     "https://www.militarytimes.com/news/your-military/2026/08/25/active-duty-air-force-officer-who-called-for-trump-impeachment-faces-three-charges/",
     "https://www.militarytimes.com/news/your-military/2026/08/26/marine-corps-brings-back-flu-shot-mandate-for-some-troops/",
-    "https://www.militarytimes.com/global/2026/08/26/how-a-ukrainian-commander-sped-through-the-kill-zone-to-save-wounded-troops/"
+    "https://www.militarytimes.com/global/2026/08/26/how-a-ukrainian-commander-sped-through-the-kill-zone-to-save-wounded-troops/",
+    "https://www.militarytimes.com/news/your-military/2026/08/26/air-force-academy-to-sport-b-21-raider-inspired-uniform-in-game-against-navy/",
+    "https://www.militarytimes.com/news/your-military/2026/08/26/marines-overhaul-infantry-stress-stealth-in-new-ground-combat-strategy/"
   ]
 }
