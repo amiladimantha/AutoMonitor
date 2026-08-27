@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/07/googles-pixel-11-launch-event-is-set-for-august-12-with-possible-price-increases/",
     "https://arstechnica.com/gadgets/2026/07/the-weather-channels-streaming-app-gets-a-67-percent-price-hike/",
     "https://arstechnica.com/gaming/2026/07/the-nintendo-switchs-days-are-numbered-but-what-is-that-number/",
     "https://arstechnica.com/cars/2026/07/this-race-car-is-made-from-plant-fibers-volcanoes-and-seawater/",
@@ -499,11 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
     "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
     "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
-    "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/"
+    "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+    "https://arstechnica.com/cars/2026/08/an-ev-that-sounds-like-a-6-75-l-v8-a-ride-in-the-bentley-torcal/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02313-x",
-    "https://www.nature.com/articles/d41586-026-02316-8",
     "https://www.nature.com/articles/d41586-026-02314-w",
     "https://www.nature.com/articles/s41586-026-10930-9",
     "https://www.nature.com/articles/s41586-026-10929-2",
@@ -1001,7 +999,9 @@
     "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
     "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
     "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/"
+    "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+    "https://www.nature.com/articles/d41586-026-02716-w",
+    "https://www.nature.com/articles/d41586-026-02679-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1198,8 +1198,6 @@
     "https://huggingface.co/blog/train-multi-vector-encoder"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/military-history/2026/06/23/gunfight-at-the-veracruz-custom-house-led-to-six-medal-of-honor-recipients/",
-    "https://www.militarytimes.com/news/your-military/2026/06/23/just-one-in-four-americans-believes-the-war-with-iran-was-worth-its-costs/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/23/us-army-tests-fire-control-software-that-helps-moving-vehicles-kill-drones/",
     "https://www.militarytimes.com/news/your-military/2026/06/23/us-army-expands-unit-stability-program-for-junior-officers/",
     "https://www.militarytimes.com/veterans/2026/06/23/nearly-5-million-veterans-have-used-magic-mushrooms-lsd-or-mdma-study-finds/",
@@ -1697,6 +1695,8 @@
     "https://www.militarytimes.com/news/your-military/2026/08/26/american-flags-lowered-to-half-staff-in-honor-of-dolly-parton/",
     "https://www.militarytimes.com/veterans/2026/08/26/lawmakers-demand-va-bring-back-lgbtq-care-coordinators/",
     "https://www.militarytimes.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/"
+    "https://www.militarytimes.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/",
+    "https://www.militarytimes.com/news/your-military/2026/08/27/marines-fielding-new-laser-sights-at-school-of-infantry/",
+    "https://www.militarytimes.com/news/your-military/2026/08/27/they-survived-an-iran-war-drone-attack-six-months-later-theyre-struggling-to-get-care/"
   ]
 }
