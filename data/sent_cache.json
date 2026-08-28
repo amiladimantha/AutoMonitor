@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/07/robot-workers-rising-how-ai-may-drive-general-purpose-autonomy-in-robotics/",
-    "https://arstechnica.com/cars/2026/07/two-teens-learn-the-hard-way-not-to-do-toy-gun-drivebys-from-a-waymo/",
-    "https://arstechnica.com/science/2026/07/newly-installed-monitoring-system-watched-the-seafloor-spread/",
-    "https://arstechnica.com/gadgets/2026/07/thousands-of-routers-bricked-after-government-program-concludes-in-australia/",
-    "https://arstechnica.com/science/2026/07/how-much-control-do-tiktok-users-really-have-over-fyps/",
-    "https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/",
-    "https://arstechnica.com/space/2026/07/miami-based-city-labs-achieves-a-first-for-commercial-nuclear-power-in-space/",
     "https://arstechnica.com/google/2026/07/google-revamps-android-ai-dev-benchmark-adds-fable-5-and-other-agents/",
     "https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
     "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
@@ -499,15 +492,16 @@
     "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
     "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
     "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-    "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/"
+    "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
+    "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+    "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
+    "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
+    "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
+    "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
+    "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
+    "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-    "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
-    "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-    "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-    "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-    "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
     "https://www.nature.com/articles/d41586-026-02294-x",
     "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public-mandarin",
     "https://www.science.org/content/article/clear-sighting-wandering-black-hole-reveals-escapee-galaxy-merger",
@@ -1001,7 +995,13 @@
     "https://www.nature.com/articles/d41586-026-02629-8",
     "https://www.nature.com/articles/d41586-026-02713-z",
     "https://www.nature.com/articles/d41586-026-02662-7",
-    "https://www.nature.com/articles/d41586-026-02717-9"
+    "https://www.nature.com/articles/d41586-026-02717-9",
+    "https://www.nature.com/articles/d41586-026-02732-w",
+    "https://www.nature.com/articles/d41586-026-02725-9",
+    "https://www.nature.com/articles/d41586-026-02680-5",
+    "https://www.nature.com/articles/d41586-026-02688-x",
+    "https://www.nature.com/articles/d41586-026-02733-9",
+    "https://www.nature.com/articles/d41586-026-01913-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1195,20 +1195,10 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "https://huggingface.co/blog/pwc-search",
     "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "https://huggingface.co/blog/train-multi-vector-encoder"
+    "https://huggingface.co/blog/train-multi-vector-encoder",
+    "https://huggingface.co/blog/open-asr-leaderboard-global-south"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/06/24/navy-announces-e-6-sailors-of-the-year-meritorious-chief-advancements/",
-    "https://www.militarytimes.com/news/your-military/2026/06/24/airstrike-killed-senior-isis-commander-in-syria-centcom-says/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/24/missing-sailor-found-dead-near-naval-station-norfolk/",
-    "https://www.militarytimes.com/news/your-military/2026/06/24/f-35-program-chief-warns-fleet-has-outgrown-its-support-system-amid-record-low-readiness/",
-    "https://www.militarytimes.com/news/your-military/2026/06/24/us-army-sergeant-sentenced-to-six-life-terms-for-shooting-spree-at-georgia-base/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/06/24/china-studied-us-stealth-aircraft-and-learned-the-wrong-lessons/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/06/24/us-uk-france-germany-raise-alarm-about-chinese-patrols-off-eastern-taiwan/",
-    "https://www.militarytimes.com/news/your-military/2026/06/24/can-the-us-military-preserve-decades-of-wartime-experience/",
-    "https://www.militarytimes.com/opinion/commentary/2026/06/24/i-once-made-my-va-therapist-cry-then-an-ai-chatbot-got-me-talking-about-war-and-guilt/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/24/white-house-asks-congress-for-876-billion-mostly-for-iran-war/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/24/in-shift-pentagon-grants-flu-vaccine-exceptions-to-military-services-some-federal-agencies/",
     "https://www.militarytimes.com/veterans/2026/06/24/va-to-fire-employee-for-alleged-abuse-of-disabled-vet-at-a-state-run-veterans-home/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/trump-meets-munitions-makers-amid-push-to-replenish-weapons-stockpiles/",
     "https://www.militarytimes.com/news/your-military/2026/06/25/marines-create-dedicated-track-for-doctor-of-philosophy-officers/",
@@ -1697,6 +1687,17 @@
     "https://www.militarytimes.com/news/your-military/2026/08/27/marine-one-crew-failed-to-reach-air-traffic-control-before-safety-incident-ntsb-says/",
     "https://www.militarytimes.com/news/your-navy/2026/08/27/navy-offers-select-special-warfare-officers-up-to-six-figure-bonuses-to-stay-in-uniform/",
     "https://www.militarytimes.com/news/your-military/2026/08/27/pentagon-upgrades-awards-for-3-marines-at-abbey-gate-attack/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/",
+    "https://www.militarytimes.com/news/your-military/2026/08/28/dod-confirms-refrigeration-disruption-at-military-commissaries/",
+    "https://www.militarytimes.com/pay-benefits/2026/08/28/dod-schools-struggle-to-identify-support-military-children-with-learning-disabilities-gao-finds/",
+    "https://www.militarytimes.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning/",
+    "https://www.militarytimes.com/news/your-military/2026/08/28/airmen-guardians-must-complete-gask-mask-seal-tests-before-end-of-year/",
+    "https://www.militarytimes.com/veterans/military-history/2026/08/28/steel-and-stone-army-museums-newest-exhibit-shares-untold-stories-of-engineers-on-911/",
+    "https://www.militarytimes.com/news/your-military/2026/08/28/joint-base-andrews-activates-new-helicopter-squadron-for-hh-60w-mission/",
+    "https://www.militarytimes.com/news/your-military/2026/08/28/record-long-deployments-add-new-layer-to-sailors-reenlistment-decisions/",
+    "https://www.militarytimes.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization/",
+    "https://www.militarytimes.com/news/your-military/2026/08/28/west-point-ordered-professors-not-to-teach-human-causes-of-climate-change-lawsuit-says/",
+    "https://www.militarytimes.com/news/your-military/2026/08/28/after-epic-fury-navy-may-need-an-extra-8-billion-to-be-solvent-cno-says/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/28/us-military-uses-laser-to-down-three-mexican-cartel-drones-near-border/"
   ]
 }
