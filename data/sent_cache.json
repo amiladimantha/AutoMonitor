@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/07/high-severity-guest-vm-escape-is-1-of-2-linux-vulnerabilities-to-surface-this-week/",
     "https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/",
     "https://arstechnica.com/culture/2026/07/conspiracies-and-regrets-abound-in-dune-part-three-trailer/",
     "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
     "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
     "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
-    "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/"
+    "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
+    "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02294-x",
     "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public-mandarin",
     "https://www.science.org/content/article/clear-sighting-wandering-black-hole-reveals-escapee-galaxy-merger",
     "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02680-5",
     "https://www.nature.com/articles/d41586-026-02688-x",
     "https://www.nature.com/articles/d41586-026-02733-9",
-    "https://www.nature.com/articles/d41586-026-01913-x"
+    "https://www.nature.com/articles/d41586-026-01913-x",
+    "https://www.nature.com/articles/d41586-026-02727-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
