@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
-    "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
     "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
     "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
     "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
@@ -499,7 +497,9 @@
     "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
     "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
     "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
-    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+    "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+    "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-10923-8",
@@ -1199,11 +1199,6 @@
     "https://huggingface.co/blog/open-asr-leaderboard-global-south"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/trump-meets-munitions-makers-amid-push-to-replenish-weapons-stockpiles/",
-    "https://www.militarytimes.com/news/your-military/2026/06/25/marines-create-dedicated-track-for-doctor-of-philosophy-officers/",
-    "https://www.militarytimes.com/industry/techwatch/2026/06/25/lockheed-martin-wins-over-35-billion-contract-to-quadruple-thaad-production/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/25/incoming-female-students-at-us-naval-academy-must-cut-hair-below-chin/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/25/seven-sailors-injured-during-fire-aboard-uss-indianapolis/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/house-backs-155-billion-to-revive-e-7-wedgetail-spares-navy-hawkeye/",
     "https://www.militarytimes.com/veterans/2026/06/25/following-reports-of-staff-shortages-and-safety-concerns-va-to-centralize-its-police-force/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/house-committee-advances-spending-bill-with-cuts-to-air-force-flying-hours-other-programs/",
@@ -1698,6 +1693,11 @@
     "https://www.militarytimes.com/news/your-military/2026/08/28/west-point-ordered-professors-not-to-teach-human-causes-of-climate-change-lawsuit-says/",
     "https://www.militarytimes.com/news/your-military/2026/08/28/after-epic-fury-navy-may-need-an-extra-8-billion-to-be-solvent-cno-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/28/us-military-uses-laser-to-down-three-mexican-cartel-drones-near-border/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/31/pentagon-scraps-public-weapons-testing-reports-amid-oversight-concerns/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/31/pentagon-scraps-public-weapons-testing-reports-amid-oversight-concerns/",
+    "https://www.militarytimes.com/news/your-military/2026/08/31/contamination-prompts-wyoming-air-base-to-halt-minuteman-iii-communications-testers/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/31/the-militarys-chatgpt-is-now-live-via-the-pentagons-genai-platform/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/31/trial-for-accused-mastermind-of-911-attacks-set-for-june-2028/",
+    "https://www.militarytimes.com/news/your-military/2026/08/31/barracks-task-force-completes-first-housing-at-washington-naval-base/",
+    "https://www.militarytimes.com/news/your-military/2026/08/31/uss-abraham-lincolns-visit-to-thailands-pattaya-lifts-hope-and-sex-tourism-risk/"
   ]
 }
