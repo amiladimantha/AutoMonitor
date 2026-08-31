@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/07/ruf-debuts-new-flat-eight-engine-at-goodwood/",
     "https://arstechnica.com/cars/2026/07/free-waymo-rides-in-california-you-can-thank-a-regulatory-quirk/",
     "https://arstechnica.com/space/2026/07/the-newest-entrant-in-the-militarys-launch-competition-isnt-actually-a-launch-company/",
     "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
@@ -499,14 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/",
     "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
     "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
-    "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/"
+    "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+    "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/"
   ],
   "Science": [
-    "https://www.science.org/content/article/gene-may-help-lizards-get-grip-hurricane-force-winds",
-    "https://www.science.org/content/article/future-giant-monkey-research-facility-uncertain-even-sanctuary-plan-dropped",
-    "https://www.science.org/content/article/watch-killer-flies-zigzag-flight-escape-their-cannibal-mates",
-    "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-    "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/",
     "https://www.nature.com/articles/s41586-026-10923-8",
     "https://www.nature.com/articles/s41586-026-10931-8",
     "https://www.nature.com/articles/d41586-026-02304-y",
@@ -1001,7 +996,12 @@
     "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
     "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
     "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "https://www.nature.com/articles/d41586-026-02684-1"
+    "https://www.nature.com/articles/d41586-026-02684-1",
+    "https://www.nature.com/articles/d41586-026-02642-x",
+    "https://www.nature.com/articles/d41586-026-02543-z",
+    "https://www.nature.com/articles/d41586-026-02685-0",
+    "https://www.nature.com/articles/d41586-026-02669-0",
+    "https://www.nature.com/articles/d41586-026-02687-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1199,7 +1199,6 @@
     "https://huggingface.co/blog/open-asr-leaderboard-global-south"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/06/24/va-to-fire-employee-for-alleged-abuse-of-disabled-vet-at-a-state-run-veterans-home/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/trump-meets-munitions-makers-amid-push-to-replenish-weapons-stockpiles/",
     "https://www.militarytimes.com/news/your-military/2026/06/25/marines-create-dedicated-track-for-doctor-of-philosophy-officers/",
     "https://www.militarytimes.com/industry/techwatch/2026/06/25/lockheed-martin-wins-over-35-billion-contract-to-quadruple-thaad-production/",
@@ -1698,6 +1697,7 @@
     "https://www.militarytimes.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization/",
     "https://www.militarytimes.com/news/your-military/2026/08/28/west-point-ordered-professors-not-to-teach-human-causes-of-climate-change-lawsuit-says/",
     "https://www.militarytimes.com/news/your-military/2026/08/28/after-epic-fury-navy-may-need-an-extra-8-billion-to-be-solvent-cno-says/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/28/us-military-uses-laser-to-down-three-mexican-cartel-drones-near-border/"
+    "https://www.militarytimes.com/industry/techwatch/2026/08/28/us-military-uses-laser-to-down-three-mexican-cartel-drones-near-border/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/08/31/pentagon-scraps-public-weapons-testing-reports-amid-oversight-concerns/"
   ]
 }
