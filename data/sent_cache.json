@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/07/surprised-doctors-find-10-inch-worm-in-mans-groin-during-elective-surgery/",
-    "https://arstechnica.com/tech-policy/2026/07/judge-doesnt-like-elon-musk-settlement-with-sec-but-says-court-cant-block-it/",
-    "https://arstechnica.com/tech-policy/2026/07/openai-faked-inability-to-search-training-data-hid-billions-of-logs-nyt-says/",
-    "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-    "https://arstechnica.com/information-technology/2026/07/allstate-accuses-broadcom-of-auditing-it-because-it-quit-vmware-ca/",
-    "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
-    "https://arstechnica.com/science/2026/07/flores-hobbits-scavenged-komodo-dragons-elephant-kills-study-suggests/",
     "https://arstechnica.com/health/2026/07/michigans-explosive-outbreak-of-diarrheal-parasite-jumps-to-over-1200-cases/",
     "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
     "https://arstechnica.com/space/2026/07/wally-funk-last-of-mercury-13-and-oldest-woman-in-space-dies-at-87/",
@@ -499,14 +492,16 @@
     "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
     "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
     "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-    "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/"
+    "https://arstechnica.com/space/2026/08/nasas-next-great-observatory-begins-mission-to-widen-our-view-of-the-universe/",
+    "https://arstechnica.com/culture/2026/08/review-coyote-vs-acme-is-an-unabashed-love-letter-to-looney-tunes/",
+    "https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/",
+    "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+    "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
+    "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
+    "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
+    "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10923-8",
-    "https://www.nature.com/articles/s41586-026-10931-8",
-    "https://www.nature.com/articles/d41586-026-02304-y",
-    "https://www.nature.com/articles/d41586-026-02333-7",
-    "https://www.nature.com/articles/d41586-026-02287-w",
     "https://www.nature.com/articles/d41586-026-02278-x",
     "https://www.nature.com/articles/d41586-026-02286-x",
     "https://www.science.org/content/article/how-does-universe-set-black-holes-collision-course",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-02543-z",
     "https://www.nature.com/articles/d41586-026-02685-0",
     "https://www.nature.com/articles/d41586-026-02669-0",
-    "https://www.nature.com/articles/d41586-026-02687-y"
+    "https://www.nature.com/articles/d41586-026-02687-y",
+    "https://www.science.org/content/article/autism-advisory-committee-s-funding-plan-critics-see-veiled-antivaccine-focus",
+    "https://www.science.org/content/article/russia-bets-new-research-facilities-rebuild-foreign-ties",
+    "https://www.science.org/content/article/will-meta-s-settlement-social-media-addiction-case-be-boon-research",
+    "https://www.science.org/content/article/snake-embryos-often-coil-one-direction-now-we-may-know-why",
+    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1199,11 +1199,6 @@
     "https://huggingface.co/blog/open-asr-leaderboard-global-south"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/house-backs-155-billion-to-revive-e-7-wedgetail-spares-navy-hawkeye/",
-    "https://www.militarytimes.com/veterans/2026/06/25/following-reports-of-staff-shortages-and-safety-concerns-va-to-centralize-its-police-force/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/house-committee-advances-spending-bill-with-cuts-to-air-force-flying-hours-other-programs/",
-    "https://www.militarytimes.com/pay-benefits/mil-money/2026/06/25/dod-scraps-plan-to-privatize-commissaries/",
-    "https://www.militarytimes.com/veterans/2026/06/25/house-vote-on-major-veterans-bill-delayed-amid-controversy-over-voting-legislation/",
     "https://www.militarytimes.com/news/your-military/2026/06/25/hungry-bears-are-heading-to-fort-carson-this-summer/",
     "https://www.militarytimes.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/the-pentagons-research-infrastructure-is-deteriorating-study-finds/",
@@ -1698,6 +1693,11 @@
     "https://www.militarytimes.com/industry/techwatch/2026/08/31/the-militarys-chatgpt-is-now-live-via-the-pentagons-genai-platform/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/31/trial-for-accused-mastermind-of-911-attacks-set-for-june-2028/",
     "https://www.militarytimes.com/news/your-military/2026/08/31/barracks-task-force-completes-first-housing-at-washington-naval-base/",
-    "https://www.militarytimes.com/news/your-military/2026/08/31/uss-abraham-lincolns-visit-to-thailands-pattaya-lifts-hope-and-sex-tourism-risk/"
+    "https://www.militarytimes.com/news/your-military/2026/08/31/uss-abraham-lincolns-visit-to-thailands-pattaya-lifts-hope-and-sex-tourism-risk/",
+    "https://www.militarytimes.com/breaking-news/2026/08/31/army-secretary-dan-driscoll-resigns-on-short-notice-amid-reported-friction-with-hegseth/",
+    "https://www.militarytimes.com/news/your-navy/2026/08/31/toilet-paper-and-human-error-led-to-11-hour-uss-new-orleans-fire-investigation-finds/",
+    "https://www.militarytimes.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production/",
+    "https://www.militarytimes.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/",
+    "https://www.militarytimes.com/news/your-military/2026/08/31/82nd-airborne-soldiers-have-middle-east-deployment-extended-out-to-a-year/"
   ]
 }
