@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/07/is-an-air-conditioning-revolution-coming-to-europe/",
-    "https://arstechnica.com/space/2026/07/rocket-report-panic-over-transporter-availability-isar-to-launch-from-canada/",
     "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
     "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
     "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
@@ -499,18 +497,11 @@
     "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
     "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
     "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
-    "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/"
+    "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
+    "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
+    "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02278-x",
-    "https://www.nature.com/articles/d41586-026-02286-x",
-    "https://www.science.org/content/article/how-does-universe-set-black-holes-collision-course",
-    "https://www.science.org/content/article/trump-adviser-s-golden-age-report-u-s-science-missed-opportunity-critics-say",
-    "https://www.nature.com/articles/d41586-026-02351-5",
-    "https://www.science.org/content/article/fossil-skull-flattening-suggests-ancient-origins-infant-helplessness",
-    "https://www.science.org/content/article/activists-and-leaders-global-hiv-meeting-decry-price-prevention-drug",
-    "https://www.nature.com/articles/d41586-026-02282-1",
-    "https://www.nature.com/articles/d41586-026-02308-8",
     "https://www.nature.com/articles/d41586-026-02340-8",
     "https://www.nature.com/articles/d41586-026-02312-y",
     "https://www.nature.com/articles/s41586-026-10945-2",
@@ -1001,7 +992,16 @@
     "https://www.science.org/content/article/russia-bets-new-research-facilities-rebuild-foreign-ties",
     "https://www.science.org/content/article/will-meta-s-settlement-social-media-addiction-case-be-boon-research",
     "https://www.science.org/content/article/snake-embryos-often-coil-one-direction-now-we-may-know-why",
-    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+    "https://www.nature.com/articles/d41586-026-02737-5",
+    "https://www.nature.com/articles/d41586-026-02735-7",
+    "https://www.nature.com/articles/d41586-026-02738-4",
+    "https://www.nature.com/articles/d41586-026-02736-6",
+    "https://www.nature.com/articles/d41586-026-02636-9",
+    "https://www.nature.com/articles/d41586-026-02370-2",
+    "https://www.nature.com/articles/d41586-026-02686-z",
+    "https://www.nature.com/articles/d41586-026-02119-x",
+    "https://www.nature.com/articles/d41586-026-02682-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1199,7 +1199,6 @@
     "https://huggingface.co/blog/open-asr-leaderboard-global-south"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/25/hungry-bears-are-heading-to-fort-carson-this-summer/",
     "https://www.militarytimes.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/the-pentagons-research-infrastructure-is-deteriorating-study-finds/",
     "https://www.militarytimes.com/unmanned/2026/06/25/ukraines-top-strike-drone-maker-moves-into-ballistic-missile-defense/",
@@ -1698,6 +1697,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/08/31/toilet-paper-and-human-error-led-to-11-hour-uss-new-orleans-fire-investigation-finds/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production/",
     "https://www.militarytimes.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/",
-    "https://www.militarytimes.com/news/your-military/2026/08/31/82nd-airborne-soldiers-have-middle-east-deployment-extended-out-to-a-year/"
+    "https://www.militarytimes.com/news/your-military/2026/08/31/82nd-airborne-soldiers-have-middle-east-deployment-extended-out-to-a-year/",
+    "https://www.militarytimes.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/"
   ]
 }
