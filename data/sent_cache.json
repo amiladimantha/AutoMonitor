@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/07/like-a-cheat-code-for-your-car-we-investigate-ecu-tuning/",
-    "https://arstechnica.com/cars/2026/07/vw-group-and-unions-disagree-on-plan-to-streamline-the-automaker/",
-    "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
-    "https://arstechnica.com/space/2026/07/nasa-finally-releases-a-critical-planning-document-for-private-space-stations/",
-    "https://arstechnica.com/gaming/2026/07/valves-steam-machine-verified-ratings-offer-more-questions-than-answers/",
     "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
     "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/",
     "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
@@ -499,7 +494,12 @@
     "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
     "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
     "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
-    "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
+    "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
+    "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+    "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
+    "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
+    "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
+    "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-025-03966-w",
@@ -1200,12 +1200,6 @@
     "https://huggingface.co/blog/webgpu-kernels"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/26/us-sending-military-warships-personnel-to-venezuela-in-the-wake-of-the-nations-devastating-earthquakes/",
-    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/06/26/feds-pay-out-17m-to-families-sickened-by-navys-fuel-contaminated-water-in-hawaii/",
-    "https://www.militarytimes.com/opinion/commentary/2026/06/26/nato-allies-promised-trump-theyd-secure-the-arctic-theyve-got-work-to-do/",
-    "https://www.militarytimes.com/news/your-military/2026/06/26/army-launches-new-branch-for-military-space-operations/",
-    "https://www.militarytimes.com/news/recruiting/2026/06/26/military-recruiting-hit-a-15-year-high-how-quickly-do-recruits-become-mission-ready/",
-    "https://www.militarytimes.com/industry/techwatch/2026/06/26/air-force-solicits-ideas-for-over-1000-mile-range-weapon-from-industry/",
     "https://www.militarytimes.com/news/your-military/2026/06/26/us-army-gives-chaplains-90-days-to-remove-rank-insignia/",
     "https://www.militarytimes.com/news/your-military/2026/06/26/us-resumes-attacks-on-iran/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/army-wants-up-to-100-drone-boats-to-fill-watercraft-gap-in-pacific/",
@@ -1699,6 +1693,12 @@
     "https://www.militarytimes.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
     "https://www.militarytimes.com/news/your-navy/2026/09/01/navy-not-returning-to-damaged-bahrain-base-anytime-soon-top-officer-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/01/suicide-prevention-efforts-at-fort-hood-lack-professional-expertise-army-says/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/"
+    "https://www.militarytimes.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/01/house-passes-funding-bill-to-avert-government-shutdown/",
+    "https://www.militarytimes.com/news/your-military/2026/09/01/us-approves-possible-800-million-military-helicopter-sale-to-iraq/",
+    "https://www.militarytimes.com/news/your-military/2026/09/01/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz/",
+    "https://www.militarytimes.com/news/your-military/2026/09/01/us-army-soldiers-across-the-world-earn-danish-ruck-ribbon/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/01/newly-minted-marine-officer-makes-steelers-53-man-roster/",
+    "https://www.militarytimes.com/news/your-military/2026/09/01/mh-139-grey-wolf-reaches-initial-operational-capability/"
   ]
 }
