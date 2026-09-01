@@ -1197,10 +1197,10 @@
     "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "https://huggingface.co/blog/train-multi-vector-encoder",
     "https://huggingface.co/blog/open-asr-leaderboard-global-south",
-    "https://huggingface.co/blog/webgpu-kernels"
+    "https://huggingface.co/blog/webgpu-kernels",
+    "https://huggingface.co/blog/allenai/benchmirt"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/26/us-army-gives-chaplains-90-days-to-remove-rank-insignia/",
     "https://www.militarytimes.com/news/your-military/2026/06/26/us-resumes-attacks-on-iran/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/army-wants-up-to-100-drone-boats-to-fill-watercraft-gap-in-pacific/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/20-year-trove-of-shipboard-assault-cases-now-public-after-data-request/",
@@ -1699,6 +1699,7 @@
     "https://www.militarytimes.com/news/your-military/2026/09/01/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz/",
     "https://www.militarytimes.com/news/your-military/2026/09/01/us-army-soldiers-across-the-world-earn-danish-ruck-ribbon/",
     "https://www.militarytimes.com/news/your-navy/2026/09/01/newly-minted-marine-officer-makes-steelers-53-man-roster/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/mh-139-grey-wolf-reaches-initial-operational-capability/"
+    "https://www.militarytimes.com/news/your-military/2026/09/01/mh-139-grey-wolf-reaches-initial-operational-capability/",
+    "https://www.militarytimes.com/news/your-military/2026/09/01/navy-captain-gives-oath-of-enlistment-to-son-on-last-day-of-service/"
   ]
 }
