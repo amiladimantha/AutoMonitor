@@ -502,14 +502,6 @@
     "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02340-8",
-    "https://www.nature.com/articles/d41586-026-02312-y",
-    "https://www.nature.com/articles/s41586-026-10945-2",
-    "https://www.nature.com/articles/d41586-026-02179-z",
-    "https://www.nature.com/articles/d41586-026-02183-3",
-    "https://www.nature.com/articles/d41586-026-02254-5",
-    "https://www.nature.com/articles/d41586-026-02341-7",
-    "https://www.nature.com/articles/d41586-026-02181-5",
     "https://www.nature.com/articles/d41586-025-03966-w",
     "https://www.nature.com/articles/d41586-026-02182-4",
     "https://www.nature.com/articles/d41586-026-02180-6",
@@ -1001,7 +993,15 @@
     "https://www.nature.com/articles/d41586-026-02370-2",
     "https://www.nature.com/articles/d41586-026-02686-z",
     "https://www.nature.com/articles/d41586-026-02119-x",
-    "https://www.nature.com/articles/d41586-026-02682-3"
+    "https://www.nature.com/articles/d41586-026-02682-3",
+    "https://www.nature.com/articles/s41586-026-11071-9",
+    "https://www.nature.com/articles/d41586-026-02383-x",
+    "https://www.nature.com/articles/d41586-026-02734-8",
+    "https://www.nature.com/articles/d41586-026-01985-9",
+    "https://www.nature.com/articles/d41586-026-02342-6",
+    "https://www.nature.com/articles/d41586-026-02609-y",
+    "https://www.nature.com/articles/d41586-026-02743-7",
+    "https://www.nature.com/articles/d41586-026-02456-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1196,15 +1196,10 @@
     "https://huggingface.co/blog/pwc-search",
     "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "https://huggingface.co/blog/train-multi-vector-encoder",
-    "https://huggingface.co/blog/open-asr-leaderboard-global-south"
+    "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "https://huggingface.co/blog/webgpu-kernels"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/06/25/the-pentagons-research-infrastructure-is-deteriorating-study-finds/",
-    "https://www.militarytimes.com/unmanned/2026/06/25/ukraines-top-strike-drone-maker-moves-into-ballistic-missile-defense/",
-    "https://www.militarytimes.com/news/your-military/2026/06/26/us-army-officer-sentenced-for-secretly-giving-abortion-drug-to-pregnant-soldier/",
-    "https://www.militarytimes.com/news/your-military/2026/06/26/debate-over-women-in-combat-prompts-ndaa-battles/",
-    "https://www.militarytimes.com/news/your-army/2026/06/26/101st-soldiers-use-drones-to-drop-grappling-hooks-breach-razor-wire/",
     "https://www.militarytimes.com/news/your-military/2026/06/26/us-sending-military-warships-personnel-to-venezuela-in-the-wake-of-the-nations-devastating-earthquakes/",
     "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/06/26/feds-pay-out-17m-to-families-sickened-by-navys-fuel-contaminated-water-in-hawaii/",
     "https://www.militarytimes.com/opinion/commentary/2026/06/26/nato-allies-promised-trump-theyd-secure-the-arctic-theyve-got-work-to-do/",
@@ -1698,6 +1693,12 @@
     "https://www.militarytimes.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production/",
     "https://www.militarytimes.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/",
     "https://www.militarytimes.com/news/your-military/2026/08/31/82nd-airborne-soldiers-have-middle-east-deployment-extended-out-to-a-year/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/"
+    "https://www.militarytimes.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/01/pentagon-still-failing-to-secure-health-records-of-top-officials-audit-finds/",
+    "https://www.militarytimes.com/news/your-military/2026/09/01/where-the-pentagon-cant-go-a-small-nonprofit-searches-for-americas-war-dead/",
+    "https://www.militarytimes.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/01/navy-not-returning-to-damaged-bahrain-base-anytime-soon-top-officer-says/",
+    "https://www.militarytimes.com/news/your-military/2026/09/01/suicide-prevention-efforts-at-fort-hood-lack-professional-expertise-army-says/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/"
   ]
 }
