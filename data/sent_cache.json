@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
-    "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
-    "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
     "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
     "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
     "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
@@ -499,28 +496,12 @@
     "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
     "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
     "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
-    "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/"
+    "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+    "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+    "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
+    "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10791-2",
-    "https://www.nature.com/articles/s41586-026-10848-2",
-    "https://www.nature.com/articles/s41586-026-10862-4",
-    "https://www.nature.com/articles/s41586-026-10881-1",
-    "https://www.nature.com/articles/s41586-026-10839-3",
-    "https://www.nature.com/articles/s41586-026-10850-8",
-    "https://www.nature.com/articles/s41586-026-10766-3",
-    "https://www.nature.com/articles/s41586-026-10834-8",
-    "https://www.nature.com/articles/s41586-026-10754-7",
-    "https://www.nature.com/articles/s41586-026-10841-9",
-    "https://www.nature.com/articles/s41586-026-10849-1",
-    "https://www.nature.com/articles/s41586-026-10856-2",
-    "https://www.nature.com/articles/s41586-026-10825-9",
-    "https://www.nature.com/articles/s41586-026-10868-y",
-    "https://www.nature.com/articles/s41586-026-10942-5",
-    "https://www.nature.com/articles/s41586-026-10851-7",
-    "https://www.nature.com/articles/d41586-026-01843-8",
-    "https://www.nature.com/articles/d41586-026-02079-2",
-    "https://www.science.org/content/article/under-fire-republican-senators-fauci-takes-fifth-covid-19-hearing",
     "https://www.science.org/content/article/new-u-s-rules-risky-pathogen-research-draw-mixed-reviews",
     "https://www.science.org/content/article/why-tracing-source-cyclosporiasis-outbreaks-so-difficult",
     "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
@@ -1001,7 +982,26 @@
     "https://www.nature.com/articles/s41586-026-11080-8",
     "https://www.nature.com/articles/d41586-026-02414-7",
     "https://www.nature.com/articles/d41586-026-02683-2",
-    "https://www.nature.com/articles/d41586-026-02756-2"
+    "https://www.nature.com/articles/d41586-026-02756-2",
+    "https://www.nature.com/articles/s41586-026-11104-3",
+    "https://www.nature.com/articles/s41586-026-11027-z",
+    "https://www.nature.com/articles/d41586-026-02762-4",
+    "https://www.nature.com/articles/s41586-026-10982-x",
+    "https://www.nature.com/articles/s41586-026-10987-6",
+    "https://www.nature.com/articles/s41586-026-10690-6",
+    "https://www.nature.com/articles/s41586-026-10898-6",
+    "https://www.nature.com/articles/s41586-026-10952-3",
+    "https://www.nature.com/articles/s41586-026-10940-7",
+    "https://www.nature.com/articles/s41586-026-10992-9",
+    "https://www.nature.com/articles/s41586-026-10818-8",
+    "https://www.nature.com/articles/s41586-026-10983-w",
+    "https://www.nature.com/articles/s41586-026-10969-8",
+    "https://www.nature.com/articles/s41586-026-10962-1",
+    "https://www.nature.com/articles/s41586-026-10529-0",
+    "https://www.nature.com/articles/s41586-026-10950-5",
+    "https://www.nature.com/articles/s41586-026-10672-8",
+    "https://www.nature.com/articles/s41586-026-10908-7",
+    "https://www.nature.com/articles/s41586-026-10981-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1198,10 +1198,10 @@
     "https://huggingface.co/blog/train-multi-vector-encoder",
     "https://huggingface.co/blog/open-asr-leaderboard-global-south",
     "https://huggingface.co/blog/webgpu-kernels",
-    "https://huggingface.co/blog/allenai/benchmirt"
+    "https://huggingface.co/blog/allenai/benchmirt",
+    "https://huggingface.co/blog/ibm-research/real-time-intelligence"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/29/is-gps-reliance-making-troops-less-observant-yearlong-study-aims-to-find-out/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/military-sealift-command-ship-makes-history-with-rare-combat-award/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/dc-resident-who-played-the-imperial-march-at-federal-troops-receives-settlement/",
     "https://www.militarytimes.com/veterans/2026/06/29/anthony-tata-assumes-oversight-of-defense-powmia-accounting-agency/",
@@ -1700,6 +1700,7 @@
     "https://www.militarytimes.com/news/your-military/2026/09/01/navy-captain-gives-oath-of-enlistment-to-son-on-last-day-of-service/",
     "https://www.militarytimes.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/",
     "https://www.militarytimes.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
-    "https://www.militarytimes.com/news/your-military/2026/09/02/navy-looks-to-fast-track-camp-pendleton-barracks-project/"
+    "https://www.militarytimes.com/news/your-military/2026/09/02/navy-looks-to-fast-track-camp-pendleton-barracks-project/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/02/trump-to-nominate-hung-cao-as-navy-secretary/"
   ]
 }
