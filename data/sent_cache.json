@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/07/firmware-update-bricks-hue-bridge-pro-devices-philips-gives-free-replacements/",
-    "https://arstechnica.com/science/2026/07/an-orbiting-disco-ball-gave-einsteins-theory-its-most-precise-test-yet/",
     "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
     "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
     "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
@@ -499,10 +497,11 @@
     "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
     "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
     "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
-    "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/"
+    "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
+    "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
+    "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-025-03966-w",
     "https://www.nature.com/articles/d41586-026-02182-4",
     "https://www.nature.com/articles/d41586-026-02180-6",
     "https://www.nature.com/articles/d41586-026-02367-x",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02342-6",
     "https://www.nature.com/articles/d41586-026-02609-y",
     "https://www.nature.com/articles/d41586-026-02743-7",
-    "https://www.nature.com/articles/d41586-026-02456-x"
+    "https://www.nature.com/articles/d41586-026-02456-x",
+    "https://www.nature.com/articles/d41586-026-02753-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1201,7 +1201,6 @@
     "https://huggingface.co/blog/allenai/benchmirt"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/26/us-resumes-attacks-on-iran/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/army-wants-up-to-100-drone-boats-to-fill-watercraft-gap-in-pacific/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/20-year-trove-of-shipboard-assault-cases-now-public-after-data-request/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/is-gps-reliance-making-troops-less-observant-yearlong-study-aims-to-find-out/",
@@ -1700,6 +1699,7 @@
     "https://www.militarytimes.com/news/your-military/2026/09/01/us-army-soldiers-across-the-world-earn-danish-ruck-ribbon/",
     "https://www.militarytimes.com/news/your-navy/2026/09/01/newly-minted-marine-officer-makes-steelers-53-man-roster/",
     "https://www.militarytimes.com/news/your-military/2026/09/01/mh-139-grey-wolf-reaches-initial-operational-capability/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/navy-captain-gives-oath-of-enlistment-to-son-on-last-day-of-service/"
+    "https://www.militarytimes.com/news/your-military/2026/09/01/navy-captain-gives-oath-of-enlistment-to-son-on-last-day-of-service/",
+    "https://www.militarytimes.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/"
   ]
 }
