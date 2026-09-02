@@ -502,8 +502,6 @@
     "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02182-4",
-    "https://www.nature.com/articles/d41586-026-02180-6",
     "https://www.nature.com/articles/d41586-026-02367-x",
     "https://www.nature.com/articles/d41586-026-02359-x",
     "https://www.nature.com/articles/s41586-026-10845-5",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02609-y",
     "https://www.nature.com/articles/d41586-026-02743-7",
     "https://www.nature.com/articles/d41586-026-02456-x",
-    "https://www.nature.com/articles/d41586-026-02753-5"
+    "https://www.nature.com/articles/d41586-026-02753-5",
+    "https://www.nature.com/articles/d41586-026-02746-4",
+    "https://www.nature.com/articles/d41586-026-02597-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1201,7 +1201,6 @@
     "https://huggingface.co/blog/allenai/benchmirt"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/29/army-wants-up-to-100-drone-boats-to-fill-watercraft-gap-in-pacific/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/20-year-trove-of-shipboard-assault-cases-now-public-after-data-request/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/is-gps-reliance-making-troops-less-observant-yearlong-study-aims-to-find-out/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/military-sealift-command-ship-makes-history-with-rare-combat-award/",
@@ -1700,6 +1699,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/09/01/newly-minted-marine-officer-makes-steelers-53-man-roster/",
     "https://www.militarytimes.com/news/your-military/2026/09/01/mh-139-grey-wolf-reaches-initial-operational-capability/",
     "https://www.militarytimes.com/news/your-military/2026/09/01/navy-captain-gives-oath-of-enlistment-to-son-on-last-day-of-service/",
-    "https://www.militarytimes.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/"
+    "https://www.militarytimes.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/"
   ]
 }
