@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/",
-    "https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/",
     "https://arstechnica.com/health/2026/07/anti-vaccine-changes-under-rfk-jr-will-hurt-vulnerable-toddlers-study-confirms/",
     "https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/",
     "https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/",
@@ -499,13 +497,11 @@
     "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
     "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
     "https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/",
-    "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/"
+    "https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/",
+    "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+    "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02367-x",
-    "https://www.nature.com/articles/d41586-026-02359-x",
-    "https://www.nature.com/articles/s41586-026-10845-5",
-    "https://www.nature.com/articles/s41586-026-10852-6",
     "https://www.nature.com/articles/s41586-026-10791-2",
     "https://www.nature.com/articles/s41586-026-10848-2",
     "https://www.nature.com/articles/s41586-026-10862-4",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-02456-x",
     "https://www.nature.com/articles/d41586-026-02753-5",
     "https://www.nature.com/articles/d41586-026-02746-4",
-    "https://www.nature.com/articles/d41586-026-02597-z"
+    "https://www.nature.com/articles/d41586-026-02597-z",
+    "https://www.nature.com/articles/s41586-026-11080-8",
+    "https://www.nature.com/articles/d41586-026-02414-7",
+    "https://www.nature.com/articles/d41586-026-02683-2",
+    "https://www.nature.com/articles/d41586-026-02756-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1201,7 +1201,6 @@
     "https://huggingface.co/blog/allenai/benchmirt"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/29/20-year-trove-of-shipboard-assault-cases-now-public-after-data-request/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/is-gps-reliance-making-troops-less-observant-yearlong-study-aims-to-find-out/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/military-sealift-command-ship-makes-history-with-rare-combat-award/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/dc-resident-who-played-the-imperial-march-at-federal-troops-receives-settlement/",
@@ -1700,6 +1699,7 @@
     "https://www.militarytimes.com/news/your-military/2026/09/01/mh-139-grey-wolf-reaches-initial-operational-capability/",
     "https://www.militarytimes.com/news/your-military/2026/09/01/navy-captain-gives-oath-of-enlistment-to-son-on-last-day-of-service/",
     "https://www.militarytimes.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/"
+    "https://www.militarytimes.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
+    "https://www.militarytimes.com/news/your-military/2026/09/02/navy-looks-to-fast-track-camp-pendleton-barracks-project/"
   ]
 }
