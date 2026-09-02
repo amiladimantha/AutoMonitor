@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/",
-    "https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/",
-    "https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/",
     "https://arstechnica.com/culture/2026/07/the-real-mystery-behind-moana-after-1700-years-why-did-polynesians-suddenly-sail-east/",
     "https://arstechnica.com/gadgets/2026/07/apple-and-samsung-benefit-as-memory-shortage-pushes-smartphone-shipments-to-historic-lows/",
     "https://arstechnica.com/tech-policy/2026/07/colorado-will-decide-whether-a-right-to-natural-gas-is-added-to-state-constitution/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
     "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
     "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
-    "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/"
+    "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
+    "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
+    "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+    "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/"
   ],
   "Science": [
     "https://www.science.org/content/article/new-u-s-rules-risky-pathogen-research-draw-mixed-reviews",
@@ -1202,8 +1202,6 @@
     "https://huggingface.co/blog/ibm-research/real-time-intelligence"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/29/military-sealift-command-ship-makes-history-with-rare-combat-award/",
-    "https://www.militarytimes.com/news/your-military/2026/06/29/dc-resident-who-played-the-imperial-march-at-federal-troops-receives-settlement/",
     "https://www.militarytimes.com/veterans/2026/06/29/anthony-tata-assumes-oversight-of-defense-powmia-accounting-agency/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/us-marine-declared-dead-after-being-reported-missing-from-uss-anchorage/",
     "https://www.militarytimes.com/news/your-military/2026/06/29/pilot-shut-off-fuel-supply-leading-to-october-2025-skyraider-ii-crash-air-force-finds/",
@@ -1701,6 +1699,8 @@
     "https://www.militarytimes.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/",
     "https://www.militarytimes.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
     "https://www.militarytimes.com/news/your-military/2026/09/02/navy-looks-to-fast-track-camp-pendleton-barracks-project/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/02/trump-to-nominate-hung-cao-as-navy-secretary/"
+    "https://www.militarytimes.com/news/your-navy/2026/09/02/trump-to-nominate-hung-cao-as-navy-secretary/",
+    "https://www.militarytimes.com/news/your-military/2026/09/02/army-pivots-from-wwii-era-ammo-cans-toward-polymer-cases-3d-printing/",
+    "https://www.militarytimes.com/news/your-military/2026/09/02/marine-corps-to-add-6500-billets-in-force-expansion/"
   ]
 }
