@@ -502,7 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/"
   ],
   "Science": [
-    "https://www.science.org/content/article/new-u-s-rules-risky-pathogen-research-draw-mixed-reviews",
     "https://www.science.org/content/article/why-tracing-source-cyclosporiasis-outbreaks-so-difficult",
     "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
     "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-10950-5",
     "https://www.nature.com/articles/s41586-026-10672-8",
     "https://www.nature.com/articles/s41586-026-10908-7",
-    "https://www.nature.com/articles/s41586-026-10981-y"
+    "https://www.nature.com/articles/s41586-026-10981-y",
+    "https://www.nature.com/articles/d41586-026-02765-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1200,11 +1200,12 @@
     "https://huggingface.co/blog/webgpu-kernels",
     "https://huggingface.co/blog/allenai/benchmirt",
     "https://huggingface.co/blog/ibm-research/real-time-intelligence",
-    "https://huggingface.co/blog/train-to-paint-with-code"
+    "https://huggingface.co/blog/train-to-paint-with-code",
+    "https://huggingface.co/blog/Hcompany/neomme",
+    "https://huggingface.co/blog/grpo-with-trl-ifstruct",
+    "https://huggingface.co/blog/funes"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/06/29/select-navy-reserve-aviators-eligible-for-up-to-40000-in-annual-bonuses/",
-    "https://www.militarytimes.com/industry/techwatch/2026/06/30/socom-is-seeking-a-long-range-kamikaze-drone/",
     "https://www.militarytimes.com/news/your-military/2026/06/30/inside-the-marine-corps-call-of-duty-training-experiment/",
     "https://www.militarytimes.com/news/your-navy/2026/06/30/former-leader-who-served-during-transformative-time-for-coast-guard-dies-at-65/",
     "https://www.militarytimes.com/news/your-military/2026/06/30/the-us-army-goes-into-the-breach-without-soldiers/",
@@ -1702,6 +1703,8 @@
     "https://www.militarytimes.com/news/your-navy/2026/09/02/faster-fielding-of-laser-weapons-key-to-future-fights-navys-top-officer-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/02/navy-corpsman-found-dead-near-south-carolina-riverbanks/",
     "https://www.militarytimes.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/va-said-electronic-health-record-modernization-would-cost-10-billion-now-its-48-billion/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/va-said-electronic-health-record-modernization-would-cost-10-billion-now-its-48-billion/",
+    "https://www.militarytimes.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/"
   ]
 }
