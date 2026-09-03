@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/07/hackers-quickly-prove-that-neo-geo-doom-ports-are-not-impossible/",
-    "https://arstechnica.com/space/2026/07/what-happens-if-crew-dragon-stops-flying-in-the-2030s/",
     "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
     "https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/",
     "https://arstechnica.com/gadgets/2026/07/ukrainian-drone-strikes-forced-russia-to-stop-shipping-in-vital-sea-corridor/",
@@ -499,11 +497,11 @@
     "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
     "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
     "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-    "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/"
+    "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
+    "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
+    "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
   ],
   "Science": [
-    "https://www.science.org/content/article/why-tracing-source-cyclosporiasis-outbreaks-so-difficult",
-    "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
     "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
     "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
     "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/s41586-026-10672-8",
     "https://www.nature.com/articles/s41586-026-10908-7",
     "https://www.nature.com/articles/s41586-026-10981-y",
-    "https://www.nature.com/articles/d41586-026-02765-1"
+    "https://www.nature.com/articles/d41586-026-02765-1",
+    "https://www.nature.com/articles/s41586-026-11091-5",
+    "https://www.nature.com/articles/d41586-026-02517-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1206,11 +1206,6 @@
     "https://huggingface.co/blog/funes"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/06/30/inside-the-marine-corps-call-of-duty-training-experiment/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/30/former-leader-who-served-during-transformative-time-for-coast-guard-dies-at-65/",
-    "https://www.militarytimes.com/news/your-military/2026/06/30/the-us-army-goes-into-the-breach-without-soldiers/",
-    "https://www.militarytimes.com/news/your-navy/2026/06/30/japanese-torpedo-sends-us-ship-to-the-ocean-floor-during-valiant-shield-exercise/",
-    "https://www.militarytimes.com/veterans/military-history/2026/06/30/vessel-that-aided-in-discovery-of-famous-wwii-shipwrecks-finds-new-life-in-us-navy/",
     "https://www.militarytimes.com/news/your-military/2026/06/30/in-a-first-trump-will-travel-aboard-qatari-donated-air-force-one/",
     "https://www.militarytimes.com/global/europe/2026/07/01/ukraine-is-launching-strike-drones-from-everything-including-black-sea-robo-boats/",
     "https://www.militarytimes.com/news/your-military/2026/07/01/marine-corps-adds-new-scout-mos-to-infantry-units/",
@@ -1705,6 +1700,11 @@
     "https://www.militarytimes.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/va-said-electronic-health-record-modernization-would-cost-10-billion-now-its-48-billion/",
     "https://www.militarytimes.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/"
+    "https://www.militarytimes.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/pentagon-temporarily-rescinds-guidance-on-testosterone-screening-for-us-troops/",
+    "https://www.militarytimes.com/news/your-military/2026/09/03/fort-knox-soldier-identified-after-fatal-motor-pool-accident/",
+    "https://www.militarytimes.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why/",
+    "https://www.militarytimes.com/news/your-military/2026/09/03/marines-test-next-gen-combat-utility-uniforms/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/pentagon-expands-hormone-screening-guidance-to-include-female-service-members/"
   ]
 }
