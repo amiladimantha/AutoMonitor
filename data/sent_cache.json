@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
-    "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-    "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-    "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
     "https://arstechnica.com/space/2026/07/how-hard-is-it-to-build-orbital-data-centers-actually/",
     "https://arstechnica.com/science/2026/07/sothebys-big-t-rex-auction-raises-concerns-hype-and-wealth-are-upending-science/",
     "https://arstechnica.com/space/2026/07/a-most-improbable-astronaut-just-went-to-space/",
@@ -499,7 +495,11 @@
     "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
     "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
     "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
-    "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/"
+    "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
+    "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
+    "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
+    "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+    "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02388-6",
@@ -1206,11 +1206,6 @@
     "https://huggingface.co/blog/funes"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/01/pentagons-push-to-field-weapons-faster-risks-outrunning-its-own-oversight-watchdog-finds/",
-    "https://www.militarytimes.com/pay-benefits/2026/07/01/dod-movers-try-to-ease-the-heavy-lift-for-troops-moving-this-summer/",
-    "https://www.militarytimes.com/news/your-military/2026/07/01/staff-sergeant-becomes-only-airman-in-his-class-to-complete-army-air-assault-school/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/01/64-sailors-sickened-by-diesel-exhaust-fumes-from-uss-nebraska/",
-    "https://www.militarytimes.com/veterans/2026/07/01/va-uses-hundreds-of-ai-systems-veterans-may-not-know-when-theyre-involved/",
     "https://www.militarytimes.com/pay-benefits/2026/07/01/heres-where-the-services-stand-in-cutting-pcs-moves/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/01/the-us-military-wants-a-fleet-of-laser-trucks-heres-what-they-might-look-like/",
     "https://www.militarytimes.com/news/your-military/2026/07/02/transgender-troops-granted-class-action-lawsuit-against-government/",
@@ -1705,6 +1700,11 @@
     "https://www.militarytimes.com/news/your-military/2026/09/04/vance-pledges-to-help-airmans-widow-after-online-backlash-exposed-benefit-gaps/",
     "https://www.militarytimes.com/news/your-military/2026/09/04/adam-telle-former-senate-staffer-now-acting-army-secretary/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/"
+    "https://www.militarytimes.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
+    "https://www.militarytimes.com/news/your-military/2026/09/04/us-air-force-speeds-reaper-successor-timeline-after-iran-losses/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/04/navy-works-with-80-female-sailors-to-evaluate-future-uniforms/",
+    "https://www.militarytimes.com/news/your-military/2026/09/04/trump-to-travel-aboard-qatari-donated-air-force-one-to-ireland/",
+    "https://www.militarytimes.com/veterans/2026/09/04/unexpected-hiring-surge-drives-down-unemployment-rate-for-post-911-veterans/",
+    "https://www.militarytimes.com/news/your-military/2026/09/04/marines-offer-up-to-15000-enlistment-bonuses-for-cyber-electronics-jobs/"
   ]
 }
