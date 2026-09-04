@@ -502,7 +502,6 @@
     "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02397-5",
     "https://www.science.org/content/article/what-triggered-one-most-dramatic-changes-earth-s-history",
     "https://www.science.org/content/article/these-moths-smell-their-wings",
     "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
     "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
     "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-    "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/"
+    "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
+    "https://www.nature.com/articles/d41586-026-02739-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1206,7 +1206,6 @@
     "https://huggingface.co/blog/funes"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/07/01/video-shows-a-ukrainian-unit-running-down-a-russian-shahed-the-kind-of-kill-the-us-is-racing-to-reproduce/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/07/01/marines-convert-uniform-manual-into-simple-phone-app/",
     "https://www.militarytimes.com/news/your-navy/2026/07/01/time-spent-on-select-super-hornet-repairs-could-be-cut-in-half-with-navys-3d-printing/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/01/following-an-outbreak-lawmakers-push-to-require-flu-vaccine-for-all-service-members-in-budget-bill-provision/",
@@ -1705,6 +1704,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award/",
     "https://www.militarytimes.com/news/your-military/2026/09/03/air-force-uses-c-130js-to-deliver-relief-supplies-equipment-to-nepal-after-flash-floods/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/vance-us-probing-airstrike-that-iran-says-hit-a-wedding-party/",
-    "https://www.militarytimes.com/news/your-military/2026/09/03/court-overturns-2023-ruling-that-wiped-bowe-bergdahls-conviction/"
+    "https://www.militarytimes.com/news/your-military/2026/09/03/court-overturns-2023-ruling-that-wiped-bowe-bergdahls-conviction/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/04/trump-appoints-adam-telle-as-acting-army-secretary/"
   ]
 }
