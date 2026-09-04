@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/07/taco-bell-eyed-in-explosive-diarrheal-outbreak-leafy-greens-suspected/",
-    "https://arstechnica.com/health/2026/07/boomers-not-gen-z-are-the-generation-cutting-back-most-on-alcohol/",
-    "https://arstechnica.com/tech-policy/2026/07/new-york-is-the-first-state-to-impose-a-data-center-moratorium/",
-    "https://arstechnica.com/ai/2026/07/us-military-sent-explosive-drone-boats-into-combat-for-the-first-time/",
-    "https://arstechnica.com/science/2026/07/these-painted-e-tattoos-could-be-the-future-of-wearable-biosensors/",
     "https://arstechnica.com/google/2026/07/google-revamps-image-search-for-its-25th-anniversary-with-more-images-and-more-ai/",
     "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
     "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
@@ -499,13 +494,14 @@
     "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
     "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
     "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
-    "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/"
+    "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
+    "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
+    "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
+    "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+    "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
+    "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-    "https://www.technologyreview.com/2026/07/31/1140945/montanas-new-right-to-try-law-cant-come-soon-enough-for-some/",
-    "https://www.nature.com/articles/d41586-026-02339-1",
-    "https://www.nature.com/articles/s41586-026-10943-4",
     "https://www.nature.com/articles/d41586-026-02388-6",
     "https://www.nature.com/articles/d41586-026-01850-9",
     "https://www.nature.com/articles/d41586-026-01360-8",
@@ -1001,7 +997,11 @@
     "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
     "https://www.nature.com/articles/d41586-026-02739-3",
     "https://www.nature.com/articles/d41586-026-02741-9",
-    "https://www.nature.com/articles/d41586-026-02781-1"
+    "https://www.nature.com/articles/d41586-026-02781-1",
+    "https://www.nature.com/articles/d41586-026-02800-1",
+    "https://www.nature.com/articles/d41586-026-02643-w",
+    "https://www.nature.com/articles/d41586-026-02801-0",
+    "https://www.nature.com/articles/d41586-026-02758-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1206,10 +1206,6 @@
     "https://huggingface.co/blog/funes"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-marine-corps/2026/07/01/marines-convert-uniform-manual-into-simple-phone-app/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/01/time-spent-on-select-super-hornet-repairs-could-be-cut-in-half-with-navys-3d-printing/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/01/following-an-outbreak-lawmakers-push-to-require-flu-vaccine-for-all-service-members-in-budget-bill-provision/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/01/us-navy-aviator-missing-after-helicopter-makes-emergency-landing-in-arabian-sea/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/01/pentagons-push-to-field-weapons-faster-risks-outrunning-its-own-oversight-watchdog-finds/",
     "https://www.militarytimes.com/pay-benefits/2026/07/01/dod-movers-try-to-ease-the-heavy-lift-for-troops-moving-this-summer/",
     "https://www.militarytimes.com/news/your-military/2026/07/01/staff-sergeant-becomes-only-airman-in-his-class-to-complete-army-air-assault-school/",
@@ -1705,6 +1701,10 @@
     "https://www.militarytimes.com/news/your-military/2026/09/03/air-force-uses-c-130js-to-deliver-relief-supplies-equipment-to-nepal-after-flash-floods/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/vance-us-probing-airstrike-that-iran-says-hit-a-wedding-party/",
     "https://www.militarytimes.com/news/your-military/2026/09/03/court-overturns-2023-ruling-that-wiped-bowe-bergdahls-conviction/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/04/trump-appoints-adam-telle-as-acting-army-secretary/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/04/trump-appoints-adam-telle-as-acting-army-secretary/",
+    "https://www.militarytimes.com/news/your-military/2026/09/04/vance-pledges-to-help-airmans-widow-after-online-backlash-exposed-benefit-gaps/",
+    "https://www.militarytimes.com/news/your-military/2026/09/04/adam-telle-former-senate-staffer-now-acting-army-secretary/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/"
   ]
 }
