@@ -502,8 +502,6 @@
     "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02427-2",
-    "https://www.nature.com/articles/d41586-026-02425-4",
     "https://www.nature.com/articles/d41586-026-02389-5",
     "https://www.nature.com/articles/d41586-026-02022-5",
     "https://www.nature.com/articles/d41586-026-02385-9",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02805-w",
     "https://www.nature.com/articles/d41586-026-02470-z",
     "https://www.nature.com/articles/d41586-026-02808-7",
-    "https://www.nature.com/articles/d41586-026-02822-9"
+    "https://www.nature.com/articles/d41586-026-02822-9",
+    "https://www.science.org/content/article/comic-drawing-women-prehistory",
+    "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
