@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/07/judge-trump-cant-deport-researchers-just-for-working-in-content-moderation/",
-    "https://arstechnica.com/gadgets/2026/07/engineer-identifies-and-explains-every-90s-computer-seen-in-jurassic-park/",
     "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
     "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
     "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
@@ -499,23 +497,11 @@
     "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
     "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
     "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-    "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/"
+    "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
+    "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
+    "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10958-x",
-    "https://www.nature.com/articles/d41586-026-02379-7",
-    "https://www.nature.com/articles/d41586-026-02428-1",
-    "https://www.nature.com/articles/d41586-026-02350-6",
-    "https://www.nature.com/articles/d41586-026-02384-w",
-    "https://www.nature.com/articles/d41586-026-02288-9",
-    "https://www.nature.com/articles/d41586-026-01845-6",
-    "https://www.science.org/content/article/lucky-dive-scientists-get-front-row-view-creation-earth-s-surface",
-    "https://www.science.org/content/article/weekly-anti-hiv-pill-nears-market-vaccine-research-faces-new-hurdles",
-    "https://www.science.org/content/article/nasa-mission-predicts-solar-explosion-s-arrival-earth-stunning-precision",
-    "https://www.science.org/content/article/antimalaria-pesticide-may-have-backfired-helping-mosquitoes-find-love",
-    "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-    "https://www.nature.com/articles/d41586-026-02437-0",
-    "https://www.nature.com/articles/d41586-026-02386-8",
     "https://www.nature.com/articles/s41586-026-10963-0",
     "https://www.nature.com/articles/d41586-026-01772-6",
     "https://www.nature.com/articles/d41586-026-02252-7",
@@ -1001,7 +987,21 @@
     "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/",
     "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/",
     "https://www.technologyreview.com/2026/09/08/1142094/laureen-meroueh-makes-cheaper-cleaner-steel/",
-    "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/"
+    "https://www.technologyreview.com/2026/09/08/1142074/yuancheng-ryan-lu-age-reversal-tech-restores-sight/",
+    "https://www.nature.com/articles/s41586-026-11081-7",
+    "https://www.nature.com/articles/d41586-026-02796-8",
+    "https://www.nature.com/articles/d41586-026-02794-w",
+    "https://www.nature.com/articles/d41586-026-02797-7",
+    "https://www.nature.com/articles/d41586-026-02795-9",
+    "https://www.nature.com/articles/d41586-026-02722-y",
+    "https://www.nature.com/articles/d41586-026-02678-z",
+    "https://www.nature.com/articles/d41586-026-02407-6",
+    "https://www.nature.com/articles/d41586-026-02497-2",
+    "https://www.nature.com/articles/d41586-026-02803-y",
+    "https://www.nature.com/articles/d41586-026-02835-4",
+    "https://www.nature.com/articles/d41586-026-02802-z",
+    "https://www.nature.com/articles/d41586-026-02807-8",
+    "https://www.nature.com/articles/d41586-026-02831-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1203,7 +1203,8 @@
     "https://huggingface.co/blog/train-to-paint-with-code",
     "https://huggingface.co/blog/Hcompany/neomme",
     "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-    "https://huggingface.co/blog/funes"
+    "https://huggingface.co/blog/funes",
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/02/proposed-honor-and-remember-flag-resembles-communist-imagery-vietnam-veterans-argue/",
