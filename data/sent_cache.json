@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/07/hundreds-rally-at-bethesda-hq-to-protest-xbox-layoffs-and-ars-was-there/",
-    "https://arstechnica.com/space/2026/07/apollo-11s-broken-switch-and-mission-saving-pen-sell-for-860k/",
-    "https://arstechnica.com/space/2026/07/move-over-gps-navigation-satellites-in-low-earth-orbit-are-making-a-comeback/",
-    "https://arstechnica.com/gadgets/2026/07/oneplus-ends-phone-releases-in-us-and-europe-further-reducing-smartphone-choice/",
     "https://arstechnica.com/space/2026/07/could-china-and-russia-really-destroy-starlink-only-with-a-boomerang/",
     "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
     "https://arstechnica.com/tech-policy/2026/07/tesla-driver-who-blamed-crash-on-autopilot-pressed-accelerator-100-ntsb-finds/",
@@ -499,7 +495,11 @@
     "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
     "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
     "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
-    "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/"
+    "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
+    "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
+    "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
+    "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
+    "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-10963-0",
@@ -1207,10 +1207,6 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/02/proposed-honor-and-remember-flag-resembles-communist-imagery-vietnam-veterans-argue/",
-    "https://www.militarytimes.com/off-duty/military-culture/2026/07/02/army-contractor-swindles-over-1-million-in-mres/",
-    "https://www.militarytimes.com/news/your-army/2026/07/02/gen-christopher-donahue-relinquishes-command-of-us-army-europe-and-africa/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/02/defense-startups-raid-auto-and-fracking-sectors-for-parts-to-speed-weapons-output/",
     "https://www.militarytimes.com/news/your-navy/2026/07/02/navy-hits-45000-recruits-three-months-ahead-of-schedule/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/02/hegseth-creates-powerful-new-drone-office-pulling-authority-from-the-military-services/",
     "https://www.militarytimes.com/news/your-military/2026/07/02/air-force-medical-commander-removed-from-post-at-virginia-base/",
@@ -1706,6 +1702,10 @@
     "https://www.militarytimes.com/opinion/2026/09/04/america-wants-the-hero-not-the-human/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/04/pentagon-wants-to-use-ai-generated-personalities-for-decoy-cellphones/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/05/white-house-reviews-candidates-to-replace-hegseth-deputy-sources-say/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
+    "https://www.militarytimes.com/news/your-military/2026/09/08/coasties-photos-used-on-stamps-honoring-coast-guard-academys-150th/",
+    "https://www.militarytimes.com/news/your-military/2026/09/08/us-air-force-seeks-air-defense-guns-to-protect-overseas-bases/",
+    "https://www.militarytimes.com/news/your-military/2026/09/08/man-sentenced-to-life-in-killings-featured-in-the-fort-bragg-cartel/",
+    "https://www.militarytimes.com/news/your-military/2026/09/08/cao-needs-special-waiver-from-congress-to-become-navy-secretary/"
   ]
 }
