@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
     "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
     "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
     "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
@@ -499,19 +498,10 @@
     "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
     "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
     "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
-    "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/"
+    "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
+    "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10822-y",
-    "https://www.nature.com/articles/s41586-026-10865-1",
-    "https://www.nature.com/articles/s41586-026-10879-9",
-    "https://www.nature.com/articles/s41586-026-10806-y",
-    "https://www.nature.com/articles/s41586-026-10860-6",
-    "https://www.nature.com/articles/s41586-026-10884-y",
-    "https://www.nature.com/articles/s41586-026-10740-z",
-    "https://www.nature.com/articles/s41586-026-10863-3",
-    "https://www.nature.com/articles/s41586-026-10875-z",
-    "https://www.nature.com/articles/d41586-026-02429-0",
     "https://www.nature.com/articles/d41586-026-02235-8",
     "https://www.science.org/content/article/tau-protein-can-sneak-brain-cells-energy-factories-and-wreak-havoc",
     "https://www.science.org/content/article/nih-director-bhattacharya-kills-more-health-disparities-grants",
@@ -1001,7 +991,17 @@
     "https://www.nature.com/articles/d41586-026-02793-x",
     "https://www.nature.com/articles/d41586-026-02806-9",
     "https://www.nature.com/articles/d41586-026-02804-x",
-    "https://www.nature.com/articles/d41586-026-02838-1"
+    "https://www.nature.com/articles/d41586-026-02838-1",
+    "https://www.nature.com/articles/d41586-026-02823-8",
+    "https://www.nature.com/articles/d41586-026-02416-5",
+    "https://www.nature.com/articles/d41586-026-02654-7",
+    "https://www.nature.com/articles/d41586-026-02657-4",
+    "https://www.nature.com/articles/d41586-026-02655-6",
+    "https://www.nature.com/articles/d41586-026-02658-3",
+    "https://www.nature.com/articles/d41586-026-02653-8",
+    "https://www.nature.com/articles/d41586-026-02660-9",
+    "https://www.nature.com/articles/d41586-026-02656-5",
+    "https://www.nature.com/articles/d41586-026-02659-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1204,12 +1204,10 @@
     "https://huggingface.co/blog/Hcompany/neomme",
     "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "https://huggingface.co/blog/funes",
-    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
+    "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/military-honor/2026/07/03/unemployment-for-post-911-veterans-climbs-in-june-as-nations-job-market-slides/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/03/us-withdrew-forces-from-nigeria-after-operation-against-isis-africom-chief-says/",
-    "https://www.militarytimes.com/military-honor/2026/07/05/washingtons-orders-to-troops-after-july-4-youre-fighting-for-a-new-nation/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/06/pentagon-launches-war-force-campaign-in-push-for-software-engineers/",
     "https://www.militarytimes.com/news/your-military/2026/07/06/tennessee-national-guard-soldiers-on-patrol-shoot-kill-civilian-during-armed-pursuit/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/06/pentagons-top-new-weapons-programs-are-12-years-behind-schedule-watchdog/",
@@ -1706,6 +1704,9 @@
     "https://www.militarytimes.com/news/your-military/2026/09/08/navy-base-settles-lawsuit-with-military-spouse-over-facebook-ban/",
     "https://www.militarytimes.com/flashpoints/ukraine/2026/09/08/ukraine-contracting-around-1000-patriot-missiles-from-allies-defense-chief-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/09/defense-startups-ai-aims-to-make-every-munition-count/"
+    "https://www.militarytimes.com/industry/techwatch/2026/09/09/defense-startups-ai-aims-to-make-every-munition-count/",
+    "https://www.militarytimes.com/news/your-military/2026/09/09/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/",
+    "https://www.militarytimes.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
+    "https://www.militarytimes.com/news/your-military/2026/09/09/us-air-force-seeks-rapidly-deployable-drone-swarms-for-base-security/"
   ]
 }
