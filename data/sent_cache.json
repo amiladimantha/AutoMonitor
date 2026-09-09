@@ -502,13 +502,6 @@
     "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02252-7",
-    "https://www.nature.com/articles/d41586-026-02444-1",
-    "https://www.nature.com/articles/s41586-026-10970-1",
-    "https://www.nature.com/articles/s41586-026-10977-8",
-    "https://www.nature.com/articles/d41586-026-02445-0",
-    "https://www.nature.com/articles/s41586-026-10798-9",
-    "https://www.nature.com/articles/s41586-026-10871-3",
     "https://www.nature.com/articles/s41586-026-10890-0",
     "https://www.nature.com/articles/s41586-026-10883-z",
     "https://www.nature.com/articles/s41586-026-10874-0",
@@ -1001,7 +994,14 @@
     "https://www.nature.com/articles/d41586-026-02807-8",
     "https://www.nature.com/articles/d41586-026-02831-8",
     "https://www.nature.com/articles/d41586-026-02457-w",
-    "https://www.nature.com/articles/d41586-026-02842-5"
+    "https://www.nature.com/articles/d41586-026-02842-5",
+    "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "https://www.science.org/content/article/billion-dollar-project-china-maps-scars-its-geological-past",
+    "https://www.science.org/content/article/u-s-cancer-institute-director-counters-gloomy-forecast",
+    "https://www.science.org/content/article/why-are-human-births-so-difficult-male-babies-not-just-upright-walking-may-be-blame",
+    "https://www.science.org/content/article/new-clues-suggest-how-destructive-immune-cells-wreak-havoc-brain",
+    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+    "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1207,7 +1207,6 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/europe/2026/07/03/europeans-to-fill-almost-all-gaps-left-by-us-in-nato-defense-plans-source-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/03/taiwan-needs-a-hornets-nest-of-drones-to-deter-conflict-us-diplomat-says/",
     "https://www.militarytimes.com/military-honor/2026/07/03/unemployment-for-post-911-veterans-climbs-in-june-as-nations-job-market-slides/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/03/us-withdrew-forces-from-nigeria-after-operation-against-isis-africom-chief-says/",
@@ -1706,6 +1705,7 @@
     "https://www.militarytimes.com/news/your-military/2026/09/08/playful-banter-over-army-grooming-rules-ends-with-guardsman-drawing-loaded-pistol/",
     "https://www.militarytimes.com/veterans/2026/09/08/veterans-fight-against-arch-that-would-obstruct-view-of-arlington-cemetery/",
     "https://www.militarytimes.com/news/your-military/2026/09/08/navy-base-settles-lawsuit-with-military-spouse-over-facebook-ban/",
-    "https://www.militarytimes.com/flashpoints/ukraine/2026/09/08/ukraine-contracting-around-1000-patriot-missiles-from-allies-defense-chief-says/"
+    "https://www.militarytimes.com/flashpoints/ukraine/2026/09/08/ukraine-contracting-around-1000-patriot-missiles-from-allies-defense-chief-says/",
+    "https://www.militarytimes.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/"
   ]
 }
