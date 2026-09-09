@@ -502,24 +502,6 @@
     "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02235-8",
-    "https://www.science.org/content/article/tau-protein-can-sneak-brain-cells-energy-factories-and-wreak-havoc",
-    "https://www.science.org/content/article/nih-director-bhattacharya-kills-more-health-disparities-grants",
-    "https://www.science.org/content/article/i-am-what-i-am-fauci-s-private-notes-reveal-scientist-navigating-science-politics-and",
-    "https://www.science.org/content/article/astrophysicists-find-best-evidence-yet-galaxies-get-some-spin-birth",
-    "https://www.science.org/content/article/covid-19-can-wake-dormant-viruses-body-large-study-confirms",
-    "https://www.science.org/content/article/neanderthal-growth-gene-turns-modern-humans-muscle-heads",
-    "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-    "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-    "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
-    "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-    "https://www.nature.com/articles/s41586-026-10953-2",
-    "https://www.nature.com/articles/d41586-026-02360-4",
-    "https://www.nature.com/articles/d41586-026-02458-9",
-    "https://www.nature.com/articles/d41586-026-02430-7",
-    "https://www.nature.com/articles/d41586-026-02460-1",
-    "https://www.science.org/content/article/global-warming-coming-countryside",
-    "https://www.science.org/content/article/dna-reveals-hidden-past-north-america-s-bison-and-keys-their-future",
     "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
     "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
     "https://www.nature.com/articles/d41586-026-02488-3",
@@ -1001,7 +983,25 @@
     "https://www.nature.com/articles/d41586-026-02653-8",
     "https://www.nature.com/articles/d41586-026-02660-9",
     "https://www.nature.com/articles/d41586-026-02656-5",
-    "https://www.nature.com/articles/d41586-026-02659-2"
+    "https://www.nature.com/articles/d41586-026-02659-2",
+    "https://www.nature.com/articles/s41586-026-11118-x",
+    "https://www.nature.com/articles/d41586-026-02843-4",
+    "https://www.nature.com/articles/s41586-026-11025-1",
+    "https://www.nature.com/articles/s41586-026-11039-9",
+    "https://www.nature.com/articles/s41586-026-10876-y",
+    "https://www.nature.com/articles/s41586-026-11001-9",
+    "https://www.nature.com/articles/s41586-026-10954-1",
+    "https://www.nature.com/articles/s41586-026-10968-9",
+    "https://www.nature.com/articles/s41586-026-11004-6",
+    "https://www.nature.com/articles/s41586-026-10997-4",
+    "https://www.nature.com/articles/s41586-026-11002-8",
+    "https://www.nature.com/articles/s41586-026-10990-x",
+    "https://www.nature.com/articles/s41586-026-10976-9",
+    "https://www.nature.com/articles/s41586-026-11005-5",
+    "https://www.nature.com/articles/s41586-026-10979-6",
+    "https://www.nature.com/articles/s41586-026-10998-3",
+    "https://www.nature.com/articles/s41586-026-11008-2",
+    "https://www.nature.com/articles/s41586-026-10468-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1208,11 +1208,6 @@
     "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/06/pentagon-launches-war-force-campaign-in-push-for-software-engineers/",
-    "https://www.militarytimes.com/news/your-military/2026/07/06/tennessee-national-guard-soldiers-on-patrol-shoot-kill-civilian-during-armed-pursuit/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/06/pentagons-top-new-weapons-programs-are-12-years-behind-schedule-watchdog/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/06/us-navy-suspends-search-for-missing-aviator-in-arabian-sea/",
-    "https://www.militarytimes.com/news/your-military/2026/07/06/two-retired-warships-to-be-sunk-during-rim-of-the-pacific-exercise/",
     "https://www.militarytimes.com/news/your-military/2026/07/06/marine-one-helipad-to-be-built-on-white-house-lawn-trump-says/",
     "https://www.militarytimes.com/veterans/2026/07/06/vfw-defends-first-amendment-rights-amid-blowback-over-political-cartoon/",
     "https://www.militarytimes.com/global/europe/2026/07/07/us-will-lift-sanctions-on-turkey-possibly-sell-f-35-fighter-jets-trump-says/",
@@ -1707,6 +1702,11 @@
     "https://www.militarytimes.com/industry/techwatch/2026/09/09/defense-startups-ai-aims-to-make-every-munition-count/",
     "https://www.militarytimes.com/news/your-military/2026/09/09/iran-and-us-hit-tankers-in-biggest-wave-of-attacks-on-shipping-since-war-began/",
     "https://www.militarytimes.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
-    "https://www.militarytimes.com/news/your-military/2026/09/09/us-air-force-seeks-rapidly-deployable-drone-swarms-for-base-security/"
+    "https://www.militarytimes.com/news/your-military/2026/09/09/us-air-force-seeks-rapidly-deployable-drone-swarms-for-base-security/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/09/support-grows-for-dark-horse-army-secretary-contender-marc-andersen/",
+    "https://www.militarytimes.com/news/your-military/2026/09/09/pentagon-codifies-fitness-standards-across-branches/",
+    "https://www.militarytimes.com/news/your-military/2026/09/09/they-served-through-americas-post-911-wars-25-years-later-what-did-that-service-mean/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/09/roosevelt-deployment-to-utilize-lessons-learned-from-lincoln-navys-top-brass-say/",
+    "https://www.militarytimes.com/news/your-military/2026/09/09/air-force-launches-b-52-b-1-readiness-campaign/"
   ]
 }
