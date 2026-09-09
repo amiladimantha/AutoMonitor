@@ -1,17 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/07/two-trump-health-nominees-crash-and-burn-in-tense-senate-hearing/",
-    "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
-    "https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/",
-    "https://arstechnica.com/science/2026/07/national-academies-climate-attribution-is-maturing-but-still-has-limits/",
-    "https://arstechnica.com/tech-policy/2026/07/fcc-took-pricey-gifts-from-paramount-as-the-company-needed-approval-for-deals/",
-    "https://arstechnica.com/cars/2026/07/2026-lucid-gravity-touring-review-a-strong-act-2/",
-    "https://arstechnica.com/space/2026/07/rocket-report-indias-vikram-1-nears-debut-flight-ast-to-become-rocket-company/",
-    "https://arstechnica.com/gadgets/2026/07/fubo-hikes-prices-by-15-after-restoring-some-nbcu-channels-lost-in-november/",
-    "https://arstechnica.com/tech-policy/2026/07/apple-google-must-stop-profiting-off-ai-nudify-apps-san-francisco-ag-says/",
-    "https://arstechnica.com/staff/2026/07/ars-is-looking-for-a-senior-technology-reporter-and-you-might-be-it/",
-    "https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/",
-    "https://arstechnica.com/space/2026/07/will-russias-answer-to-the-falcon-9-rocket-ever-take-flight/",
     "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
     "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
     "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
@@ -499,7 +487,19 @@
     "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
     "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
     "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-    "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/"
+    "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
+    "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
+    "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
+    "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+    "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+    "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
+    "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
+    "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
+    "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
+    "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
+    "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+    "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
+    "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/"
   ],
   "Science": [
     "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
@@ -1208,9 +1208,6 @@
     "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/06/marine-one-helipad-to-be-built-on-white-house-lawn-trump-says/",
-    "https://www.militarytimes.com/veterans/2026/07/06/vfw-defends-first-amendment-rights-amid-blowback-over-political-cartoon/",
-    "https://www.militarytimes.com/global/europe/2026/07/07/us-will-lift-sanctions-on-turkey-possibly-sell-f-35-fighter-jets-trump-says/",
     "https://www.militarytimes.com/news/your-military/2026/07/07/marine-corps-creates-new-small-drone-training-unit/",
     "https://www.militarytimes.com/news/your-military/2026/07/07/marines-recognized-for-response-during-north-carolina-nightclub-shooting/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/07/us-navy-fears-ballistic-missile-subs-can-be-hit-by-drones-anti-tank-rockets/",
@@ -1707,6 +1704,9 @@
     "https://www.militarytimes.com/news/your-military/2026/09/09/pentagon-codifies-fitness-standards-across-branches/",
     "https://www.militarytimes.com/news/your-military/2026/09/09/they-served-through-americas-post-911-wars-25-years-later-what-did-that-service-mean/",
     "https://www.militarytimes.com/news/your-navy/2026/09/09/roosevelt-deployment-to-utilize-lessons-learned-from-lincoln-navys-top-brass-say/",
-    "https://www.militarytimes.com/news/your-military/2026/09/09/air-force-launches-b-52-b-1-readiness-campaign/"
+    "https://www.militarytimes.com/news/your-military/2026/09/09/air-force-launches-b-52-b-1-readiness-campaign/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/09/navy-not-doing-enough-to-study-long-term-brain-damage-in-aviators-lawmakers-say/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/09/va-to-mark-911-anniversary-with-volunteer-opportunities-at-national-cemeteries/",
+    "https://www.militarytimes.com/veterans/military-history/2026/09/09/wwiis-famed-mosquito-bowl-comes-to-the-big-screen/"
   ]
 }
