@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/",
-    "https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/",
     "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
     "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
     "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
@@ -499,17 +497,11 @@
     "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
     "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
     "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
-    "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/"
+    "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+    "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+    "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-    "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-    "https://www.nature.com/articles/d41586-026-02488-3",
-    "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
-    "https://www.nature.com/articles/d41586-026-02462-z",
-    "https://www.science.org/content/article/senate-votes-block-rule-giving-white-house-more-control-over-research",
-    "https://www.nature.com/articles/s41586-026-10984-9",
-    "https://www.nature.com/articles/d41586-026-02447-y",
     "https://www.nature.com/articles/d41586-026-01681-8",
     "https://www.nature.com/articles/s41586-026-10973-y",
     "https://www.nature.com/articles/s41586-026-10978-7",
@@ -1001,7 +993,15 @@
     "https://www.nature.com/articles/s41586-026-10979-6",
     "https://www.nature.com/articles/s41586-026-10998-3",
     "https://www.nature.com/articles/s41586-026-11008-2",
-    "https://www.nature.com/articles/s41586-026-10468-w"
+    "https://www.nature.com/articles/s41586-026-10468-w",
+    "https://www.science.org/content/article/italian-hunting-bill-will-sideline-science-critics-say",
+    "https://www.science.org/content/article/pangaea-s-little-brother-may-finally-qualify-supercontinent",
+    "https://www.science.org/content/article/need-help-writing-paper-title-all-you-need-beatles",
+    "https://www.science.org/content/article/conference-posters-could-garner-wider-audience-thanks-new-online-platform",
+    "https://www.science.org/content/article/mysterious-human-relatives-were-strong-and-agile-fossil-elbow-and-primitive-tools",
+    "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
+    "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
+    "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
