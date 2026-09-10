@@ -502,7 +502,6 @@
     "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02450-3",
     "https://www.nature.com/articles/d41586-026-02276-z",
     "https://www.nature.com/articles/d41586-026-02453-0",
     "https://www.nature.com/articles/d41586-026-02435-2",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
     "https://www.nature.com/articles/d41586-026-02809-6",
     "https://www.nature.com/articles/d41586-026-02821-w",
-    "https://www.nature.com/articles/d41586-026-02026-1"
+    "https://www.nature.com/articles/d41586-026-02026-1",
+    "https://www.nature.com/articles/s41586-026-11079-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1209,8 +1209,6 @@
     "https://huggingface.co/blog/gradio-workflow-1111"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/07/army-scraps-height-and-weight-tables-in-favor-of-waist-to-height-assessment/",
-    "https://www.militarytimes.com/veterans/2026/07/07/vas-top-health-administrator-departs-post-temporary-replacement-named/",
     "https://www.militarytimes.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
     "https://www.militarytimes.com/news/your-military/2026/07/07/us-launches-new-strikes-on-iran-after-reinstating-oil-sanctions-over-shipping-attacks/",
     "https://www.militarytimes.com/news/your-navy/2026/07/07/squadron-commanding-officer-identified-as-navy-aviator-killed-in-downed-helicopter/",
@@ -1708,6 +1706,8 @@
     "https://www.militarytimes.com/veterans/military-history/2026/09/09/wwiis-famed-mosquito-bowl-comes-to-the-big-screen/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
     "https://www.militarytimes.com/global/2026/09/10/russia-sends-bones-of-medieval-warrior-prince-to-ukraine-front-to-boost-morale/",
-    "https://www.militarytimes.com/news/your-military/2026/09/10/trump-departs-dc-on-qatar-gifted-air-force-one-after-emergency-slide-accidentally-deploys/"
+    "https://www.militarytimes.com/news/your-military/2026/09/10/trump-departs-dc-on-qatar-gifted-air-force-one-after-emergency-slide-accidentally-deploys/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/10/navy-installing-advanced-nuclear-microreactor-at-indiana-command/",
+    "https://www.militarytimes.com/news/your-military/2026/09/10/navy-must-start-killing-manned-programs-defense-official-says/"
   ]
 }
