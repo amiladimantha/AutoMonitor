@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/",
     "https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/",
     "https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/",
     "https://arstechnica.com/science/2026/07/as-mosquito-ranges-expand-better-monitoring-is-key-to-preventing-disease/",
@@ -499,7 +498,8 @@
     "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
     "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
     "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
-    "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/"
+    "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
+    "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02450-3",
@@ -1209,9 +1209,6 @@
     "https://huggingface.co/blog/gradio-workflow-1111"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/07/marine-corps-creates-new-small-drone-training-unit/",
-    "https://www.militarytimes.com/news/your-military/2026/07/07/marines-recognized-for-response-during-north-carolina-nightclub-shooting/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/07/us-navy-fears-ballistic-missile-subs-can-be-hit-by-drones-anti-tank-rockets/",
     "https://www.militarytimes.com/news/your-military/2026/07/07/army-scraps-height-and-weight-tables-in-favor-of-waist-to-height-assessment/",
     "https://www.militarytimes.com/veterans/2026/07/07/vas-top-health-administrator-departs-post-temporary-replacement-named/",
     "https://www.militarytimes.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
@@ -1708,6 +1705,9 @@
     "https://www.militarytimes.com/news/your-military/2026/09/09/air-force-launches-b-52-b-1-readiness-campaign/",
     "https://www.militarytimes.com/news/your-navy/2026/09/09/navy-not-doing-enough-to-study-long-term-brain-damage-in-aviators-lawmakers-say/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/09/va-to-mark-911-anniversary-with-volunteer-opportunities-at-national-cemeteries/",
-    "https://www.militarytimes.com/veterans/military-history/2026/09/09/wwiis-famed-mosquito-bowl-comes-to-the-big-screen/"
+    "https://www.militarytimes.com/veterans/military-history/2026/09/09/wwiis-famed-mosquito-bowl-comes-to-the-big-screen/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
+    "https://www.militarytimes.com/global/2026/09/10/russia-sends-bones-of-medieval-warrior-prince-to-ukraine-front-to-boost-morale/",
+    "https://www.militarytimes.com/news/your-military/2026/09/10/trump-departs-dc-on-qatar-gifted-air-force-one-after-emergency-slide-accidentally-deploys/"
   ]
 }
