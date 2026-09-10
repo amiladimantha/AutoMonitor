@@ -502,7 +502,6 @@
     "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10978-7",
     "https://www.nature.com/articles/d41586-026-02450-3",
     "https://www.nature.com/articles/d41586-026-02276-z",
     "https://www.nature.com/articles/d41586-026-02453-0",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
     "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
     "https://www.nature.com/articles/d41586-026-02809-6",
-    "https://www.nature.com/articles/d41586-026-02821-w"
+    "https://www.nature.com/articles/d41586-026-02821-w",
+    "https://www.nature.com/articles/d41586-026-02026-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1205,7 +1205,8 @@
     "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "https://huggingface.co/blog/funes",
     "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+    "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+    "https://huggingface.co/blog/gradio-workflow-1111"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/your-military/2026/07/07/marine-corps-creates-new-small-drone-training-unit/",
