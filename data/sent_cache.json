@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
-    "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
     "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
     "https://arstechnica.com/security/2026/07/apps-targeted-at-us-troops-contain-chinese-and-russian-code/",
     "https://arstechnica.com/cars/2026/07/2027-kia-seltos-first-drive-telluride-vibes-in-a-smaller-package/",
@@ -499,24 +497,11 @@
     "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
     "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
     "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
-    "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/"
+    "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/",
+    "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+    "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
-    "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-    "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-    "https://www.nature.com/articles/d41586-026-02082-7",
-    "https://www.nature.com/articles/d41586-026-02492-7",
-    "https://www.nature.com/articles/d41586-026-02464-x",
-    "https://www.nature.com/articles/d41586-026-02490-9",
-    "https://www.nature.com/articles/d41586-026-02491-8",
-    "https://www.nature.com/articles/d41586-026-02451-2",
-    "https://www.nature.com/articles/s41586-026-10947-0",
-    "https://www.nature.com/articles/d41586-026-02452-1",
-    "https://www.nature.com/articles/d41586-026-02142-y",
-    "https://www.nature.com/articles/d41586-026-02449-w",
-    "https://www.nature.com/articles/d41586-026-02380-0",
-    "https://www.nature.com/articles/d41586-026-02454-z",
     "https://www.nature.com/articles/s41586-026-10991-w",
     "https://www.nature.com/articles/d41586-026-02431-6",
     "https://www.nature.com/articles/d41586-026-02374-y",
@@ -1001,7 +986,22 @@
     "https://www.nature.com/articles/d41586-026-02866-x",
     "https://www.nature.com/articles/d41586-026-02888-5",
     "https://www.nature.com/articles/d41586-026-02883-w",
-    "https://www.nature.com/articles/d41586-026-02828-3"
+    "https://www.nature.com/articles/d41586-026-02828-3",
+    "https://www.science.org/content/article/department-energy-bets-open-ai-models-science",
+    "https://www.science.org/content/article/swiss-trial-2017-avalanche-deaths-unsettles-hazard-researchers",
+    "https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses",
+    "https://www.science.org/content/article/physicists-detect-tiny-atomic-collisions-give-gas-its-pressure",
+    "https://www.science.org/content/article/what-science-problem-should-ai-tackle-next-new-challenge-atlas-offers-answers",
+    "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
+    "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+    "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+    "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+    "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+    "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
+    "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
+    "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1209,7 +1209,6 @@
     "https://huggingface.co/blog/gradio-workflow-1111"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/08/the-pentagon-wants-decision-advantage-is-that-enough/",
     "https://www.militarytimes.com/news/your-navy/2026/07/08/sailors-with-unmanageable-permanent-razor-bumps-to-face-separation-navy-says/",
     "https://www.militarytimes.com/opinion/2026/07/08/the-us-military-is-not-organized-for-cyber-war/",
     "https://www.militarytimes.com/veterans/military-history/2026/07/08/this-soldier-tried-to-cover-a-retreat-and-ended-up-compelling-the-enemy-to/",
@@ -1708,6 +1707,7 @@
     "https://www.militarytimes.com/news/your-navy/2026/09/11/iran-used-claude-to-target-us-navy-in-middle-east-anthropic-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/11/americans-mark-25-years-since-september-11-attacks-amid-enduring-grief-reflection/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say/",
-    "https://www.militarytimes.com/news/your-military/2026/09/11/in-first-oregon-guard-f-15exs-drop-live-bombs/"
+    "https://www.militarytimes.com/news/your-military/2026/09/11/in-first-oregon-guard-f-15exs-drop-live-bombs/",
+    "https://www.militarytimes.com/news/your-military/2026/09/11/the-us-militarys-next-significant-challenge-hiding/"
   ]
 }
