@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/07/firefighting-drones-in-the-works-as-wildfires-plague-us-nearly-year-round/",
     "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
     "https://arstechnica.com/space/2026/07/the-space-force-is-now-seeking-to-buy-up-to-30-billion-in-rocket-launches/",
     "https://arstechnica.com/cars/2026/07/when-your-vehicle-outlives-its-cloud-what-happens-next/",
@@ -499,11 +498,10 @@
     "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
     "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
     "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
-    "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/"
+    "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
+    "https://arstechnica.com/space/2026/09/nasa-moving-at-warp-speed-to-set-up-us-space-academy/"
   ],
   "Science": [
-    "https://www.science.org/content/article/how-europe-can-prevent-repeat-year-s-devastating-wildfires",
-    "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
     "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
     "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
     "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02763-3",
     "https://www.nature.com/articles/d41586-026-02827-4",
     "https://www.nature.com/articles/d41586-026-02866-x",
-    "https://www.nature.com/articles/d41586-026-02888-5"
+    "https://www.nature.com/articles/d41586-026-02888-5",
+    "https://www.nature.com/articles/d41586-026-02883-w",
+    "https://www.nature.com/articles/d41586-026-02828-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1209,11 +1209,6 @@
     "https://huggingface.co/blog/gradio-workflow-1111"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/europe/2026/07/08/ukraine-to-get-license-for-making-patriot-interceptors-trump-pledges/",
-    "https://www.militarytimes.com/news/your-military/2026/07/08/us-army-will-mothball-10000-sets-of-clunky-ivas-goggles-report-reveals/",
-    "https://www.militarytimes.com/news/your-army/2026/07/08/do-you-meet-the-armys-new-waist-to-height-standard-find-out-with-our-calculator/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/08/pentagon-to-explore-cheaper-replacements-for-the-mq-9-reaper/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/08/salesforce-security-platform-tapped-to-manage-air-force-global-vehicle-fleet/",
     "https://www.militarytimes.com/news/your-military/2026/07/08/the-pentagon-wants-decision-advantage-is-that-enough/",
     "https://www.militarytimes.com/news/your-navy/2026/07/08/sailors-with-unmanageable-permanent-razor-bumps-to-face-separation-navy-says/",
     "https://www.militarytimes.com/opinion/2026/07/08/the-us-military-is-not-organized-for-cyber-war/",
@@ -1708,6 +1703,11 @@
     "https://www.militarytimes.com/opinion/2026/09/10/should-500m-companies-compete-with-service-disabled-veteran-owned-small-businesses/",
     "https://www.militarytimes.com/news/your-military/2026/09/11/she-was-in-the-pentagon-daycare-on-911-now-she-is-running-2977-miles-one-for-every-life-lost/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/",
-    "https://www.militarytimes.com/veterans/2026/09/11/for-young-americans-the-911-attacks-and-subsequent-wars-are-history-not-memory/"
+    "https://www.militarytimes.com/veterans/2026/09/11/for-young-americans-the-911-attacks-and-subsequent-wars-are-history-not-memory/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/11/iran-used-claude-to-target-us-navy-in-middle-east-anthropic-says/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/11/americans-mark-25-years-since-september-11-attacks-amid-enduring-grief-reflection/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say/",
+    "https://www.militarytimes.com/news/your-military/2026/09/11/in-first-oregon-guard-f-15exs-drop-live-bombs/"
   ]
 }
