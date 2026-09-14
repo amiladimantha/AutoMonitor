@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
-    "https://arstechnica.com/cars/2026/07/heres-range-rovers-first-not-suv-the-range-rover-gt/",
-    "https://arstechnica.com/health/2026/07/on-the-run-for-20-years-most-wanted-fugitive-caught-hiding-as-a-biotech-exec/",
-    "https://arstechnica.com/culture/2026/07/sony-releases-one-last-trailer-for-spider-man-brand-new-day/",
     "https://arstechnica.com/health/2026/07/confusion-swirls-on-source-of-diarrhea-outbreak-but-its-still-taylor-farms/",
     "https://arstechnica.com/science/2026/07/what-happens-when-you-try-to-chop-a-photon-in-half/",
     "https://arstechnica.com/gadgets/2026/07/samsung-unveils-new-galaxy-z8-foldables-and-galaxy-watches-available-august-7/",
@@ -499,19 +495,13 @@
     "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
     "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
     "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
-    "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/"
+    "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
+    "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
+    "https://arstechnica.com/gaming/2026/09/steam-frame-the-ars-technica-review/",
+    "https://arstechnica.com/gadgets/2026/09/offensively-cheap-solar-power-is-looking-up/",
+    "https://arstechnica.com/cars/2026/09/how-to-make-a-small-suv-slightly-smaller-the-2028-volvo-xc40/"
   ],
   "Science": [
-    "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
-    "https://www.science.org/content/article/gut-microbes-may-help-wild-horses-evolve-survive-harsh-canadian-winters",
-    "https://www.science.org/content/article/newly-discovered-virus-sickening-cattle-western-europe",
-    "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-    "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
-    "https://www.nature.com/articles/d41586-026-02448-x",
-    "https://www.nature.com/articles/d41586-026-02519-z",
-    "https://www.nature.com/articles/d41586-026-02498-1",
-    "https://www.nature.com/articles/d41586-026-02408-5",
-    "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
     "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
     "https://www.science.org/content/article/new-telescope-reveals-missing-link-cosmic-recycling-matter",
     "https://www.nature.com/articles/s41586-026-10994-7",
@@ -1001,7 +991,17 @@
     "https://www.science.org/content/article/social-science-studies-may-promise-anonymity-participant-identities-often-lurk-public",
     "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
     "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-    "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
+    "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/",
+    "https://www.nature.com/articles/s41586-026-11124-z",
+    "https://www.nature.com/articles/d41586-026-02908-4",
+    "https://www.nature.com/articles/d41586-026-02847-0",
+    "https://www.nature.com/articles/d41586-026-02852-3",
+    "https://www.nature.com/articles/d41586-026-02829-2",
+    "https://www.nature.com/articles/d41586-026-02895-6",
+    "https://www.nature.com/articles/d41586-026-02608-z",
+    "https://www.nature.com/articles/d41586-026-02851-4",
+    "https://www.nature.com/articles/d41586-026-02882-x",
+    "https://www.nature.com/articles/d41586-026-02901-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1210,12 +1210,6 @@
     "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/08/air-force-major-restricted-to-dc-base-under-investigation-after-uniformed-protest/",
-    "https://www.militarytimes.com/news/your-military/2026/07/08/army-medic-convicted-of-desertion-after-3-years-on-the-run-in-the-uk/",
-    "https://www.militarytimes.com/news/your-military/2026/07/09/the-alaskan-bear-necessities-one-commissary-peach/",
-    "https://www.militarytimes.com/pentagon/2026/07/09/trump-flies-old-air-force-one-out-of-turkey-switches-to-new-jet-in-britain-for-trip-home/",
-    "https://www.militarytimes.com/global/europe/2026/07/09/germany-to-buy-us-tomahawks-in-shift-toward-own-long-range-capability/",
-    "https://www.militarytimes.com/news/your-military/2026/07/09/army-develops-new-technique-for-rifling-cannon-bores/",
     "https://www.militarytimes.com/news/your-air-force/2026/07/09/air-force-contingency-wing-assists-venezuela-in-earthquake-response-aid-intake/",
     "https://www.militarytimes.com/veterans/2026/07/09/a-veterans-organization-has-millions-in-the-bank-why-did-it-seize-a-small-chapters-donation/",
     "https://www.militarytimes.com/news/your-navy/2026/07/09/uss-gerald-r-ford-to-undergo-maintenance-after-onboard-fire-and-plumbing-issues/",
@@ -1709,6 +1703,12 @@
     "https://www.militarytimes.com/news/your-military/2026/09/11/air-force-fighter-pilots-fall-below-sortie-minimum-to-be-deemed-combat-ready/",
     "https://www.militarytimes.com/veterans/2026/09/12/survivors-guilt-felt-by-young-soldiers-echoes-odysseuss-haunted-memories/",
     "https://www.militarytimes.com/news/your-military/2026/09/14/drone-maker-unveils-low-cost-alternative-to-mq-9-reaper/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/09/14/china-changes-law-to-mobilize-all-resources-in-case-of-conflict-should-neighbors-worry/"
+    "https://www.militarytimes.com/global/asia-pacific/2026/09/14/china-changes-law-to-mobilize-all-resources-in-case-of-conflict-should-neighbors-worry/",
+    "https://www.militarytimes.com/air/2026/09/14/us-military-must-focus-on-right-mix-of-weapons-amid-stockpile-concerns-official/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/14/lockheed-to-build-4-more-vectis-drones-2027-first-flight-remains-on-target/",
+    "https://www.militarytimes.com/news/your-military/2026/09/14/geissele-automatics-reveals-production-ready-assault-rifle-for-socom/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/14/organizers-break-ground-on-education-center-at-pentagon-911-memorial/",
+    "https://www.militarytimes.com/news/your-military/2026/09/14/us-air-force-to-stand-up-point-defense-career-field-within-2-years-wilsbach-says/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/14/vengeance-and-fury-us-air-force-names-new-ccas-amid-ambitious-production-goal/"
   ]
 }
