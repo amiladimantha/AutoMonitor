@@ -502,8 +502,6 @@
     "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02374-y",
-    "https://www.nature.com/articles/d41586-026-02489-2",
     "https://www.science.org/content/article/mismatched-vaccine-being-rolled-out-against-ebola-outbreak",
     "https://www.science.org/content/article/halted-dam-releases-threaten-colorado-river-ecosystems",
     "https://www.science.org/content/article/behold-glueball-strange-new-form-matter",
@@ -1001,7 +999,9 @@
     "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
     "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
     "https://www.nature.com/articles/d41586-026-02892-9",
-    "https://www.nature.com/articles/d41586-026-02826-5"
+    "https://www.nature.com/articles/d41586-026-02826-5",
+    "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+    "https://www.science.org/content/article/social-science-studies-may-promise-anonymity-participant-identities-often-lurk-public"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1206,7 +1206,8 @@
     "https://huggingface.co/blog/funes",
     "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
     "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "https://huggingface.co/blog/gradio-workflow-1111"
+    "https://huggingface.co/blog/gradio-workflow-1111",
+    "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/veterans/military-history/2026/07/08/this-soldier-tried-to-cover-a-retreat-and-ended-up-compelling-the-enemy-to/",
