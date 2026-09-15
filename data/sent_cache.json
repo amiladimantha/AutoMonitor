@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/culture/2026/07/clayface-trailer-leans-into-the-body-horror/",
     "https://arstechnica.com/cars/2026/07/teslas-revenues-are-up-but-profits-squeezed-as-musk-spends-on-ai/",
     "https://arstechnica.com/science/2026/07/orcas-team-up-to-ram-sunfish-until-they-explode/",
     "https://arstechnica.com/science/2026/07/white-house-report-says-trump-can-usher-in-a-new-golden-age-of-science/",
@@ -499,18 +498,10 @@
     "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
     "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
     "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/"
+    "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
+    "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
-    "https://www.science.org/content/article/new-telescope-reveals-missing-link-cosmic-recycling-matter",
-    "https://www.nature.com/articles/s41586-026-10994-7",
-    "https://www.nature.com/articles/s41586-026-10773-4",
-    "https://www.nature.com/articles/s41586-026-10774-3",
-    "https://www.nature.com/articles/d41586-026-02521-5",
-    "https://www.nature.com/articles/s41586-026-10787-y",
-    "https://www.nature.com/articles/s41586-026-10788-x",
-    "https://www.nature.com/articles/s41586-026-10805-z",
     "https://www.nature.com/articles/s41586-026-10909-6",
     "https://www.nature.com/articles/s41586-026-10916-7",
     "https://www.nature.com/articles/s41586-026-10756-5",
@@ -1001,7 +992,16 @@
     "https://www.nature.com/articles/d41586-026-02608-z",
     "https://www.nature.com/articles/d41586-026-02851-4",
     "https://www.nature.com/articles/d41586-026-02882-x",
-    "https://www.nature.com/articles/d41586-026-02901-x"
+    "https://www.nature.com/articles/d41586-026-02901-x",
+    "https://www.nature.com/articles/s41586-026-11137-8",
+    "https://www.nature.com/articles/d41586-026-02904-8",
+    "https://www.nature.com/articles/d41586-026-02907-5",
+    "https://www.nature.com/articles/d41586-026-02905-7",
+    "https://www.nature.com/articles/d41586-026-02906-6",
+    "https://www.nature.com/articles/d41586-026-02848-z",
+    "https://www.nature.com/articles/d41586-026-02850-5",
+    "https://www.nature.com/articles/d41586-026-02853-2",
+    "https://www.nature.com/articles/d41586-026-02915-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1210,7 +1210,6 @@
     "https://huggingface.co/blog/asyncgrpo-lora-hfjobs"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/07/09/va-claims-backlog-drops-below-70000-for-first-time-in-six-years/",
     "https://www.militarytimes.com/news/your-military/2026/07/09/air-forces-c-5m-super-galaxy-aids-in-removal-destruction-of-5-billion-worth-of-illegal-drugs/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/09/gop-lawmakers-request-review-of-vfws-claims-assistance-authority-amid-controversial-cartoon/",
     "https://www.militarytimes.com/news/your-army/2026/07/09/army-orders-mass-shutdown-of-official-social-media-accounts/",
@@ -1709,6 +1708,7 @@
     "https://www.militarytimes.com/news/your-military/2026/09/14/us-air-force-secretary-reveals-deployment-of-on-orbit-space-control-weapons/",
     "https://www.militarytimes.com/air/2026/09/14/its-not-science-fiction-us-air-force-must-build-trust-in-ai-says-expert/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/15/us-navy-boeing-ink-first-mq-25a-stingray-production-contract/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/15/navy-families-evacuated-from-bahrain-are-still-trying-to-retrieve-their-belongings/"
+    "https://www.militarytimes.com/news/your-navy/2026/09/15/navy-families-evacuated-from-bahrain-are-still-trying-to-retrieve-their-belongings/",
+    "https://www.militarytimes.com/space/2026/09/15/space-based-isr-launches-to-grow-fourfold-in-next-decade-novaspace-says/"
   ]
 }
