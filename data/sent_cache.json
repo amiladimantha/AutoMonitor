@@ -502,26 +502,6 @@
     "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/"
   ],
   "Science": [
-    "https://www.science.org/content/article/arson-attack-jolts-italy-s-bid-host-einstein-telescope",
-    "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-    "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "https://www.nature.com/articles/s41586-026-10960-3",
-    "https://www.nature.com/articles/d41586-026-01904-y",
-    "https://www.nature.com/articles/d41586-026-02494-5",
-    "https://www.nature.com/articles/d41586-026-02503-7",
-    "https://www.nature.com/articles/d41586-026-02525-1",
-    "https://www.nature.com/articles/s41586-026-10959-w",
-    "https://www.nature.com/articles/d41586-026-02502-8",
-    "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-    "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-    "https://www.technologyreview.com/2026/08/13/1141788/summer-heat-el-nino/",
-    "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
-    "https://www.nature.com/articles/d41586-026-02544-y",
-    "https://www.science.org/content/article/science-investigation-casts-doubt-genes-hailed-warding-alzheimer-s-disease",
-    "https://www.science.org/content/article/new-explanation-why-universe-s-supply-nuclear-matter-fixed",
-    "https://www.science.org/content/article/una-investigaci\u00f3n-de-science-arroja-dudas-sobre-genes-prometedores-para-prevenir-la",
-    "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy/",
-    "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
     "https://www.nature.com/articles/s41586-026-11022-4",
     "https://www.nature.com/articles/d41586-026-02542-0",
     "https://www.nature.com/articles/d41586-026-02558-6",
@@ -1001,7 +981,27 @@
     "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
     "https://www.nature.com/articles/d41586-026-02914-6",
     "https://www.nature.com/articles/d41586-026-02886-7",
-    "https://www.nature.com/articles/d41586-026-02849-y"
+    "https://www.nature.com/articles/d41586-026-02849-y",
+    "https://www.nature.com/articles/s41586-026-11110-5",
+    "https://www.nature.com/articles/s41586-026-11123-0",
+    "https://www.nature.com/articles/s41586-026-11021-5",
+    "https://www.nature.com/articles/s41586-026-11013-5",
+    "https://www.nature.com/articles/s41586-026-11032-2",
+    "https://www.nature.com/articles/s41586-026-11020-6",
+    "https://www.nature.com/articles/s41586-026-11044-y",
+    "https://www.nature.com/articles/s41586-026-11042-0",
+    "https://www.nature.com/articles/s41586-026-11011-7",
+    "https://www.nature.com/articles/s41586-026-11030-4",
+    "https://www.nature.com/articles/s41586-026-11035-z",
+    "https://www.nature.com/articles/s41586-026-11026-0",
+    "https://www.nature.com/articles/s41586-026-10985-8",
+    "https://www.nature.com/articles/s41586-026-11014-4",
+    "https://www.nature.com/articles/s41586-026-11019-z",
+    "https://www.nature.com/articles/s41586-026-11045-x",
+    "https://www.nature.com/articles/s41586-026-11000-w",
+    "https://www.nature.com/articles/s41586-026-10948-z",
+    "https://www.nature.com/articles/s41586-026-11024-2",
+    "https://www.nature.com/articles/s41586-026-11057-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1211,8 +1211,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/10/pentagon-seemingly-lifts-suspension-of-low-flying-south-carolina-apache-pilots/",
-    "https://www.militarytimes.com/news/your-military/2026/07/13/f-16-pilot-awarded-distinguished-flying-cross-for-bravery-in-saudi-arabia-deployment/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/13/us-industrial-base-is-becoming-stronger-for-wartime-production-study-finds/",
     "https://www.militarytimes.com/veterans/military-history/2026/07/13/us-recovery-teams-begin-new-search-in-china-for-remains-of-mias-amid-looming-budget-cuts/",
     "https://www.militarytimes.com/news/your-military/2026/07/13/navy-christens-flight-iii-arleigh-burke-class-destroyer-after-korean-war-hero/",
@@ -1710,6 +1708,8 @@
     "https://www.militarytimes.com/air/2026/09/15/f-35-proved-combat-readiness-during-middle-east-deployments-air-force-officials-say/",
     "https://www.militarytimes.com/news/your-military/2026/09/15/us-marine-stand-in-forces-in-the-pacific-a-concern-to-china-report-details/",
     "https://www.militarytimes.com/veterans/2026/09/15/va-facilities-struggle-to-staff-mental-health-nursing-safety-positions-watchdog-finds/",
-    "https://www.militarytimes.com/news/your-military/2026/09/15/tanker-fleet-modernization-will-continue-for-decades-us-air-force-officials-say/"
+    "https://www.militarytimes.com/news/your-military/2026/09/15/tanker-fleet-modernization-will-continue-for-decades-us-air-force-officials-say/",
+    "https://www.militarytimes.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles/",
+    "https://www.militarytimes.com/global/2026/09/16/china-warns-us-space-weapons-could-fuel-arms-race/"
   ]
 }
