@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/",
-    "https://arstechnica.com/gadgets/2026/07/microsoft-responds-to-lg-monitors-installing-mcafee-ads-on-windows/",
     "https://arstechnica.com/health/2026/07/fda-reports-new-outbreak-of-explosive-diarrhea-with-72-cases-identified/",
     "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
     "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
@@ -499,21 +497,11 @@
     "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
     "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
     "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
-    "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/"
+    "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
+    "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+    "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10886-w",
-    "https://www.nature.com/articles/s41586-026-10907-8",
-    "https://www.nature.com/articles/s41586-026-10846-4",
-    "https://www.nature.com/articles/s41586-026-10905-w",
-    "https://www.nature.com/articles/s41586-026-10889-7",
-    "https://www.nature.com/articles/s41586-026-10891-z",
-    "https://www.nature.com/articles/s41586-026-10896-8",
-    "https://www.nature.com/articles/s41586-026-10903-y",
-    "https://www.nature.com/articles/s41586-026-10870-4",
-    "https://www.nature.com/articles/d41586-026-02463-y",
-    "https://www.nature.com/articles/d41586-026-02461-0",
-    "https://www.science.org/content/article/were-these-ancient-rock-images-painted-human-blood",
     "https://www.science.org/content/article/can-new-safer-class-pain-drugs-ever-rival-opioids",
     "https://www.science.org/content/article/denisovans-towered-over-their-contemporaries-and-munched-bunch-meat",
     "https://www.science.org/content/article/hundreds-paper-mill-papers-peddled-ads-were-later-published",
@@ -1001,7 +989,19 @@
     "https://www.nature.com/articles/s41586-026-11139-6",
     "https://www.nature.com/articles/d41586-026-02723-x",
     "https://www.nature.com/articles/d41586-026-02885-8",
-    "https://www.nature.com/articles/d41586-026-02891-w"
+    "https://www.nature.com/articles/d41586-026-02891-w",
+    "https://www.science.org/content/article/california-spend-billions-visionary-plan-boost-fish-habitat",
+    "https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math",
+    "https://www.science.org/content/article/why-ai-agents-invent-their-own-language-if-you-let-them-chat",
+    "https://www.science.org/content/article/exclusive-new-nih-research-center-vaccine-harms-takes-shape",
+    "https://www.science.org/content/article/three-wild-dogs-have-traveled-farther-any-african-mammal",
+    "https://www.science.org/content/article/nsf-memo-implementing-trump-s-golden-age-science-unsettles-researchers",
+    "https://www.science.org/content/article/single-brain-implant-lets-paralyzed-people-both-talk-and-gesture-avatar",
+    "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+    "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
+    "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
+    "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
+    "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
