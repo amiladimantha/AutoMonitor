@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/07/google-now-lets-you-log-into-your-account-with-a-selfie/",
-    "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
-    "https://arstechnica.com/gadgets/2026/07/robot-snakes-searched-for-venezuela-earthquake-survivors-in-collapsed-buildings/",
-    "https://arstechnica.com/space/2026/07/this-is-the-worlds-most-advanced-robotic-servicing-satellite-that-we-know-about/",
-    "https://arstechnica.com/space/2026/07/rocket-report-lightning-strikes-in-china-starship-launch-on-deck/",
-    "https://arstechnica.com/tech-policy/2026/07/ai-firms-want-more-data-centers-trumps-epa-may-give-neighbors-less-say/",
     "https://arstechnica.com/health/2026/07/rfk-jr-s-hand-picked-committee-approves-manufacture-of-peptides-he-uses/",
     "https://arstechnica.com/tech-policy/2026/07/judge-rebuffs-trump-admin-demand-for-phone-records-from-nyt-reporters/",
     "https://arstechnica.com/space/2026/07/european-union-grants-us-request-to-restrict-satellite-images-of-iran-war-region/",
@@ -499,10 +493,15 @@
     "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
     "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
     "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
-    "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/"
+    "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
+    "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
+    "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
+    "https://arstechnica.com/science/2026/09/what-happens-when-neutrinos-swap-identities-inside-a-supernova/",
+    "https://arstechnica.com/gadgets/2026/09/macos-27-golden-gate-the-ars-technica-review/",
+    "https://arstechnica.com/cars/2026/09/the-worlds-best-racing-driver-is-about-to-race-100-karts-at-once/",
+    "https://arstechnica.com/tech-policy/2026/09/lawmakers-target-flock-cameras-with-a-threat-to-highway-funding/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11022-4",
     "https://www.nature.com/articles/d41586-026-02542-0",
     "https://www.nature.com/articles/d41586-026-02558-6",
     "https://www.nature.com/articles/d41586-026-02504-6",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-11000-w",
     "https://www.nature.com/articles/s41586-026-10948-z",
     "https://www.nature.com/articles/s41586-026-11024-2",
-    "https://www.nature.com/articles/s41586-026-11057-7"
+    "https://www.nature.com/articles/s41586-026-11057-7",
+    "https://www.nature.com/articles/d41586-026-02927-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1211,10 +1211,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/07/13/us-industrial-base-is-becoming-stronger-for-wartime-production-study-finds/",
-    "https://www.militarytimes.com/veterans/military-history/2026/07/13/us-recovery-teams-begin-new-search-in-china-for-remains-of-mias-amid-looming-budget-cuts/",
-    "https://www.militarytimes.com/news/your-military/2026/07/13/navy-christens-flight-iii-arleigh-burke-class-destroyer-after-korean-war-hero/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/13/us-creates-task-force-to-prosecute-leaks-to-news-media-hegseth-says/",
     "https://www.militarytimes.com/news/your-military/2026/07/13/sea-drones-strike-iranian-port-in-combat-first-for-us-navy/",
     "https://www.militarytimes.com/veterans/military-history/2026/07/13/german-american-veteran-of-the-battle-of-the-bulge-dies-at-100/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/13/lindsey-graham-senator-and-retired-air-force-reserve-colonel-remembered-for-relishing-challenges-of-public-life/",
@@ -1710,6 +1706,10 @@
     "https://www.militarytimes.com/veterans/2026/09/15/va-facilities-struggle-to-staff-mental-health-nursing-safety-positions-watchdog-finds/",
     "https://www.militarytimes.com/news/your-military/2026/09/15/tanker-fleet-modernization-will-continue-for-decades-us-air-force-officials-say/",
     "https://www.militarytimes.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles/",
-    "https://www.militarytimes.com/global/2026/09/16/china-warns-us-space-weapons-could-fuel-arms-race/"
+    "https://www.militarytimes.com/global/2026/09/16/china-warns-us-space-weapons-could-fuel-arms-race/",
+    "https://www.militarytimes.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/",
+    "https://www.militarytimes.com/news/your-military/2026/09/16/vietnam-war-conscientious-objector-falsified-silver-star-award-defrauded-va/",
+    "https://www.militarytimes.com/news/your-military/2026/09/16/army-trainee-struck-by-vehicle-and-killed-while-on-foot-outside-oklahoma-base/",
+    "https://www.militarytimes.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/"
   ]
 }
