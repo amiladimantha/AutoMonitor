@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/",
-    "https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/",
     "https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/",
     "https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/",
     "https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/",
@@ -499,7 +497,9 @@
     "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
     "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
     "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
-    "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/"
+    "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
+    "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+    "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02558-6",
@@ -1211,7 +1211,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/13/lindsey-graham-senator-and-retired-air-force-reserve-colonel-remembered-for-relishing-challenges-of-public-life/",
     "https://www.militarytimes.com/news/your-navy/2026/07/13/us-to-begin-enforcing-maritime-blockade-on-iran-on-tuesday/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
     "https://www.militarytimes.com/news/your-military/2026/07/13/active-duty-airmen-have-18-days-to-submit-current-waist-to-height-ratio-wilsbach-says/",
@@ -1710,6 +1709,7 @@
     "https://www.militarytimes.com/news/your-military/2026/09/16/army-trainee-struck-by-vehicle-and-killed-while-on-foot-outside-oklahoma-base/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/army-crowns-top-drill-sergeants-in-first-competition-since-sweeping-command-restructure/",
-    "https://www.militarytimes.com/news/your-military/2026/09/16/army-commanders-can-recommend-rank-bump-for-ncos-in-first-sergeant-roles/"
+    "https://www.militarytimes.com/news/your-military/2026/09/16/army-commanders-can-recommend-rank-bump-for-ncos-in-first-sergeant-roles/",
+    "https://www.militarytimes.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/"
   ]
 }
