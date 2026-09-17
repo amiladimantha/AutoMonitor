@@ -502,15 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02562-w",
-    "https://www.science.org/content/article/surprising-uniqueness-puerto-rico-s-trees-could-make-them-more-resistant-drought",
-    "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-    "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
-    "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
-    "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
-    "https://www.nature.com/articles/s41586-026-11023-3",
-    "https://www.science.org/content/article/drought-may-have-driven-brazil-s-first-yellow-fever-outbreak-nearly-80-years",
-    "https://www.science.org/content/article/budget-cuts-and-delays-leave-hundreds-argentine-postdocs-limbo",
     "https://www.science.org/content/article/slavery-linked-mortality-gap-between-black-and-white-americans-today",
     "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
     "https://www.nature.com/articles/d41586-026-02530-4",
@@ -1001,7 +992,16 @@
     "https://www.nature.com/articles/d41586-026-02927-1",
     "https://www.nature.com/articles/d41586-026-02833-6",
     "https://www.nature.com/articles/d41586-026-02910-w",
-    "https://www.nature.com/articles/d41586-026-02621-2"
+    "https://www.nature.com/articles/d41586-026-02621-2",
+    "https://www.science.org/content/article/forests-burn-can-we-replant-trees-ready-warmer-world",
+    "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
+    "https://www.science.org/content/article/researchers-file-first-amendment-challenge-nih-grant-screening",
+    "https://www.science.org/content/article/human-neurons-flourish-mouse-brains-offering-new-view-neurodevelopmental-disorders",
+    "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+    "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+    "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
+    "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
+    "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1211,13 +1211,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
-    "https://www.militarytimes.com/news/your-military/2026/07/13/active-duty-airmen-have-18-days-to-submit-current-waist-to-height-ratio-wilsbach-says/",
-    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/07/13/nearly-12000-military-tricare-beneficiaries-warned-of-data-breach/",
-    "https://www.militarytimes.com/global/europe/2026/07/14/9-nations-back-ukraines-patriot-alternative-freyja-and-want-it-flying-in-a-year/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/14/the-us-military-measures-readiness-what-about-adaptability/",
-    "https://www.militarytimes.com/news/your-military/2026/07/14/army-to-move-aerial-intelligence-brigade-to-texas-for-hades-program/",
-    "https://www.militarytimes.com/news/your-military/2026/07/14/manufacturing-woes-hamper-us-155-mm-ammo-production/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/14/navy-awards-tote-22-billion-to-build-medium-landing-ships/",
     "https://www.militarytimes.com/news/your-military/2026/07/14/move-over-asvab-marines-seek-better-way-to-predict-troop-success/",
     "https://www.militarytimes.com/news/your-military/2026/07/14/space-force-offers-25k-for-8-year-enlistments-in-new-pilot/",
@@ -1710,6 +1703,13 @@
     "https://www.militarytimes.com/news/your-military/2026/09/16/army-crowns-top-drill-sergeants-in-first-competition-since-sweeping-command-restructure/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/army-commanders-can-recommend-rank-bump-for-ncos-in-first-sergeant-roles/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/",
-    "https://www.militarytimes.com/news/your-military/2026/09/17/martial-arts-instructor-accuses-army-of-stealing-instructional-material/"
+    "https://www.militarytimes.com/news/your-military/2026/09/17/martial-arts-instructor-accuses-army-of-stealing-instructional-material/",
+    "https://www.militarytimes.com/news/your-military/2026/09/17/newport-news-navy-barracks-to-receive-17-billion-upgrade/",
+    "https://www.militarytimes.com/news/your-military/2026/09/17/the-us-army-is-looking-for-new-drones-to-ferry-blood-supplies/",
+    "https://www.militarytimes.com/industry/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
+    "https://www.militarytimes.com/news/your-military/2026/09/17/us-navy-should-target-chinese-aircraft-carriers-report-says/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/17/pentagon-lockheed-sign-framework-deal-to-boost-aim-260-production/",
+    "https://www.militarytimes.com/news/your-air-force/2026/09/17/us-air-force-renews-efforts-to-ensure-units-have-accurate-spouse-contact-information/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/"
   ]
 }
