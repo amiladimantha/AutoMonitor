@@ -502,7 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02504-6",
     "https://www.nature.com/articles/d41586-026-02562-w",
     "https://www.science.org/content/article/surprising-uniqueness-puerto-rico-s-trees-could-make-them-more-resistant-drought",
     "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-11057-7",
     "https://www.nature.com/articles/d41586-026-02927-1",
     "https://www.nature.com/articles/d41586-026-02833-6",
-    "https://www.nature.com/articles/d41586-026-02910-w"
+    "https://www.nature.com/articles/d41586-026-02910-w",
+    "https://www.nature.com/articles/d41586-026-02621-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1211,7 +1211,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/07/13/us-to-begin-enforcing-maritime-blockade-on-iran-on-tuesday/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
     "https://www.militarytimes.com/news/your-military/2026/07/13/active-duty-airmen-have-18-days-to-submit-current-waist-to-height-ratio-wilsbach-says/",
     "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/07/13/nearly-12000-military-tricare-beneficiaries-warned-of-data-breach/",
@@ -1710,6 +1709,7 @@
     "https://www.militarytimes.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/army-crowns-top-drill-sergeants-in-first-competition-since-sweeping-command-restructure/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/army-commanders-can-recommend-rank-bump-for-ncos-in-first-sergeant-roles/",
-    "https://www.militarytimes.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/"
+    "https://www.militarytimes.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/",
+    "https://www.militarytimes.com/news/your-military/2026/09/17/martial-arts-instructor-accuses-army-of-stealing-instructional-material/"
   ]
 }
