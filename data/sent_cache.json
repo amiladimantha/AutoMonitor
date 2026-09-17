@@ -502,12 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/"
   ],
   "Science": [
-    "https://www.science.org/content/article/slavery-linked-mortality-gap-between-black-and-white-americans-today",
-    "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-    "https://www.nature.com/articles/d41586-026-02530-4",
-    "https://www.nature.com/articles/d41586-026-02526-0",
-    "https://www.nature.com/articles/s41586-026-10995-6",
-    "https://www.nature.com/articles/d41586-026-02532-2",
     "https://www.nature.com/articles/d41586-026-02529-x",
     "https://www.nature.com/articles/d41586-026-02581-7",
     "https://www.nature.com/articles/s41586-026-11006-4",
@@ -1001,7 +995,13 @@
     "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
     "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
     "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-    "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/"
+    "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+    "https://www.nature.com/articles/s41586-026-11134-x",
+    "https://www.nature.com/articles/d41586-026-02898-3",
+    "https://www.nature.com/articles/d41586-026-02896-5",
+    "https://www.nature.com/articles/d41586-026-02913-7",
+    "https://www.nature.com/articles/d41586-026-02911-9",
+    "https://www.nature.com/articles/d41586-026-02954-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1211,8 +1211,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/07/14/navy-awards-tote-22-billion-to-build-medium-landing-ships/",
-    "https://www.militarytimes.com/news/your-military/2026/07/14/move-over-asvab-marines-seek-better-way-to-predict-troop-success/",
     "https://www.militarytimes.com/news/your-military/2026/07/14/space-force-offers-25k-for-8-year-enlistments-in-new-pilot/",
     "https://www.militarytimes.com/news/your-military/2026/07/14/air-force-uh-1n-helicopter-makes-emergency-landing-in-dc-after-crew-hears-vibrations-in-flight/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/14/space-force-agency-awards-tech-companies-175-billion-contract-for-missile-warning-tracking-satellites/",
@@ -1710,6 +1708,8 @@
     "https://www.militarytimes.com/news/your-military/2026/09/17/us-navy-should-target-chinese-aircraft-carriers-report-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/17/pentagon-lockheed-sign-framework-deal-to-boost-aim-260-production/",
     "https://www.militarytimes.com/news/your-air-force/2026/09/17/us-air-force-renews-efforts-to-ensure-units-have-accurate-spouse-contact-information/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/"
+    "https://www.militarytimes.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
+    "https://www.militarytimes.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
+    "https://www.militarytimes.com/news/your-military/2026/09/17/coast-guard-boards-us-bound-vessels-apparently-compromised-by-hackers-officials-say/"
   ]
 }
