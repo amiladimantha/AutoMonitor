@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms/",
-    "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-    "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
     "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
     "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
     "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
@@ -499,11 +496,12 @@
     "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
     "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
     "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
-    "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/"
+    "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
+    "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
+    "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
+    "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11010-8",
-    "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
     "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
     "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
     "https://www.nature.com/articles/d41586-026-02552-y",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02897-4",
     "https://www.nature.com/articles/d41586-026-02946-y",
     "https://www.nature.com/articles/d41586-026-02184-2",
-    "https://www.nature.com/articles/d41586-026-02945-z"
+    "https://www.nature.com/articles/d41586-026-02945-z",
+    "https://www.nature.com/articles/d41586-026-02984-6",
+    "https://www.nature.com/articles/d41586-026-02919-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1211,10 +1211,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/14/air-force-uh-1n-helicopter-makes-emergency-landing-in-dc-after-crew-hears-vibrations-in-flight/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/14/space-force-agency-awards-tech-companies-175-billion-contract-for-missile-warning-tracking-satellites/",
-    "https://www.militarytimes.com/news/your-military/2026/07/14/4000-troops-lose-air-conditioning-in-hawaii/",
-    "https://www.militarytimes.com/veterans/2026/07/14/va-hhs-to-increase-psychedelic-therapy-research-for-ptsd-military-related-mental-health-issues/",
     "https://www.militarytimes.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",
     "https://www.militarytimes.com/news/your-military/2026/07/15/cruelty-was-the-point-transgender-troops-look-back-on-their-ban-as-its-set-to-end/",
     "https://www.militarytimes.com/opinion/commentary/2026/07/15/every-ambush-in-vietnam-held-surprises-this-one-ended-in-death/",
@@ -1710,6 +1706,10 @@
     "https://www.militarytimes.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
     "https://www.militarytimes.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/17/coast-guard-boards-us-bound-vessels-apparently-compromised-by-hackers-officials-say/",
-    "https://www.militarytimes.com/news/your-military/2026/09/18/marine-boots-fail-in-the-arctic-amid-push-for-us-manufacturing-report/"
+    "https://www.militarytimes.com/news/your-military/2026/09/18/marine-boots-fail-in-the-arctic-amid-push-for-us-manufacturing-report/",
+    "https://www.militarytimes.com/news/your-military/2026/09/18/pilot-ejects-as-f-16-crashes-in-michigan-responders-treated-for-chemical-exposure/",
+    "https://www.militarytimes.com/news/your-military/2026/09/18/as-experimental-drone-battalion-ends-army-aims-to-push-drones-to-every-squad/",
+    "https://www.militarytimes.com/news/your-military/2026/09/18/us-air-force-has-a-14-billion-supply-hole-service-officials-say/",
+    "https://www.militarytimes.com/news/your-marine-corps/2026/09/18/marine-corps-tightens-process-for-religious-accommodations/"
   ]
 }
