@@ -502,8 +502,6 @@
     "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11006-4",
-    "https://www.nature.com/articles/s41586-026-11009-1",
     "https://www.nature.com/articles/s41586-026-11010-8",
     "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
     "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02911-9",
     "https://www.nature.com/articles/d41586-026-02954-y",
     "https://www.nature.com/articles/d41586-026-02897-4",
-    "https://www.nature.com/articles/d41586-026-02946-y"
+    "https://www.nature.com/articles/d41586-026-02946-y",
+    "https://www.nature.com/articles/d41586-026-02184-2",
+    "https://www.nature.com/articles/d41586-026-02945-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1211,7 +1211,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/14/space-force-offers-25k-for-8-year-enlistments-in-new-pilot/",
     "https://www.militarytimes.com/news/your-military/2026/07/14/air-force-uh-1n-helicopter-makes-emergency-landing-in-dc-after-crew-hears-vibrations-in-flight/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/14/space-force-agency-awards-tech-companies-175-billion-contract-for-missile-warning-tracking-satellites/",
     "https://www.militarytimes.com/news/your-military/2026/07/14/4000-troops-lose-air-conditioning-in-hawaii/",
@@ -1710,6 +1709,7 @@
     "https://www.militarytimes.com/news/your-air-force/2026/09/17/us-air-force-renews-efforts-to-ensure-units-have-accurate-spouse-contact-information/",
     "https://www.militarytimes.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
     "https://www.militarytimes.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
-    "https://www.militarytimes.com/news/your-military/2026/09/17/coast-guard-boards-us-bound-vessels-apparently-compromised-by-hackers-officials-say/"
+    "https://www.militarytimes.com/news/your-military/2026/09/17/coast-guard-boards-us-bound-vessels-apparently-compromised-by-hackers-officials-say/",
+    "https://www.militarytimes.com/news/your-military/2026/09/18/marine-boots-fail-in-the-arctic-amid-push-for-us-manufacturing-report/"
   ]
 }
