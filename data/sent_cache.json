@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/07/ios-and-macos-26-6-arrive-today-paving-the-way-for-ios-and-macos-27/",
-    "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-    "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
-    "https://arstechnica.com/health/2026/07/as-us-measles-cases-rise-biotech-firms-start-developing-new-treatments/",
     "https://arstechnica.com/health/2026/07/report-trump-mad-rfk-jr-hasnt-cut-more-vaccines-or-proven-autism-link/",
     "https://arstechnica.com/gadgets/2026/07/new-airliner-sets-record-flying-24-hrs-nonstop-from-australia-to-france/",
     "https://arstechnica.com/tech-policy/2026/07/judge-blocks-first-state-law-that-would-have-banned-prediction-markets/",
@@ -499,11 +495,13 @@
     "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
     "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
     "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-    "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/"
+    "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
+    "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+    "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+    "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
+    "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
-    "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
     "https://www.nature.com/articles/d41586-026-02552-y",
     "https://www.science.org/content/article/justice-department-calls-three-nsf-diversity-programs-unconstitutional",
     "https://www.science.org/content/article/massive-new-animal-disease-lab-kansas-runs-more-delays",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-02184-2",
     "https://www.nature.com/articles/d41586-026-02945-z",
     "https://www.nature.com/articles/d41586-026-02984-6",
-    "https://www.nature.com/articles/d41586-026-02919-1"
+    "https://www.nature.com/articles/d41586-026-02919-1",
+    "https://www.nature.com/articles/d41586-026-02943-1",
+    "https://www.nature.com/articles/d41586-026-02922-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1211,11 +1211,6 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",
-    "https://www.militarytimes.com/news/your-military/2026/07/15/cruelty-was-the-point-transgender-troops-look-back-on-their-ban-as-its-set-to-end/",
-    "https://www.militarytimes.com/opinion/commentary/2026/07/15/every-ambush-in-vietnam-held-surprises-this-one-ended-in-death/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/07/15/first-the-coast-guard-then-an-icbm-china-tests-new-long-term-ways-to-hold-off-rivals-in-asia/",
-    "https://www.militarytimes.com/news/your-military/2026/07/15/pressure-mounts-on-defense-executives-to-boost-weapons-production/",
     "https://www.militarytimes.com/flashpoints/2026/07/15/us-launches-new-round-of-strikes-against-iran/",
     "https://www.militarytimes.com/news/your-military/2026/07/15/forged-by-the-t-pentagon-launches-testosterone-screening-program-for-troops/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/15/top-house-democrat-calls-to-split-veterans-omnibus-advance-major-richard-star-act/",
@@ -1710,6 +1705,11 @@
     "https://www.militarytimes.com/news/your-military/2026/09/18/pilot-ejects-as-f-16-crashes-in-michigan-responders-treated-for-chemical-exposure/",
     "https://www.militarytimes.com/news/your-military/2026/09/18/as-experimental-drone-battalion-ends-army-aims-to-push-drones-to-every-squad/",
     "https://www.militarytimes.com/news/your-military/2026/09/18/us-air-force-has-a-14-billion-supply-hole-service-officials-say/",
-    "https://www.militarytimes.com/news/your-marine-corps/2026/09/18/marine-corps-tightens-process-for-religious-accommodations/"
+    "https://www.militarytimes.com/news/your-marine-corps/2026/09/18/marine-corps-tightens-process-for-religious-accommodations/",
+    "https://www.militarytimes.com/news/your-military/2026/09/18/coast-guard-releases-action-plan-on-sexual-assault-as-federal-watchdog-criticizes-delays/",
+    "https://www.militarytimes.com/news/your-military/2026/09/18/armys-h2f-program-linked-to-faster-injury-recovery-among-soldiers-study-finds/",
+    "https://www.militarytimes.com/news/your-military/2026/09/18/army-to-promote-ncos-who-complete-drill-sergeant-recruiting-schools/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/18/long-deployments-overwhelm-a-strained-navy-mental-health-system-personnel-say/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/18/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia/"
   ]
 }
