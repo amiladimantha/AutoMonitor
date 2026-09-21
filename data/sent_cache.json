@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
-    "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
     "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
     "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
     "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
@@ -499,10 +497,11 @@
     "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
     "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
     "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
-    "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/"
+    "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
+    "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
+    "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02535-z",
     "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
     "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
     "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02987-3",
     "https://www.nature.com/articles/d41586-026-02931-5",
     "https://www.nature.com/articles/d41586-026-02981-9",
-    "https://www.nature.com/articles/d41586-026-02994-4"
+    "https://www.nature.com/articles/d41586-026-02994-4",
+    "https://www.nature.com/articles/d41586-026-02890-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1213,9 +1213,6 @@
     "https://huggingface.co/blog/tokenizers-v1"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/senators-question-whether-military-pharmacy-program-is-the-best-deal-for-beneficiaries/",
-    "https://www.militarytimes.com/news/your-military/2026/07/16/navy-develops-strategy-to-weaponize-data-ai/",
-    "https://www.militarytimes.com/news/your-military/2026/07/16/army-fields-device-that-detects-traumatic-brain-injuries-in-just-15-minutes/",
     "https://www.militarytimes.com/veterans/2026/07/16/disputed-veterans-benefits-bill-gets-pulled-before-house-vote/",
     "https://www.militarytimes.com/pay-benefits/2026/07/16/bad-actors-use-bogus-offers-to-go-after-payouts-to-families-affected-by-first-atomic-bomb-test/",
     "https://www.militarytimes.com/news/your-navy/2026/07/16/navy-initiates-safety-review-after-blue-angels-fly-low-over-florida-beach/",
@@ -1712,6 +1709,9 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private/",
     "https://www.militarytimes.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/21/army-wants-cheaper-base-buildings-with-shorter-lifespans-memo-shows/",
-    "https://www.militarytimes.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/"
+    "https://www.militarytimes.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/",
+    "https://www.militarytimes.com/news/your-military/2026/09/21/air-force-on-track-to-graduate-1500-new-pilots-this-fiscal-year/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/21/uss-abraham-lincoln-arrives-in-guam-as-deployment-enters-10th-month/",
+    "https://www.militarytimes.com/news/your-military/2026/09/21/air-force-major-who-called-for-trumps-impeachment-requests-special-court-martial/"
   ]
 }
