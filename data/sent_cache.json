@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/07/ebay-former-execs-pay-56m-to-settle-bloody-pig-mask-harassment-case/",
-    "https://arstechnica.com/science/2026/07/dust-cloud-from-dino-killing-asteroid-charbroiled-the-earth/",
-    "https://arstechnica.com/tech-policy/2026/07/philly-suburb-sure-build-that-data-center-but-first-meet-our-43-demands/",
-    "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
-    "https://arstechnica.com/cars/2026/07/audi-has-a-new-flagship-designed-with-the-us-in-mind-the-2027-q9/",
     "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game/",
     "https://arstechnica.com/tech-policy/2026/07/elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
     "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
@@ -499,16 +494,14 @@
     "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
     "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
     "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-    "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/"
+    "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
+    "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
+    "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+    "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
+    "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
+    "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02575-5",
-    "https://www.nature.com/articles/d41586-026-02578-2",
-    "https://www.nature.com/articles/d41586-026-02576-4",
-    "https://www.nature.com/articles/d41586-026-02531-3",
-    "https://www.nature.com/articles/d41586-026-02527-z",
-    "https://www.nature.com/articles/d41586-026-02589-z",
-    "https://www.nature.com/articles/d41586-026-01932-8",
     "https://www.nature.com/articles/d41586-026-02535-z",
     "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
     "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
@@ -1001,7 +994,14 @@
     "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
     "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
     "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-    "https://www.nature.com/articles/d41586-026-02441-4"
+    "https://www.nature.com/articles/d41586-026-02441-4",
+    "https://www.nature.com/articles/s41586-026-11160-9",
+    "https://www.nature.com/articles/d41586-026-02932-4",
+    "https://www.nature.com/articles/d41586-026-02928-0",
+    "https://www.nature.com/articles/d41586-026-02987-3",
+    "https://www.nature.com/articles/d41586-026-02931-5",
+    "https://www.nature.com/articles/d41586-026-02981-9",
+    "https://www.nature.com/articles/d41586-026-02994-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1208,13 +1208,11 @@
     "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
     "https://huggingface.co/blog/gradio-workflow-1111",
     "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
-    "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+    "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+    "https://huggingface.co/blog/tokenizers-v1"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/15/panel-to-study-pentagons-covid-vaccine-mandate-troops-dismissal/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/15/us-air-force-turns-to-cheaper-cruise-missiles-it-can-buy-by-the-thousand/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/15/uss-sampson-spills-roughly-2000-gallons-of-diesel-fuel-into-seattle-harbor/",
-    "https://www.militarytimes.com/news/your-military/2026/07/16/marines-working-with-dod-to-build-direct-hire-path-for-civilian-jobs/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/senators-question-whether-military-pharmacy-program-is-the-best-deal-for-beneficiaries/",
     "https://www.militarytimes.com/news/your-military/2026/07/16/navy-develops-strategy-to-weaponize-data-ai/",
     "https://www.militarytimes.com/news/your-military/2026/07/16/army-fields-device-that-detects-traumatic-brain-injuries-in-just-15-minutes/",
@@ -1710,6 +1708,10 @@
     "https://www.militarytimes.com/news/your-military/2026/09/18/soldier-identified-following-rollover-crash-at-fort-hood/",
     "https://www.militarytimes.com/veterans/2026/09/18/dpaa-proposes-to-exhume-identify-korean-war-remains-in-tomb-of-the-unknown-soldier/",
     "https://www.militarytimes.com/news/your-military/2026/09/18/pentagon-updates-guidance-on-low-testosterone-testing-for-males/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/20/triumphal-arch-in-washington-to-serve-as-military-complex-trump-says/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/20/triumphal-arch-in-washington-to-serve-as-military-complex-trump-says/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private/",
+    "https://www.militarytimes.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
+    "https://www.militarytimes.com/news/your-military/2026/09/21/army-wants-cheaper-base-buildings-with-shorter-lifespans-memo-shows/",
+    "https://www.militarytimes.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/"
   ]
 }
