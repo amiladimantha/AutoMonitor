@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-    "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
-    "https://arstechnica.com/tech-policy/2026/07/elon-musks-xai-is-trying-to-sue-its-way-out-of-a-grok-reckoning/",
     "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
     "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
     "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
     "https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/",
     "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-    "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/"
+    "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
+    "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
+    "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
+    "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/"
   ],
   "Science": [
     "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
@@ -1213,9 +1213,6 @@
     "https://huggingface.co/blog/tokenizers-v1"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/07/16/disputed-veterans-benefits-bill-gets-pulled-before-house-vote/",
-    "https://www.militarytimes.com/pay-benefits/2026/07/16/bad-actors-use-bogus-offers-to-go-after-payouts-to-families-affected-by-first-atomic-bomb-test/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/16/navy-initiates-safety-review-after-blue-angels-fly-low-over-florida-beach/",
     "https://www.militarytimes.com/global/europe/2026/07/16/russian-troops-survive-just-20-30-minutes-on-ukraines-front-lines-cia-director-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/space-increasingly-becoming-a-warfighting-domain-says-space-force-chief-nominee/",
@@ -1712,6 +1709,9 @@
     "https://www.militarytimes.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/",
     "https://www.militarytimes.com/news/your-military/2026/09/21/air-force-on-track-to-graduate-1500-new-pilots-this-fiscal-year/",
     "https://www.militarytimes.com/news/your-navy/2026/09/21/uss-abraham-lincoln-arrives-in-guam-as-deployment-enters-10th-month/",
-    "https://www.militarytimes.com/news/your-military/2026/09/21/air-force-major-who-called-for-trumps-impeachment-requests-special-court-martial/"
+    "https://www.militarytimes.com/news/your-military/2026/09/21/air-force-major-who-called-for-trumps-impeachment-requests-special-court-martial/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/21/poll-trump-approval-falls-to-record-low-of-32-as-war-continues/",
+    "https://www.militarytimes.com/news/your-air-force/2026/09/21/airmen-cant-get-enough-of-new-warlike-basic-training-leaders-say/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/21/general-atomics-delivers-fq-42-vengeance-to-nevada-air-base/"
   ]
 }
