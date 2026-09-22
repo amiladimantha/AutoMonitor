@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
-    "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-    "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
-    "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
     "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
     "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
     "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
@@ -499,15 +495,13 @@
     "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
     "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
     "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
-    "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/"
+    "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
+    "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
+    "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
+    "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
+    "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/"
   ],
   "Science": [
-    "https://www.science.org/content/article/could-indigo-light-prevent-nearsightedness-children",
-    "https://www.nature.com/articles/d41586-026-02584-4",
-    "https://www.science.org/content/article/medieval-europe-was-battered-16-catastrophic-floods-just-2-years",
-    "https://www.science.org/content/article/nih-lifts-ban-funding-research-south-africa",
-    "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
-    "https://www.nature.com/articles/d41586-026-02528-y",
     "https://www.nature.com/articles/d41586-026-02516-2",
     "https://www.nature.com/articles/d41586-026-02037-y",
     "https://www.nature.com/articles/d41586-026-02410-x",
@@ -1001,7 +995,13 @@
     "https://www.nature.com/articles/d41586-026-02920-8",
     "https://www.nature.com/articles/d41586-026-02818-5",
     "https://www.nature.com/articles/d41586-026-02929-z",
-    "https://www.nature.com/articles/d41586-026-02939-x"
+    "https://www.nature.com/articles/d41586-026-02939-x",
+    "https://www.nature.com/articles/d41586-026-02724-w",
+    "https://www.nature.com/articles/d41586-026-02369-9",
+    "https://www.nature.com/articles/d41586-026-02942-2",
+    "https://www.nature.com/articles/d41586-026-03014-1",
+    "https://www.nature.com/articles/d41586-026-03000-7",
+    "https://www.nature.com/articles/d41586-026-02941-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1212,15 +1212,10 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
     "https://huggingface.co/blog/tokenizers-v1",
     "https://huggingface.co/blog/omlx",
-    "https://huggingface.co/blog/transformers-llama-cpp-quants"
+    "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "https://huggingface.co/blog/evaleval-aisi"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/space-increasingly-becoming-a-warfighting-domain-says-space-force-chief-nominee/",
-    "https://www.militarytimes.com/news/your-military/2026/07/17/hegseth-ordered-a-new-study-of-women-in-combat-critics-say-its-built-to-reach-one-conclusion/",
-    "https://www.militarytimes.com/news/your-military/2026/07/17/the-new-military-family-staying-together-while-living-apart/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/17/space-force-must-continue-to-rebuild-civilian-personnel-staff-after-cuts-chief-nominee-says/",
-    "https://www.militarytimes.com/news/your-army/2026/07/17/soldiers-recognized-in-army-national-guard-2026-best-warrior-competition/",
-    "https://www.militarytimes.com/news/your-military/2026/07/17/military-spouses-can-find-jobs-keeping-careers-is-the-hard-part/",
     "https://www.militarytimes.com/news/your-navy/2026/07/17/navy-instructs-commands-to-remove-portraits-biographies-from-websites/",
     "https://www.militarytimes.com/news/your-army/2026/07/17/dc-national-guard-gets-its-first-security-vessel/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/17/saronic-picks-brownsville-texas-for-3-billion-port-alpha-shipyard/",
@@ -1714,6 +1709,12 @@
     "https://www.militarytimes.com/news/your-air-force/2026/09/21/airmen-cant-get-enough-of-new-warlike-basic-training-leaders-say/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/21/general-atomics-delivers-fq-42-vengeance-to-nevada-air-base/",
     "https://www.militarytimes.com/news/your-military/2026/09/21/socom-nutrition-app-aims-to-optimize-performance-and-lethality/",
-    "https://www.militarytimes.com/opinion/2026/09/22/the-golden-dome-czar-must-get-control-of-all-us-missile-defense-programs/"
+    "https://www.militarytimes.com/opinion/2026/09/22/the-golden-dome-czar-must-get-control-of-all-us-missile-defense-programs/",
+    "https://www.militarytimes.com/news/your-military/2026/09/22/centcom-has-become-a-battle-lab-for-unmanned-systems/",
+    "https://www.militarytimes.com/news/your-military/2026/09/22/f-16-fighter-jet-crashes-at-us-air-base-in-western-germany/",
+    "https://www.militarytimes.com/news/your-military/2026/09/22/marines-will-get-an-extra-166-per-day-in-danger-pay-after-policy-change/",
+    "https://www.militarytimes.com/off-duty/2026/09/22/new-sesame-street-programming-is-a-walk-in-the-park-for-military-kids/",
+    "https://www.militarytimes.com/industry/2026/09/22/us-army-awards-lockheed-martin-12b-prsm-contract/",
+    "https://www.militarytimes.com/global/europe/2026/09/22/us-to-open-two-new-military-bases-in-greenland-sources-say/"
   ]
 }
