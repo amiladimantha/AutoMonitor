@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
-    "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
     "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
     "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
     "https://arstechnica.com/space/2026/07/rocket-report-big-deals-for-us-launch-firms-rfa-one-debut-is-delayed/",
@@ -499,10 +497,11 @@
     "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
     "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
     "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-    "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/"
+    "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
+    "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
+    "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10935-4",
     "https://www.nature.com/articles/s41586-026-10938-1",
     "https://www.nature.com/articles/s41586-026-10926-5",
     "https://www.nature.com/articles/s41586-026-10900-1",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
     "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
     "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-    "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
+    "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+    "https://www.nature.com/articles/d41586-026-02979-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1216,8 +1216,6 @@
     "https://huggingface.co/blog/evaleval-aisi"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/07/17/us-navy-2-years-behind-on-hypersonic-missile-installation-on-zumwalt-destroyers/",
-    "https://www.militarytimes.com/news/your-military/2026/07/17/wheels-up-instructor-down-army-aviation-students-to-fly-solo-cross-country/",
     "https://www.militarytimes.com/news/your-army/2026/07/18/soldier-girlfriend-allegedly-starved-child-and-dogs-to-death/",
     "https://www.militarytimes.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/",
     "https://www.militarytimes.com/news/your-military/2026/07/19/doctors-question-evidence-behind-pentagons-testosterone-screening-plan/",
@@ -1715,6 +1713,8 @@
     "https://www.militarytimes.com/industry/techwatch/2026/09/22/sentinel-icbm-achieves-vertical-stacking-ahead-of-2027-initial-flight-testing/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/22/air-force-completes-b-52-modernization-milestones/",
     "https://www.militarytimes.com/news/your-navy/2026/09/22/navy-successfully-tests-new-autonomous-aircraft-feature-aimed-at-simplifying-mission-planning/",
-    "https://www.militarytimes.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/"
+    "https://www.militarytimes.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/22/sailors-reminisce-say-final-goodbye-to-uss-georgia-before-retirement/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/22/pentagon-adds-new-warfighter-evaluation-for-officers-seeking-first-star/"
   ]
 }
