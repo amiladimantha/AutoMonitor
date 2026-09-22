@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/07/quantum-computing-roundup-still-more-technologies-making-waves/",
     "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
     "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
     "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
@@ -499,16 +498,10 @@
     "https://arstechnica.com/science/2026/09/trump-planning-to-hand-veto-power-over-nih-grants-to-political-appointee/",
     "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
     "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
-    "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/"
+    "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
+    "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
-    "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
-    "https://www.technologyreview.com/2026/08/18/1141614/book-review-astronaut-role-in-flux/",
-    "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-    "https://www.nature.com/articles/d41586-026-02381-z",
-    "https://www.nature.com/articles/d41586-026-02466-9",
-    "https://www.nature.com/articles/d41586-026-02524-2",
     "https://www.science.org/content/article/could-indigo-light-prevent-nearsightedness-children",
     "https://www.nature.com/articles/d41586-026-02584-4",
     "https://www.science.org/content/article/medieval-europe-was-battered-16-catastrophic-floods-just-2-years",
@@ -1001,7 +994,14 @@
     "https://www.nature.com/articles/d41586-026-02931-5",
     "https://www.nature.com/articles/d41586-026-02981-9",
     "https://www.nature.com/articles/d41586-026-02994-4",
-    "https://www.nature.com/articles/d41586-026-02890-x"
+    "https://www.nature.com/articles/d41586-026-02890-x",
+    "https://www.nature.com/articles/d41586-026-02996-2",
+    "https://www.nature.com/articles/d41586-026-02997-1",
+    "https://www.nature.com/articles/d41586-026-02995-3",
+    "https://www.nature.com/articles/d41586-026-02920-8",
+    "https://www.nature.com/articles/d41586-026-02818-5",
+    "https://www.nature.com/articles/d41586-026-02929-z",
+    "https://www.nature.com/articles/d41586-026-02939-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1211,10 +1211,10 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
     "https://huggingface.co/blog/tokenizers-v1",
-    "https://huggingface.co/blog/omlx"
+    "https://huggingface.co/blog/omlx",
+    "https://huggingface.co/blog/transformers-llama-cpp-quants"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/16/space-increasingly-becoming-a-warfighting-domain-says-space-force-chief-nominee/",
     "https://www.militarytimes.com/news/your-military/2026/07/17/hegseth-ordered-a-new-study-of-women-in-combat-critics-say-its-built-to-reach-one-conclusion/",
     "https://www.militarytimes.com/news/your-military/2026/07/17/the-new-military-family-staying-together-while-living-apart/",
@@ -1713,6 +1713,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/21/poll-trump-approval-falls-to-record-low-of-32-as-war-continues/",
     "https://www.militarytimes.com/news/your-air-force/2026/09/21/airmen-cant-get-enough-of-new-warlike-basic-training-leaders-say/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/21/general-atomics-delivers-fq-42-vengeance-to-nevada-air-base/",
-    "https://www.militarytimes.com/news/your-military/2026/09/21/socom-nutrition-app-aims-to-optimize-performance-and-lethality/"
+    "https://www.militarytimes.com/news/your-military/2026/09/21/socom-nutrition-app-aims-to-optimize-performance-and-lethality/",
+    "https://www.militarytimes.com/opinion/2026/09/22/the-golden-dome-czar-must-get-control-of-all-us-missile-defense-programs/"
   ]
 }
