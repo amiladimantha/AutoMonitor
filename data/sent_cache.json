@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
-    "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
-    "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
-    "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
-    "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
-    "https://arstechnica.com/ai/2026/07/with-a-stateless-makeover-new-mcp-spec-targets-enterprise-scale/",
     "https://arstechnica.com/science/2026/07/if-a-quantum-computer-outperforms-normal-ones-can-you-tell-if-its-right/",
     "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
     "https://arstechnica.com/gaming/2026/07/pathogenic-review-damn-it-feels-good-to-be-a-virus/",
@@ -499,21 +493,15 @@
     "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
     "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
     "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
-    "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/"
+    "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
+    "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
+    "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
+    "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
+    "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+    "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
+    "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02516-2",
-    "https://www.nature.com/articles/d41586-026-02037-y",
-    "https://www.nature.com/articles/d41586-026-02410-x",
-    "https://www.nature.com/articles/d41586-026-02610-5",
-    "https://www.nature.com/articles/d41586-026-02495-4",
-    "https://www.nature.com/articles/s41586-026-11037-x",
-    "https://www.nature.com/articles/d41586-026-02607-0",
-    "https://www.nature.com/articles/s41586-026-10776-1",
-    "https://www.nature.com/articles/s41586-026-10777-0",
-    "https://www.nature.com/articles/s41586-026-10951-4",
-    "https://www.nature.com/articles/s41586-026-10904-x",
-    "https://www.nature.com/articles/s41586-026-10928-3",
     "https://www.nature.com/articles/s41586-026-10935-4",
     "https://www.nature.com/articles/s41586-026-10938-1",
     "https://www.nature.com/articles/s41586-026-10926-5",
@@ -1001,7 +989,19 @@
     "https://www.nature.com/articles/d41586-026-02942-2",
     "https://www.nature.com/articles/d41586-026-03014-1",
     "https://www.nature.com/articles/d41586-026-03000-7",
-    "https://www.nature.com/articles/d41586-026-02941-3"
+    "https://www.nature.com/articles/d41586-026-02941-3",
+    "https://www.science.org/content/article/giant-telescope-project-rejects-la-palma-backup-site",
+    "https://www.science.org/content/article/how-fire-amoeba-withstands-temperatures-would-kill-most-complex-life",
+    "https://www.science.org/content/article/white-house-move-seize-control-nih-grant-decisions-upsets-senators-and-scientists",
+    "https://www.science.org/content/article/dolphin-chased-fish-until-it-puked-then-ate-vomit",
+    "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+    "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+    "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+    "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+    "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+    "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+    "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1216,12 +1216,6 @@
     "https://huggingface.co/blog/evaleval-aisi"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/07/17/navy-instructs-commands-to-remove-portraits-biographies-from-websites/",
-    "https://www.militarytimes.com/news/your-army/2026/07/17/dc-national-guard-gets-its-first-security-vessel/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/17/saronic-picks-brownsville-texas-for-3-billion-port-alpha-shipyard/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/17/230-troops-discharged-for-refusing-covid-19-vaccine-have-rejoined-pentagon-says/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/17/blue-angels-wont-be-punished-after-low-beach-flyover-acting-secnav-says/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/17/let-the-ai-do-it-former-air-force-secretary-pits-machine-against-human-operators/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/17/us-navy-2-years-behind-on-hypersonic-missile-installation-on-zumwalt-destroyers/",
     "https://www.militarytimes.com/news/your-military/2026/07/17/wheels-up-instructor-down-army-aviation-students-to-fly-solo-cross-country/",
     "https://www.militarytimes.com/news/your-army/2026/07/18/soldier-girlfriend-allegedly-starved-child-and-dogs-to-death/",
@@ -1715,6 +1709,12 @@
     "https://www.militarytimes.com/news/your-military/2026/09/22/marines-will-get-an-extra-166-per-day-in-danger-pay-after-policy-change/",
     "https://www.militarytimes.com/off-duty/2026/09/22/new-sesame-street-programming-is-a-walk-in-the-park-for-military-kids/",
     "https://www.militarytimes.com/industry/2026/09/22/us-army-awards-lockheed-martin-12b-prsm-contract/",
-    "https://www.militarytimes.com/global/europe/2026/09/22/us-to-open-two-new-military-bases-in-greenland-sources-say/"
+    "https://www.militarytimes.com/global/europe/2026/09/22/us-to-open-two-new-military-bases-in-greenland-sources-say/",
+    "https://www.militarytimes.com/news/your-military/2026/09/22/what-a-catch-florida-fishing-boat-reels-in-uas-resembling-lucas-drone/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/22/us-navy-destroyers-tested-in-middle-east-as-demands-mount/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/22/sentinel-icbm-achieves-vertical-stacking-ahead-of-2027-initial-flight-testing/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/22/air-force-completes-b-52-modernization-milestones/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/22/navy-successfully-tests-new-autonomous-aircraft-feature-aimed-at-simplifying-mission-planning/",
+    "https://www.militarytimes.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/"
   ]
 }
