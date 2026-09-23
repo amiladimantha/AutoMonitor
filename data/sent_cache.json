@@ -502,16 +502,6 @@
     "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02553-x",
-    "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
-    "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
-    "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
-    "https://www.technologyreview.com/2026/08/20/1141686/support-networks-help-kids-polycrisis/",
-    "https://www.nature.com/articles/d41586-026-02612-3",
-    "https://www.nature.com/articles/s41586-026-11043-z",
-    "https://www.nature.com/articles/d41586-026-02556-8",
-    "https://www.nature.com/articles/d41586-026-02455-y",
-    "https://www.science.org/content/article/scientific-spat-erupts-over-claim-bones-have-key-immune-vessels",
     "https://www.science.org/content/article/nasa-abandons-orbit-boosting-rescue-mission-space-observatory",
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
     "https://www.nature.com/articles/d41586-026-02551-z",
@@ -1001,7 +991,17 @@
     "https://www.nature.com/articles/s41586-026-11054-w",
     "https://www.nature.com/articles/s41586-026-11059-5",
     "https://www.nature.com/articles/s41586-026-11033-1",
-    "https://www.nature.com/articles/s41586-026-10271-7"
+    "https://www.nature.com/articles/s41586-026-10271-7",
+    "https://www.science.org/content/article/bones-link-10-000-year-old-temple-complex-village-not-skull-cult",
+    "https://www.science.org/content/article/can-ai-feel-pain-it-can-least-act-it-does",
+    "https://www.science.org/content/article/submerged-land-bridge-may-have-helped-people-cross-mediterranean",
+    "https://www.science.org/content/article/single-wildfire-smoke-exposure-causes-lasting-harm-monkey-study-suggests",
+    "https://www.science.org/content/article/one-nature-s-greatest-marine-wonders-may-be-about-vanish",
+    "https://www.science.org/content/article/dna-analysis-strengthens-evidence-thomas-jefferson-fathered-children-sally-hemings",
+    "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+    "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+    "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+    "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1214,12 +1214,10 @@
     "https://huggingface.co/blog/omlx",
     "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "https://huggingface.co/blog/evaleval-aisi",
-    "https://huggingface.co/blog/nvidia/nemotron-diarization"
+    "https://huggingface.co/blog/nvidia/nemotron-diarization",
+    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/20/us-air-force-seeking-air-defense-missile-system-to-protect-air-bases/",
-    "https://www.militarytimes.com/veterans/2026/07/20/our-veterans-deserve-better-inside-the-va-nursing-shortage/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/20/lockheed-martins-morfius-x-rotor-built-to-fry-50-enemy-drones-in-one-flight/",
     "https://www.militarytimes.com/news/your-military/2026/07/20/lockheed-martin-announces-cheaper-patriot-interceptor-missile/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/20/thunderstruck-anduril-unveils-autonomous-attack-rotorcraft/",
@@ -1716,6 +1714,9 @@
     "https://www.militarytimes.com/global/europe/2026/09/23/greenland-welcomes-us-military-pact-but-trust-still-shaky/",
     "https://www.militarytimes.com/news/your-military/2026/09/23/active-duty-airman-pronounced-dead-at-off-base-housing-in-italy/",
     "https://www.militarytimes.com/news/your-military/2026/09/23/instructor-admits-to-being-grossly-negligent-in-fatal-shooting-at-letterkenny-army-depot/",
-    "https://www.militarytimes.com/global/europe/2026/09/23/germany-wants-to-manufacture-american-pac-3-interceptors-to-help-meet-global-demand/"
+    "https://www.militarytimes.com/global/europe/2026/09/23/germany-wants-to-manufacture-american-pac-3-interceptors-to-help-meet-global-demand/",
+    "https://www.militarytimes.com/news/your-military/2026/09/23/last-operational-hh-60g-pave-hawk-completes-final-flight/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers/",
+    "https://www.militarytimes.com/pay-benefits/2026/09/23/5-military-reservists-file-class-action-lawsuit-seeking-differential-pay/"
   ]
 }
