@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/07/kremlin-hackers-are-exploiting-exchange-flaw-to-backdoor-unpatched-networks/",
-    "https://arstechnica.com/tech-policy/2026/07/trump-fccs-war-on-abc-slammed-by-both-conservatives-and-liberals/",
     "https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site/",
     "https://arstechnica.com/gaming/2026/07/the-disc-is-not-the-game-physical-releases-increasingly-require-extra-downloads/",
     "https://arstechnica.com/ai/2026/07/chrome-may-get-faster-updates-with-no-restart-required/",
@@ -499,28 +497,11 @@
     "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
     "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
     "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-    "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/"
+    "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
+    "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
+    "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10933-6",
-    "https://www.nature.com/articles/s41586-026-10877-x",
-    "https://www.nature.com/articles/s41586-026-10912-x",
-    "https://www.nature.com/articles/s41586-026-10917-6",
-    "https://www.nature.com/articles/s41586-026-10924-7",
-    "https://www.nature.com/articles/s41586-026-10910-z",
-    "https://www.nature.com/articles/s41586-026-10894-w",
-    "https://www.nature.com/articles/s41586-026-10687-1",
-    "https://www.nature.com/articles/d41586-026-02554-w",
-    "https://www.science.org/content/article/brain-eating-amoeba-appears-love-crawling-narrow-spaces",
-    "https://www.science.org/content/article/former-fauci-adviser-pleads-guilty-hiding-covid-19-communications",
-    "https://www.science.org/content/article/fastest-known-star-could-reveal-spin-our-galaxy-s-giant-black-hole",
-    "https://www.science.org/content/article/mysterious-droplets-cat-kidneys-may-help-felines-send-long-lasting-messages",
-    "https://www.science.org/content/article/china-mission-aims-moon-s-hidden-water-hopping-probe",
-    "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
-    "https://www.science.org/content/article/truck-size-crocodilians-once-ruled-south-america-s-wetlands",
-    "https://www.science.org/content/article/nsf-s-new-call-research-proposals-good-news-scientists-and-staffers-have-doubts",
-    "https://www.nature.com/articles/d41586-026-02586-2",
-    "https://www.nature.com/articles/d41586-026-02549-7",
     "https://www.nature.com/articles/d41586-026-02553-x",
     "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
     "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/",
@@ -1001,7 +982,26 @@
     "https://www.nature.com/articles/d41586-026-02986-4",
     "https://www.nature.com/articles/d41586-026-02949-9",
     "https://www.nature.com/articles/d41586-026-02930-6",
-    "https://www.nature.com/articles/d41586-026-02563-9"
+    "https://www.nature.com/articles/d41586-026-02563-9",
+    "https://www.nature.com/articles/s41586-026-11189-w",
+    "https://www.nature.com/articles/s41586-026-11169-0",
+    "https://www.nature.com/articles/d41586-026-03021-2",
+    "https://www.nature.com/articles/d41586-026-02856-z",
+    "https://www.nature.com/articles/s41586-026-11053-x",
+    "https://www.nature.com/articles/s41586-026-11058-6",
+    "https://www.nature.com/articles/s41586-026-10999-2",
+    "https://www.nature.com/articles/s41586-026-10836-6",
+    "https://www.nature.com/articles/s41586-026-11072-8",
+    "https://www.nature.com/articles/s41586-026-11016-2",
+    "https://www.nature.com/articles/s41586-026-11049-7",
+    "https://www.nature.com/articles/s41586-026-11051-z",
+    "https://www.nature.com/articles/s41586-026-11056-8",
+    "https://www.nature.com/articles/s41586-026-11028-y",
+    "https://www.nature.com/articles/s41586-026-11007-3",
+    "https://www.nature.com/articles/s41586-026-11054-w",
+    "https://www.nature.com/articles/s41586-026-11059-5",
+    "https://www.nature.com/articles/s41586-026-11033-1",
+    "https://www.nature.com/articles/s41586-026-10271-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1213,14 +1213,10 @@
     "https://huggingface.co/blog/tokenizers-v1",
     "https://huggingface.co/blog/omlx",
     "https://huggingface.co/blog/transformers-llama-cpp-quants",
-    "https://huggingface.co/blog/evaleval-aisi"
+    "https://huggingface.co/blog/evaleval-aisi",
+    "https://huggingface.co/blog/nvidia/nemotron-diarization"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-army/2026/07/18/soldier-girlfriend-allegedly-starved-child-and-dogs-to-death/",
-    "https://www.militarytimes.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/",
-    "https://www.militarytimes.com/news/your-military/2026/07/19/doctors-question-evidence-behind-pentagons-testosterone-screening-plan/",
-    "https://www.militarytimes.com/news/your-military/2026/07/19/us-service-member-killed-in-northern-iraq-us-central-command-says/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/20/trust-between-operators-ccas-starts-with-simulations-former-air-force-secretary/",
     "https://www.militarytimes.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/20/us-air-force-seeking-air-defense-missile-system-to-protect-air-bases/",
     "https://www.militarytimes.com/veterans/2026/07/20/our-veterans-deserve-better-inside-the-va-nursing-shortage/",
@@ -1715,6 +1711,11 @@
     "https://www.militarytimes.com/news/your-navy/2026/09/22/navy-successfully-tests-new-autonomous-aircraft-feature-aimed-at-simplifying-mission-planning/",
     "https://www.militarytimes.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/",
     "https://www.militarytimes.com/news/your-navy/2026/09/22/sailors-reminisce-say-final-goodbye-to-uss-georgia-before-retirement/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/22/pentagon-adds-new-warfighter-evaluation-for-officers-seeking-first-star/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/22/pentagon-adds-new-warfighter-evaluation-for-officers-seeking-first-star/",
+    "https://www.militarytimes.com/air/2026/09/23/air-force-civilian-staff-dispute-status-of-china-aerospace-studies-institute/",
+    "https://www.militarytimes.com/global/europe/2026/09/23/greenland-welcomes-us-military-pact-but-trust-still-shaky/",
+    "https://www.militarytimes.com/news/your-military/2026/09/23/active-duty-airman-pronounced-dead-at-off-base-housing-in-italy/",
+    "https://www.militarytimes.com/news/your-military/2026/09/23/instructor-admits-to-being-grossly-negligent-in-fatal-shooting-at-letterkenny-army-depot/",
+    "https://www.militarytimes.com/global/europe/2026/09/23/germany-wants-to-manufacture-american-pac-3-interceptors-to-help-meet-global-demand/"
   ]
 }
