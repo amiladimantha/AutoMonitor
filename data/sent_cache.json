@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
-    "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
-    "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
-    "https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/",
-    "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-    "https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/",
     "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
     "https://arstechnica.com/tech-policy/2026/08/trump-wants-the-power-to-stop-the-public-from-suing-polluters/",
     "https://arstechnica.com/cars/2026/08/how-headlights-got-brighter-whiter-and-more-blinding-after-dark/",
@@ -499,7 +493,13 @@
     "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
     "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
     "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
-    "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/"
+    "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/",
+    "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+    "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
+    "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+    "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+    "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
+    "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02574-6",
@@ -1219,11 +1219,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/",
-    "https://www.militarytimes.com/opinion/2026/07/21/from-depot-to-detonation-the-case-for-a-unified-logistics-picture/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/",
-    "https://www.militarytimes.com/news/your-military/2026/07/21/us-marine-corps-turns-to-ai-powered-bullfrog-as-drone-threats-expand/",
-    "https://www.militarytimes.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/",
     "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-soldier-killed-in-controlled-detonation-of-iranian-drone/",
     "https://www.militarytimes.com/air/2026/07/21/boeing-on-track-for-2028-air-force-one-delivery-costs-rise/",
     "https://www.militarytimes.com/news/recruiting/2026/07/21/space-force-swears-in-first-batch-of-part-time-workers/",
@@ -1718,6 +1713,11 @@
     "https://www.militarytimes.com/global/2026/09/24/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says/",
     "https://www.militarytimes.com/veterans/2026/09/24/va-terminated-11-billion-in-contracts-after-doge-requests-watchdog-finds/",
     "https://www.militarytimes.com/opinion/2026/09/24/why-the-last-tactical-mile-is-crucial-to-acquisition-reform/",
-    "https://www.militarytimes.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/"
+    "https://www.militarytimes.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/",
+    "https://www.militarytimes.com/veterans/2026/09/24/inside-the-inaugural-meeting-of-trumps-military-spouse-commission/",
+    "https://www.militarytimes.com/news/your-military/2026/09/24/us-destroyer-practices-at-sea-drone-refueling/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/24/8-sailors-attempted-suicide-aboard-ships-from-lincoln-strike-group-cao-says/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/24/nominees-voice-commitment-to-veterans-during-hearing-for-veterans-appeals-roles/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/24/military-personnel-data-exposed-in-breach-agency-warns/"
   ]
 }
