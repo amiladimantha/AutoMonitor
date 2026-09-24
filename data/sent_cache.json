@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
-    "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
-    "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
-    "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
     "https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/",
     "https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/",
     "https://arstechnica.com/science/2026/08/how-fruit-flies-chase-invisible-ribbons-of-smell-to-get-to-their-source/",
@@ -499,14 +495,13 @@
     "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
     "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
     "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
-    "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/"
+    "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+    "https://arstechnica.com/space/2026/09/nasa-chief-concerned-china-may-deny-access-to-parts-of-south-pole/",
+    "https://arstechnica.com/ai/2026/09/meta-puts-its-ai-assistant-on-a-keychain/",
+    "https://arstechnica.com/security/2026/09/theres-a-new-way-to-break-rsa-thats-faster-than-anything-weve-seen-before/",
+    "https://arstechnica.com/gadgets/2026/09/review-apples-hyper-pricey-m5-ultra-mac-studio-made-me-into-a-vibe-coder/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-    "https://www.nature.com/articles/d41586-026-02551-z",
-    "https://www.nature.com/articles/d41586-026-02555-9",
-    "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-    "https://www.science.org/content/article/footprints-may-reveal-biggest-known-mammal-age-dinosaurs",
     "https://www.nature.com/articles/d41586-026-02574-6",
     "https://www.science.org/content/article/investigators-nih-s-autism-initiative-funding-comes-big-spotlight",
     "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
@@ -1001,7 +996,12 @@
     "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
     "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
     "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-    "https://www.science.org/content/article/project-will-harness-technology-track-amazon-biodiversity-real-time"
+    "https://www.science.org/content/article/project-will-harness-technology-track-amazon-biodiversity-real-time",
+    "https://www.nature.com/articles/d41586-026-02988-2",
+    "https://www.nature.com/articles/d41586-026-02989-1",
+    "https://www.nature.com/articles/d41586-026-02990-8",
+    "https://www.nature.com/articles/d41586-026-03024-z",
+    "https://www.nature.com/articles/d41586-026-03022-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1215,15 +1215,10 @@
     "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "https://huggingface.co/blog/evaleval-aisi",
     "https://huggingface.co/blog/nvidia/nemotron-diarization",
-    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
+    "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/20/new-ai-tool-helps-afghan-allies-at-risk-find-visa-pathways/",
-    "https://www.militarytimes.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
-    "https://www.militarytimes.com/news/your-military/2026/07/20/new-air-force-one-to-get-maxed-out-upgrades-after-security-questions/",
-    "https://www.militarytimes.com/news/your-military/2026/07/20/coast-guard-monitors-chinese-research-vessel-as-it-cuts-through-sovereign-us-waters-to-the-arctic/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/20/air-force-begins-piloted-flights-autonomy-tests-for-modified-f-16s/",
-    "https://www.militarytimes.com/news/your-military/2026/07/20/airman-dies-in-equipment-incident-at-california-space-force-base/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/",
     "https://www.militarytimes.com/opinion/2026/07/21/from-depot-to-detonation-the-case-for-a-unified-logistics-picture/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/",
@@ -1717,6 +1712,12 @@
     "https://www.militarytimes.com/pay-benefits/2026/09/23/5-military-reservists-file-class-action-lawsuit-seeking-differential-pay/",
     "https://www.militarytimes.com/news/your-military/2026/09/23/army-identifies-19th-us-service-member-to-die-amid-iran-war/",
     "https://www.militarytimes.com/opinion/2026/09/23/senate-should-act-fast-on-bipartisan-veterans-home-effort/",
-    "https://www.militarytimes.com/news/your-army/2026/09/24/army-awards-palantir-481m-to-modernize-ammo-management/"
+    "https://www.militarytimes.com/news/your-army/2026/09/24/army-awards-palantir-481m-to-modernize-ammo-management/",
+    "https://www.militarytimes.com/news/your-military/2026/09/24/nellis-air-force-base-says-goodbye-to-last-a-10-thunderbolt-ii/",
+    "https://www.militarytimes.com/news/your-military/2026/09/24/these-navy-ships-have-the-most-sailor-burnout-study-finds/",
+    "https://www.militarytimes.com/global/2026/09/24/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says/",
+    "https://www.militarytimes.com/veterans/2026/09/24/va-terminated-11-billion-in-contracts-after-doge-requests-watchdog-finds/",
+    "https://www.militarytimes.com/opinion/2026/09/24/why-the-last-tactical-mile-is-crucial-to-acquisition-reform/",
+    "https://www.militarytimes.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/"
   ]
 }
