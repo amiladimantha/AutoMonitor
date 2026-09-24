@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/07/china-could-supply-ev-manufacturing-boom-with-recycled-evs/",
-    "https://arstechnica.com/gaming/2026/07/sony-acknowledges-backlash-will-cautiously-move-forward-with-end-of-discs/",
-    "https://arstechnica.com/tech-policy/2026/07/man-invested-45m-in-a-nicolas-cage-movie-it-got-stolen-off-netflixs-desk/",
-    "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
-    "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
     "https://arstechnica.com/culture/2026/07/ai-startup-admits-tattoo-for-interview-stunt-was-reckless/",
     "https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/",
     "https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/",
@@ -499,10 +494,14 @@
     "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
     "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
     "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-    "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/"
+    "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
+    "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
+    "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
+    "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
+    "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
+    "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/"
   ],
   "Science": [
-    "https://www.science.org/content/article/nasa-abandons-orbit-boosting-rescue-mission-space-observatory",
     "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
     "https://www.nature.com/articles/d41586-026-02551-z",
     "https://www.nature.com/articles/d41586-026-02555-9",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
     "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
     "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/"
+    "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+    "https://www.science.org/content/article/project-will-harness-technology-track-amazon-biodiversity-real-time"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1218,7 +1218,6 @@
     "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/07/20/thunderstruck-anduril-unveils-autonomous-attack-rotorcraft/",
     "https://www.militarytimes.com/news/your-military/2026/07/20/new-ai-tool-helps-afghan-allies-at-risk-find-visa-pathways/",
     "https://www.militarytimes.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
     "https://www.militarytimes.com/news/your-military/2026/07/20/new-air-force-one-to-get-maxed-out-upgrades-after-security-questions/",
@@ -1717,6 +1716,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers/",
     "https://www.militarytimes.com/pay-benefits/2026/09/23/5-military-reservists-file-class-action-lawsuit-seeking-differential-pay/",
     "https://www.militarytimes.com/news/your-military/2026/09/23/army-identifies-19th-us-service-member-to-die-amid-iran-war/",
-    "https://www.militarytimes.com/opinion/2026/09/23/senate-should-act-fast-on-bipartisan-veterans-home-effort/"
+    "https://www.militarytimes.com/opinion/2026/09/23/senate-should-act-fast-on-bipartisan-veterans-home-effort/",
+    "https://www.militarytimes.com/news/your-army/2026/09/24/army-awards-palantir-481m-to-modernize-ammo-management/"
   ]
 }
