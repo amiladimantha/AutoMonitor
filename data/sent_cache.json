@@ -502,10 +502,6 @@
     "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/08/21/1142755/space-mirrors-night-sky/",
-    "https://www.nature.com/articles/d41586-026-02566-6",
-    "https://www.nature.com/articles/d41586-026-02352-4",
-    "https://www.nature.com/articles/d41586-026-02626-x",
     "https://www.nature.com/articles/d41586-026-02617-y",
     "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
     "https://www.nature.com/articles/d41586-026-02596-0",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-03020-3",
     "https://www.nature.com/articles/d41586-026-03005-2",
     "https://www.nature.com/articles/d41586-026-03032-z",
-    "https://www.nature.com/articles/d41586-026-03029-8"
+    "https://www.nature.com/articles/d41586-026-03029-8",
+    "https://www.nature.com/articles/d41586-026-03023-0",
+    "https://www.nature.com/articles/d41586-026-03016-z",
+    "https://www.nature.com/articles/d41586-026-02980-w",
+    "https://www.nature.com/articles/d41586-026-03028-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1219,10 +1219,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/recruiting/2026/07/21/space-force-swears-in-first-batch-of-part-time-workers/",
-    "https://www.militarytimes.com/pentagon/2026/07/21/hanwha-philly-shipyard-awarded-2-billion-to-build-2-missile-tracking-vessels/",
-    "https://www.militarytimes.com/news/your-military/2026/07/21/marine-corps-mv-22-osprey-suffers-engine-fire-during-air-force-training-exercise/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/iran-warns-bulgaria-against-aiding-us-military-operations/",
     "https://www.militarytimes.com/news/your-navy/2026/07/21/uss-charlotte-crew-that-reportedly-sank-iranian-frigate-awarded-navy-unit-commendation/",
     "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
@@ -1718,6 +1714,10 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/24/nominees-voice-commitment-to-veterans-during-hearing-for-veterans-appeals-roles/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/24/military-personnel-data-exposed-in-breach-agency-warns/",
     "https://www.militarytimes.com/veterans/2026/09/24/montford-point-marine-and-oldest-living-major-league-baseball-player-just-turned-102/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/09/25/us-f-35-fighters-to-debut-in-indian-multinational-air-exercise/"
+    "https://www.militarytimes.com/global/asia-pacific/2026/09/25/us-f-35-fighters-to-debut-in-indian-multinational-air-exercise/",
+    "https://www.militarytimes.com/news/your-military/2026/09/25/risking-billions-us-navys-massive-shipyard-overhaul-lacks-oversight-watchdog-says/",
+    "https://www.militarytimes.com/opinion/2026/09/25/as-gold-star-mothers-and-familys-day-approaches-words-matter/",
+    "https://www.militarytimes.com/news/your-military/2026/09/25/genetic-tolerance-to-the-heat-and-humidity-marines-search-for-next-parris-island-mascot/",
+    "https://www.militarytimes.com/news/your-military/2026/09/25/desolate-arctic-outpost-likely-to-host-us-troops-under-new-greenland-deal/"
   ]
 }
