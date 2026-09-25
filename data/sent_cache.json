@@ -1,16 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/",
-    "https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/",
-    "https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/",
-    "https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/",
-    "https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/",
-    "https://arstechnica.com/cars/2026/08/2027-chevrolet-corvette-grand-sport-x-proves-code-is-as-important-as-hardware/",
-    "https://arstechnica.com/tech-policy/2026/08/openai-says-apples-trade-secrets-lawsuit-is-aggressive-and-oddly-personal/",
-    "https://arstechnica.com/cars/2026/08/china-is-teslas-cash-cow-but-for-how-much-longer/",
-    "https://arstechnica.com/gadgets/2026/08/the-pixel-11s-glow-feature-is-actually-called-hilight-heres-what-it-does/",
-    "https://arstechnica.com/tech-policy/2026/08/can-trump-fcc-repeal-39-tv-ownership-cap-republican-who-wrote-cap-into-law-says-no/",
-    "https://arstechnica.com/health/2026/08/trump-admin-aware-of-deaths-in-explosive-diarrhea-outbreak-delays-reporting/",
     "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/",
     "https://arstechnica.com/tech-policy/2026/08/senators-demand-crackdown-on-wildfire-prediction-markets/",
     "https://arstechnica.com/tech-policy/2026/08/trump-forced-to-reinstate-broadband-grants-but-court-lets-us-scrap-race-criteria/",
@@ -499,18 +488,20 @@
     "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
     "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
     "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
-    "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/"
+    "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
+    "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+    "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+    "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+    "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+    "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+    "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
+    "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
+    "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
+    "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
+    "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
+    "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02617-y",
-    "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "https://www.nature.com/articles/d41586-026-02596-0",
-    "https://www.science.org/content/article/neurologist-antivaccine-views-lead-nih-s-child-health-institute",
-    "https://www.science.org/content/article/deadly-tick-borne-virus-gains-ground-europe-climate-warms",
-    "https://www.nature.com/articles/d41586-026-02616-z",
-    "https://www.nature.com/articles/d41586-026-02572-8",
-    "https://www.nature.com/articles/d41586-026-02571-9",
-    "https://www.nature.com/articles/d41586-026-02641-y",
     "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
     "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
     "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
@@ -1001,7 +992,16 @@
     "https://www.nature.com/articles/d41586-026-03023-0",
     "https://www.nature.com/articles/d41586-026-03016-z",
     "https://www.nature.com/articles/d41586-026-02980-w",
-    "https://www.nature.com/articles/d41586-026-03028-9"
+    "https://www.nature.com/articles/d41586-026-03028-9",
+    "https://www.science.org/content/article/japan-s-science-council-face-greater-governmental-oversight",
+    "https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls",
+    "https://www.science.org/content/article/nih-details-170-million-biomedical-research-reproducibility-effort",
+    "https://www.science.org/content/article/little-known-arm-immune-system-could-be-key-better-vaccines-cancer-therapies",
+    "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+    "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
+    "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
+    "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1219,12 +1219,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/07/21/uss-charlotte-crew-that-reportedly-sank-iranian-frigate-awarded-navy-unit-commendation/",
-    "https://www.militarytimes.com/news/your-military/2026/07/21/pentagon-identifies-third-american-soldier-killed-in-iranian-attack-in-jordan/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
-    "https://www.militarytimes.com/opinion/2026/07/22/america-cannot-surge-experience/",
-    "https://www.militarytimes.com/news/your-marine-corps/2026/07/22/marines-release-updated-heat-cold-injury-safety-guidance/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/22/too-many-trucks-too-many-zeros-army-audit-drive-exposes-flaws-as-pentagon-nears-2028-goal/",
     "https://www.militarytimes.com/news/your-military/2026/07/22/4-us-soldiers-killed-in-iran-war-return-to-american-soil/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/22/boeings-mq-28-ghost-bat-makes-farnborough-airshow-debut/",
     "https://www.militarytimes.com/veterans/2026/07/22/how-a-10-billion-veterans-bill-became-a-78-billion-debate/",
@@ -1718,6 +1712,12 @@
     "https://www.militarytimes.com/news/your-military/2026/09/25/risking-billions-us-navys-massive-shipyard-overhaul-lacks-oversight-watchdog-says/",
     "https://www.militarytimes.com/opinion/2026/09/25/as-gold-star-mothers-and-familys-day-approaches-words-matter/",
     "https://www.militarytimes.com/news/your-military/2026/09/25/genetic-tolerance-to-the-heat-and-humidity-marines-search-for-next-parris-island-mascot/",
-    "https://www.militarytimes.com/news/your-military/2026/09/25/desolate-arctic-outpost-likely-to-host-us-troops-under-new-greenland-deal/"
+    "https://www.militarytimes.com/news/your-military/2026/09/25/desolate-arctic-outpost-likely-to-host-us-troops-under-new-greenland-deal/",
+    "https://www.militarytimes.com/news/your-military/2026/09/25/idaho-national-guard-carries-out-3-isolated-rescues-in-4-days/",
+    "https://www.militarytimes.com/news/your-military/2026/09/25/airmen-discover-body-in-charred-vehicle-near-eglin-air-force-base/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
+    "https://www.militarytimes.com/news/your-military/2026/09/25/misaligned-fan-blades-loss-of-thrust-caused-thunderbird-f-16-crash/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
+    "https://www.militarytimes.com/opinion/2026/09/25/the-military-spouse-commission-viable-solution-or-classic-bureaucratic-dog-and-pony-show/"
   ]
 }
