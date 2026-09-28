@@ -1,13 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
-    "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
-    "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
-    "https://arstechnica.com/tech-policy/2026/08/spacex-claims-starlink-mobile-will-be-better-than-att-t-mobile-and-verizon/",
-    "https://arstechnica.com/science/2026/08/this-atlantic-hurricane-season-is-looking-like-a-dud-but-there-will-be-a-price-to-pay/",
-    "https://arstechnica.com/gadgets/2026/08/googles-ai-shakeup-deepminds-hassabis-steps-aside-senior-scientists-depart/",
-    "https://arstechnica.com/culture/2026/08/review-spider-man-brand-new-day-reminds-us-that-superhero-movies-can-be-good/",
-    "https://arstechnica.com/health/2026/08/report-cdc-finally-plans-formal-response-team-for-explosive-diarrhea-outbreak/",
     "https://arstechnica.com/health/2026/08/schwartz-confirmed-as-cdc-director-after-bungling-confirmation-hearing/",
     "https://arstechnica.com/security/2026/08/anthropics-ai-used-fake-identities-malware-in-rogue-attack-on-github-project/",
     "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/",
@@ -499,10 +491,17 @@
     "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
     "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
     "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
-    "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/"
+    "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/",
+    "https://arstechnica.com/health/2026/09/to-keep-drug-prices-high-pharma-has-been-piling-up-the-patents/",
+    "https://arstechnica.com/cars/2026/09/trump-cuts-fuel-economy-standards-back-to-2014-levels/",
+    "https://arstechnica.com/tech-policy/2026/09/another-court-rules-kalshi-sports-bets-arent-swaps-says-states-can-crack-down/",
+    "https://arstechnica.com/gadgets/2026/09/google-seemingly-confirms-plans-to-kill-chromeos-in-2034/",
+    "https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/",
+    "https://arstechnica.com/cars/2026/09/f1-in-azerbaijan-that-was-almost-a-close-run-thing/",
+    "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+    "https://arstechnica.com/space/2026/09/nasa-for-the-time-being-is-unable-to-move-the-space-stations-large-robotic-armthe-large-robotic-arm-on-the-international-space-station-has-stopped-working/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02632-z",
     "https://www.nature.com/articles/d41586-026-02094-3",
     "https://www.nature.com/articles/d41586-026-02622-1",
     "https://www.nature.com/articles/d41586-026-02573-7",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02959-7",
     "https://www.nature.com/articles/d41586-026-02964-w",
     "https://www.nature.com/articles/d41586-026-02962-y",
-    "https://www.nature.com/articles/d41586-026-03043-w"
+    "https://www.nature.com/articles/d41586-026-03043-w",
+    "https://www.nature.com/articles/d41586-026-02277-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1220,16 +1220,6 @@
     "https://huggingface.co/blog/Hcompany/holo4"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/07/22/how-a-10-billion-veterans-bill-became-a-78-billion-debate/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/22/pentagon-to-roll-out-new-test-to-assess-troops-cognitive-performance/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/22/thousands-of-marines-sailors-back-in-japan-after-deploying-for-iran-war/",
-    "https://www.militarytimes.com/veterans/2026/07/22/va-reduces-improper-payments-for-private-health-care-by-98-since-2020/",
-    "https://www.militarytimes.com/news/your-military/2026/07/22/us-navy-moving-forward-on-west-coast-dock-for-aircraft-carriers/",
-    "https://www.militarytimes.com/news/your-military/2026/07/22/two-wyoming-air-national-guard-commanders-relieved-of-duty/",
-    "https://www.militarytimes.com/news/your-military/2026/07/22/the-brrrrt-act-would-keep-more-warthogs-flying-and-force-the-air-force-to-reverse-course/",
-    "https://www.militarytimes.com/news/your-military/2026/07/22/militarys-largest-supercomputer-is-now-live-at-navy-base/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/22/house-passes-115-trillion-defense-budget-in-near-party-line-vote/",
-    "https://www.militarytimes.com/news/your-military/2026/07/23/trump-promised-redemption-for-troops-who-refused-covid-shots-a-year-later-many-are-still-waiting/",
     "https://www.militarytimes.com/opinion/2026/07/23/widespread-hormone-replacement-could-yield-long-term-detriments-that-outweigh-benefits/",
     "https://www.militarytimes.com/opinion/2026/07/23/peace-through-secure-supply-chains/",
     "https://www.militarytimes.com/veterans/military-history/2026/07/23/25-years-later-band-of-brothers-still-resonates/",
@@ -1719,6 +1709,16 @@
     "https://www.militarytimes.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
     "https://www.militarytimes.com/opinion/2026/09/25/the-military-spouse-commission-viable-solution-or-classic-bureaucratic-dog-and-pony-show/",
     "https://www.militarytimes.com/news/your-military/2026/09/27/terror-suspects-wanted-to-do-big-damage-to-air-base-used-by-us-trump-says/",
-    "https://www.militarytimes.com/news/your-military/2026/09/28/separate-engine-fires-in-3-navy-marine-corps-aircraft-force-emergency-landings/"
+    "https://www.militarytimes.com/news/your-military/2026/09/28/separate-engine-fires-in-3-navy-marine-corps-aircraft-force-emergency-landings/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/28/heavy-losses-of-mq-9-reaper-to-factor-in-future-plans-to-divest-replace-aircraft/",
+    "https://www.militarytimes.com/opinion/2026/09/28/the-armys-most-dangerous-logistics-problem-is-hiding-behind-motor-pools/",
+    "https://www.militarytimes.com/off-duty/military-culture/2026/09/28/green-beret-who-survived-an-ied-now-clears-ukraines-landmines/",
+    "https://www.militarytimes.com/news/your-military/2026/09/28/corps-offers-incentives-for-marines-willing-to-extend-overseas-tours/",
+    "https://www.militarytimes.com/news/your-military/2026/09/28/soldier-charged-in-shooting-death-of-infant/",
+    "https://www.militarytimes.com/news/your-military/2026/09/28/meet-axel-the-deaf-rescue-dog-now-set-to-deploy/",
+    "https://www.militarytimes.com/news/your-military/2026/09/28/air-force-identifies-airman-found-dead-in-burnt-car-near-florida-base/",
+    "https://www.militarytimes.com/news/your-military/2026/09/28/army-launches-night-court-review-of-weapons-systems/",
+    "https://www.militarytimes.com/news/your-military/2026/09/28/special-operations-soldier-dies-after-airborne-training-exercise/",
+    "https://www.militarytimes.com/news/your-military/2026/09/28/army-leaders-wary-of-data-fatigue-as-fitness-management-system-rolls-out/"
   ]
 }
