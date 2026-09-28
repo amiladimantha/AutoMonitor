@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/08/evgo-starts-building-tesla-superchargers-under-license/",
     "https://arstechnica.com/science/2026/08/d-wave-on-rails-company-tests-entanglement-on-its-dual-rail-qubits/",
     "https://arstechnica.com/ai/2026/08/google-plans-to-kill-assistant-on-your-phone-on-september-4/",
     "https://arstechnica.com/ai/2026/08/hank-green-found-the-ai-problem-that-youtube-labels-cant-catch/",
@@ -499,14 +498,10 @@
     "https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/",
     "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
     "https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/",
-    "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/"
+    "https://arstechnica.com/tech-policy/2026/09/how-the-smithsonian-became-the-latest-front-in-trumps-culture-war/",
+    "https://arstechnica.com/tech-policy/2026/09/microsoft-goes-quiet-after-church-groups-ask-for-1-of-data-center-costs/"
   ],
   "Science": [
-    "https://www.science.org/content/article/china-abruptly-delays-mission-probe-moon-s-hidden-water",
-    "https://www.nature.com/articles/d41586-026-02620-3",
-    "https://www.nature.com/articles/d41586-026-02633-y",
-    "https://www.nature.com/articles/d41586-026-02631-0",
-    "https://www.nature.com/articles/d41586-026-02634-x",
     "https://www.nature.com/articles/d41586-026-02632-z",
     "https://www.nature.com/articles/d41586-026-02094-3",
     "https://www.nature.com/articles/d41586-026-02622-1",
@@ -1001,7 +996,12 @@
     "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
     "https://www.nature.com/articles/d41586-026-03041-y",
     "https://www.nature.com/articles/d41586-026-03039-6",
-    "https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared"
+    "https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared",
+    "https://www.nature.com/articles/d41586-026-03004-3",
+    "https://www.nature.com/articles/d41586-026-02959-7",
+    "https://www.nature.com/articles/d41586-026-02964-w",
+    "https://www.nature.com/articles/d41586-026-02962-y",
+    "https://www.nature.com/articles/d41586-026-03043-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1216,10 +1216,10 @@
     "https://huggingface.co/blog/evaleval-aisi",
     "https://huggingface.co/blog/nvidia/nemotron-diarization",
     "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
-    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark"
+    "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+    "https://huggingface.co/blog/Hcompany/holo4"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/07/22/boeings-mq-28-ghost-bat-makes-farnborough-airshow-debut/",
     "https://www.militarytimes.com/veterans/2026/07/22/how-a-10-billion-veterans-bill-became-a-78-billion-debate/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/22/pentagon-to-roll-out-new-test-to-assess-troops-cognitive-performance/",
     "https://www.militarytimes.com/news/your-navy/2026/07/22/thousands-of-marines-sailors-back-in-japan-after-deploying-for-iran-war/",
@@ -1718,6 +1718,7 @@
     "https://www.militarytimes.com/news/your-military/2026/09/25/misaligned-fan-blades-loss-of-thrust-caused-thunderbird-f-16-crash/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
     "https://www.militarytimes.com/opinion/2026/09/25/the-military-spouse-commission-viable-solution-or-classic-bureaucratic-dog-and-pony-show/",
-    "https://www.militarytimes.com/news/your-military/2026/09/27/terror-suspects-wanted-to-do-big-damage-to-air-base-used-by-us-trump-says/"
+    "https://www.militarytimes.com/news/your-military/2026/09/27/terror-suspects-wanted-to-do-big-damage-to-air-base-used-by-us-trump-says/",
+    "https://www.militarytimes.com/news/your-military/2026/09/28/separate-engine-fires-in-3-navy-marine-corps-aircraft-force-emergency-landings/"
   ]
 }
