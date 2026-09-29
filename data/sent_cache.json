@@ -502,14 +502,6 @@
     "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02094-3",
-    "https://www.nature.com/articles/d41586-026-02622-1",
-    "https://www.nature.com/articles/d41586-026-02573-7",
-    "https://www.technologyreview.com/2026/08/25/1141750/welcome-to-spiderverse-arachnid-webs/",
-    "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/",
-    "https://www.nature.com/articles/s41586-026-11017-1",
-    "https://www.nature.com/articles/d41586-026-02115-1",
-    "https://www.nature.com/articles/d41586-026-02550-0",
     "https://www.nature.com/articles/d41586-026-02382-y",
     "https://www.nature.com/articles/d41586-026-02665-4",
     "https://www.nature.com/articles/d41586-026-02638-7",
@@ -1001,7 +993,15 @@
     "https://www.nature.com/articles/d41586-026-02964-w",
     "https://www.nature.com/articles/d41586-026-02962-y",
     "https://www.nature.com/articles/d41586-026-03043-w",
-    "https://www.nature.com/articles/d41586-026-02277-y"
+    "https://www.nature.com/articles/d41586-026-02277-y",
+    "https://www.science.org/content/article/scientists-engineered-glowing-cuttlefish-why-was-it-so-hard",
+    "https://www.science.org/content/article/russian-drone-kills-least-two-ukraine-science-academy-attack",
+    "https://www.science.org/content/article/fed-brazil-s-politicians-not-listening-climate-scientist-runs-office",
+    "https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed",
+    "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+    "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+    "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
+    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
