@@ -502,15 +502,6 @@
     "https://arstechnica.com/science/2026/09/new-device-captures-carbon-dioxide-by-pumping-it-across-a-battery/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02382-y",
-    "https://www.nature.com/articles/d41586-026-02665-4",
-    "https://www.nature.com/articles/d41586-026-02638-7",
-    "https://www.nature.com/articles/d41586-026-02567-5",
-    "https://www.nature.com/articles/d41586-026-02569-3",
-    "https://www.nature.com/articles/d41586-026-02635-w",
-    "https://www.nature.com/articles/d41586-026-02611-4",
-    "https://www.nature.com/articles/d41586-026-02661-8",
-    "https://www.science.org/content/article/what-jurassic-forest-may-have-sounded",
     "https://www.science.org/content/article/predict-tree-death-scientists-tapped-gamma-rays-peer-underground",
     "https://www.science.org/content/article/fraudulent-images-are-rife-antibody-sellers-websites-researcher-says",
     "https://www.technologyreview.com/2026/08/25/1140908/art-and-algorithms-at-sothebys/",
@@ -1001,7 +992,16 @@
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
     "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+    "https://www.nature.com/articles/d41586-026-03053-8",
+    "https://www.nature.com/articles/d41586-026-03056-5",
+    "https://www.nature.com/articles/d41586-026-03054-7",
+    "https://www.nature.com/articles/d41586-026-02971-x",
+    "https://www.nature.com/articles/d41586-026-03055-6",
+    "https://www.nature.com/articles/d41586-026-02961-z",
+    "https://www.nature.com/articles/d41586-026-02759-z",
+    "https://www.nature.com/articles/d41586-026-02776-y",
+    "https://www.nature.com/articles/d41586-026-02960-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
