@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-    "https://arstechnica.com/space/2026/08/blue-origin-narrowing-in-on-root-cause-of-catastrophic-rocket-accident/",
-    "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
-    "https://arstechnica.com/tech-policy/2026/08/trump-fcc-kills-tv-ownership-cap-claiming-authority-over-limit-set-by-congress/",
     "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
     "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
     "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
@@ -499,14 +495,13 @@
     "https://arstechnica.com/science/2026/09/fruit-flies-remember-their-larval-diet-which-influences-their-longevity/",
     "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
     "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-    "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/"
+    "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+    "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+    "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+    "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+    "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/",
-    "https://www.science.org/content/article/researchers-presented-6000-papers-major-meeting-could-ai-reproduce-their-findings",
-    "https://www.science.org/content/article/worldwide-study-diseases-gets-historic-funding-influx",
-    "https://www.science.org/content/article/global-first-mexico-approves-use-rna-based-fungicide",
-    "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
     "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
     "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
     "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-02960-0",
     "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
     "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
+    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+    "https://www.nature.com/articles/s41586-026-11083-5",
+    "https://www.nature.com/articles/d41586-026-02972-w",
+    "https://www.nature.com/articles/d41586-026-03046-7",
+    "https://www.nature.com/articles/d41586-026-03048-5",
+    "https://www.nature.com/articles/d41586-026-03089-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1222,10 +1222,6 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/07/23/in-a-suicide-crisis-eligible-veterans-can-go-to-any-er-for-free-nearly-50000-already-have/",
-    "https://www.militarytimes.com/news/your-military/2026/07/23/parris-island-drill-instructor-found-dead-in-apartment/",
-    "https://www.militarytimes.com/news/your-military/2026/07/24/meet-the-48-year-old-space-force-guardian-setting-hawaii-state-powerlifting-records/",
-    "https://www.militarytimes.com/news/your-military/2026/07/24/national-guard-awards-292-million-for-2000-apartment-style-units-for-dc-deployments/",
     "https://www.militarytimes.com/news/your-military/2026/07/24/selective-service-system-wants-to-wargame-the-draft/",
     "https://www.militarytimes.com/news/your-military/2026/07/24/pentagon-nominates-lt-gen-admiral-to-command-us-army-europe-and-africa/",
     "https://www.militarytimes.com/news/your-military/2026/07/24/texas-joint-base-medical-barracks-to-be-demolished-forcing-the-relocation-of-enlisted-students/",
@@ -1721,6 +1717,10 @@
     "https://www.militarytimes.com/news/your-military/2026/09/29/uss-klakring-sent-to-the-bottom-of-the-atlantic-in-joint-us-uk-sinkex/",
     "https://www.militarytimes.com/news/your-navy/2026/09/29/2-aviators-eject-4-injured-during-landing-mishap-aboard-uss-dwight-d-eisenhower/",
     "https://www.militarytimes.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
-    "https://www.militarytimes.com/news/your-military/2026/09/29/troops-at-cannon-afb-lost-5000-duty-days-traveling-for-medical-care-gao/"
+    "https://www.militarytimes.com/news/your-military/2026/09/29/troops-at-cannon-afb-lost-5000-duty-days-traveling-for-medical-care-gao/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
+    "https://www.militarytimes.com/news/your-navy/2026/09/29/us-navy-taps-3-firms-to-build-musvs-for-around-40m-per-vessel/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/29/hegseth-halts-tenure-appointments-for-civilian-faculty-at-military-academies/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/29/pentagon-chief-set-to-announce-additional-cuts-in-senior-officer-positions/"
   ]
 }
