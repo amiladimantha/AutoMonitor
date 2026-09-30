@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
-    "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
     "https://arstechnica.com/gadgets/2026/08/remembering-the-pre-google-web-when-search-was-an-experiment/",
     "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
     "https://arstechnica.com/science/2026/08/the-worlds-biggest-solar-telescope-caught-vortexes-on-the-suns-surface/",
@@ -499,10 +497,11 @@
     "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
     "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
     "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
-    "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/"
+    "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+    "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+    "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
     "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
     "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
     "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02972-w",
     "https://www.nature.com/articles/d41586-026-03046-7",
     "https://www.nature.com/articles/d41586-026-03048-5",
-    "https://www.nature.com/articles/d41586-026-03089-w"
+    "https://www.nature.com/articles/d41586-026-03089-w",
+    "https://www.nature.com/articles/d41586-026-03035-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1222,7 +1222,6 @@
     "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/24/selective-service-system-wants-to-wargame-the-draft/",
     "https://www.militarytimes.com/news/your-military/2026/07/24/pentagon-nominates-lt-gen-admiral-to-command-us-army-europe-and-africa/",
     "https://www.militarytimes.com/news/your-military/2026/07/24/texas-joint-base-medical-barracks-to-be-demolished-forcing-the-relocation-of-enlisted-students/",
     "https://www.militarytimes.com/global/europe/2026/07/24/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships/",
@@ -1721,6 +1720,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
     "https://www.militarytimes.com/news/your-navy/2026/09/29/us-navy-taps-3-firms-to-build-musvs-for-around-40m-per-vessel/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/29/hegseth-halts-tenure-appointments-for-civilian-faculty-at-military-academies/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/29/pentagon-chief-set-to-announce-additional-cuts-in-senior-officer-positions/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/29/pentagon-chief-set-to-announce-additional-cuts-in-senior-officer-positions/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/09/30/why-the-pentagon-just-dropped-450m-on-tungsten-mining/"
   ]
 }
