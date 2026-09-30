@@ -1,15 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
-    "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
-    "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-    "https://arstechnica.com/science/2026/08/the-ultimate-eclipse-chase-a-concorde-raced-against-the-moons-shadow/",
-    "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
-    "https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/",
-    "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-    "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
-    "https://arstechnica.com/science/2026/08/peer-review-is-overwhelmed-can-it-survive-in-the-ai-era/",
-    "https://arstechnica.com/space/2026/08/one-of-chinas-workhorse-rockets-just-exploded-in-flight/",
     "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
     "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
     "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
@@ -499,10 +489,19 @@
     "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
     "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
     "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
-    "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/"
+    "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
+    "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+    "https://arstechnica.com/health/2026/09/fifth-unvaccinated-person-dies-of-measles-cdc-still-not-counting-all-deaths/",
+    "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+    "https://arstechnica.com/science/2026/09/scientists-built-implants-that-talk-to-each-other-through-body-tissue/",
+    "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+    "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+    "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
+    "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+    "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
+    "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02681-4",
     "https://www.nature.com/articles/s41586-026-10949-y",
     "https://www.nature.com/articles/s41586-026-10932-7",
     "https://www.nature.com/articles/s41586-026-10753-8",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02201-4",
     "https://www.nature.com/articles/d41586-026-02894-7",
     "https://www.nature.com/articles/s41586-026-11077-3",
-    "https://www.nature.com/articles/s41586-026-11060-y"
+    "https://www.nature.com/articles/s41586-026-11060-y",
+    "https://www.nature.com/articles/d41586-026-03086-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1223,9 +1223,6 @@
     "https://huggingface.co/blog/open-tts-leaderboard"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/27/private-bedrooms-wont-be-available-to-all-enlisted-marines/",
-    "https://www.militarytimes.com/news/your-military/2026/07/27/pentagon-moves-recent-kia-numbers-from-iran-war-into-overseas-operations-category/",
-    "https://www.militarytimes.com/news/your-military/2026/07/27/airmens-waist-to-height-ratios-not-to-be-scored-in-physical-fitness-assessments/",
     "https://www.militarytimes.com/news/your-military/2026/07/27/roaches-descend-on-us-army-dining-facility-viral-video-appears-to-show/",
     "https://www.militarytimes.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/",
     "https://www.militarytimes.com/news/your-navy/2026/07/27/navy-announces-new-flu-vaccination-requirements-for-sailors/",
@@ -1722,6 +1719,9 @@
     "https://www.militarytimes.com/industry/techwatch/2026/09/30/us-army-selects-five-companies-for-prsm-development/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/30/aircraft-carrier-uss-harry-s-truman-to-undergo-51b-mid-life-overhaul/",
     "https://www.militarytimes.com/news/your-military/2026/09/30/us-navy-signs-off-on-preliminary-acceptance-of-aircraft-carrier-uss-john-f-kennedy/",
-    "https://www.militarytimes.com/news/your-military/2026/09/30/first-elements-of-uss-abraham-lincoln-strike-group-return-home/"
+    "https://www.militarytimes.com/news/your-military/2026/09/30/first-elements-of-uss-abraham-lincoln-strike-group-return-home/",
+    "https://www.militarytimes.com/news/your-military/2026/09/30/hegseth-announces-new-four-star-command-for-autonomous-warfare/",
+    "https://www.militarytimes.com/news/your-military/2026/09/30/8-sailors-died-by-suicide-at-oklahoma-base-in-one-year-navy-confirms/",
+    "https://www.militarytimes.com/industry/techwatch/2026/09/30/us-air-force-awards-238b-contract-to-boeing-for-22-f-15ex/"
   ]
 }
