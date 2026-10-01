@@ -502,7 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10949-y",
     "https://www.nature.com/articles/s41586-026-10932-7",
     "https://www.nature.com/articles/s41586-026-10753-8",
     "https://www.nature.com/articles/s41586-026-10975-w",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02894-7",
     "https://www.nature.com/articles/s41586-026-11077-3",
     "https://www.nature.com/articles/s41586-026-11060-y",
-    "https://www.nature.com/articles/d41586-026-03086-z"
+    "https://www.nature.com/articles/d41586-026-03086-z",
+    "https://www.nature.com/articles/d41586-026-03042-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
