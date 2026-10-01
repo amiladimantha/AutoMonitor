@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/08/dogs-can-tell-if-youre-scared-or-sad/",
-    "https://arstechnica.com/cars/2026/08/2026-subaru-outback-limited-review-boxy-outside-almost-premium-inside/",
     "https://arstechnica.com/security/2026/08/a-researcher-bought-noreply-net-companies-started-sending-him-secrets/",
     "https://arstechnica.com/cars/2026/08/has-ford-got-cheap-car-fever-allegedly-a-25k-crossover-is-on-the-way/",
     "https://arstechnica.com/health/2026/08/taylor-farms-recalls-jalapeno-products-for-salmonella-amid-cyclospora-outbreak/",
@@ -499,13 +497,11 @@
     "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
     "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
     "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
-    "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/"
+    "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
+    "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
+    "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10932-7",
-    "https://www.nature.com/articles/s41586-026-10753-8",
-    "https://www.nature.com/articles/s41586-026-10975-w",
-    "https://www.nature.com/articles/s41586-026-10577-6",
     "https://www.nature.com/articles/s41586-026-10961-2",
     "https://www.nature.com/articles/s41586-026-10902-z",
     "https://www.nature.com/articles/s41586-026-10893-x",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/s41586-026-11077-3",
     "https://www.nature.com/articles/s41586-026-11060-y",
     "https://www.nature.com/articles/d41586-026-03086-z",
-    "https://www.nature.com/articles/d41586-026-03042-x"
+    "https://www.nature.com/articles/d41586-026-03042-x",
+    "https://www.nature.com/articles/s41586-026-11149-4",
+    "https://www.nature.com/articles/d41586-026-03101-3",
+    "https://www.nature.com/articles/d41586-026-03118-8",
+    "https://www.nature.com/articles/d41586-026-03138-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1220,14 +1220,10 @@
     "https://huggingface.co/blog/Hcompany/holo4",
     "https://huggingface.co/blog/nvidia/kumo-tabular",
     "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-    "https://huggingface.co/blog/open-tts-leaderboard"
+    "https://huggingface.co/blog/open-tts-leaderboard",
+    "https://huggingface.co/blog/allenai/olmocore3"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/27/roaches-descend-on-us-army-dining-facility-viral-video-appears-to-show/",
-    "https://www.militarytimes.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/27/navy-announces-new-flu-vaccination-requirements-for-sailors/",
-    "https://www.militarytimes.com/veterans/2026/07/27/suicidal-ideations-rise-among-veterans-but-attempts-remain-stable-study-finds/",
-    "https://www.militarytimes.com/news/your-navy/2026/07/27/navy-asks-private-sector-for-help-building-temporary-housing-during-renovations/",
     "https://www.militarytimes.com/news/your-navy/2026/07/27/uss-george-washington-operating-in-south-china-sea-as-china-philippines-tension-escalates/",
     "https://www.militarytimes.com/news/your-military/2026/07/28/shrapnel-broken-bones-and-head-trauma-new-records-show-how-us-troops-were-wounded-in-iran-war/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force/",
@@ -1722,6 +1718,11 @@
     "https://www.militarytimes.com/news/your-military/2026/09/30/first-elements-of-uss-abraham-lincoln-strike-group-return-home/",
     "https://www.militarytimes.com/news/your-military/2026/09/30/hegseth-announces-new-four-star-command-for-autonomous-warfare/",
     "https://www.militarytimes.com/news/your-military/2026/09/30/8-sailors-died-by-suicide-at-oklahoma-base-in-one-year-navy-confirms/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/30/us-air-force-awards-238b-contract-to-boeing-for-22-f-15ex/"
+    "https://www.militarytimes.com/industry/techwatch/2026/09/30/us-air-force-awards-238b-contract-to-boeing-for-22-f-15ex/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/10/01/taiwan-takes-a-page-from-ukraines-playbook-in-steeling-society-for-an-invasion/",
+    "https://www.militarytimes.com/unmanned/2026/10/01/neros-perennial-autonomy-lead-in-pentagons-drone-competition/",
+    "https://www.militarytimes.com/news/your-military/2026/10/01/citing-knowledge-gaps-army-rolls-out-barracks-guidebook-for-ncos/",
+    "https://www.militarytimes.com/space/2026/10/01/space-force-picks-two-companies-to-build-new-space-to-space-satellites-by-2028/",
+    "https://www.militarytimes.com/news/recruiting/2026/10/01/army-meets-reserve-special-forces-recruiting-goals-for-first-time-in-a-decade-general-confirms/"
   ]
 }
