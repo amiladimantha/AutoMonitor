@@ -502,10 +502,6 @@
     "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10980-z",
-    "https://www.nature.com/articles/s41586-026-10971-0",
-    "https://www.nature.com/articles/s41586-026-10936-3",
-    "https://www.nature.com/articles/s41586-026-10964-z",
     "https://www.nature.com/articles/s41586-026-10988-5",
     "https://www.nature.com/articles/s41586-026-10967-w",
     "https://www.nature.com/articles/s41586-026-10927-4",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-03138-4",
     "https://www.nature.com/articles/d41586-026-03036-9",
     "https://www.nature.com/articles/d41586-026-03044-9",
-    "https://www.nature.com/articles/d41586-026-03119-7"
+    "https://www.nature.com/articles/d41586-026-03119-7",
+    "https://www.nature.com/articles/d41586-026-03058-3",
+    "https://www.nature.com/articles/d41586-026-03126-8",
+    "https://www.nature.com/articles/d41586-026-02976-6",
+    "https://www.nature.com/articles/d41586-026-02564-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
