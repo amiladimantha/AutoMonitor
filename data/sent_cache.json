@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gaming/2026/08/ars-live-ross-scott-discusses-the-stop-killing-games-movement/",
-    "https://arstechnica.com/ai/2026/08/with-new-open-models-meta-pitches-another-reboot-of-its-struggling-ai-strategy/",
-    "https://arstechnica.com/health/2026/08/trump-signs-bonkers-order-that-cuts-vaccines-promotes-ones-that-dont-exist/",
-    "https://arstechnica.com/gadgets/2026/08/players-lose-access-to-aliens-fireteam-elite-on-nintendo-switch-without-refunds/",
-    "https://arstechnica.com/tech-policy/2026/08/amazon-funds-biggest-gas-power-plant-in-us-despite-climate-pledge/",
     "https://arstechnica.com/gadgets/2026/08/zuckerbergs-super-yacht-stood-by-while-stranded-boaters-looked-for-help/",
     "https://arstechnica.com/security/2026/08/heres-why-the-new-pass-ta-key-attack-is-mostly-a-nothingburger/",
     "https://arstechnica.com/security/2026/08/new-surveillance-tech-links-your-phone-to-your-license-plate/",
@@ -499,10 +494,14 @@
     "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
     "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
     "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/"
+    "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
+    "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+    "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
+    "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+    "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+    "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10893-x",
     "https://www.nature.com/articles/s41586-026-10980-z",
     "https://www.nature.com/articles/s41586-026-10971-0",
     "https://www.nature.com/articles/s41586-026-10936-3",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03118-8",
     "https://www.nature.com/articles/d41586-026-03138-4",
     "https://www.nature.com/articles/d41586-026-03036-9",
-    "https://www.nature.com/articles/d41586-026-03044-9"
+    "https://www.nature.com/articles/d41586-026-03044-9",
+    "https://www.nature.com/articles/d41586-026-03119-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1224,9 +1224,6 @@
     "https://huggingface.co/blog/allenai/olmocore3"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/opinion/2026/07/28/el-nino-is-a-threat-indicator-the-military-should-treat-it-like-one/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/28/south-carolina-military-base-to-be-renamed-after-lindsey-graham/",
-    "https://www.militarytimes.com/veterans/2026/07/28/job-search-coaches-gear-up-to-help-transitioning-troops-meet-ai-challenge/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/",
     "https://www.militarytimes.com/news/your-military/2026/07/29/us-military-may-require-some-troops-in-mideast-to-surrender-cell-phones-sources-say/",
     "https://www.militarytimes.com/news/your-military/2026/07/29/military-heatstroke-cases-still-on-the-rise-as-units-push-tech-awareness/",
@@ -1723,6 +1720,9 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/01/pentagon-launches-office-of-religious-affairs-will-report-directly-to-hegseth/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/01/boeing-adds-to-big-week-with-first-full-rate-grey-wolf-helicopter-order/",
     "https://www.militarytimes.com/news/your-navy/2026/10/01/navy-expeditionary-combat-command-rebranded-to-reflect-warfare-evolution/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/10/01/pentagon-spent-millions-on-migrant-detention-supplies-that-were-never-used-watchdog-says/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/01/pentagon-spent-millions-on-migrant-detention-supplies-that-were-never-used-watchdog-says/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
+    "https://www.militarytimes.com/news/your-military/2026/10/01/marines-head-to-the-baltic-to-safeguard-undersea-infrastructure/",
+    "https://www.militarytimes.com/news/your-military/2026/10/01/air-force-identifies-airman-found-dead-at-off-base-housing-in-italy/"
   ]
 }
