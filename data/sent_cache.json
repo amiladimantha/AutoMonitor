@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
-    "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-    "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
-    "https://arstechnica.com/gadgets/2026/08/us-boosts-drone-surveillance-as-flesh-eating-screwworms-spread-in-texas/",
-    "https://arstechnica.com/health/2026/08/an-ultra-rare-amoeba-was-destroying-a-toddlers-brain-doctors-missed-it/",
-    "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
     "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
     "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
     "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
@@ -499,10 +493,15 @@
     "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
     "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
     "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-    "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/"
+    "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
+    "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+    "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+    "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+    "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+    "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
+    "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02727-7",
     "https://www.science.org/content/article/how-scientists-unraveled-cause-devastating-flood-tibet-and-nepal",
     "https://www.science.org/content/article/doom-invasive-fish-scientists-are-breeding-supermales",
     "https://www.science.org/content/article/key-brain-circuit-regulating-hibernation-found-last",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03091-2",
     "https://www.nature.com/articles/d41586-026-03134-8",
     "https://www.nature.com/articles/d41586-026-03135-7",
-    "https://www.nature.com/articles/d41586-026-03164-2"
+    "https://www.nature.com/articles/d41586-026-03164-2",
+    "https://www.nature.com/articles/d41586-026-03157-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1228,10 +1228,6 @@
     "https://huggingface.co/blog/rl-environments"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/30/coast-guard-seizes-2380-pounds-of-marijuana-near-bahamas/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/07/30/space-food-for-soldiers-advanced-military-rations-promoted-in-ndaa/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/30/us-strikes-586-billion-patriot-missile-deal-amid-rising-stockpile-concerns/",
-    "https://www.militarytimes.com/news/your-military/2026/07/30/darpa-challenge-pushes-limits-of-heavy-lift-drone-technology/",
     "https://www.militarytimes.com/news/your-navy/2026/07/30/uss-george-washington-arrives-in-vietnam-amid-china-philippines-strain/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/30/b-21-raiders-set-to-be-on-the-ramp-at-ellsworth-air-force-base-in-2027/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/",
@@ -1727,6 +1723,10 @@
     "https://www.militarytimes.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises/",
     "https://www.militarytimes.com/news/your-military/2026/10/05/aboard-the-uss-george-washington-young-sailors-adjust-to-war-with-iran/",
     "https://www.militarytimes.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan/",
-    "https://www.militarytimes.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/"
+    "https://www.militarytimes.com/air/2026/10/05/us-removes-b-1-bombers-from-uk-base-amid-security-concerns/",
+    "https://www.militarytimes.com/veterans/2026/10/05/veteran-suicides-declined-in-2024-for-second-straight-year/",
+    "https://www.militarytimes.com/veterans/2026/10/05/supreme-court-hears-incarcerated-veterans-case-challenging-process-for-va-claims-appeals/",
+    "https://www.militarytimes.com/news/your-military/2026/10/05/air-force-explosive-ordnance-technicians-to-sport-new-rust-colored-beret/",
+    "https://www.militarytimes.com/news/your-military/2026/10/05/us-marine-arrested-suspected-of-robbing-murdering-woman-in-okinawa/"
   ]
 }
