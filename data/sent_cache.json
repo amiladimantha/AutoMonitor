@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
     "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
     "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
     "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
@@ -499,7 +498,8 @@
     "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
     "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
     "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
-    "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/"
+    "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
+    "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
   ],
   "Science": [
     "https://www.science.org/content/article/how-scientists-unraveled-cause-devastating-flood-tibet-and-nepal",
@@ -1228,9 +1228,6 @@
     "https://huggingface.co/blog/rl-environments"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/07/30/uss-george-washington-arrives-in-vietnam-amid-china-philippines-strain/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/30/b-21-raiders-set-to-be-on-the-ramp-at-ellsworth-air-force-base-in-2027/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/",
     "https://www.militarytimes.com/veterans/2026/07/30/average-va-disability-payments-rose-nearly-40-in-past-14-years-study-finds/",
     "https://www.militarytimes.com/veterans/2026/07/30/va-launches-trial-to-test-glp-1-medication-for-alcohol-use-disorder-in-veterans/",
     "https://www.militarytimes.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/",
@@ -1727,6 +1724,9 @@
     "https://www.militarytimes.com/veterans/2026/10/05/veteran-suicides-declined-in-2024-for-second-straight-year/",
     "https://www.militarytimes.com/veterans/2026/10/05/supreme-court-hears-incarcerated-veterans-case-challenging-process-for-va-claims-appeals/",
     "https://www.militarytimes.com/news/your-military/2026/10/05/air-force-explosive-ordnance-technicians-to-sport-new-rust-colored-beret/",
-    "https://www.militarytimes.com/news/your-military/2026/10/05/us-marine-arrested-suspected-of-robbing-murdering-woman-in-okinawa/"
+    "https://www.militarytimes.com/news/your-military/2026/10/05/us-marine-arrested-suspected-of-robbing-murdering-woman-in-okinawa/",
+    "https://www.militarytimes.com/news/your-military/2026/10/06/fort-hood-mass-shooter-nidal-malik-hasan-to-die-by-us-army-firing-squad/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/06/boeing-locks-in-7-year-deal-to-triple-pac-3-mse-seeker-output/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/"
   ]
 }
