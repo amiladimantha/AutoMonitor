@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
-    "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
-    "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
-    "https://arstechnica.com/tech-policy/2026/08/flock-cant-tech-its-way-out-of-the-stalker-cop-problem-experts-say/",
-    "https://arstechnica.com/gadgets/2026/08/pet-owners-say-smart-pet-feeder-outage-led-to-furry-ones-going-unfed/",
-    "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
-    "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
     "https://arstechnica.com/health/2026/08/us-wait-times-for-cancer-surgeries-are-getting-longer-and-longer/",
     "https://arstechnica.com/cars/2026/08/czinger-debuts-topology-optimized-brakes-with-21c-spyder/",
     "https://arstechnica.com/space/2026/08/rocket-report-rocket-lab-shows-off-its-flexibility-blue-origins-two-pad-plan/",
@@ -499,14 +492,16 @@
     "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
     "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
     "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-    "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/"
+    "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/",
+    "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+    "https://arstechnica.com/staff/2026/10/make-ars-better-with-an-arspro-subscription/",
+    "https://arstechnica.com/gadgets/2026/10/amazon-bricks-alexas-ability-to-control-echo-speakers-aux-input/",
+    "https://arstechnica.com/science/2026/10/neutrino-physicist-wins-2026-nobel-physics-prize/",
+    "https://arstechnica.com/gadgets/2026/10/googlebook-better-together-phone-features-dont-work-with-samsung-at-launch/",
+    "https://arstechnica.com/space/2026/10/why-is-nasa-bringing-7500-contractors-back-to-work-as-civil-servants/",
+    "https://arstechnica.com/cars/2026/10/this-self-parking-electric-travel-trailer-gets-a-solar-upgrade-for-2027/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02642-x",
-    "https://www.nature.com/articles/d41586-026-02543-z",
-    "https://www.nature.com/articles/d41586-026-02685-0",
-    "https://www.nature.com/articles/d41586-026-02669-0",
-    "https://www.nature.com/articles/d41586-026-02687-y",
     "https://www.science.org/content/article/autism-advisory-committee-s-funding-plan-critics-see-veiled-antivaccine-focus",
     "https://www.science.org/content/article/russia-bets-new-research-facilities-rebuild-foreign-ties",
     "https://www.science.org/content/article/will-meta-s-settlement-social-media-addiction-case-be-boon-research",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-03092-1",
     "https://www.nature.com/articles/d41586-026-02967-7",
     "https://www.nature.com/articles/d41586-026-03130-y",
-    "https://www.nature.com/articles/d41586-026-03185-x"
+    "https://www.nature.com/articles/d41586-026-03185-x",
+    "https://www.nature.com/articles/s41586-026-11244-6",
+    "https://www.nature.com/articles/d41586-026-03155-3",
+    "https://www.nature.com/articles/d41586-026-03160-6",
+    "https://www.nature.com/articles/d41586-026-03095-y",
+    "https://www.nature.com/articles/d41586-026-03129-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1229,12 +1229,6 @@
     "https://huggingface.co/blog/tiiuae/falcon-emirati"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/07/30/navy-awards-766-billion-for-virginia-columbia-class-submarines/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/30/soldiers-give-feedback-drive-mv-75-cheyenne-cockpit-changes/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
-    "https://www.militarytimes.com/opinion/commentary/2026/07/30/my-little-sister-is-deployed-in-the-middle-east-her-base-was-hit/",
-    "https://www.militarytimes.com/veterans/military-history/2026/07/30/review-new-wargame-captures-uncertainty-of-the-american-revolution/",
-    "https://www.militarytimes.com/news/your-military/2026/07/30/see-what-its-like-to-be-on-a-ship-getting-hit-by-us-missiles/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
     "https://www.militarytimes.com/news/your-military/2026/07/31/marsoc-wants-to-automate-armory-recordkeeping/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
@@ -1728,6 +1722,12 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
     "https://www.militarytimes.com/veterans/military-history/2026/10/06/they-served-in-asia-and-came-home-decades-later-the-kids-they-left-behind-are-searching-for-them/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production/",
+    "https://www.militarytimes.com/news/your-navy/2026/10/06/uss-abraham-lincoln-to-return-home-after-320-days/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
+    "https://www.militarytimes.com/veterans/2026/10/06/inside-the-push-for-agent-orange-victims-memorial-in-small-town-utah/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
+    "https://www.militarytimes.com/news/your-military/2026/10/06/us-military-orders-2-day-pause-on-okinawa-following-marines-arrest-for-alleged-murder/",
+    "https://www.militarytimes.com/news/your-navy/2026/10/06/uss-dwight-d-eisenhower-returns-to-port-after-aircraft-mishap/"
   ]
 }
