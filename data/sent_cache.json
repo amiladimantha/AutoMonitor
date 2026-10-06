@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/08/rivian-tweaks-its-r1-range-for-model-year-2027/",
-    "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/",
-    "https://arstechnica.com/science/2026/08/weve-flown-a-radiation-blocking-vest-to-the-moon-and-back-and-it-worked/",
     "https://arstechnica.com/security/2026/08/white-house-recruits-security-firms-to-hack-overseas-cybercriminals/",
     "https://arstechnica.com/space/2026/08/virgin-galactic-wants-your-help-naming-its-new-delta-class-spaceship/",
     "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-wipe-out-entire-us-tank-brigade-in-live-war-game/",
@@ -499,24 +496,12 @@
     "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
     "https://arstechnica.com/gadgets/2026/10/russian-drones-strike-ukraines-data-centers-by-exploiting-air-defense-gaps/",
     "https://arstechnica.com/cars/2026/10/f1-in-bahrain-in-malaysia-the-race-needed-a-software-update-to-start/",
-    "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/"
+    "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+    "https://arstechnica.com/tech-policy/2026/10/big-oil-asks-supreme-court-to-kill-climate-lawsuits-before-trial/",
+    "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+    "https://arstechnica.com/information-technology/2026/10/operational-complexity-a-top-barrier-for-vmware-migrations-survey/"
   ],
   "Science": [
-    "https://www.science.org/content/article/how-scientists-unraveled-cause-devastating-flood-tibet-and-nepal",
-    "https://www.science.org/content/article/doom-invasive-fish-scientists-are-breeding-supermales",
-    "https://www.science.org/content/article/key-brain-circuit-regulating-hibernation-found-last",
-    "https://www.science.org/content/article/dreams-making-drugs-and-tissues-space-get-closer-reality",
-    "https://www.science.org/content/article/climate-change-strengthening-el-ni\u00f1o-coral-records-suggest",
-    "https://www.science.org/content/article/nsf-s-new-plan-fund-graduate-students-work-industry-covers-familiar-ground",
-    "https://www.science.org/content/article/nsf-shrinks-support-social-sciences-prestigious-graduate-fellowship-program",
-    "https://www.science.org/content/article/nasa-s-roman-telescope-readies-sweeping-view-universe",
-    "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-    "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-    "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
-    "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
-    "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "https://www.nature.com/articles/d41586-026-02684-1",
     "https://www.nature.com/articles/d41586-026-02642-x",
     "https://www.nature.com/articles/d41586-026-02543-z",
     "https://www.nature.com/articles/d41586-026-02685-0",
@@ -1001,7 +986,22 @@
     "https://www.nature.com/articles/d41586-026-03134-8",
     "https://www.nature.com/articles/d41586-026-03135-7",
     "https://www.nature.com/articles/d41586-026-03164-2",
-    "https://www.nature.com/articles/d41586-026-03157-1"
+    "https://www.nature.com/articles/d41586-026-03157-1",
+    "https://www.nature.com/articles/d41586-026-03176-y",
+    "https://www.nature.com/articles/d41586-026-03174-0",
+    "https://www.nature.com/articles/d41586-026-02973-9",
+    "https://www.nature.com/articles/d41586-026-03177-x",
+    "https://www.nature.com/articles/d41586-026-03175-z",
+    "https://www.nature.com/articles/d41586-026-02798-6",
+    "https://www.nature.com/articles/d41586-026-03105-z",
+    "https://www.nature.com/articles/d41586-026-03131-x",
+    "https://www.nature.com/articles/d41586-026-03136-6",
+    "https://www.nature.com/articles/d41586-026-02966-8",
+    "https://www.nature.com/articles/d41586-026-03150-8",
+    "https://www.nature.com/articles/d41586-026-03092-1",
+    "https://www.nature.com/articles/d41586-026-02967-7",
+    "https://www.nature.com/articles/d41586-026-03130-y",
+    "https://www.nature.com/articles/d41586-026-03185-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1229,9 +1229,6 @@
     "https://huggingface.co/blog/tiiuae/falcon-emirati"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/07/30/average-va-disability-payments-rose-nearly-40-in-past-14-years-study-finds/",
-    "https://www.militarytimes.com/veterans/2026/07/30/va-launches-trial-to-test-glp-1-medication-for-alcohol-use-disorder-in-veterans/",
-    "https://www.militarytimes.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/30/navy-awards-766-billion-for-virginia-columbia-class-submarines/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/30/soldiers-give-feedback-drive-mv-75-cheyenne-cockpit-changes/",
     "https://www.militarytimes.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
@@ -1728,6 +1725,9 @@
     "https://www.militarytimes.com/news/your-military/2026/10/05/us-marine-arrested-suspected-of-robbing-murdering-woman-in-okinawa/",
     "https://www.militarytimes.com/news/your-military/2026/10/06/fort-hood-mass-shooter-nidal-malik-hasan-to-die-by-us-army-firing-squad/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/06/boeing-locks-in-7-year-deal-to-triple-pac-3-mse-seeker-output/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
+    "https://www.militarytimes.com/veterans/military-history/2026/10/06/they-served-in-asia-and-came-home-decades-later-the-kids-they-left-behind-are-searching-for-them/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/06/anduril-us-navy-invest-66-billion-to-boost-submarine-parts-production/"
   ]
 }
