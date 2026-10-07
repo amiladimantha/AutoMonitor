@@ -502,13 +502,6 @@
     "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/"
   ],
   "Science": [
-    "https://www.science.org/content/article/autism-advisory-committee-s-funding-plan-critics-see-veiled-antivaccine-focus",
-    "https://www.science.org/content/article/russia-bets-new-research-facilities-rebuild-foreign-ties",
-    "https://www.science.org/content/article/will-meta-s-settlement-social-media-addiction-case-be-boon-research",
-    "https://www.science.org/content/article/snake-embryos-often-coil-one-direction-now-we-may-know-why",
-    "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-    "https://www.nature.com/articles/d41586-026-02737-5",
-    "https://www.nature.com/articles/d41586-026-02735-7",
     "https://www.nature.com/articles/d41586-026-02738-4",
     "https://www.nature.com/articles/d41586-026-02736-6",
     "https://www.nature.com/articles/d41586-026-02636-9",
@@ -1001,7 +994,14 @@
     "https://www.nature.com/articles/d41586-026-03155-3",
     "https://www.nature.com/articles/d41586-026-03160-6",
     "https://www.nature.com/articles/d41586-026-03095-y",
-    "https://www.nature.com/articles/d41586-026-03129-5"
+    "https://www.nature.com/articles/d41586-026-03129-5",
+    "https://www.nature.com/articles/d41586-026-02999-z",
+    "https://www.nature.com/articles/d41586-026-02864-z",
+    "https://www.nature.com/articles/d41586-026-02985-5",
+    "https://www.nature.com/articles/d41586-026-03127-7",
+    "https://www.nature.com/articles/d41586-026-03132-w",
+    "https://www.nature.com/articles/d41586-026-02983-7",
+    "https://www.nature.com/articles/d41586-026-03093-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1226,11 +1226,10 @@
     "https://huggingface.co/blog/allenai/astabrief",
     "https://huggingface.co/blog/microsoft/thinkingbox",
     "https://huggingface.co/blog/rl-environments",
-    "https://huggingface.co/blog/tiiuae/falcon-emirati"
+    "https://huggingface.co/blog/tiiuae/falcon-emirati",
+    "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/07/31/marsoc-wants-to-automate-armory-recordkeeping/",
-    "https://www.militarytimes.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
     "https://www.militarytimes.com/pay-benefits/mil-money/2026/07/31/good-samaritans-beware-scammers-ramp-up-targeting-of-troops-goodwill/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/07/31/senate-democrats-press-pentagon-over-medical-care-for-troops-wounded-in-kuwait-drone-strike/",
     "https://www.militarytimes.com/news/your-navy/2026/07/31/navy-offering-up-to-150000-retention-bonuses-for-select-aviation-billets/",
@@ -1728,6 +1727,8 @@
     "https://www.militarytimes.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
     "https://www.militarytimes.com/news/your-military/2026/10/06/us-military-orders-2-day-pause-on-okinawa-following-marines-arrest-for-alleged-murder/",
     "https://www.militarytimes.com/news/your-navy/2026/10/06/uss-dwight-d-eisenhower-returns-to-port-after-aircraft-mishap/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/06/air-force-certifies-group-to-operate-teach-skydio-x10d-ahead-of-its-fielding/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/06/air-force-certifies-group-to-operate-teach-skydio-x10d-ahead-of-its-fielding/",
+    "https://www.militarytimes.com/news/your-military/2026/10/07/latest-ah-64-apache-grounding-likely-to-last-months-officials-say/",
+    "https://www.militarytimes.com/news/your-military/2026/10/07/army-sets-date-location-for-execution-of-nidal-malik-hasan/"
   ]
 }
