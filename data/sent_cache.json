@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/information-technology/2026/08/nvidia-discloses-21b-stake-in-spacex/",
-    "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-    "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
-    "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
-    "https://arstechnica.com/space/2026/08/the-moons-shadow-raced-across-the-heart-of-spain-and-i-was-there-to-see-it/",
-    "https://arstechnica.com/tech-policy/2026/08/as-wisconsin-cities-flee-flock-its-shared-camera-network-loses-value/",
-    "https://arstechnica.com/health/2026/08/us-vaccination-rates-fall-again-as-exemptions-continue-to-rise-cdc-data-shows/",
     "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
     "https://arstechnica.com/science/2026/08/theban-tomb-reveals-how-egyptian-burial-trends-evolved-in-time/",
     "https://arstechnica.com/science/2026/08/as-temperatures-get-hotter-pesticides-are-more-dangerous-to-farmworkers/",
@@ -499,13 +492,16 @@
     "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
     "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
     "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-    "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/"
+    "https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/",
+    "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+    "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+    "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
+    "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
+    "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
+    "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
+    "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02756-2",
-    "https://www.nature.com/articles/s41586-026-11104-3",
-    "https://www.nature.com/articles/s41586-026-11027-z",
-    "https://www.nature.com/articles/d41586-026-02762-4",
     "https://www.nature.com/articles/s41586-026-10982-x",
     "https://www.nature.com/articles/s41586-026-10987-6",
     "https://www.nature.com/articles/s41586-026-10690-6",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/s41586-026-11266-0",
     "https://www.nature.com/articles/s41586-026-11070-w",
     "https://www.nature.com/articles/d41586-026-03218-5",
-    "https://www.nature.com/articles/d41586-026-02921-7"
+    "https://www.nature.com/articles/d41586-026-02921-7",
+    "https://www.nature.com/articles/d41586-026-03193-x",
+    "https://www.nature.com/articles/d41586-026-03128-6",
+    "https://www.nature.com/articles/d41586-026-03215-8",
+    "https://www.nature.com/articles/d41586-026-03199-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1229,15 +1229,10 @@
     "https://huggingface.co/blog/tiiuae/falcon-emirati",
     "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
     "https://huggingface.co/blog/LiquidAI/open-d1",
-    "https://huggingface.co/blog/tiiuae/falcon-asr"
+    "https://huggingface.co/blog/tiiuae/falcon-asr",
+    "https://huggingface.co/blog/building-with-ml-intern"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/pay-benefits/2026/08/03/army-offers-bonuses-topping-200k-to-keep-aviation-warrant-officers-in-unform/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
-    "https://www.militarytimes.com/veterans/2026/08/03/desert-shield-and-desert-storm-memorial-slated-for-october-unveiling/",
-    "https://www.militarytimes.com/off-duty/military-culture/2026/08/03/tsa-stops-alabama-traveler-for-civil-war-era-cannonballs-in-luggage/",
-    "https://www.militarytimes.com/news/your-military/2026/08/03/army-approves-service-wide-wear-of-jungle-tab/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/03/trumps-new-commission-will-target-quality-of-life-for-military-spouses/",
     "https://www.militarytimes.com/news/your-navy/2026/08/03/us-coast-guard-had-14-suicides-in-2024-the-highest-in-a-decade/",
     "https://www.militarytimes.com/veterans/2026/08/03/va-medical-center-clinics-in-spokane-evacuated-for-wildfire/",
     "https://www.militarytimes.com/news/your-navy/2026/08/04/us-navy-is-reclassifying-19-virginia-class-submarines-to-reflect-increased-attack-capabilities/",
@@ -1731,6 +1726,12 @@
     "https://www.militarytimes.com/news/your-navy/2026/10/08/uss-abraham-lincoln-strike-group-receives-presidential-unit-citation/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
     "https://www.militarytimes.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
-    "https://www.militarytimes.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/"
+    "https://www.militarytimes.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/08/us-to-livestream-army-execution-of-fort-hood-shooter-pentagon-official-says/",
+    "https://www.militarytimes.com/news/your-military/2026/10/08/readiness-bill-coming-due-for-navy-after-marathon-carrier-deployment-no-2-admiral-says/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/08/pentagon-barred-qatar-base-access-to-hide-iran-war-damage-us-senator-claims/",
+    "https://www.militarytimes.com/news/your-military/2026/10/08/what-is-the-us-public-health-services-commissioned-corps-its-top-leader-wants-you-to-know/",
+    "https://www.militarytimes.com/news/your-military/2026/10/08/us-army-report-cites-systematic-failures-in-2025-helicopter-and-jet-collision-that-killed-67/",
+    "https://www.militarytimes.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/"
   ]
 }
