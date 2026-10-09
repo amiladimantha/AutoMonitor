@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/culture/2026/08/teenage-sex-and-death-at-camp-miasma-takes-pains-to-deliver-a-slasher-fans-dream/",
-    "https://arstechnica.com/science/2026/08/x-rays-add-new-twist-to-narwhals-spiral-tusk/",
-    "https://arstechnica.com/gadgets/2026/08/peacock-raises-prices-by-18-percent-after-becoming-profitable/",
     "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
     "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
     "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
@@ -499,16 +496,12 @@
     "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
     "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
     "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
-    "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/"
+    "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+    "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+    "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
+    "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10982-x",
-    "https://www.nature.com/articles/s41586-026-10987-6",
-    "https://www.nature.com/articles/s41586-026-10690-6",
-    "https://www.nature.com/articles/s41586-026-10898-6",
-    "https://www.nature.com/articles/s41586-026-10952-3",
-    "https://www.nature.com/articles/s41586-026-10940-7",
-    "https://www.nature.com/articles/s41586-026-10992-9",
     "https://www.nature.com/articles/s41586-026-10818-8",
     "https://www.nature.com/articles/s41586-026-10983-w",
     "https://www.nature.com/articles/s41586-026-10969-8",
@@ -1001,7 +994,14 @@
     "https://www.nature.com/articles/d41586-026-03193-x",
     "https://www.nature.com/articles/d41586-026-03128-6",
     "https://www.nature.com/articles/d41586-026-03215-8",
-    "https://www.nature.com/articles/d41586-026-03199-5"
+    "https://www.nature.com/articles/d41586-026-03199-5",
+    "https://www.nature.com/articles/d41586-026-03216-7",
+    "https://www.nature.com/articles/d41586-026-03158-0",
+    "https://www.nature.com/articles/d41586-026-03217-6",
+    "https://www.nature.com/articles/d41586-026-03210-z",
+    "https://www.nature.com/articles/d41586-026-02909-3",
+    "https://www.nature.com/articles/s41586-026-11273-1",
+    "https://www.nature.com/articles/d41586-026-03116-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1230,11 +1230,10 @@
     "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
     "https://huggingface.co/blog/LiquidAI/open-d1",
     "https://huggingface.co/blog/tiiuae/falcon-asr",
-    "https://huggingface.co/blog/building-with-ml-intern"
+    "https://huggingface.co/blog/building-with-ml-intern",
+    "https://huggingface.co/blog/allenai/impactful-scheduling"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/08/03/va-medical-center-clinics-in-spokane-evacuated-for-wildfire/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/04/us-navy-is-reclassifying-19-virginia-class-submarines-to-reflect-increased-attack-capabilities/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/04/house-oversight-democrats-seek-records-behind-pentagon-changes-to-iran-war-casualty-database/",
     "https://www.militarytimes.com/news/your-military/2026/08/04/armys-new-battlefield-command-system-ready-to-scale/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say/",
@@ -1732,6 +1731,8 @@
     "https://www.militarytimes.com/news/your-military/2026/10/08/what-is-the-us-public-health-services-commissioned-corps-its-top-leader-wants-you-to-know/",
     "https://www.militarytimes.com/news/your-military/2026/10/08/us-army-report-cites-systematic-failures-in-2025-helicopter-and-jet-collision-that-killed-67/",
     "https://www.militarytimes.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
-    "https://www.militarytimes.com/news/your-army/2026/10/08/century-old-houses-getting-new-life-at-fort-bragg/"
+    "https://www.militarytimes.com/news/your-army/2026/10/08/century-old-houses-getting-new-life-at-fort-bragg/",
+    "https://www.militarytimes.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
+    "https://www.militarytimes.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/"
   ]
 }
