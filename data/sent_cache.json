@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/08/the-united-states-is-about-to-wake-up-to-the-threat-from-chinas-space-program/",
-    "https://arstechnica.com/gadgets/2026/08/fairphone-brings-the-repairable-fairphone-gen-6-to-the-us/",
-    "https://arstechnica.com/cars/2026/08/ford-hopes-this-hypercar-will-be-its-next-le-mans-winner/",
-    "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
-    "https://arstechnica.com/tech-policy/2026/08/disney-sues-fcc-and-its-chair-escalating-fight-against-trumps-chief-censor/",
-    "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
     "https://arstechnica.com/gadgets/2026/08/ukrainian-drones-overwhelm-russian-tanks-new-active-protection-system-for-now/",
     "https://arstechnica.com/culture/2026/08/a-fantastical-journey-unfolds-in-gorgeous-wildwood-trailer/",
     "https://arstechnica.com/health/2026/08/mrna-cancer-vaccine-succeeded-in-phase-3-melanoma-trial-moderna-and-merck-say/",
@@ -499,10 +493,15 @@
     "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
     "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
     "https://arstechnica.com/space/2026/10/rocket-report-a-rare-falcon-9-scrub-is-it-just-about-vulcans-time-to-shine/",
-    "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/"
+    "https://arstechnica.com/cars/2026/10/volkswagens-replacement-for-the-id-4-crossover-is-here/",
+    "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+    "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+    "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+    "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+    "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+    "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-10818-8",
     "https://www.nature.com/articles/s41586-026-10983-w",
     "https://www.nature.com/articles/s41586-026-10969-8",
     "https://www.nature.com/articles/s41586-026-10962-1",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03210-z",
     "https://www.nature.com/articles/d41586-026-02909-3",
     "https://www.nature.com/articles/s41586-026-11273-1",
-    "https://www.nature.com/articles/d41586-026-03116-w"
+    "https://www.nature.com/articles/d41586-026-03116-w",
+    "https://www.nature.com/articles/d41586-026-03159-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1234,14 +1234,6 @@
     "https://huggingface.co/blog/allenai/impactful-scheduling"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/04/house-oversight-democrats-seek-records-behind-pentagon-changes-to-iran-war-casualty-database/",
-    "https://www.militarytimes.com/news/your-military/2026/08/04/armys-new-battlefield-command-system-ready-to-scale/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say/",
-    "https://www.militarytimes.com/news/your-military/2026/08/04/325-narcan-doses-43-lost-children-dc-national-guard-mission-wraps-first-year/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/04/us-army-wants-a-surface-to-air-missile-that-can-destroy-small-drones/",
-    "https://www.militarytimes.com/veterans/2026/08/04/risk-of-developing-als-varies-by-service-study-finds/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role/",
-    "https://www.militarytimes.com/news/your-military/2026/08/05/meatball-no-more-marine-recruit-drops-over-100-pounds-for-boot-camp/",
     "https://www.militarytimes.com/news/your-military/2026/08/05/the-army-certifies-its-first-equestrians-as-it-revamps-horse-care/",
     "https://www.militarytimes.com/opinion/commentary/2026/08/05/everybody-wanted-to-visit-the-wounded-soldier-i-wanted-to-be-left-alone/",
     "https://www.militarytimes.com/news/your-navy/2026/08/05/the-countdown-begins-national-coast-guard-museum-one-year-from-opening/",
@@ -1733,6 +1725,14 @@
     "https://www.militarytimes.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
     "https://www.militarytimes.com/news/your-army/2026/10/08/century-old-houses-getting-new-life-at-fort-bragg/",
     "https://www.militarytimes.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
-    "https://www.militarytimes.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/"
+    "https://www.militarytimes.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
+    "https://www.militarytimes.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/",
+    "https://www.militarytimes.com/veterans/military-history/2026/10/09/unknown-sailors-and-marines-from-the-battleship-arizona-to-be-disinterred-dec-7/",
+    "https://www.militarytimes.com/news/your-military/2026/10/09/soldiers-intervene-on-roadside-to-save-children-from-alleged-knife-attack/",
+    "https://www.militarytimes.com/news/your-military/2026/10/09/air-force-bases-along-gulf-coast-relocate-aircraft-ahead-of-hurricane-isaias/",
+    "https://www.militarytimes.com/news/your-military/2026/10/09/how-the-us-military-plan-to-livestream-an-execution-compares-with-global-practice/",
+    "https://www.militarytimes.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
+    "https://www.militarytimes.com/news/your-military/2026/10/09/daddys-home-122-sailors-aboard-the-abraham-lincoln-meet-their-children-for-the-first-time/",
+    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/10/09/patients-struggle-to-access-mhs-following-changes-to-login-process/"
   ]
 }
