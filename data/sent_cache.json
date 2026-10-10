@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/08/meta-ran-ads-for-an-app-promising-to-nudify-female-politicians/",
     "https://arstechnica.com/health/2026/08/trump-expected-to-pick-conservative-policy-wonk-heidi-overton-to-lead-fda/",
     "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
     "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
@@ -499,7 +498,8 @@
     "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
     "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
     "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-    "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/"
+    "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+    "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-10983-w",
@@ -1234,7 +1234,6 @@
     "https://huggingface.co/blog/allenai/impactful-scheduling"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/05/the-army-certifies-its-first-equestrians-as-it-revamps-horse-care/",
     "https://www.militarytimes.com/opinion/commentary/2026/08/05/everybody-wanted-to-visit-the-wounded-soldier-i-wanted-to-be-left-alone/",
     "https://www.militarytimes.com/news/your-navy/2026/08/05/the-countdown-begins-national-coast-guard-museum-one-year-from-opening/",
     "https://www.militarytimes.com/news/your-army/2026/08/06/30-days-after-army-communications-overhaul-questions-remain-about-access-to-information/",
@@ -1733,6 +1732,7 @@
     "https://www.militarytimes.com/news/your-military/2026/10/09/how-the-us-military-plan-to-livestream-an-execution-compares-with-global-practice/",
     "https://www.militarytimes.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
     "https://www.militarytimes.com/news/your-military/2026/10/09/daddys-home-122-sailors-aboard-the-abraham-lincoln-meet-their-children-for-the-first-time/",
-    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/10/09/patients-struggle-to-access-mhs-following-changes-to-login-process/"
+    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/10/09/patients-struggle-to-access-mhs-following-changes-to-login-process/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/"
   ]
 }
