@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-    "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
-    "https://arstechnica.com/security/2026/08/grok-exfiltrates-user-data-when-malicious-instructions-are-encrypted/",
-    "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
-    "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
-    "https://arstechnica.com/gadgets/2026/08/reverse-lookup-service-exposed-millions-of-photos-of-peoples-faces/",
     "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
     "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
     "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
@@ -499,10 +493,15 @@
     "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
     "https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/",
     "https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/",
-    "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/"
+    "https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/",
+    "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+    "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+    "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+    "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+    "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+    "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
     "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
     "https://www.nature.com/articles/d41586-026-02739-3",
     "https://www.nature.com/articles/d41586-026-02741-9",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02714-y",
     "https://www.nature.com/articles/d41586-026-03224-7",
     "https://www.nature.com/articles/s41586-026-11250-8",
-    "https://www.nature.com/articles/d41586-026-03227-4"
+    "https://www.nature.com/articles/d41586-026-03227-4",
+    "https://www.nature.com/articles/d41586-026-03251-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1234,14 +1234,6 @@
     "https://huggingface.co/blog/allenai/impactful-scheduling"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/06/southcom-replaces-southern-spear-with-western-hemisphere-task-force-targeting-criminal-networks/",
-    "https://www.militarytimes.com/news/your-military/2026/08/06/boeing-wins-first-production-contract-for-jet-powered-jdam/",
-    "https://www.militarytimes.com/veterans/2026/08/06/their-military-careers-were-cut-short-in-combat-now-theyre-fighting-congress-for-their-full-benefits/",
-    "https://www.militarytimes.com/news/your-military/2026/08/07/pentagon-ready-to-deploy-ai-agents-for-admin-tasks/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/",
-    "https://www.militarytimes.com/news/your-military/2026/08/07/marine-corps-hackathon-announced-for-fall/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/07/senate-confirms-new-chief-of-space-operations/",
-    "https://www.militarytimes.com/news/your-military/2026/08/07/air-national-guard-dangles-7500-bonus-for-eligible-reenlistments/",
     "https://www.militarytimes.com/news/your-military/2026/08/10/marine-corps-to-get-production-ready-microwave-drone-swarm-killer/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/pentagon-launches-online-marketplace-for-counter-uas-technology/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/10/cmp-approved-to-sell-more-than-100000-surplus-m14-rifles/",
@@ -1733,6 +1725,14 @@
     "https://www.militarytimes.com/industry/techwatch/2026/10/12/patriot-interceptor-deliveries-to-poland-will-be-delayed-top-general-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
     "https://www.militarytimes.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones/",
+    "https://www.militarytimes.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
+    "https://www.militarytimes.com/news/your-army/2026/10/12/catholics-in-us-army-must-not-participate-in-firing-squad-prominent-archbishop-says/",
+    "https://www.militarytimes.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech/",
+    "https://www.militarytimes.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/12/lockheeds-new-pac-3-edge-interceptor-aims-for-agility/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/12/sikorsky-packs-4-nomad-drones-into-a-single-shipping-container/",
+    "https://www.militarytimes.com/news/your-military/2026/10/12/3-us-soldiers-awarded-purple-hearts-after-missile-attack-on-saudi-arabia-base/",
+    "https://www.militarytimes.com/land/2026/10/12/noticeable-shift-in-warfare-us-army-under-secretary-on-the-lessons-of-modern-combat/"
   ]
 }
