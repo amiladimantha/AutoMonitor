@@ -502,14 +502,6 @@
     "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
-    "https://www.nature.com/articles/d41586-026-02739-3",
-    "https://www.nature.com/articles/d41586-026-02741-9",
-    "https://www.nature.com/articles/d41586-026-02781-1",
-    "https://www.nature.com/articles/d41586-026-02800-1",
-    "https://www.nature.com/articles/d41586-026-02643-w",
-    "https://www.nature.com/articles/d41586-026-02801-0",
-    "https://www.nature.com/articles/d41586-026-02758-0",
     "https://www.nature.com/articles/d41586-026-02799-5",
     "https://www.science.org/content/article/outrage-greets-nih-pact-could-funnel-biodefense-research-funds-pentagon",
     "https://www.science.org/content/article/massive-herbarium-merger-rescues-century-old-plant-collection",
@@ -1001,7 +993,15 @@
     "https://www.nature.com/articles/d41586-026-03224-7",
     "https://www.nature.com/articles/s41586-026-11250-8",
     "https://www.nature.com/articles/d41586-026-03227-4",
-    "https://www.nature.com/articles/d41586-026-03251-4"
+    "https://www.nature.com/articles/d41586-026-03251-4",
+    "https://www.nature.com/articles/d41586-026-03244-3",
+    "https://www.nature.com/articles/d41586-026-03245-2",
+    "https://www.nature.com/articles/d41586-026-03246-1",
+    "https://www.nature.com/articles/d41586-026-03234-5",
+    "https://www.nature.com/articles/d41586-026-03247-0",
+    "https://www.nature.com/articles/d41586-026-03226-5",
+    "https://www.nature.com/articles/d41586-026-02715-x",
+    "https://www.nature.com/articles/d41586-026-03255-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
