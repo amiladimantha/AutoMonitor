@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
-    "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
-    "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
-    "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
-    "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
     "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
     "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
     "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
@@ -499,11 +494,14 @@
     "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
     "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
     "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-    "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
+    "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+    "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+    "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+    "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+    "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+    "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
-    "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "https://www.nature.com/articles/s41586-026-11103-4",
     "https://www.nature.com/articles/s41586-026-11094-2",
     "https://www.nature.com/articles/d41586-026-02805-w",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03221-w",
     "https://www.nature.com/articles/d41586-026-03153-5",
     "https://www.nature.com/articles/d41586-026-02668-1",
-    "https://www.nature.com/articles/s41586-026-11246-4"
+    "https://www.nature.com/articles/s41586-026-11246-4",
+    "https://www.nature.com/articles/d41586-026-03236-3",
+    "https://www.nature.com/articles/d41586-026-03252-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1235,12 +1235,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/10/south-carolina-base-renamed-to-joint-base-lindsey-graham/",
-    "https://www.militarytimes.com/news/your-military/2026/08/10/us-soldiers-marines-test-explosive-drones-in-south-korea/",
-    "https://www.militarytimes.com/news/your-military/2026/08/10/uss-theodore-roosevelt-becomes-first-carrier-with-built-in-unmanned-air-warfare-center/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/10/uss-thomas-hudner-returns-home-from-operation-epic-fury-southern-spear-deployments/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
     "https://www.militarytimes.com/news/your-navy/2026/08/10/navy-restricts-process-for-anonymously-reporting-harassment-and-discrimination/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/11/pentagon-gives-industry-21-days-to-submit-plans-for-significantly-faster-weapons-production/",
     "https://www.militarytimes.com/news/your-military/2026/08/11/lockheed-martin-launches-modular-missile-tech-with-dedicated-storefront/",
@@ -1734,6 +1728,12 @@
     "https://www.militarytimes.com/industry/techwatch/2026/10/13/different-suppressors-for-training-combat-sig-sauer-offers-new-way-to-reduce-toxic-fumes/",
     "https://www.militarytimes.com/news/your-military/2026/10/13/with-the-cold-breed-for-soldiers-of-the-11th-airborne-division-winter-is-always-coming/",
     "https://www.militarytimes.com/global/asia-pacific/2026/10/13/us-army-aspires-to-create-indo-pacific-manufacturing-hub-in-korea/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/",
+    "https://www.militarytimes.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses/"
   ]
 }
