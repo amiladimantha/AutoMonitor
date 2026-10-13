@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/08/us-distributor-of-chinas-most-popular-humanoid-robots-pivots-after-us-ban/",
-    "https://arstechnica.com/space/2026/08/europe-cancels-planned-upgrades-for-ariane-6-rocket/",
-    "https://arstechnica.com/culture/2026/08/new-9-11-documentary-finds-hope-in-the-horror/",
-    "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-    "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-    "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
     "https://arstechnica.com/cars/2026/08/chinese-regulators-tell-tesla-to-fix-nearly-3-million-cars/",
     "https://arstechnica.com/gadgets/2026/08/explosive-russian-drone-boat-destroyed-near-european-offshore-gas-site/",
     "https://arstechnica.com/tech-policy/2026/08/critics-ftc-limits-on-personalized-pricing-may-increase-costs-kill-discounts/",
@@ -499,17 +493,15 @@
     "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
     "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
     "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
-    "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/"
+    "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+    "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
+    "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+    "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+    "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+    "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+    "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02799-5",
-    "https://www.science.org/content/article/outrage-greets-nih-pact-could-funnel-biodefense-research-funds-pentagon",
-    "https://www.science.org/content/article/massive-herbarium-merger-rescues-century-old-plant-collection",
-    "https://www.science.org/content/article/bernie-sanders-aims-ban-ai-superintelligence-experts-can-t-agree-what-term-means",
-    "https://www.science.org/content/article/are-these-killer-whales-out-revenge-humans-or-just-trying-play",
-    "https://www.science.org/content/article/prevent-forest-fires-trump-wants-end-road-building-ban-scientists-are-skeptical",
-    "https://www.science.org/content/article/nsf-looks-technology-fixes-ease-water-crisis-along-colorado-river",
-    "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
     "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
     "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
     "https://www.nature.com/articles/s41586-026-11103-4",
@@ -1001,7 +993,15 @@
     "https://www.nature.com/articles/d41586-026-03247-0",
     "https://www.nature.com/articles/d41586-026-03226-5",
     "https://www.nature.com/articles/d41586-026-02715-x",
-    "https://www.nature.com/articles/d41586-026-03255-0"
+    "https://www.nature.com/articles/d41586-026-03255-0",
+    "https://www.nature.com/articles/s41586-026-11257-1",
+    "https://www.nature.com/articles/s41586-026-11255-3",
+    "https://www.nature.com/articles/d41586-026-02974-8",
+    "https://www.nature.com/articles/d41586-026-03220-x",
+    "https://www.nature.com/articles/d41586-026-03221-w",
+    "https://www.nature.com/articles/d41586-026-03153-5",
+    "https://www.nature.com/articles/d41586-026-02668-1",
+    "https://www.nature.com/articles/s41586-026-11246-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1231,20 +1231,10 @@
     "https://huggingface.co/blog/LiquidAI/open-d1",
     "https://huggingface.co/blog/tiiuae/falcon-asr",
     "https://huggingface.co/blog/building-with-ml-intern",
-    "https://huggingface.co/blog/allenai/impactful-scheduling"
+    "https://huggingface.co/blog/allenai/impactful-scheduling",
+    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/10/marine-corps-to-get-production-ready-microwave-drone-swarm-killer/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/pentagon-launches-online-marketplace-for-counter-uas-technology/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/10/cmp-approved-to-sell-more-than-100000-surplus-m14-rifles/",
-    "https://www.militarytimes.com/veterans/2026/08/10/veterans-unemployment-stable-despite-job-market-cratering-in-july-report-shows/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/",
-    "https://www.militarytimes.com/news/your-military/2026/08/10/navy-removes-california-based-medicine-and-readiness-co/",
-    "https://www.militarytimes.com/pentagon/2026/08/10/us-not-disengaging-from-asia-seeks-partners-not-protectorates-says-pentagon-official/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/10/pentagon-revokes-security-clearance-from-bidens-air-force-secretary/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/10/us-army-exploring-50mm-cannon-to-destroy-drones/",
-    "https://www.militarytimes.com/news/your-military/2026/08/10/us-army-general-in-europe-suddenly-removed-from-command/",
-    "https://www.militarytimes.com/news/your-military/2026/08/10/thanks-it-has-pockets-service-khaki-slacks-featuring-back-pockets-now-available-to-female-sailors/",
     "https://www.militarytimes.com/news/your-military/2026/08/10/south-carolina-base-renamed-to-joint-base-lindsey-graham/",
     "https://www.militarytimes.com/news/your-military/2026/08/10/us-soldiers-marines-test-explosive-drones-in-south-korea/",
     "https://www.militarytimes.com/news/your-military/2026/08/10/uss-theodore-roosevelt-becomes-first-carrier-with-built-in-unmanned-air-warfare-center/",
@@ -1733,6 +1723,17 @@
     "https://www.militarytimes.com/industry/techwatch/2026/10/12/lockheeds-new-pac-3-edge-interceptor-aims-for-agility/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/12/sikorsky-packs-4-nomad-drones-into-a-single-shipping-container/",
     "https://www.militarytimes.com/news/your-military/2026/10/12/3-us-soldiers-awarded-purple-hearts-after-missile-attack-on-saudi-arabia-base/",
-    "https://www.militarytimes.com/land/2026/10/12/noticeable-shift-in-warfare-us-army-under-secretary-on-the-lessons-of-modern-combat/"
+    "https://www.militarytimes.com/land/2026/10/12/noticeable-shift-in-warfare-us-army-under-secretary-on-the-lessons-of-modern-combat/",
+    "https://www.militarytimes.com/news/your-military/2026/10/13/army-eyes-changes-to-emergency-war-gear-stocks-amid-review/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/us-army-targets-2028-for-first-high-energy-laser-counter-drone-weapons/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/anduril-reveals-family-of-surface-to-air-interceptor-missiles/",
+    "https://www.militarytimes.com/industry/2026/10/13/lockheed-eyes-fresh-pac-3-interceptor-production-options-for-ukraine-europe/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/general-dynamics-showcases-wolf-xm30-new-counter-drone-systems-at-ausa/",
+    "https://www.militarytimes.com/news/your-military/2026/10/13/us-army-to-stand-up-command-for-unmanned-and-autonomous-warfare/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/the-lynx-xm30-is-making-its-case-to-be-the-us-armys-bradley-replacement/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/different-suppressors-for-training-combat-sig-sauer-offers-new-way-to-reduce-toxic-fumes/",
+    "https://www.militarytimes.com/news/your-military/2026/10/13/with-the-cold-breed-for-soldiers-of-the-11th-airborne-division-winter-is-always-coming/",
+    "https://www.militarytimes.com/global/asia-pacific/2026/10/13/us-army-aspires-to-create-indo-pacific-manufacturing-hub-in-korea/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/"
   ]
 }
