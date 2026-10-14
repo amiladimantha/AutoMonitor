@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
-    "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
-    "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
-    "https://arstechnica.com/science/2026/08/modern-trade-of-mummified-remains-may-carry-its-own-mummys-curse/",
     "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
     "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
     "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
@@ -499,11 +495,13 @@
     "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
     "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
     "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+    "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+    "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+    "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+    "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02793-x",
-    "https://www.nature.com/articles/d41586-026-02806-9",
     "https://www.nature.com/articles/d41586-026-02804-x",
     "https://www.nature.com/articles/d41586-026-02838-1",
     "https://www.nature.com/articles/d41586-026-02823-8",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03061-8",
     "https://www.nature.com/articles/s41586-026-11239-3",
     "https://www.nature.com/articles/d41586-026-03302-w",
-    "https://www.nature.com/articles/d41586-026-03203-y"
+    "https://www.nature.com/articles/d41586-026-03203-y",
+    "https://www.nature.com/articles/d41586-026-03239-0",
+    "https://www.nature.com/articles/d41586-026-03266-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1236,8 +1236,6 @@
     "https://huggingface.co/blog/allenai/hiro-acev2"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/08/11/majority-of-va-mental-health-visits-are-timely-but-referrals-lag-watchdog/",
-    "https://www.militarytimes.com/news/your-military/2026/08/11/multiple-uss-abraham-lincoln-sailors-have-tried-to-go-overboard-amid-extended-deployment-families-say/",
     "https://www.militarytimes.com/news/your-military/2026/08/12/urine-test-could-predict-stress-fractures-in-boot-camp/",
     "https://www.militarytimes.com/news/your-air-force/2026/08/12/parents-sue-air-force-academy-over-graduates-suicide-after-sexual-assault/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/12/air-force-should-regard-ai-as-readiness-issue-across-critical-career-fields-report-says/",
@@ -1735,6 +1733,8 @@
     "https://www.militarytimes.com/industry/techwatch/2026/10/14/us-army-taps-9-companies-to-build-next-gen-command-and-control-software/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/14/nobodys-losing-pay-army-cyber-command-head-says-new-tech-mastery-program-wont-affect-troop-wages/",
     "https://www.militarytimes.com/news/your-military/2026/10/14/how-to-earn-the-us-armys-jungle-tab-in-panama-and-lose-10lbs/",
-    "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-expands-drone-marketplace-to-33-nations/"
+    "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-expands-drone-marketplace-to-33-nations/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/voting-by-absentee-ballot-its-time/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/"
   ]
 }
