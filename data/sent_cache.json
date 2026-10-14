@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
-    "https://arstechnica.com/cars/2026/08/f1-in-the-netherlands-the-driver-you-most-want-to-beat-is-your-teammate/",
-    "https://arstechnica.com/science/2026/08/trump-tried-to-curb-clean-energy-its-booming-anyway/",
-    "https://arstechnica.com/cars/2026/08/feds-deepen-probe-into-general-motors-brake-failures/",
-    "https://arstechnica.com/security/2026/08/aliexpress-caught-fingerprinting-visitors-after-sending-inaudible-sounds-to-browsers/",
-    "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-    "https://arstechnica.com/gadgets/2026/08/energy-hungry-ai-data-centers-spur-new-power-transformer-technology/",
     "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
     "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
     "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
@@ -499,7 +492,14 @@
     "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
     "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
     "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-    "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/"
+    "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
+    "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+    "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+    "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+    "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+    "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+    "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02804-x",
@@ -1236,10 +1236,6 @@
     "https://huggingface.co/blog/allenai/hiro-acev2"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/12/urine-test-could-predict-stress-fractures-in-boot-camp/",
-    "https://www.militarytimes.com/news/your-air-force/2026/08/12/parents-sue-air-force-academy-over-graduates-suicide-after-sexual-assault/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/12/air-force-should-regard-ai-as-readiness-issue-across-critical-career-fields-report-says/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say/",
     "https://www.militarytimes.com/news/your-military/2026/08/12/joint-base-andrews-to-recieve-26-hh-60ws-stand-up-helicopter-squadron/",
     "https://www.militarytimes.com/news/your-military/2026/08/12/air-force-expedites-covid-reinstatement-process-for-separated-airmen-guardians/",
     "https://www.militarytimes.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/",
@@ -1735,6 +1731,10 @@
     "https://www.militarytimes.com/news/your-military/2026/10/14/how-to-earn-the-us-armys-jungle-tab-in-panama-and-lose-10lbs/",
     "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-expands-drone-marketplace-to-33-nations/",
     "https://www.militarytimes.com/news/your-military/2026/10/14/voting-by-absentee-ballot-its-time/",
-    "https://www.militarytimes.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/"
+    "https://www.militarytimes.com/news/your-military/2026/10/14/disrupt-strike-assault-and-endure-the-4-pillars-of-the-us-armys-new-warfare-guidance/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/14/northrop-grumman-breaks-out-the-big-guns-at-ausa/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
+    "https://www.militarytimes.com/pay-benefits/mil-money/2026/10/14/heres-the-2027-cost-of-living-increase-for-retirees-veterans/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/addicted-to-the-guard-generals-call-for-traffic-cop-to-control-state-governors-demands/"
   ]
 }
