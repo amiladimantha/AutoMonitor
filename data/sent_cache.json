@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
-    "https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/",
     "https://arstechnica.com/science/2026/08/volcanoes-that-made-history/",
     "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
     "https://arstechnica.com/gadgets/2026/08/review-chuwis-449-unibook-laptop-is-a-funhouse-mirror-macbook-neo/",
@@ -499,28 +497,11 @@
     "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
     "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
     "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-    "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
+    "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+    "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+    "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02722-y",
-    "https://www.nature.com/articles/d41586-026-02678-z",
-    "https://www.nature.com/articles/d41586-026-02407-6",
-    "https://www.nature.com/articles/d41586-026-02497-2",
-    "https://www.nature.com/articles/d41586-026-02803-y",
-    "https://www.nature.com/articles/d41586-026-02835-4",
-    "https://www.nature.com/articles/d41586-026-02802-z",
-    "https://www.nature.com/articles/d41586-026-02807-8",
-    "https://www.nature.com/articles/d41586-026-02831-8",
-    "https://www.nature.com/articles/d41586-026-02457-w",
-    "https://www.nature.com/articles/d41586-026-02842-5",
-    "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
-    "https://www.science.org/content/article/billion-dollar-project-china-maps-scars-its-geological-past",
-    "https://www.science.org/content/article/u-s-cancer-institute-director-counters-gloomy-forecast",
-    "https://www.science.org/content/article/why-are-human-births-so-difficult-male-babies-not-just-upright-walking-may-be-blame",
-    "https://www.science.org/content/article/new-clues-suggest-how-destructive-immune-cells-wreak-havoc-brain",
-    "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-    "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/",
-    "https://www.nature.com/articles/d41586-026-02751-7",
     "https://www.nature.com/articles/d41586-026-02793-x",
     "https://www.nature.com/articles/d41586-026-02806-9",
     "https://www.nature.com/articles/d41586-026-02804-x",
@@ -1001,7 +982,26 @@
     "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
     "https://www.nature.com/articles/d41586-026-03223-8",
     "https://www.nature.com/articles/d41586-026-03222-9",
-    "https://www.nature.com/articles/d41586-026-03306-6"
+    "https://www.nature.com/articles/d41586-026-03306-6",
+    "https://www.nature.com/articles/s41586-026-11242-8",
+    "https://www.nature.com/articles/d41586-026-03301-x",
+    "https://www.nature.com/articles/d41586-026-03202-z",
+    "https://www.nature.com/articles/s41586-026-11267-z",
+    "https://www.nature.com/articles/d41586-026-03307-5",
+    "https://www.nature.com/articles/d41586-026-03114-y",
+    "https://www.nature.com/articles/d41586-026-03081-4",
+    "https://www.nature.com/articles/d41586-026-02442-3",
+    "https://www.nature.com/articles/d41586-026-03206-9",
+    "https://www.nature.com/articles/d41586-026-03204-x",
+    "https://www.nature.com/articles/d41586-026-02645-8",
+    "https://www.nature.com/articles/d41586-026-03075-2",
+    "https://www.nature.com/articles/d41586-026-03219-4",
+    "https://www.nature.com/articles/d41586-026-03085-0",
+    "https://www.nature.com/articles/d41586-026-03205-w",
+    "https://www.nature.com/articles/d41586-026-03061-8",
+    "https://www.nature.com/articles/s41586-026-11239-3",
+    "https://www.nature.com/articles/d41586-026-03302-w",
+    "https://www.nature.com/articles/d41586-026-03203-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1232,16 +1232,10 @@
     "https://huggingface.co/blog/tiiuae/falcon-asr",
     "https://huggingface.co/blog/building-with-ml-intern",
     "https://huggingface.co/blog/allenai/impactful-scheduling",
-    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+    "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+    "https://huggingface.co/blog/allenai/hiro-acev2"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/off-duty/military-culture/2026/08/11/from-the-draft-to-dungeons-and-dragons/",
-    "https://www.militarytimes.com/news/your-military/2026/08/11/russia-frees-former-us-marine-from-detention/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/11/navy-bringing-free-concerts-to-50-installations/",
-    "https://www.militarytimes.com/news/your-military/2026/08/11/marines-must-update-religious-affiliation-as-service-slashes-list-to-30-options/",
-    "https://www.militarytimes.com/news/your-military/2026/08/11/asbestos-mold-and-crumbling-walls-the-us-militarys-pacific-bases-are-falling-apart/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/11/boeing-unveils-cheap-radar-seeker-built-from-off-the-shelf-parts/",
-    "https://www.militarytimes.com/news/your-military/2026/08/11/air-force-promotes-over-12500-senior-airmen-to-staff-sergeant/",
     "https://www.militarytimes.com/veterans/2026/08/11/majority-of-va-mental-health-visits-are-timely-but-referrals-lag-watchdog/",
     "https://www.militarytimes.com/news/your-military/2026/08/11/multiple-uss-abraham-lincoln-sailors-have-tried-to-go-overboard-amid-extended-deployment-families-say/",
     "https://www.militarytimes.com/news/your-military/2026/08/12/urine-test-could-predict-stress-fractures-in-boot-camp/",
@@ -1734,6 +1728,13 @@
     "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
     "https://www.militarytimes.com/news/your-military/2026/10/14/97-of-us-soldiers-complete-brain-health-assessment/",
     "https://www.militarytimes.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
-    "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-transfers-600-enlisted-soldiers-to-space-operations-branch/"
+    "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-transfers-600-enlisted-soldiers-to-space-operations-branch/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/youre-a-coward-protesters-heckle-hegseth-during-ausa-panel/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-generals-propose-larger-footprint-more-frequent-military-exercises-in-korea/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/14/forterra-partners-with-hypercraft-on-autonomous-vehicle-for-high-risk-missions/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/14/us-army-taps-9-companies-to-build-next-gen-command-and-control-software/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/14/nobodys-losing-pay-army-cyber-command-head-says-new-tech-mastery-program-wont-affect-troop-wages/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/how-to-earn-the-us-armys-jungle-tab-in-panama-and-lose-10lbs/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-expands-drone-marketplace-to-33-nations/"
   ]
 }
