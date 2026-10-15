@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/08/how-chemistry-can-keep-glow-in-the-dark-pigments-from-fading/",
-    "https://arstechnica.com/gadgets/2026/08/google-begins-rolling-out-anti-motion-sickness-feature-on-android-17/",
-    "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-    "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
     "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
     "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
     "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
@@ -499,7 +495,11 @@
     "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
     "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
     "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
-    "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/"
+    "https://arstechnica.com/tech-policy/2026/10/trump-cancels-pentagon-plans-to-livestream-firing-squad-execution/",
+    "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+    "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+    "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+    "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02653-8",
@@ -1236,12 +1236,10 @@
     "https://huggingface.co/blog/allenai/hiro-acev2",
     "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "https://huggingface.co/blog/meta-muse-spark-open",
-    "https://huggingface.co/blog/flux-3"
+    "https://huggingface.co/blog/flux-3",
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/14/army-identifies-two-soldiers-killed-in-apache-crash/",
-    "https://www.militarytimes.com/news/your-military/2026/08/14/woman-charged-over-vandalism-of-world-war-ii-memorial/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/14/white-house-national-security-official-to-depart-administration/",
     "https://www.militarytimes.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
     "https://www.militarytimes.com/opinion/2026/08/14/operationalizing-operator-syndrome-what-the-pentagon-advisory-council-needs-to-get-right/",
@@ -1738,6 +1736,9 @@
     "https://www.militarytimes.com/news/your-military/2026/10/14/us-economic-supremacy-key-in-the-western-hemisphere-top-us-army-general-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/revolutionary-bell-touts-mv-75-cheyenne-ii-as-combat-game-changer/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/15/kratos-combat-drone-completes-first-euro-flight-advances-turbojet-engine-production/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/15/kratos-combat-drone-completes-first-euro-flight-advances-turbojet-engine-production/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
+    "https://www.militarytimes.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/",
+    "https://www.militarytimes.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/"
   ]
 }
