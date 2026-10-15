@@ -502,9 +502,6 @@
     "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02804-x",
-    "https://www.nature.com/articles/d41586-026-02838-1",
-    "https://www.nature.com/articles/d41586-026-02823-8",
     "https://www.nature.com/articles/d41586-026-02416-5",
     "https://www.nature.com/articles/d41586-026-02654-7",
     "https://www.nature.com/articles/d41586-026-02657-4",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03302-w",
     "https://www.nature.com/articles/d41586-026-03203-y",
     "https://www.nature.com/articles/d41586-026-03239-0",
-    "https://www.nature.com/articles/d41586-026-03266-x"
+    "https://www.nature.com/articles/d41586-026-03266-x",
+    "https://www.nature.com/articles/d41586-026-03152-6",
+    "https://www.nature.com/articles/d41586-026-03194-w",
+    "https://www.nature.com/articles/d41586-026-03322-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1236,9 +1236,6 @@
     "https://huggingface.co/blog/allenai/hiro-acev2"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/",
-    "https://www.militarytimes.com/pay-benefits/2026/08/12/dod-to-launch-pilot-for-some-service-members-to-freeze-sperm-eggs/",
-    "https://www.militarytimes.com/news/your-military/2026/08/12/two-dead-after-apache-crash-in-texas/",
     "https://www.militarytimes.com/news/your-military/2026/08/13/senator-presses-navy-for-answers-on-uss-abraham-lincoln-deployment/",
     "https://www.militarytimes.com/news/your-marine-corps/2026/08/13/marine-corps-identifies-recruit-killed-at-camp-pendleton/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/13/marines-train-to-shoot-down-combat-drones-with-standard-weapons/",
@@ -1735,6 +1732,9 @@
     "https://www.militarytimes.com/pay-benefits/mil-money/2026/10/14/heres-the-2027-cost-of-living-increase-for-retirees-veterans/",
     "https://www.militarytimes.com/news/your-military/2026/10/14/addicted-to-the-guard-generals-call-for-traffic-cop-to-control-state-governors-demands/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/us-soldiers-must-train-on-new-basics-of-unmanned-systems-officials-say/",
-    "https://www.militarytimes.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs/"
+    "https://www.militarytimes.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs/",
+    "https://www.militarytimes.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/"
   ]
 }
