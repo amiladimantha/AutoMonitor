@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/08/rfk-jr-may-upend-how-vaccine-recommendations-are-categorized/",
-    "https://arstechnica.com/gadgets/2026/08/ads-and-tracking-infiltrated-tvs-now-theyre-coming-for-monitors/",
-    "https://arstechnica.com/apple/2026/08/with-new-mac-studio-and-mac-mini-apple-leans-hard-into-local-ai-inference/",
-    "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
     "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
     "https://arstechnica.com/health/2026/08/two-unvaccinated-people-die-from-measles-in-pennsylvania-officials-confirm/",
     "https://arstechnica.com/space/2026/08/spacex-intends-to-invest-up-to-100-billion-in-massive-louisiana-spaceport/",
@@ -499,13 +495,13 @@
     "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
     "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
     "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
-    "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/"
+    "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+    "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
+    "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
+    "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
+    "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02416-5",
-    "https://www.nature.com/articles/d41586-026-02654-7",
-    "https://www.nature.com/articles/d41586-026-02657-4",
-    "https://www.nature.com/articles/d41586-026-02655-6",
     "https://www.nature.com/articles/d41586-026-02658-3",
     "https://www.nature.com/articles/d41586-026-02653-8",
     "https://www.nature.com/articles/d41586-026-02660-9",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-03266-x",
     "https://www.nature.com/articles/d41586-026-03152-6",
     "https://www.nature.com/articles/d41586-026-03194-w",
-    "https://www.nature.com/articles/d41586-026-03322-6"
+    "https://www.nature.com/articles/d41586-026-03322-6",
+    "https://www.nature.com/articles/d41586-026-03329-z",
+    "https://www.nature.com/articles/d41586-026-03238-1",
+    "https://www.nature.com/articles/s41586-026-11263-3",
+    "https://www.nature.com/articles/d41586-026-03233-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1233,14 +1233,12 @@
     "https://huggingface.co/blog/building-with-ml-intern",
     "https://huggingface.co/blog/allenai/impactful-scheduling",
     "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-    "https://huggingface.co/blog/allenai/hiro-acev2"
+    "https://huggingface.co/blog/allenai/hiro-acev2",
+    "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+    "https://huggingface.co/blog/meta-muse-spark-open",
+    "https://huggingface.co/blog/flux-3"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/13/senator-presses-navy-for-answers-on-uss-abraham-lincoln-deployment/",
-    "https://www.militarytimes.com/news/your-marine-corps/2026/08/13/marine-corps-identifies-recruit-killed-at-camp-pendleton/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/13/marines-train-to-shoot-down-combat-drones-with-standard-weapons/",
-    "https://www.militarytimes.com/news/2026/08/13/if-long-deployments-are-the-future-endurance-cant-be-the-navys-only-plan/",
-    "https://www.militarytimes.com/news/your-marine-corps/2026/08/13/us-marines-roam-far-and-wide-from-temporary-darwin-base/",
     "https://www.militarytimes.com/opinion/2026/08/13/if-long-deployments-are-the-future-endurance-cant-be-the-navys-only-plan/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/14/bill-seeks-nationwide-concealed-carry-for-special-operators/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
@@ -1735,6 +1733,11 @@
     "https://www.militarytimes.com/news/your-military/2026/10/15/acting-us-army-secretary-creates-task-force-for-hvac-repairs/",
     "https://www.militarytimes.com/news/your-army/2026/10/14/who-doesnt-want-to-be-first-best-squad-nco-and-soldier-named-at-ausa/",
     "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-to-address-parents-blocked-access-to-teen-medical-records/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/14/us-army-to-stand-up-second-expeditionary-cyber-battalion-in-coming-months/",
+    "https://www.militarytimes.com/news/your-military/2026/10/15/routine-testosterone-screening-of-us-troops-may-require-extensive-follow-on-care-study-finds/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/15/execution-of-nidal-hasan-will-not-be-livestreamed-trump-says/",
+    "https://www.militarytimes.com/news/your-military/2026/10/15/pentagon-seeks-expertise-to-develop-brain-injury-assessment-standards/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/us-economic-supremacy-key-in-the-western-hemisphere-top-us-army-general-says/"
   ]
 }
