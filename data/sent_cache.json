@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
     "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
     "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
     "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
@@ -499,7 +498,8 @@
     "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
     "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
     "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
-    "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/"
+    "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
+    "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02653-8",
@@ -1240,7 +1240,6 @@
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
     "https://www.militarytimes.com/opinion/2026/08/14/operationalizing-operator-syndrome-what-the-pentagon-advisory-council-needs-to-get-right/",
     "https://www.militarytimes.com/news/your-military/2026/08/17/after-traumatic-health-crash-austin-tices-mom-renews-search-for-answers/",
@@ -1739,6 +1738,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/kratos-combat-drone-completes-first-euro-flight-advances-turbojet-engine-production/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
     "https://www.militarytimes.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/",
-    "https://www.militarytimes.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/"
+    "https://www.militarytimes.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge/"
   ]
 }
