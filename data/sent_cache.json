@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
-    "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
-    "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
     "https://arstechnica.com/tech-policy/2026/08/court-blocks-trump-fcc-order-that-could-flood-broadcast-tv-with-more-election-ads/",
     "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
     "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
@@ -499,12 +496,12 @@
     "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
     "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
     "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
-    "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/"
+    "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+    "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
+    "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+    "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02653-8",
-    "https://www.nature.com/articles/d41586-026-02660-9",
-    "https://www.nature.com/articles/d41586-026-02656-5",
     "https://www.nature.com/articles/d41586-026-02659-2",
     "https://www.nature.com/articles/s41586-026-11118-x",
     "https://www.nature.com/articles/d41586-026-02843-4",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03238-1",
     "https://www.nature.com/articles/s41586-026-11263-3",
     "https://www.nature.com/articles/d41586-026-03233-6",
-    "https://www.nature.com/articles/d41586-026-03178-w"
+    "https://www.nature.com/articles/d41586-026-03178-w",
+    "https://www.nature.com/articles/d41586-026-03112-0",
+    "https://www.nature.com/articles/d41586-026-03253-2",
+    "https://www.nature.com/articles/d41586-026-03336-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1241,7 +1241,6 @@
     "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
     "https://www.militarytimes.com/opinion/2026/08/14/operationalizing-operator-syndrome-what-the-pentagon-advisory-council-needs-to-get-right/",
     "https://www.militarytimes.com/news/your-military/2026/08/17/after-traumatic-health-crash-austin-tices-mom-renews-search-for-answers/",
     "https://www.militarytimes.com/global/europe/2026/08/17/everybody-loves-a-winner-us-ukraine-intel-sharing-surges-as-kyiv-racks-up-wins/",
@@ -1740,6 +1739,7 @@
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/killer-balloons-an-option-as-us-army-seeks-to-exploit-the-stratosphere/",
     "https://www.militarytimes.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/",
     "https://www.militarytimes.com/news/your-military/2026/10/15/expanded-dining-options-popular-among-soldiers-us-army-officials-say/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge/",
+    "https://www.militarytimes.com/news/your-military/2026/10/14/what-is-the-us-army-doing-in-panama-a-bit-of-everything/"
   ]
 }
