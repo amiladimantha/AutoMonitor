@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
-    "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
-    "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
-    "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
-    "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
     "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
     "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
     "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
@@ -499,12 +494,14 @@
     "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
     "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
     "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
-    "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/"
+    "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+    "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+    "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+    "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+    "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+    "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02843-4",
-    "https://www.nature.com/articles/s41586-026-11025-1",
-    "https://www.nature.com/articles/s41586-026-11039-9",
     "https://www.nature.com/articles/s41586-026-10876-y",
     "https://www.nature.com/articles/s41586-026-11001-9",
     "https://www.nature.com/articles/s41586-026-10954-1",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03253-2",
     "https://www.nature.com/articles/d41586-026-03336-0",
     "https://www.nature.com/articles/d41586-026-03341-3",
-    "https://www.nature.com/articles/d41586-026-03195-9"
+    "https://www.nature.com/articles/d41586-026-03195-9",
+    "https://www.nature.com/articles/d41586-026-03308-4",
+    "https://www.nature.com/articles/d41586-026-03303-9",
+    "https://www.nature.com/articles/d41586-026-03338-y"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1242,9 +1242,6 @@
     "https://huggingface.co/blog/reflection-beam"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/08/17/centcom-commander-visits-uss-abraham-lincoln-amid-mental-health-concerns/",
-    "https://www.militarytimes.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea/",
-    "https://www.militarytimes.com/pay-benefits/mil-money/2026/08/17/aafes-boss-leaves-legacy-of-benefits-for-more-veterans-and-stronger-perks-for-all/",
     "https://www.militarytimes.com/news/your-military/2026/08/17/pentagon-scrutinizes-foreign-research-ties-at-30-us-academic-institutions/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/17/us-air-force-looks-to-acquire-target-drones-that-can-mimic-stealth-jets/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/17/former-air-force-secretary-to-join-others-in-lawsuit-against-white-house-to-regain-security-clearance/",
@@ -1741,6 +1738,9 @@
     "https://www.militarytimes.com/news/your-military/2026/10/15/weaponized-light-kbrs-new-base-defense-technology-pits-lasers-against-drones/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/team-digitally-traces-polish-revolutionary-war-heros-west-point-contributions/",
     "https://www.militarytimes.com/recap/ausa/2026/10/16/recap-autonomy-dominates-the-us-armys-2026-conference-in-washington/",
-    "https://www.militarytimes.com/news/your-military/2026/10/14/blood-supplies-autonomous-systems-shape-us-armys-indo-pacific-combat-care-plans/"
+    "https://www.militarytimes.com/news/your-military/2026/10/14/blood-supplies-autonomous-systems-shape-us-armys-indo-pacific-combat-care-plans/",
+    "https://www.militarytimes.com/news/your-military/2026/10/16/us-armys-8th-psychological-operations-group-inactivated/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/15/arizona-guard-first-to-field-gray-eagle-25m-drone/",
+    "https://www.militarytimes.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/"
   ]
 }
