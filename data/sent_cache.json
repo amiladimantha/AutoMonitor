@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/08/gop-heads-to-supreme-court-after-losing-case-over-tv-election-ad-prices/",
-    "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-    "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
     "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/",
     "https://arstechnica.com/health/2026/08/rfk-jr-spews-anti-vaccine-rubbish-as-newborn-revealed-to-have-died-from-measles/",
     "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
@@ -499,13 +496,12 @@
     "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
     "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
     "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/",
-    "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+    "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+    "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
+    "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+    "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
   ],
   "Science": [
-    "https://www.science.org/content/article/conference-posters-could-garner-wider-audience-thanks-new-online-platform",
-    "https://www.science.org/content/article/mysterious-human-relatives-were-strong-and-agile-fossil-elbow-and-primitive-tools",
-    "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-    "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
     "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
     "https://www.nature.com/articles/d41586-026-02809-6",
     "https://www.nature.com/articles/d41586-026-02821-w",
@@ -1001,7 +997,11 @@
     "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
     "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
     "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-    "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/"
+    "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
+    "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+    "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+    "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1242,12 +1242,6 @@
     "https://huggingface.co/blog/reflection-beam"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/17/former-air-force-secretary-to-join-others-in-lawsuit-against-white-house-to-regain-security-clearance/",
-    "https://www.militarytimes.com/news/your-military/2026/08/17/army-shifts-helicopter-training-to-a-contractor-run-model/",
-    "https://www.militarytimes.com/news/your-military/2026/08/17/2-commanders-removed-from-posts-in-new-mexico-air-national-guard/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/17/uss-john-f-kennedy-completes-acceptance-sea-trials/",
-    "https://www.militarytimes.com/news/your-military/2026/08/18/us-army-requests-133000-gmlrs-rockets-by-2034/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight/",
     "https://www.militarytimes.com/veterans/2026/08/18/who-decides-what-works-inside-vas-mental-health-treatment-playbook/",
     "https://www.militarytimes.com/news/your-military/2026/08/18/army-buys-virginia-facility-to-stable-the-old-guards-caisson-horses/",
@@ -1741,6 +1735,12 @@
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/arizona-guard-first-to-field-gray-eagle-25m-drone/",
     "https://www.militarytimes.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink/",
-    "https://www.militarytimes.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles/"
+    "https://www.militarytimes.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
+    "https://www.militarytimes.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
+    "https://www.militarytimes.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
+    "https://www.militarytimes.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/"
   ]
 }
