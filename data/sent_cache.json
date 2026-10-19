@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
-    "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
-    "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
-    "https://arstechnica.com/space/2026/08/trump-calls-for-creation-of-a-space-academy-to-train-future-nasa-leaders/",
     "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
     "https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/",
     "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
@@ -499,11 +495,13 @@
     "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
     "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
     "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
-    "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/"
+    "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
+    "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+    "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+    "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+    "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/"
   ],
   "Science": [
-    "https://www.science.org/content/article/swiss-trial-2017-avalanche-deaths-unsettles-hazard-researchers",
-    "https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses",
     "https://www.science.org/content/article/physicists-detect-tiny-atomic-collisions-give-gas-its-pressure",
     "https://www.science.org/content/article/what-science-problem-should-ai-tackle-next-new-challenge-atlas-offers-answers",
     "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03328-0",
     "https://www.nature.com/articles/d41586-026-02623-0",
     "https://www.nature.com/articles/s41586-026-11293-x",
-    "https://www.nature.com/articles/d41586-026-03348-w"
+    "https://www.nature.com/articles/d41586-026-03348-w",
+    "https://www.nature.com/articles/d41586-026-03317-3",
+    "https://www.nature.com/articles/d41586-026-03345-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
