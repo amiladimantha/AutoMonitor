@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/08/nasa-t-38-astronaut-training-jet-gets-new-artemis-look/",
-    "https://arstechnica.com/health/2026/08/rfk-jr-spews-anti-vaccine-rubbish-as-newborn-revealed-to-have-died-from-measles/",
-    "https://arstechnica.com/science/2026/08/why-did-1000-swiss-citizens-bury-their-underpants/",
-    "https://arstechnica.com/gaming/2026/08/panic-refunds-illegal-tariffs-customers-paid-on-its-playdate-gaming-handheld/",
-    "https://arstechnica.com/science/2026/08/traders-brought-central-american-cacao-to-georgia-1000-years-ago/",
-    "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
     "https://arstechnica.com/ai/2026/08/how-much-of-a-problem-is-ais-water-use/",
     "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face/",
     "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
@@ -499,23 +493,15 @@
     "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
     "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
     "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
-    "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
+    "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
+    "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+    "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+    "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+    "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+    "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+    "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-    "https://www.nature.com/articles/d41586-026-02809-6",
-    "https://www.nature.com/articles/d41586-026-02821-w",
-    "https://www.nature.com/articles/d41586-026-02026-1",
-    "https://www.nature.com/articles/s41586-026-11079-1",
-    "https://www.nature.com/articles/d41586-026-02834-5",
-    "https://www.nature.com/articles/d41586-026-02893-8",
-    "https://www.nature.com/articles/d41586-026-02763-3",
-    "https://www.nature.com/articles/d41586-026-02827-4",
-    "https://www.nature.com/articles/d41586-026-02866-x",
-    "https://www.nature.com/articles/d41586-026-02888-5",
-    "https://www.nature.com/articles/d41586-026-02883-w",
-    "https://www.nature.com/articles/d41586-026-02828-3",
-    "https://www.science.org/content/article/department-energy-bets-open-ai-models-science",
     "https://www.science.org/content/article/swiss-trial-2017-avalanche-deaths-unsettles-hazard-researchers",
     "https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses",
     "https://www.science.org/content/article/physicists-detect-tiny-atomic-collisions-give-gas-its-pressure",
@@ -1001,7 +987,21 @@
     "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
     "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
     "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
-    "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/"
+    "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+    "https://www.nature.com/articles/d41586-026-03237-2",
+    "https://www.nature.com/articles/d41586-026-03228-3",
+    "https://www.nature.com/articles/d41586-026-03265-y",
+    "https://www.nature.com/articles/d41586-026-03312-8",
+    "https://www.nature.com/articles/d41586-026-03275-w",
+    "https://www.nature.com/articles/d41586-026-03315-5",
+    "https://www.nature.com/articles/d41586-026-03339-x",
+    "https://www.nature.com/articles/d41586-026-03313-7",
+    "https://www.nature.com/articles/s41586-026-11290-0",
+    "https://www.nature.com/articles/d41586-026-03309-3",
+    "https://www.nature.com/articles/d41586-026-03328-0",
+    "https://www.nature.com/articles/d41586-026-02623-0",
+    "https://www.nature.com/articles/s41586-026-11293-x",
+    "https://www.nature.com/articles/d41586-026-03348-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1239,14 +1239,10 @@
     "https://huggingface.co/blog/flux-3",
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
     "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-    "https://huggingface.co/blog/reflection-beam"
+    "https://huggingface.co/blog/reflection-beam",
+    "https://huggingface.co/blog/hf-torchneuron"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight/",
-    "https://www.militarytimes.com/veterans/2026/08/18/who-decides-what-works-inside-vas-mental-health-treatment-playbook/",
-    "https://www.militarytimes.com/news/your-military/2026/08/18/army-buys-virginia-facility-to-stable-the-old-guards-caisson-horses/",
-    "https://www.militarytimes.com/news/your-military/2026/08/18/us-judge-orders-release-of-woman-accused-of-vandalism-at-world-war-ii-memorial/",
-    "https://www.militarytimes.com/news/your-military/2026/08/18/as-close-as-it-gets-bodycam-footage-shows-marine-pilot-walking-away-from-crashed-fa-18-hornet/",
     "https://www.militarytimes.com/news/your-military/2026/08/18/airmen-rescue-5-navy-sailors-in-california-with-hh-60ws/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/19/pentagon-dubs-m18-handgun-safe-and-reliable-after-review/",
     "https://www.militarytimes.com/news/your-military/2026/08/19/army-unit-offers-96-hour-grand-theft-auto-binge-as-incentive-for-reenlisting/",
@@ -1741,6 +1737,11 @@
     "https://www.militarytimes.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
     "https://www.militarytimes.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
-    "https://www.militarytimes.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/"
+    "https://www.militarytimes.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
+    "https://www.militarytimes.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
+    "https://www.militarytimes.com/news/your-military/2026/10/19/national-guard-member-expected-to-recover-from-southeast-dc-shooting/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/19/academic-institutions-sever-foreign-research-ties-to-comply-with-pentagon-order/",
+    "https://www.militarytimes.com/news/your-military/2026/10/19/airman-dies-from-rappelling-fall-before-navy-football-game/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/"
   ]
 }
