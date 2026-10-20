@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/08/meta-tweaks-ai-glasses-to-block-some-creepy-recordings-but-privacy-risks-remain/",
     "https://arstechnica.com/security/2026/08/authorities-arrest-2-alleged-members-of-prolific-hacking-group-teampcp/",
     "https://arstechnica.com/space/2026/08/rocket-report-europe-splashes-some-cash-on-launch-startups-pallas-1-nears-debut/",
     "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
@@ -499,17 +498,10 @@
     "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
     "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
     "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
-    "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
+    "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+    "https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-    "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
-    "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
-    "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
-    "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
-    "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-    "https://www.nature.com/articles/d41586-026-02892-9",
-    "https://www.nature.com/articles/d41586-026-02826-5",
     "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
     "https://www.science.org/content/article/social-science-studies-may-promise-anonymity-participant-identities-often-lurk-public",
     "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
@@ -1001,7 +993,15 @@
     "https://www.science.org/content/article/science-s-dance-your-ph-d-contest-open-again-2027",
     "https://www.science.org/content/article/department-justice-fund-studies-gender-dysphoria-and-violent-behavior",
     "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
-    "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+    "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "https://www.nature.com/articles/d41586-026-03353-z",
+    "https://www.nature.com/articles/d41586-026-03351-1",
+    "https://www.nature.com/articles/d41586-026-03354-y",
+    "https://www.nature.com/articles/d41586-026-03352-0",
+    "https://www.nature.com/articles/d41586-026-03062-7",
+    "https://www.nature.com/articles/d41586-026-03310-w",
+    "https://www.nature.com/articles/d41586-026-03151-7",
+    "https://www.nature.com/articles/d41586-026-03314-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1240,10 +1240,11 @@
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
     "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
     "https://huggingface.co/blog/reflection-beam",
-    "https://huggingface.co/blog/hf-torchneuron"
+    "https://huggingface.co/blog/hf-torchneuron",
+    "https://huggingface.co/blog/anylanguagemodel-1-0",
+    "https://huggingface.co/blog/mps-pytorch-2-15"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/18/airmen-rescue-5-navy-sailors-in-california-with-hh-60ws/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/19/pentagon-dubs-m18-handgun-safe-and-reliable-after-review/",
     "https://www.militarytimes.com/news/your-military/2026/08/19/army-unit-offers-96-hour-grand-theft-auto-binge-as-incentive-for-reenlisting/",
     "https://www.militarytimes.com/news/your-military/2026/08/19/from-navy-seal-to-army-chaplain-how-one-veteran-found-a-new-purpose-in-service/",
@@ -1742,6 +1743,7 @@
     "https://www.militarytimes.com/news/your-military/2026/10/19/national-guard-member-expected-to-recover-from-southeast-dc-shooting/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/19/academic-institutions-sever-foreign-research-ties-to-comply-with-pentagon-order/",
     "https://www.militarytimes.com/news/your-military/2026/10/19/airman-dies-from-rappelling-fall-before-navy-football-game/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/16/us-army-competition-explores-military-uses-for-humanoid-robots/",
+    "https://www.militarytimes.com/opinion/2026/10/20/tip-of-the-spear-or-stranded-on-beaches-chinese-planners-dissect-usmc-pacific-posture/"
   ]
 }
