@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
-    "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
-    "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
-    "https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/",
     "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
     "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
     "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
@@ -499,24 +495,13 @@
     "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
     "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
     "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
-    "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+    "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+    "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+    "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
+    "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02608-z",
-    "https://www.nature.com/articles/d41586-026-02851-4",
-    "https://www.nature.com/articles/d41586-026-02882-x",
-    "https://www.nature.com/articles/d41586-026-02901-x",
-    "https://www.nature.com/articles/s41586-026-11137-8",
-    "https://www.nature.com/articles/d41586-026-02904-8",
-    "https://www.nature.com/articles/d41586-026-02907-5",
-    "https://www.nature.com/articles/d41586-026-02905-7",
-    "https://www.nature.com/articles/d41586-026-02906-6",
-    "https://www.nature.com/articles/d41586-026-02848-z",
-    "https://www.nature.com/articles/d41586-026-02850-5",
-    "https://www.nature.com/articles/d41586-026-02853-2",
-    "https://www.nature.com/articles/d41586-026-02915-5",
-    "https://www.nature.com/articles/s41586-026-11139-6",
-    "https://www.nature.com/articles/d41586-026-02723-x",
     "https://www.nature.com/articles/d41586-026-02885-8",
     "https://www.nature.com/articles/d41586-026-02891-w",
     "https://www.science.org/content/article/california-spend-billions-visionary-plan-boost-fish-habitat",
@@ -1001,7 +986,22 @@
     "https://www.nature.com/articles/s41586-026-11252-6",
     "https://www.nature.com/articles/d41586-026-03110-2",
     "https://www.nature.com/articles/d41586-026-03311-9",
-    "https://www.nature.com/articles/d41586-026-03326-2"
+    "https://www.nature.com/articles/d41586-026-03326-2",
+    "https://www.nature.com/articles/s41586-026-11317-6",
+    "https://www.nature.com/articles/d41586-026-03376-6",
+    "https://www.nature.com/articles/d41586-026-03161-5",
+    "https://www.nature.com/articles/d41586-026-03077-0",
+    "https://www.nature.com/articles/d41586-026-03065-4",
+    "https://www.nature.com/articles/d41586-026-03334-2",
+    "https://www.nature.com/articles/d41586-026-03282-x",
+    "https://www.nature.com/articles/d41586-026-03360-0",
+    "https://www.nature.com/articles/d41586-026-03063-6",
+    "https://www.nature.com/articles/d41586-026-03066-3",
+    "https://www.nature.com/articles/d41586-026-03285-8",
+    "https://www.nature.com/articles/d41586-026-03257-y",
+    "https://www.nature.com/articles/d41586-026-03342-2",
+    "https://www.nature.com/articles/d41586-026-03375-7",
+    "https://www.nature.com/articles/d41586-026-03064-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1247,13 +1247,13 @@
     "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
     "https://huggingface.co/blog/hf-torchtpu",
     "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
-    "https://huggingface.co/blog/nvidia/kumo-forecast"
+    "https://huggingface.co/blog/nvidia/kumo-forecast",
+    "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
+    "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+    "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+    "https://huggingface.co/blog/ibm-granite/granite-speech-5"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/20/us-air-force-flight-to-antarctica-turns-back-after-russian-hazardous-space-activity-warning/",
-    "https://www.militarytimes.com/veterans/2026/08/20/he-earned-the-medal-of-honor-in-vietnam-why-did-it-take-decades-to-receive-it/",
-    "https://www.militarytimes.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/20/the-us-navy-has-battled-operational-tempo-ordeals-for-years-the-iran-war-exposed-the-flaws/",
     "https://www.militarytimes.com/news/your-military/2026/08/21/us-army-to-end-experimental-drone-battalion-in-europe/",
     "https://www.militarytimes.com/news/your-military/2026/08/21/marine-corps-may-charter-more-commercial-vessels-amid-experimentation-efforts/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/21/some-military-barracks-chronically-neglected-due-to-285-billion-in-maintenance-backlogs-gao-finds/",
@@ -1749,6 +1749,10 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor/",
     "https://www.militarytimes.com/news/your-military/2026/10/20/navy-establishes-dedicated-rating-for-submarine-chiefs-of-the-boat/",
     "https://www.militarytimes.com/news/your-military/2026/10/21/military-spouse-commission-weighs-expanding-employment-programs-across-services/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/21/marine-corps-makes-maven-available-service-wide/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/21/marine-corps-makes-maven-available-service-wide/",
+    "https://www.militarytimes.com/news/your-navy/2026/10/21/navy-offers-explosive-ordnance-disposal-warfare-officers-up-to-100000-in-bonuses/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+    "https://www.militarytimes.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/"
   ]
 }
