@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/",
     "https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/",
     "https://arstechnica.com/science/2026/08/el-nino-is-now-stronger-than-at-any-point-in-the-last-1000-years-study-finds/",
     "https://arstechnica.com/gadgets/2026/08/google-maps-renames-lake-ontario-to-lake-america-even-faster-than-us-government/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
     "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
     "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
-    "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/"
+    "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+    "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02908-4",
     "https://www.nature.com/articles/d41586-026-02847-0",
     "https://www.nature.com/articles/d41586-026-02852-3",
     "https://www.nature.com/articles/d41586-026-02829-2",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03200-1",
     "https://www.nature.com/articles/d41586-026-03358-8",
     "https://www.nature.com/articles/d41586-026-03316-4",
-    "https://www.nature.com/articles/d41586-026-03359-7"
+    "https://www.nature.com/articles/d41586-026-03359-7",
+    "https://www.nature.com/articles/d41586-026-03355-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
