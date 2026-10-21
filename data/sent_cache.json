@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/",
-    "https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/",
-    "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
-    "https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/",
-    "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
-    "https://arstechnica.com/gadgets/2026/09/latest-android-drop-connects-gemini-to-find-hub-adds-keep-notes-and-themes-to-messages/",
     "https://arstechnica.com/tech-policy/2026/09/ftc-alleges-amazon-illegally-made-20-billion-by-rigging-billions-of-ad-auctions/",
     "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
     "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
@@ -499,11 +493,15 @@
     "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
     "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
     "https://arstechnica.com/culture/2026/10/review-carrie-is-a-triumphant-remix-with-one-major-flaw/",
-    "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/"
+    "https://arstechnica.com/gaming/2026/10/the-past-present-and-future-share-a-show-floor-at-pinball-expo-2026/",
+    "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+    "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+    "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+    "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+    "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+    "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02885-8",
-    "https://www.nature.com/articles/d41586-026-02891-w",
     "https://www.science.org/content/article/california-spend-billions-visionary-plan-boost-fish-habitat",
     "https://www.science.org/content/article/openai-breakthrough-triggers-existential-crisis-math",
     "https://www.science.org/content/article/why-ai-agents-invent-their-own-language-if-you-let-them-chat",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03257-y",
     "https://www.nature.com/articles/d41586-026-03342-2",
     "https://www.nature.com/articles/d41586-026-03375-7",
-    "https://www.nature.com/articles/d41586-026-03064-5"
+    "https://www.nature.com/articles/d41586-026-03064-5",
+    "https://www.nature.com/articles/d41586-026-03319-1",
+    "https://www.nature.com/articles/d41586-026-03357-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1251,11 +1251,10 @@
     "https://huggingface.co/blog/nvidia/microduck-isaac-lab-sim-to-real",
     "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-    "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+    "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+    "https://huggingface.co/blog/nvidia/kumo-relational"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/21/us-army-to-end-experimental-drone-battalion-in-europe/",
-    "https://www.militarytimes.com/news/your-military/2026/08/21/marine-corps-may-charter-more-commercial-vessels-amid-experimentation-efforts/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/21/some-military-barracks-chronically-neglected-due-to-285-billion-in-maintenance-backlogs-gao-finds/",
     "https://www.militarytimes.com/opinion/2026/08/21/every-combat-medic-is-trained-for-the-wound-we-should-train-them-for-what-comes-next/",
     "https://www.militarytimes.com/veterans/2026/08/21/behind-the-1-million-viral-moment-the-life-of-navy-veteran-and-beast-games-standout/",
@@ -1753,6 +1752,8 @@
     "https://www.militarytimes.com/news/your-navy/2026/10/21/navy-offers-explosive-ordnance-disposal-warfare-officers-up-to-100000-in-bonuses/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
     "https://www.militarytimes.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/"
+    "https://www.militarytimes.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/",
+    "https://www.militarytimes.com/news/your-military/2026/10/21/us-air-force-outlines-the-fighter-fleet-it-needs-by-2035/",
+    "https://www.militarytimes.com/news/your-navy/2026/10/21/uss-abraham-lincoln-to-shift-home-port-to-naval-base-kitsap-bremerton/"
   ]
 }
