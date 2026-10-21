@@ -502,10 +502,6 @@
     "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02847-0",
-    "https://www.nature.com/articles/d41586-026-02852-3",
-    "https://www.nature.com/articles/d41586-026-02829-2",
-    "https://www.nature.com/articles/d41586-026-02895-6",
     "https://www.nature.com/articles/d41586-026-02608-z",
     "https://www.nature.com/articles/d41586-026-02851-4",
     "https://www.nature.com/articles/d41586-026-02882-x",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-03358-8",
     "https://www.nature.com/articles/d41586-026-03316-4",
     "https://www.nature.com/articles/d41586-026-03359-7",
-    "https://www.nature.com/articles/d41586-026-03355-x"
+    "https://www.nature.com/articles/d41586-026-03355-x",
+    "https://www.nature.com/articles/s41586-026-11252-6",
+    "https://www.nature.com/articles/d41586-026-03110-2",
+    "https://www.nature.com/articles/d41586-026-03311-9",
+    "https://www.nature.com/articles/d41586-026-03326-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1246,10 +1246,10 @@
     "https://huggingface.co/blog/allenai/fairstress",
     "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
     "https://huggingface.co/blog/hf-torchtpu",
-    "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+    "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+    "https://huggingface.co/blog/nvidia/kumo-forecast"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar/",
     "https://www.militarytimes.com/news/your-military/2026/08/20/us-air-force-flight-to-antarctica-turns-back-after-russian-hazardous-space-activity-warning/",
     "https://www.militarytimes.com/veterans/2026/08/20/he-earned-the-medal-of-honor-in-vietnam-why-did-it-take-decades-to-receive-it/",
     "https://www.militarytimes.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
@@ -1748,6 +1748,7 @@
     "https://www.militarytimes.com/news/your-military/2026/10/20/marine-corps-creates-first-medium-missile-battalion/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor/",
     "https://www.militarytimes.com/news/your-military/2026/10/20/navy-establishes-dedicated-rating-for-submarine-chiefs-of-the-boat/",
-    "https://www.militarytimes.com/news/your-military/2026/10/21/military-spouse-commission-weighs-expanding-employment-programs-across-services/"
+    "https://www.militarytimes.com/news/your-military/2026/10/21/military-spouse-commission-weighs-expanding-employment-programs-across-services/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/21/marine-corps-makes-maven-available-service-wide/"
   ]
 }
