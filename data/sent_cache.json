@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
-    "https://arstechnica.com/space/2026/09/toyohiro-akiyama-first-japanese-citizen-and-journalist-in-space-dies-at-84/",
-    "https://arstechnica.com/gadgets/2026/09/the-army-just-used-a-20-kilowatt-laser-to-take-out-three-drones/",
-    "https://arstechnica.com/space/2026/09/wary-of-artemis-iv-timeline-nasa-is-changing-lunar-spacesuit-design/",
-    "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
     "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
     "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
     "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
@@ -499,12 +494,14 @@
     "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
     "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
     "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
-    "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/"
+    "https://arstechnica.com/science/2026/10/un-accepts-the-obvious-were-not-going-to-avoid-a-1-5o-c-warming/",
+    "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+    "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+    "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+    "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+    "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11013-5",
-    "https://www.nature.com/articles/s41586-026-11032-2",
-    "https://www.nature.com/articles/s41586-026-11020-6",
     "https://www.nature.com/articles/s41586-026-11044-y",
     "https://www.nature.com/articles/s41586-026-11042-0",
     "https://www.nature.com/articles/s41586-026-11011-7",
@@ -1001,7 +998,10 @@
     "https://www.technologyreview.com/2026/10/21/1146137/solid-state-batteries-impossible-issue/",
     "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
     "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
-    "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/"
+    "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+    "https://www.nature.com/articles/d41586-026-03414-3",
+    "https://www.nature.com/articles/d41586-026-03389-1",
+    "https://www.nature.com/articles/s41586-026-11312-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1253,13 +1253,10 @@
     "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "https://huggingface.co/blog/ibm-granite/granite-speech-5",
     "https://huggingface.co/blog/nvidia/kumo-relational",
-    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+    "https://huggingface.co/blog/allenai/olmoearth-v1-3"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/24/billboard-campaign-in-military-cities-connects-iran-war-to-high-prices/",
-    "https://www.militarytimes.com/news/your-military/2026/08/24/ice-detained-an-army-sergeants-wife-his-family-is-still-waiting-for-answers/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/08/24/us-cancels-joint-marine-drills-with-south-korea-over-iran-war-related-force-constraints/",
-    "https://www.militarytimes.com/news/your-military/2026/08/24/space-force-honor-guard-showcases-new-ceremonial-uniform-in-dc-grand-prix/",
     "https://www.militarytimes.com/news/your-military/2026/08/25/marines-navy-mandate-yearly-gas-mask-training-to-reinforce-grooming-compliance/",
     "https://www.militarytimes.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/",
     "https://www.militarytimes.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
@@ -1755,6 +1752,10 @@
     "https://www.militarytimes.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
     "https://www.militarytimes.com/veterans/military-history/2026/10/22/jaws-of-hell-a-b-24-crews-capture-survival-after-wwii-air-raid/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/"
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/",
+    "https://www.militarytimes.com/news/your-military/2026/10/22/no-money-for-camp-lejeune-toxic-water-victims-unless-gop-wins-midterms-trump-says/",
+    "https://www.militarytimes.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
+    "https://www.militarytimes.com/opinion/commentary/2026/10/22/salaries-food-and-sumo-wrestling-suits-what-i-learned-paying-the-bills-for-war/"
   ]
 }
