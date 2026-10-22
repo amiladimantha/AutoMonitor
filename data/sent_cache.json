@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/09/trump-may-be-forced-to-reveal-secret-rules-feds-use-for-ai-safety-testing/",
-    "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
-    "https://arstechnica.com/security/2026/09/my-drivers-license-is-one-of-153-million-for-sale-on-a-new-dark-website/",
-    "https://arstechnica.com/tech-policy/2026/09/fcc-plans-robocall-scorecard-to-grade-phone-companies-on-spam-call-blocking/",
-    "https://arstechnica.com/science/2026/09/meet-the-2026-ig-nobel-prize-winners/",
-    "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/",
-    "https://arstechnica.com/security/2026/09/us-senator-calls-on-the-nsa-to-give-guidance-for-use-of-vpns/",
     "https://arstechnica.com/tech-policy/2026/09/nj-urges-scotus-to-rule-that-kalshi-sports-bets-are-gambling-not-swaps/",
     "https://arstechnica.com/information-technology/2026/09/vmware-migration-reduces-tottenham-hotspurs-licensing-fees-by-85-percent/",
     "https://arstechnica.com/science/2026/09/just-like-a-fruit-fly-a-new-algorithm-never-forgets-old-scents/",
@@ -499,10 +492,16 @@
     "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
     "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
     "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
-    "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/"
+    "https://arstechnica.com/culture/2026/10/sauron-recruits-his-future-ringwraiths-in-rings-of-power-s3-trailer/",
+    "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+    "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+    "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+    "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
+    "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
+    "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+    "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11044-y",
     "https://www.nature.com/articles/s41586-026-11042-0",
     "https://www.nature.com/articles/s41586-026-11011-7",
     "https://www.nature.com/articles/s41586-026-11030-4",
@@ -1001,7 +1000,8 @@
     "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
     "https://www.nature.com/articles/d41586-026-03414-3",
     "https://www.nature.com/articles/d41586-026-03389-1",
-    "https://www.nature.com/articles/s41586-026-11312-x"
+    "https://www.nature.com/articles/s41586-026-11312-x",
+    "https://www.nature.com/articles/d41586-026-03371-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1254,11 +1254,10 @@
     "https://huggingface.co/blog/ibm-granite/granite-speech-5",
     "https://huggingface.co/blog/nvidia/kumo-relational",
     "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+    "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+    "https://huggingface.co/blog/microsoft/thinkingbox-training"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/25/marines-navy-mandate-yearly-gas-mask-training-to-reinforce-grooming-compliance/",
-    "https://www.militarytimes.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/",
     "https://www.militarytimes.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
     "https://www.militarytimes.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-a-new-defense-industrial-base-office/",
     "https://www.militarytimes.com/news/your-navy/2026/08/25/navy-instructs-military-personnel-and-families-to-scrub-social-media-of-personal-information/",
@@ -1756,6 +1755,8 @@
     "https://www.militarytimes.com/news/your-military/2026/10/22/no-money-for-camp-lejeune-toxic-water-victims-unless-gop-wins-midterms-trump-says/",
     "https://www.militarytimes.com/news/your-military/2026/10/22/trump-putin-negotiate-release-of-us-air-force-veteran-from-russian-prison/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
-    "https://www.militarytimes.com/opinion/commentary/2026/10/22/salaries-food-and-sumo-wrestling-suits-what-i-learned-paying-the-bills-for-war/"
+    "https://www.militarytimes.com/opinion/commentary/2026/10/22/salaries-food-and-sumo-wrestling-suits-what-i-learned-paying-the-bills-for-war/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/22/errors-in-disability-cases-for-painful-scars-resulted-in-overpayment-va-watchdog/",
+    "https://www.militarytimes.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/"
   ]
 }
