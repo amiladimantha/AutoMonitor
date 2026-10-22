@@ -1252,7 +1252,8 @@
     "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-    "https://huggingface.co/blog/nvidia/kumo-relational"
+    "https://huggingface.co/blog/nvidia/kumo-relational",
+    "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
   ],
   "Military & Defense": [
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/21/some-military-barracks-chronically-neglected-due-to-285-billion-in-maintenance-backlogs-gao-finds/",
