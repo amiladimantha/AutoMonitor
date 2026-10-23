@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
-    "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
-    "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
-    "https://arstechnica.com/science/2026/09/brain-of-a-male-fly-completely-mapped-joins-earlier-map-of-a-female-brain/",
-    "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
     "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
     "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
     "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
@@ -499,12 +494,14 @@
     "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
     "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
     "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
-    "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/"
+    "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+    "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+    "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+    "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
+    "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
+    "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11045-x",
-    "https://www.nature.com/articles/s41586-026-11000-w",
-    "https://www.nature.com/articles/s41586-026-10948-z",
     "https://www.nature.com/articles/s41586-026-11024-2",
     "https://www.nature.com/articles/s41586-026-11057-7",
     "https://www.nature.com/articles/d41586-026-02927-1",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03416-1",
     "https://www.nature.com/articles/d41586-026-03108-w",
     "https://www.nature.com/articles/d41586-026-03417-0",
-    "https://www.nature.com/articles/d41586-026-02582-6"
+    "https://www.nature.com/articles/d41586-026-02582-6",
+    "https://www.nature.com/articles/s41586-026-11303-y",
+    "https://www.nature.com/articles/d41586-026-03418-z",
+    "https://www.nature.com/articles/d41586-026-03383-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1256,13 +1256,10 @@
     "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "https://huggingface.co/blog/allenai/olmoearth-v1-3",
     "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "https://huggingface.co/blog/torch-neuronx-model-support"
+    "https://huggingface.co/blog/torch-neuronx-model-support",
+    "https://huggingface.co/blog/allenai/litpivot"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/off-duty/2026/08/25/new-call-of-duty-game-to-feature-medal-of-honor-recipient-kyle-carpenter/",
-    "https://www.militarytimes.com/news/your-military/2026/08/25/air-force-officer-among-those-killed-in-alaska-plane-crash/",
-    "https://www.militarytimes.com/veterans/military-history/2026/08/25/marine-actor-spy-ortizs-war-depicts-pursuits-of-world-war-ii-commando/",
-    "https://www.militarytimes.com/news/your-military/2026/08/25/suppressors-reduce-gunfire-advocates-warn-of-toxic-blowback/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon/",
     "https://www.militarytimes.com/news/your-military/2026/08/25/marines-corpsmen-ran-toward-twentynine-palms-home-rocked-by-explosion/",
     "https://www.militarytimes.com/news/your-military/2026/08/25/toxic-suppressor-blowback-warrants-military-safety-reforms-advocates-say/",
@@ -1758,6 +1755,10 @@
     "https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
     "https://www.militarytimes.com/news/your-military/2026/10/23/navy-officer-convicted-of-pushing-his-wife-out-of-window-to-her-death-petitions-supreme-court-for-review/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/23/military-takeover-of-new-mexico-borderlands-challenged-in-court/",
-    "https://www.militarytimes.com/veterans/military-history/2026/10/23/virginia-man-arrested-after-quantico-iwo-jima-statue-defaced-with-sledgehammer/"
+    "https://www.militarytimes.com/veterans/military-history/2026/10/23/virginia-man-arrested-after-quantico-iwo-jima-statue-defaced-with-sledgehammer/",
+    "https://www.militarytimes.com/news/your-military/2026/10/23/air-force-unit-halts-rappelling-ropes-training-after-airman-dies-during-public-demonstration/",
+    "https://www.militarytimes.com/veterans/2026/10/23/the-flight-nurses-of-the-pacific-who-saved-thousands-of-marines/",
+    "https://www.militarytimes.com/veterans/2026/10/23/tom-skerritt-air-force-veteran-and-top-gun-star-dies-at-93/",
+    "https://www.militarytimes.com/off-duty/military-culture/2026/10/23/a-super-rebrand-navy-mandates-dropping-artificial-intelligence/"
   ]
 }
