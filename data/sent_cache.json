@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/09/musk-wins-court-order-to-block-use-of-twitter-but-not-tweet-and-bird-logo/",
-    "https://arstechnica.com/space/2026/09/why-did-us-space-companies-pull-out-of-a-french-space-meeting-its-complicated/",
-    "https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/",
-    "https://arstechnica.com/information-technology/2026/09/trust-not-features-is-the-real-deficit-vmware-tries-to-appease-smbs/",
     "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
     "https://arstechnica.com/health/2026/09/pentagon-releases-then-quickly-removes-testosterone-screening-policy/",
     "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
@@ -499,7 +495,11 @@
     "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
     "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
     "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
-    "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/"
+    "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
+    "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+    "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+    "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
+    "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-11024-2",
@@ -1260,18 +1260,6 @@
     "https://huggingface.co/blog/allenai/litpivot"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon/",
-    "https://www.militarytimes.com/news/your-military/2026/08/25/marines-corpsmen-ran-toward-twentynine-palms-home-rocked-by-explosion/",
-    "https://www.militarytimes.com/news/your-military/2026/08/25/toxic-suppressor-blowback-warrants-military-safety-reforms-advocates-say/",
-    "https://www.militarytimes.com/news/your-military/2026/08/25/active-duty-air-force-officer-who-called-for-trump-impeachment-faces-three-charges/",
-    "https://www.militarytimes.com/news/your-military/2026/08/26/marine-corps-brings-back-flu-shot-mandate-for-some-troops/",
-    "https://www.militarytimes.com/global/2026/08/26/how-a-ukrainian-commander-sped-through-the-kill-zone-to-save-wounded-troops/",
-    "https://www.militarytimes.com/news/your-military/2026/08/26/air-force-academy-to-sport-b-21-raider-inspired-uniform-in-game-against-navy/",
-    "https://www.militarytimes.com/news/your-military/2026/08/26/marines-overhaul-infantry-stress-stealth-in-new-ground-combat-strategy/",
-    "https://www.militarytimes.com/news/your-army/2026/08/26/us-army-seeks-8000-new-short-range-missiles-per-year/",
-    "https://www.militarytimes.com/news/your-military/2026/08/26/american-flags-lowered-to-half-staff-in-honor-of-dolly-parton/",
-    "https://www.militarytimes.com/veterans/2026/08/26/lawmakers-demand-va-bring-back-lgbtq-care-coordinators/",
-    "https://www.militarytimes.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment/",
     "https://www.militarytimes.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/",
     "https://www.militarytimes.com/news/your-military/2026/08/27/marines-fielding-new-laser-sights-at-school-of-infantry/",
     "https://www.militarytimes.com/news/your-military/2026/08/27/they-survived-an-iran-war-drone-attack-six-months-later-theyre-struggling-to-get-care/",
@@ -1759,6 +1747,18 @@
     "https://www.militarytimes.com/news/your-military/2026/10/23/air-force-unit-halts-rappelling-ropes-training-after-airman-dies-during-public-demonstration/",
     "https://www.militarytimes.com/veterans/2026/10/23/the-flight-nurses-of-the-pacific-who-saved-thousands-of-marines/",
     "https://www.militarytimes.com/veterans/2026/10/23/tom-skerritt-air-force-veteran-and-top-gun-star-dies-at-93/",
-    "https://www.militarytimes.com/off-duty/military-culture/2026/10/23/a-super-rebrand-navy-mandates-dropping-artificial-intelligence/"
+    "https://www.militarytimes.com/off-duty/military-culture/2026/10/23/a-super-rebrand-navy-mandates-dropping-artificial-intelligence/",
+    "https://www.militarytimes.com/veterans/2026/10/23/marine-sniper-veteran-visits-ukraine-to-meet-man-behind-2069-meter-shot/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
+    "https://breakingdefense.com/2026/10/gdit-announces-amy-johnson-as-new-president/",
+    "https://breakingdefense.com/2026/10/space-force-reveals-first-6-operational-contracts-for-civil-reserve-support-in-space-monitoring/",
+    "https://breakingdefense.com/2026/10/kyiv-eyes-purchase-of-planned-iceye-nokia-sovereign-communication-sats/",
+    "https://breakingdefense.com/2026/10/qatari-barzan-unveils-aerial-drones-unmanned-surface-vessels-at-milipol-2026/",
+    "https://breakingdefense.com/2026/10/hd-hyundai-kiewit-unveil-plans-for-new-us-shipyard/",
+    "https://breakingdefense.com/2026/10/natilus-secures-air-force-contract-to-develop-blended-wing-body-aircraft/",
+    "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon/",
+    "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception/",
+    "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders/",
+    "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act/"
   ]
 }
