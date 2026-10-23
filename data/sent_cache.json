@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/09/trumps-100-drone-tariff-has-cops-and-firefighters-panicking/",
-    "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
-    "https://arstechnica.com/gaming/2026/09/xbox-imposes-harsh-new-time-limits-for-game-pass-game-streaming/",
-    "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
     "https://arstechnica.com/space/2026/09/rocket-report-china-debuts-yet-another-new-rocket-nasa-considers-bulk-buys/",
     "https://arstechnica.com/gadgets/2026/09/nearly-impossible-how-fairphone-built-the-ethical-repairable-fairphone-gen-6/",
     "https://arstechnica.com/gaming/2026/09/valve-secretly-leaked-a-left-4-dead-2-trailer-to-dodge-the-esrb/",
@@ -499,14 +495,13 @@
     "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
     "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
     "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-    "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/"
+    "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+    "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+    "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+    "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+    "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11035-z",
-    "https://www.nature.com/articles/s41586-026-11026-0",
-    "https://www.nature.com/articles/s41586-026-10985-8",
-    "https://www.nature.com/articles/s41586-026-11014-4",
-    "https://www.nature.com/articles/s41586-026-11019-z",
     "https://www.nature.com/articles/s41586-026-11045-x",
     "https://www.nature.com/articles/s41586-026-11000-w",
     "https://www.nature.com/articles/s41586-026-10948-z",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-03371-x",
     "https://www.nature.com/articles/d41586-026-03395-3",
     "https://www.nature.com/articles/d41586-026-03438-9",
-    "https://www.nature.com/articles/d41586-026-03320-8"
+    "https://www.nature.com/articles/d41586-026-03320-8",
+    "https://www.nature.com/articles/d41586-026-03318-2",
+    "https://www.nature.com/articles/d41586-026-03416-1",
+    "https://www.nature.com/articles/d41586-026-03108-w",
+    "https://www.nature.com/articles/d41586-026-03417-0",
+    "https://www.nature.com/articles/d41586-026-02582-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1255,13 +1255,10 @@
     "https://huggingface.co/blog/nvidia/kumo-relational",
     "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "https://huggingface.co/blog/allenai/olmoearth-v1-3",
-    "https://huggingface.co/blog/microsoft/thinkingbox-training"
+    "https://huggingface.co/blog/microsoft/thinkingbox-training",
+    "https://huggingface.co/blog/torch-neuronx-model-support"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
-    "https://www.militarytimes.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-a-new-defense-industrial-base-office/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/25/navy-instructs-military-personnel-and-families-to-scrub-social-media-of-personal-information/",
-    "https://www.militarytimes.com/news/your-military/2026/08/25/wife-of-active-duty-army-sergeant-deported-to-honduras/",
     "https://www.militarytimes.com/off-duty/2026/08/25/new-call-of-duty-game-to-feature-medal-of-honor-recipient-kyle-carpenter/",
     "https://www.militarytimes.com/news/your-military/2026/08/25/air-force-officer-among-those-killed-in-alaska-plane-crash/",
     "https://www.militarytimes.com/veterans/military-history/2026/08/25/marine-actor-spy-ortizs-war-depicts-pursuits-of-world-war-ii-commando/",
@@ -1757,6 +1754,10 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
     "https://www.militarytimes.com/opinion/commentary/2026/10/22/salaries-food-and-sumo-wrestling-suits-what-i-learned-paying-the-bills-for-war/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/10/22/errors-in-disability-cases-for-painful-scars-resulted-in-overpayment-va-watchdog/",
-    "https://www.militarytimes.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/"
+    "https://www.militarytimes.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/23/us-air-force-wants-ai-to-assist-aerial-refueling/",
+    "https://www.militarytimes.com/news/your-military/2026/10/23/navy-officer-convicted-of-pushing-his-wife-out-of-window-to-her-death-petitions-supreme-court-for-review/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/23/military-takeover-of-new-mexico-borderlands-challenged-in-court/",
+    "https://www.militarytimes.com/veterans/military-history/2026/10/23/virginia-man-arrested-after-quantico-iwo-jima-statue-defaced-with-sledgehammer/"
   ]
 }
