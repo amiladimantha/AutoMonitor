@@ -502,9 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11042-0",
-    "https://www.nature.com/articles/s41586-026-11011-7",
-    "https://www.nature.com/articles/s41586-026-11030-4",
     "https://www.nature.com/articles/s41586-026-11035-z",
     "https://www.nature.com/articles/s41586-026-11026-0",
     "https://www.nature.com/articles/s41586-026-10985-8",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03414-3",
     "https://www.nature.com/articles/d41586-026-03389-1",
     "https://www.nature.com/articles/s41586-026-11312-x",
-    "https://www.nature.com/articles/d41586-026-03371-x"
+    "https://www.nature.com/articles/d41586-026-03371-x",
+    "https://www.nature.com/articles/d41586-026-03395-3",
+    "https://www.nature.com/articles/d41586-026-03438-9",
+    "https://www.nature.com/articles/d41586-026-03320-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
