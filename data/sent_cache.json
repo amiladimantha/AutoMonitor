@@ -502,7 +502,6 @@
     "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11024-2",
     "https://www.nature.com/articles/s41586-026-11057-7",
     "https://www.nature.com/articles/d41586-026-02927-1",
     "https://www.nature.com/articles/d41586-026-02833-6",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02582-6",
     "https://www.nature.com/articles/s41586-026-11303-y",
     "https://www.nature.com/articles/d41586-026-03418-z",
-    "https://www.nature.com/articles/d41586-026-03383-7"
+    "https://www.nature.com/articles/d41586-026-03383-7",
+    "https://www.nature.com/articles/s41586-026-11328-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
