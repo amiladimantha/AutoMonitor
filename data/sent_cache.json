@@ -502,7 +502,6 @@
     "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11057-7",
     "https://www.nature.com/articles/d41586-026-02927-1",
     "https://www.nature.com/articles/d41586-026-02833-6",
     "https://www.nature.com/articles/d41586-026-02910-w",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/s41586-026-11303-y",
     "https://www.nature.com/articles/d41586-026-03418-z",
     "https://www.nature.com/articles/d41586-026-03383-7",
-    "https://www.nature.com/articles/s41586-026-11328-3"
+    "https://www.nature.com/articles/s41586-026-11328-3",
+    "https://www.nature.com/articles/d41586-026-03393-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1260,7 +1260,6 @@
     "https://huggingface.co/blog/allenai/litpivot"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/",
     "https://www.militarytimes.com/news/your-military/2026/08/27/marines-fielding-new-laser-sights-at-school-of-infantry/",
     "https://www.militarytimes.com/news/your-military/2026/08/27/they-survived-an-iran-war-drone-attack-six-months-later-theyre-struggling-to-get-care/",
     "https://www.militarytimes.com/news/your-navy/2026/08/27/jonny-kims-resume-already-lists-navy-seal-astronaut-doctor-hes-now-returning-to-active-duty/",
@@ -1759,6 +1758,7 @@
     "https://breakingdefense.com/2026/10/space-force-shifts-into-high-gear-on-cislunar-warfare-with-rfis-coming-soon/",
     "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception/",
     "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders/",
-    "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act/"
+    "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act/",
+    "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration/"
   ]
 }
