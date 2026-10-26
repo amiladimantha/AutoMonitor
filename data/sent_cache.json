@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/",
-    "https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/",
-    "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/",
     "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
     "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
     "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
@@ -499,12 +496,12 @@
     "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
     "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
     "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
-    "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
+    "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
+    "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
+    "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
+    "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02927-1",
-    "https://www.nature.com/articles/d41586-026-02833-6",
-    "https://www.nature.com/articles/d41586-026-02910-w",
     "https://www.nature.com/articles/d41586-026-02621-2",
     "https://www.science.org/content/article/forests-burn-can-we-replant-trees-ready-warmer-world",
     "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03418-z",
     "https://www.nature.com/articles/d41586-026-03383-7",
     "https://www.nature.com/articles/s41586-026-11328-3",
-    "https://www.nature.com/articles/d41586-026-03393-5"
+    "https://www.nature.com/articles/d41586-026-03393-5",
+    "https://www.nature.com/articles/d41586-026-03392-6",
+    "https://www.nature.com/articles/d41586-026-03398-0",
+    "https://www.nature.com/articles/d41586-026-03440-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1260,15 +1260,6 @@
     "https://huggingface.co/blog/allenai/litpivot"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/27/marines-fielding-new-laser-sights-at-school-of-infantry/",
-    "https://www.militarytimes.com/news/your-military/2026/08/27/they-survived-an-iran-war-drone-attack-six-months-later-theyre-struggling-to-get-care/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/27/jonny-kims-resume-already-lists-navy-seal-astronaut-doctor-hes-now-returning-to-active-duty/",
-    "https://www.militarytimes.com/pentagon/2026/08/27/pentagon-awards-contract-in-race-to-field-cheaper-interceptors-missiles/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/27/15000-operational-days-lost-in-10-years-due-to-us-submarine-maintenance-delays-gao/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/27/navys-billet-based-advancement-shift-leaves-nuclear-sailors-on-separate-path/",
-    "https://www.militarytimes.com/news/your-military/2026/08/27/joint-base-andrews-airmen-reflect-on-hueys-legacy-ahead-of-switch-to-hh-60ws/",
-    "https://www.militarytimes.com/news/your-military/2026/08/27/marine-one-crew-failed-to-reach-air-traffic-control-before-safety-incident-ntsb-says/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/27/navy-offers-select-special-warfare-officers-up-to-six-figure-bonuses-to-stay-in-uniform/",
     "https://www.militarytimes.com/news/your-military/2026/08/27/pentagon-upgrades-awards-for-3-marines-at-abbey-gate-attack/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/",
     "https://www.militarytimes.com/news/your-military/2026/08/28/dod-confirms-refrigeration-disruption-at-military-commissaries/",
@@ -1759,6 +1750,15 @@
     "https://breakingdefense.com/2026/10/winning-the-information-war-through-ideas-and-perception/",
     "https://breakingdefense.com/2026/10/ability-to-strike-back-denmark-commits-to-long-range-missile-orders/",
     "https://breakingdefense.com/2026/10/the-pentagon-has-gone-too-far-in-using-the-other-transaction-authority-congress-should-act/",
-    "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration/"
+    "https://breakingdefense.com/2026/10/unmanned-systems-take-center-stage-at-turkish-ates-serbest-military-demonstration/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
+    "https://www.militarytimes.com/news/your-marine-corps/2026/10/26/marine-corps-osprey-squadrons-get-ai-tool-to-boost-readiness-rates/",
+    "https://www.militarytimes.com/video/2026/10/26/defense-leaders-weigh-in-on-expanding-production-defense-news-weekly-full-episode-102726/",
+    "https://www.militarytimes.com/video/2026/10/26/defense-industry-leaders-weigh-in-how-to-increase-production-and-integrate-ai/",
+    "https://www.militarytimes.com/video/2026/10/26/how-to-fund-college-without-hurting-retirement-money-minute/",
+    "https://www.militarytimes.com/video/2026/10/26/semiautomatic-grenade-launcher-and-aim-assist-for-shooting-down-drones-highlights-from-ausa-2026/",
+    "https://www.militarytimes.com/uncategorized/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs/",
+    "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy/",
+    "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask/"
   ]
 }
