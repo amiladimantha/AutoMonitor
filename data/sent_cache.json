@@ -1,13 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-    "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
-    "https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/",
-    "https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-    "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-    "https://arstechnica.com/cars/2026/09/ev-batteries-last-longer-than-drivers-feared/",
-    "https://arstechnica.com/space/2026/09/stoke-space-sets-debut-launch-target-reveals-plans-for-larger-rocket/",
-    "https://arstechnica.com/gadgets/2026/09/google-says-europe-is-making-it-roll-out-degraded-travel-search-results/",
     "https://arstechnica.com/gaming/2026/09/the-white-house-made-a-tetris-clone-the-tetris-company-was-not-amused/",
     "https://arstechnica.com/science/2026/09/how-eggshells-can-protect-spacecraft-from-space-debris/",
     "https://arstechnica.com/gaming/2026/09/the-official-sequel-to-the-ur-quan-masters-releases-its-free-demo-today/",
@@ -499,14 +491,17 @@
     "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/",
     "https://arstechnica.com/cars/2026/10/f1-in-texas-one-more-race-and-well-have-a-new-champion/",
     "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
-    "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/"
+    "https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/",
+    "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+    "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+    "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+    "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+    "https://arstechnica.com/ai/2026/10/boston-dynamics-employees-want-to-block-sale-of-robot-dogs-to-ice/",
+    "https://arstechnica.com/tech-policy/2026/10/musk-accuses-ukraine-of-violating-starlink-terms-with-deadly-drone-strikes/",
+    "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+    "https://arstechnica.com/gadgets/2026/10/some-iphone-duo-screens-are-already-failing/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02621-2",
-    "https://www.science.org/content/article/forests-burn-can-we-replant-trees-ready-warmer-world",
-    "https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes",
-    "https://www.science.org/content/article/researchers-file-first-amendment-challenge-nih-grant-screening",
-    "https://www.science.org/content/article/human-neurons-flourish-mouse-brains-offering-new-view-neurodevelopmental-disorders",
     "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
     "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
     "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-03393-5",
     "https://www.nature.com/articles/d41586-026-03392-6",
     "https://www.nature.com/articles/d41586-026-03398-0",
-    "https://www.nature.com/articles/d41586-026-03440-1"
+    "https://www.nature.com/articles/d41586-026-03440-1",
+    "https://www.nature.com/articles/d41586-026-03258-x",
+    "https://www.nature.com/articles/d41586-026-03447-8",
+    "https://www.nature.com/articles/d41586-026-03259-w",
+    "https://www.nature.com/articles/d41586-026-03410-7",
+    "https://www.nature.com/articles/d41586-026-03446-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1260,14 +1260,6 @@
     "https://huggingface.co/blog/allenai/litpivot"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/27/pentagon-upgrades-awards-for-3-marines-at-abbey-gate-attack/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/",
-    "https://www.militarytimes.com/news/your-military/2026/08/28/dod-confirms-refrigeration-disruption-at-military-commissaries/",
-    "https://www.militarytimes.com/pay-benefits/2026/08/28/dod-schools-struggle-to-identify-support-military-children-with-learning-disabilities-gao-finds/",
-    "https://www.militarytimes.com/opinion/2026/08/28/the-devastation-of-nsa-bahrain-is-a-national-security-warning/",
-    "https://www.militarytimes.com/news/your-military/2026/08/28/airmen-guardians-must-complete-gask-mask-seal-tests-before-end-of-year/",
-    "https://www.militarytimes.com/veterans/military-history/2026/08/28/steel-and-stone-army-museums-newest-exhibit-shares-untold-stories-of-engineers-on-911/",
-    "https://www.militarytimes.com/news/your-military/2026/08/28/joint-base-andrews-activates-new-helicopter-squadron-for-hh-60w-mission/",
     "https://www.militarytimes.com/news/your-military/2026/08/28/record-long-deployments-add-new-layer-to-sailors-reenlistment-decisions/",
     "https://www.militarytimes.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization/",
     "https://www.militarytimes.com/news/your-military/2026/08/28/west-point-ordered-professors-not-to-teach-human-causes-of-climate-change-lawsuit-says/",
@@ -1759,6 +1751,14 @@
     "https://www.militarytimes.com/video/2026/10/26/semiautomatic-grenade-launcher-and-aim-assist-for-shooting-down-drones-highlights-from-ausa-2026/",
     "https://www.militarytimes.com/uncategorized/2026/10/26/defense-startup-wants-to-make-genetically-enhanced-military-dogs/",
     "https://breakingdefense.com/2026/10/exclusive-southcom-chief-seeks-unmanned-river-solution-as-he-embraces-autonomy/",
-    "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask/"
+    "https://breakingdefense.com/2026/10/is-the-pentagons-demand-signal-for-drones-working-it-depends-on-who-you-ask/",
+    "https://www.militarytimes.com/news/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
+    "https://www.militarytimes.com/pentagon/2026/10/26/pentagon-cautions-personnel-against-betting-using-insider-information/",
+    "https://www.militarytimes.com/news/your-army/2026/10/26/3-nas-pensacola-sailors-die-in-car-crash/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/26/supreme-court-to-hear-case-on-division-of-retirement-disability-pay-in-military-divorces/",
+    "https://www.militarytimes.com/news/your-military/2026/10/26/japan-air-base-imposes-junior-enlisted-alcohol-ban-curfew-after-local-murder/",
+    "https://www.militarytimes.com/news/your-military/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
+    "https://breakingdefense.com/2026/10/helsing-rolls-out-contra-air-defense-design-plus-two-new-inteceptors/",
+    "https://breakingdefense.com/2026/10/cyprus-to-acquire-new-offshore-patrol-vessel-with-advanced-naval-systems-from-israel/"
   ]
 }
