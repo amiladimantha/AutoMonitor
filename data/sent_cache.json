@@ -502,11 +502,6 @@
     "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-    "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-    "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
-    "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
-    "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
     "https://www.nature.com/articles/s41586-026-11134-x",
     "https://www.nature.com/articles/d41586-026-02898-3",
     "https://www.nature.com/articles/d41586-026-02896-5",
@@ -1001,7 +996,12 @@
     "https://www.nature.com/articles/d41586-026-03447-8",
     "https://www.nature.com/articles/d41586-026-03259-w",
     "https://www.nature.com/articles/d41586-026-03410-7",
-    "https://www.nature.com/articles/d41586-026-03446-9"
+    "https://www.nature.com/articles/d41586-026-03446-9",
+    "https://www.nature.com/articles/d41586-026-03404-5",
+    "https://www.nature.com/articles/d41586-026-03407-2",
+    "https://www.nature.com/articles/d41586-026-03405-4",
+    "https://www.nature.com/articles/d41586-026-03406-3",
+    "https://www.nature.com/articles/d41586-026-03396-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
