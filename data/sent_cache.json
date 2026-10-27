@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/09/top-chipmakers-embrace-asmls-400m-machines-agree-to-crucial-chipmaking-change/",
-    "https://arstechnica.com/culture/2026/09/godzilla-minus-zero-imax-trailer-teases-king-ghidorah/",
-    "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
-    "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
-    "https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline/",
-    "https://arstechnica.com/gaming/2026/09/gog-brings-back-big-box-pc-games-one-printable-template-at-a-time/",
-    "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
     "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
     "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
     "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
@@ -499,11 +492,16 @@
     "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
     "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
     "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-    "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/"
+    "https://arstechnica.com/tech-policy/2026/10/us-officials-want-section-702-renewed-before-damaging-court-ruling-goes-public/",
+    "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+    "https://arstechnica.com/gadgets/2026/10/googles-android-registered-app-stores-program-launches-dec-1-applications-now-open/",
+    "https://arstechnica.com/science/2026/10/vibe-genes-naturalish-language-comes-to-protein-genome-design-software/",
+    "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
+    "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
+    "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
+    "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02897-4",
-    "https://www.nature.com/articles/d41586-026-02946-y",
     "https://www.nature.com/articles/d41586-026-02184-2",
     "https://www.nature.com/articles/d41586-026-02945-z",
     "https://www.nature.com/articles/d41586-026-02984-6",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03390-8",
     "https://www.nature.com/articles/d41586-026-03403-6",
     "https://www.nature.com/articles/d41586-026-03394-4",
-    "https://www.nature.com/articles/d41586-026-03463-8"
+    "https://www.nature.com/articles/d41586-026-03463-8",
+    "https://www.nature.com/articles/s41586-026-11302-z",
+    "https://www.nature.com/articles/d41586-026-03384-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1258,23 +1258,10 @@
     "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "https://huggingface.co/blog/torch-neuronx-model-support",
     "https://huggingface.co/blog/allenai/litpivot",
-    "https://huggingface.co/blog/allenai/novelty-bench"
+    "https://huggingface.co/blog/allenai/novelty-bench",
+    "https://huggingface.co/blog/LiquidAI/lfm3"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/08/31/contamination-prompts-wyoming-air-base-to-halt-minuteman-iii-communications-testers/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/31/the-militarys-chatgpt-is-now-live-via-the-pentagons-genai-platform/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/08/31/trial-for-accused-mastermind-of-911-attacks-set-for-june-2028/",
-    "https://www.militarytimes.com/news/your-military/2026/08/31/barracks-task-force-completes-first-housing-at-washington-naval-base/",
-    "https://www.militarytimes.com/news/your-military/2026/08/31/uss-abraham-lincolns-visit-to-thailands-pattaya-lifts-hope-and-sex-tourism-risk/",
-    "https://www.militarytimes.com/breaking-news/2026/08/31/army-secretary-dan-driscoll-resigns-on-short-notice-amid-reported-friction-with-hegseth/",
-    "https://www.militarytimes.com/news/your-navy/2026/08/31/toilet-paper-and-human-error-led-to-11-hour-uss-new-orleans-fire-investigation-finds/",
-    "https://www.militarytimes.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production/",
-    "https://www.militarytimes.com/news/your-military/2026/08/31/us-air-force-chief-of-staff-discusses-regional-situation-with-israeli-military-officials/",
-    "https://www.militarytimes.com/news/your-military/2026/08/31/82nd-airborne-soldiers-have-middle-east-deployment-extended-out-to-a-year/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/defense-startup-raises-61-million-to-put-ai-into-a-wrist-worn-display/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/01/pentagon-still-failing-to-secure-health-records-of-top-officials-audit-finds/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/where-the-pentagon-cant-go-a-small-nonprofit-searches-for-americas-war-dead/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
     "https://www.militarytimes.com/news/your-navy/2026/09/01/navy-not-returning-to-damaged-bahrain-base-anytime-soon-top-officer-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/01/suicide-prevention-efforts-at-fort-hood-lack-professional-expertise-army-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/",
@@ -1760,6 +1747,20 @@
     "https://breakingdefense.com/2026/10/how-the-pentagon-wants-to-buy-cyber-outcomes-not-equipment/",
     "https://breakingdefense.com/2026/10/2026-midterm-cheat-sheet-which-races-to-watch-on-defense/",
     "https://breakingdefense.com/2026/10/the-new-must-have-capabilities-for-drones/",
-    "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/"
+    "https://breakingdefense.com/2026/10/usaf-should-buy-newly-designed-air-refuelers-to-meet-china-threat-report/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/27/marine-corps-fast-tracks-ai-powered-ultrasounds-blood-coolers-to-battlefield/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
+    "https://www.militarytimes.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
+    "https://www.militarytimes.com/news/2026/10/27/a-shipwreck-two-nazi-spies-and-the-boy-scout-who-noticed/",
+    "https://www.militarytimes.com/industry/2026/10/27/us-army-queries-industrys-ability-to-build-21000-infantry-squad-vehicles/",
+    "https://www.militarytimes.com/news/2026/10/27/navy-identifies-nas-pensacola-sailors-killed-in-car-crash/",
+    "https://www.militarytimes.com/news/2026/10/27/hitlers-eagles-nest-mountain-retreat-burned-down/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/27/congressmen-launch-bipartisan-military-range-test-facility-caucus/",
+    "https://www.militarytimes.com/industry/techwatch/2026/10/27/us-army-looks-to-high-flying-balloons-to-help-see-strike-along-front-lines-with-china/",
+    "https://www.militarytimes.com/news/your-military/2026/10/27/us-marine-indicted-over-suspected-murder-robbery-of-woman-in-okinawa/",
+    "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility/",
+    "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down/",
+    "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween/",
+    "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy/"
   ]
 }
