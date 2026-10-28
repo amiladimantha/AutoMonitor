@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
-    "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
-    "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
-    "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
     "https://arstechnica.com/space/2026/09/as-europe-flounders-in-space-a-rising-french-star-may-show-the-way/",
     "https://arstechnica.com/space/2026/09/artemis-ii-commander-and-pilot-become-nasas-first-astronaut-emeriti/",
     "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
@@ -499,10 +495,13 @@
     "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
     "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
     "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
-    "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/"
+    "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+    "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+    "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+    "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+    "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02818-5",
     "https://www.nature.com/articles/d41586-026-02929-z",
     "https://www.nature.com/articles/d41586-026-02939-x",
     "https://www.nature.com/articles/d41586-026-02724-w",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03415-2",
     "https://www.nature.com/articles/d41586-026-03288-5",
     "https://www.nature.com/articles/d41586-026-03262-1",
-    "https://www.nature.com/articles/d41586-026-03067-2"
+    "https://www.nature.com/articles/d41586-026-03067-2",
+    "https://www.nature.com/articles/d41586-026-03488-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1263,10 +1263,6 @@
     "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/02/navy-looks-to-fast-track-camp-pendleton-barracks-project/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/02/trump-to-nominate-hung-cao-as-navy-secretary/",
-    "https://www.militarytimes.com/news/your-military/2026/09/02/army-pivots-from-wwii-era-ammo-cans-toward-polymer-cases-3d-printing/",
-    "https://www.militarytimes.com/news/your-military/2026/09/02/marine-corps-to-add-6500-billets-in-force-expansion/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/02/us-army-awards-192m-to-palantir-anduril-for-titan-production/",
     "https://www.militarytimes.com/news/your-navy/2026/09/02/faster-fielding-of-laser-weapons-key-to-future-fights-navys-top-officer-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/02/navy-corpsman-found-dead-near-south-carolina-riverbanks/",
@@ -1762,6 +1758,10 @@
     "https://breakingdefense.com/2026/10/how-general-atomics-views-europes-unmanned-future/",
     "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments/",
     "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals/",
-    "https://breakingdefense.com/2026/10/is-the-finnish-norwegian-call-with-putin-a-crack-in-nordic-resolve-or-the-start-of-a-new-path/"
+    "https://breakingdefense.com/2026/10/is-the-finnish-norwegian-call-with-putin-a-crack-in-nordic-resolve-or-the-start-of-a-new-path/",
+    "https://www.militarytimes.com/video/2026/10/28/cost-estimate-for-iran-war-rises-to-more-than-47-billion/",
+    "https://www.militarytimes.com/news/2026/10/28/premiums-for-tricare-young-adult-to-rise-by-an-average-11-in-2027/",
+    "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception/",
+    "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs/"
   ]
 }
