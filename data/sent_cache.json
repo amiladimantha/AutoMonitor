@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/09/astronaut-on-iss-celebrates-60-years-of-star-trek-with-prop-badge/",
-    "https://arstechnica.com/science/2026/09/nih-to-use-part-of-its-budget-to-pay-for-department-of-defense-research/",
-    "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-    "https://arstechnica.com/science/2026/09/noaa-is-putting-commercial-fishing-ahead-of-conservation/",
-    "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
     "https://arstechnica.com/gadgets/2026/09/apples-long-rumored-foldable-becomes-reality-with-the-2000-iphone-duo/",
     "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
     "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
@@ -499,13 +494,14 @@
     "https://arstechnica.com/culture/2026/10/warner-bros-drops-final-trailer-for-dune-part-three/",
     "https://arstechnica.com/cars/2026/10/ford-builds-bidrectional-charging-into-its-30k-electric-truck/",
     "https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/",
-    "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/"
+    "https://arstechnica.com/gadgets/2026/10/from-cheap-tool-to-premium-subscription-when-a-beloved-apps-price-skyrockets/",
+    "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+    "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+    "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+    "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+    "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02184-2",
-    "https://www.nature.com/articles/d41586-026-02945-z",
-    "https://www.nature.com/articles/d41586-026-02984-6",
-    "https://www.nature.com/articles/d41586-026-02919-1",
     "https://www.nature.com/articles/d41586-026-02943-1",
     "https://www.nature.com/articles/d41586-026-02922-6",
     "https://www.science.org/content/article/department-energy-launches-215-million-race-build-quantum-computer-2028",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-03394-4",
     "https://www.nature.com/articles/d41586-026-03463-8",
     "https://www.nature.com/articles/s41586-026-11302-z",
-    "https://www.nature.com/articles/d41586-026-03384-6"
+    "https://www.nature.com/articles/d41586-026-03384-6",
+    "https://www.nature.com/articles/d41586-026-03388-2",
+    "https://www.nature.com/articles/d41586-026-03385-5",
+    "https://www.nature.com/articles/d41586-026-03449-6",
+    "https://www.nature.com/articles/d41586-026-03461-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1262,7 +1262,6 @@
     "https://huggingface.co/blog/LiquidAI/lfm3"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/09/01/navy-not-returning-to-damaged-bahrain-base-anytime-soon-top-officer-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/01/suicide-prevention-efforts-at-fort-hood-lack-professional-expertise-army-says/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/01/house-passes-funding-bill-to-avert-government-shutdown/",
@@ -1761,6 +1760,7 @@
     "https://breakingdefense.com/2026/10/defense-department-selects-poland-for-new-pac-3-maintenance-facility/",
     "https://breakingdefense.com/2026/10/a-more-flexible-way-to-defend-maneuver-forces-from-drones-that-doesnt-tie-them-down/",
     "https://breakingdefense.com/2026/10/whats-haunting-the-pentagon-this-halloween/",
-    "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy/"
+    "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy/",
+    "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues/"
   ]
 }
