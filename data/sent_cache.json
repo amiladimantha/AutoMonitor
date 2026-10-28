@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
-    "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-    "https://arstechnica.com/gadgets/2026/09/apple-debuts-129-airpods-5-with-better-noise-cancellation-and-transparency-mode/",
-    "https://arstechnica.com/gadgets/2026/09/apple-watch-series-12-ultra-4-have-wearables-most-accurate-heart-rate-sensing/",
-    "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
-    "https://arstechnica.com/gadgets/2026/09/apples-iphone-18-pro-adds-variable-camera-aperture-and-a-more-powerful-chip/",
-    "https://arstechnica.com/gadgets/2026/09/un-correct-the-map-resolution-wont-change-mercator-map-use-in-navigation-apps/",
     "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
     "https://arstechnica.com/culture/2026/09/prime-video-releases-full-trailer-for-mike-flanagans-carrie/",
     "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
@@ -499,22 +492,16 @@
     "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
     "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
     "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-    "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/"
+    "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+    "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+    "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+    "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+    "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+    "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+    "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+    "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02441-4",
-    "https://www.nature.com/articles/s41586-026-11160-9",
-    "https://www.nature.com/articles/d41586-026-02932-4",
-    "https://www.nature.com/articles/d41586-026-02928-0",
-    "https://www.nature.com/articles/d41586-026-02987-3",
-    "https://www.nature.com/articles/d41586-026-02931-5",
-    "https://www.nature.com/articles/d41586-026-02981-9",
-    "https://www.nature.com/articles/d41586-026-02994-4",
-    "https://www.nature.com/articles/d41586-026-02890-x",
-    "https://www.nature.com/articles/d41586-026-02996-2",
-    "https://www.nature.com/articles/d41586-026-02997-1",
-    "https://www.nature.com/articles/d41586-026-02995-3",
-    "https://www.nature.com/articles/d41586-026-02920-8",
     "https://www.nature.com/articles/d41586-026-02818-5",
     "https://www.nature.com/articles/d41586-026-02929-z",
     "https://www.nature.com/articles/d41586-026-02939-x",
@@ -1001,7 +988,20 @@
     "https://www.nature.com/articles/d41586-026-03325-3",
     "https://www.nature.com/articles/d41586-026-03476-3",
     "https://www.nature.com/articles/d41586-026-03391-7",
-    "https://www.nature.com/articles/d41586-026-03248-z"
+    "https://www.nature.com/articles/d41586-026-03248-z",
+    "https://www.nature.com/articles/s41586-026-11348-z",
+    "https://www.nature.com/articles/s41586-026-11335-4",
+    "https://www.nature.com/articles/d41586-026-03486-1",
+    "https://www.nature.com/articles/d41586-026-03484-3",
+    "https://www.nature.com/articles/d41586-026-03260-3",
+    "https://www.nature.com/articles/d41586-026-03444-x",
+    "https://www.nature.com/articles/d41586-026-03263-0",
+    "https://www.nature.com/articles/d41586-026-03261-2",
+    "https://www.nature.com/articles/d41586-026-03294-7",
+    "https://www.nature.com/articles/d41586-026-03415-2",
+    "https://www.nature.com/articles/d41586-026-03288-5",
+    "https://www.nature.com/articles/d41586-026-03262-1",
+    "https://www.nature.com/articles/d41586-026-03067-2"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1259,18 +1259,10 @@
     "https://huggingface.co/blog/torch-neuronx-model-support",
     "https://huggingface.co/blog/allenai/litpivot",
     "https://huggingface.co/blog/allenai/novelty-bench",
-    "https://huggingface.co/blog/LiquidAI/lfm3"
+    "https://huggingface.co/blog/LiquidAI/lfm3",
+    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/01/house-passes-funding-bill-to-avert-government-shutdown/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/us-approves-possible-800-million-military-helicopter-sale-to-iraq/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/us-launches-new-barrage-of-strikes-on-iran-around-strait-of-hormuz/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/us-army-soldiers-across-the-world-earn-danish-ruck-ribbon/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/01/newly-minted-marine-officer-makes-steelers-53-man-roster/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/mh-139-grey-wolf-reaches-initial-operational-capability/",
-    "https://www.militarytimes.com/news/your-military/2026/09/01/navy-captain-gives-oath-of-enlistment-to-son-on-last-day-of-service/",
-    "https://www.militarytimes.com/news/your-military/2026/09/02/after-over-200-days-at-sea-uss-abraham-lincoln-arrives-in-thailand/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
     "https://www.militarytimes.com/news/your-military/2026/09/02/navy-looks-to-fast-track-camp-pendleton-barracks-project/",
     "https://www.militarytimes.com/news/your-navy/2026/09/02/trump-to-nominate-hung-cao-as-navy-secretary/",
     "https://www.militarytimes.com/news/your-military/2026/09/02/army-pivots-from-wwii-era-ammo-cans-toward-polymer-cases-3d-printing/",
@@ -1761,6 +1753,15 @@
     "https://breakingdefense.com/2026/10/another-michigan-auto-firm-enters-defense-industry-as-state-tries-to-revive-arsenal-of-democracy/",
     "https://breakingdefense.com/2026/10/dia-china-has-tripled-its-satellite-fleet-since-2018-as-expansion-continues/",
     "https://www.militarytimes.com/news/2026/10/28/military-childcare-staffing-shortages-leave-families-struggling-to-find-care/",
-    "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses/"
+    "https://breakingdefense.com/2026/10/australia-pushes-to-beef-up-air-defenses/",
+    "https://www.militarytimes.com/news/2026/10/28/us-costs-of-iran-war-rise-to-over-47-billion-according-to-pentagon-estimate/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/10/28/trumps-russian-diesel-deal-benefits-moscow-more-than-us-consumers-experts-say/",
+    "https://breakingdefense.com/2026/10/with-daily-jamming-of-us-forces-on-korean-peninsula-industry-needs-resilient-solutions-usfk-commander/",
+    "https://breakingdefense.com/2026/10/canadian-firms-line-up-for-potential-gcap-gripen-work/",
+    "https://breakingdefense.com/2026/10/uk-commits-to-3-percent-gdp-on-defense-by-2030-new-investment-partnerships-with-industry/",
+    "https://breakingdefense.com/2026/10/how-general-atomics-views-europes-unmanned-future/",
+    "https://breakingdefense.com/2026/10/navy-faces-years-long-maintenance-crunch-amid-record-breaking-extended-deployments/",
+    "https://breakingdefense.com/2026/10/startup-biosphere-wins-pentagon-contract-to-scale-up-production-of-key-chemicals/",
+    "https://breakingdefense.com/2026/10/is-the-finnish-norwegian-call-with-putin-a-crack-in-nordic-resolve-or-the-start-of-a-new-path/"
   ]
 }
