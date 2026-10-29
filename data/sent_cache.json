@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-    "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
-    "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
-    "https://arstechnica.com/gadgets/2026/09/drones-deliver-food-and-remove-bodies-after-nepals-flood-disaster/",
-    "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
-    "https://arstechnica.com/ai/2026/09/claude-users-found-ways-around-safeguards-for-bioweapons-research/",
     "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
     "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
     "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
@@ -499,10 +493,15 @@
     "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
     "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
     "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
-    "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"
+    "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/",
+    "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+    "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+    "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+    "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+    "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+    "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02724-w",
     "https://www.nature.com/articles/d41586-026-02369-9",
     "https://www.nature.com/articles/d41586-026-02942-2",
     "https://www.nature.com/articles/d41586-026-03014-1",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03067-2",
     "https://www.nature.com/articles/d41586-026-03488-z",
     "https://www.nature.com/articles/d41586-026-03386-4",
-    "https://www.nature.com/articles/d41586-026-03531-z"
+    "https://www.nature.com/articles/d41586-026-03531-z",
+    "https://www.nature.com/articles/d41586-026-03479-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1267,18 +1267,6 @@
     "https://huggingface.co/blog/anydecisionmodel"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/pentagon-temporarily-rescinds-guidance-on-testosterone-screening-for-us-troops/",
-    "https://www.militarytimes.com/news/your-military/2026/09/03/fort-knox-soldier-identified-after-fatal-motor-pool-accident/",
-    "https://www.militarytimes.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why/",
-    "https://www.militarytimes.com/news/your-military/2026/09/03/marines-test-next-gen-combat-utility-uniforms/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/pentagon-expands-hormone-screening-guidance-to-include-female-service-members/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award/",
-    "https://www.militarytimes.com/news/your-military/2026/09/03/air-force-uses-c-130js-to-deliver-relief-supplies-equipment-to-nepal-after-flash-floods/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/vance-us-probing-airstrike-that-iran-says-hit-a-wedding-party/",
-    "https://www.militarytimes.com/news/your-military/2026/09/03/court-overturns-2023-ruling-that-wiped-bowe-bergdahls-conviction/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/04/trump-appoints-adam-telle-as-acting-army-secretary/",
     "https://www.militarytimes.com/news/your-military/2026/09/04/vance-pledges-to-help-airmans-widow-after-online-backlash-exposed-benefit-gaps/",
     "https://www.militarytimes.com/news/your-military/2026/09/04/adam-telle-former-senate-staffer-now-acting-army-secretary/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
@@ -1766,6 +1754,18 @@
     "https://www.militarytimes.com/news/your-military/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
     "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them/",
     "https://breakingdefense.com/2026/10/kaliningrad-is-more-than-the-suwalki-gap-and-nato-cannot-ignore-it/",
-    "https://breakingdefense.com/2026/10/pentagon-will-pick-new-us-base-location-by-june-2027-prioritizing-4-requirements/"
+    "https://breakingdefense.com/2026/10/pentagon-will-pick-new-us-base-location-by-june-2027-prioritizing-4-requirements/",
+    "https://www.militarytimes.com/news/your-military/2026/10/29/new-tactical-comms-system-for-us-ground-troops-aims-to-break-network-silos/",
+    "https://www.militarytimes.com/news/your-military/2026/10/29/record-deployment-for-destroyer-uss-spruance-casts-doubt-over-us-navy-maintenance/",
+    "https://www.militarytimes.com/news/2026/10/29/senior-us-general-fired-accused-of-leaking-classified-information/",
+    "https://www.militarytimes.com/news/2026/10/29/air-force-again-requires-flu-vaccine-for-select-personnel/",
+    "https://www.militarytimes.com/veterans/military-history/2026/10/29/the-mosquito-bowl-and-the-barbaric-madness-of-the-pacific-war/",
+    "https://www.militarytimes.com/news/your-military/2026/10/29/in-arctic-us-army-researchers-test-camo-that-could-adapt-to-changing-landscapes/",
+    "https://www.militarytimes.com/pentagon/2026/10/29/pentagon-treating-military-base-freezer-malfunctions-as-suspected-cyberattack-officials-say/",
+    "https://breakingdefense.com/2026/10/canada-unveils-first-national-security-strategy-in-more-than-20-years/",
+    "https://breakingdefense.com/2026/10/armys-mv-75-production-award-could-slip-due-to-cr-raising-program-costs-textron/",
+    "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy/",
+    "https://breakingdefense.com/2026/10/taiwan-2027-conflict-window-remains-valid-army-pacific-commander-says/",
+    "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/"
   ]
 }
