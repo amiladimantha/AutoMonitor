@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
-    "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
     "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
     "https://arstechnica.com/science/2026/09/physicist-does-the-math-on-star-treks-picard-maneuver/",
     "https://arstechnica.com/tech-policy/2026/09/kimmels-abc-show-wont-air-interview-with-democrat-because-of-trump-fcc-threats/",
@@ -499,11 +497,11 @@
     "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
     "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
     "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-    "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/"
+    "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+    "https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/",
+    "https://arstechnica.com/space/2026/10/spacex-no-longer-needs-nasa-and-thats-a-problem-for-americas-space-agency/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02929-z",
-    "https://www.nature.com/articles/d41586-026-02939-x",
     "https://www.nature.com/articles/d41586-026-02724-w",
     "https://www.nature.com/articles/d41586-026-02369-9",
     "https://www.nature.com/articles/d41586-026-02942-2",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03288-5",
     "https://www.nature.com/articles/d41586-026-03262-1",
     "https://www.nature.com/articles/d41586-026-03067-2",
-    "https://www.nature.com/articles/d41586-026-03488-z"
+    "https://www.nature.com/articles/d41586-026-03488-z",
+    "https://www.nature.com/articles/d41586-026-03386-4",
+    "https://www.nature.com/articles/d41586-026-03531-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1260,13 +1260,13 @@
     "https://huggingface.co/blog/allenai/litpivot",
     "https://huggingface.co/blog/allenai/novelty-bench",
     "https://huggingface.co/blog/LiquidAI/lfm3",
-    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+    "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+    "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+    "https://huggingface.co/blog/announcing-project-protostar",
+    "https://huggingface.co/blog/mistral-large4",
+    "https://huggingface.co/blog/anydecisionmodel"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/09/02/faster-fielding-of-laser-weapons-key-to-future-fights-navys-top-officer-says/",
-    "https://www.militarytimes.com/news/your-military/2026/09/02/navy-corpsman-found-dead-near-south-carolina-riverbanks/",
-    "https://www.militarytimes.com/news/your-military/2026/09/03/iran-war-escalation-raises-concern-over-civilian-death-toll/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/va-said-electronic-health-record-modernization-would-cost-10-billion-now-its-48-billion/",
     "https://www.militarytimes.com/opinion/2026/09/03/chinese-military-analysts-cant-wait-for-the-us-navys-battleship-era/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/03/pentagon-temporarily-rescinds-guidance-on-testosterone-screening-for-us-troops/",
@@ -1762,6 +1762,10 @@
     "https://www.militarytimes.com/news/2026/10/28/premiums-for-tricare-young-adult-to-rise-by-an-average-11-in-2027/",
     "https://breakingdefense.com/2026/10/counter-uas-solution-finds-and-classifies-targets-at-standoff-distance-with-autonomous-perception/",
     "https://breakingdefense.com/2026/10/aukus-partners-test-autonomous-systems-as-europe-weighs-maritime-surveillance-needs/",
-    "https://www.militarytimes.com/news/your-military/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/"
+    "https://www.militarytimes.com/news/your-military/2026/10/28/us-navy-reports-highest-number-of-class-a-aviation-afloat-mishaps-in-10-years/",
+    "https://www.militarytimes.com/news/your-military/2026/10/29/us-navy-wants-more-visible-role-for-drone-boats-as-one-deploys-for-the-first-time/",
+    "https://breakingdefense.com/2026/10/giving-counter-uas-operators-75-km-of-advance-warning-throws-the-advantage-to-them/",
+    "https://breakingdefense.com/2026/10/kaliningrad-is-more-than-the-suwalki-gap-and-nato-cannot-ignore-it/",
+    "https://breakingdefense.com/2026/10/pentagon-will-pick-new-us-base-location-by-june-2027-prioritizing-4-requirements/"
   ]
 }
