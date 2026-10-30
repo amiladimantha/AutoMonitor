@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/09/clickfix-attacks-infecting-pcs-and-macs-are-going-viral/",
     "https://arstechnica.com/science/2026/09/what-happens-when-quantum-mechanics-and-relativity-meet/",
     "https://arstechnica.com/space/2026/09/could-united-launch-alliances-money-problems-finally-force-its-owners-to-sell/",
     "https://arstechnica.com/space/2026/09/rocket-report-europe-joins-the-commercial-launch-club-a-ravn-x-sighting/",
@@ -499,7 +498,8 @@
     "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
     "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
     "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-    "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/"
+    "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+    "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02369-9",
@@ -1267,8 +1267,6 @@
     "https://huggingface.co/blog/anydecisionmodel"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/04/vance-pledges-to-help-airmans-widow-after-online-backlash-exposed-benefit-gaps/",
-    "https://www.militarytimes.com/news/your-military/2026/09/04/adam-telle-former-senate-staffer-now-acting-army-secretary/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/04/us-air-force-speeds-reaper-successor-timeline-after-iran-losses/",
@@ -1766,6 +1764,8 @@
     "https://breakingdefense.com/2026/10/armys-mv-75-production-award-could-slip-due-to-cr-raising-program-costs-textron/",
     "https://breakingdefense.com/2026/10/beyond-autopilot-understanding-the-five-levels-of-battlefield-drone-autonomy/",
     "https://breakingdefense.com/2026/10/taiwan-2027-conflict-window-remains-valid-army-pacific-commander-says/",
-    "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/"
+    "https://breakingdefense.com/2026/10/us-japan-ink-agreements-for-amraam-production-sm-3-production-boost-japanese-mod/",
+    "https://www.militarytimes.com/pentagon/2026/10/29/hasty-us-exit-from-europe-could-drive-allies-away-from-american-arms-rand-says/",
+    "https://breakingdefense.com/2026/10/3-congressional-races-that-matter-for-defense/"
   ]
 }
