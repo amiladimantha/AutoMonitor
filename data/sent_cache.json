@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-    "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
-    "https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/",
-    "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
-    "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-    "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
-    "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
     "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
     "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
     "https://arstechnica.com/cars/2026/09/f1-in-madrid-like-monaco-but-twice-as-long-and-none-of-the-glamour/",
@@ -499,10 +492,16 @@
     "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
     "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
     "https://arstechnica.com/culture/2026/10/review-you-can-see-everything-blurs-the-view-of-elizabeth-holmes-deceit/",
-    "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/"
+    "https://arstechnica.com/space/2026/10/rocket-report-winter-is-coming-for-themis-cowboy-space-adds-iron-to-the-fire/",
+    "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+    "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+    "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+    "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+    "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+    "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/"
   ],
   "Science": [
-    "https://www.science.org/content/article/white-house-move-seize-control-nih-grant-decisions-upsets-senators-and-scientists",
     "https://www.science.org/content/article/dolphin-chased-fish-until-it-puked-then-ate-vomit",
     "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03548-4",
     "https://www.nature.com/articles/d41586-026-03553-7",
     "https://www.nature.com/articles/s41586-026-11337-2",
-    "https://www.nature.com/articles/d41586-026-03502-4"
+    "https://www.nature.com/articles/d41586-026-03502-4",
+    "https://www.nature.com/articles/d41586-026-03455-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1264,13 +1264,10 @@
     "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "https://huggingface.co/blog/announcing-project-protostar",
     "https://huggingface.co/blog/mistral-large4",
-    "https://huggingface.co/blog/anydecisionmodel"
+    "https://huggingface.co/blog/anydecisionmodel",
+    "https://huggingface.co/blog/nvidia/nemotron-halloween"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/09/04/unexpected-hiring-surge-drives-down-unemployment-rate-for-post-911-veterans/",
-    "https://www.militarytimes.com/news/your-military/2026/09/04/marines-offer-up-to-15000-enlistment-bonuses-for-cyber-electronics-jobs/",
-    "https://www.militarytimes.com/opinion/2026/09/04/america-wants-the-hero-not-the-human/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/04/pentagon-wants-to-use-ai-generated-personalities-for-decoy-cellphones/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/05/white-house-reviews-candidates-to-replace-hegseth-deputy-sources-say/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
     "https://www.militarytimes.com/news/your-military/2026/09/08/coasties-photos-used-on-stamps-honoring-coast-guard-academys-150th/",
@@ -1766,6 +1763,10 @@
     "https://breakingdefense.com/2026/10/new-uk-policy-requires-foreign-defense-contractors-to-invest-locally-for-all-50m-deals/",
     "https://breakingdefense.com/2026/10/navy-flexes-new-acquisition-muscles-with-totes-269m-lsm-award-to-hanwha/",
     "https://breakingdefense.com/2026/10/pentagon-eyes-public-private-partnerships-to-help-fund-fortress-america-homeland-base-plan/",
-    "https://breakingdefense.com/2026/10/qatars-domestic-weapons-turkeys-drone-arsenal-and-the-mecca-pacts-next-test/"
+    "https://breakingdefense.com/2026/10/qatars-domestic-weapons-turkeys-drone-arsenal-and-the-mecca-pacts-next-test/",
+    "https://www.militarytimes.com/news/2026/10/30/low-altitude-air-force-one-halloween-flyover-rattles-dc-residents/",
+    "https://breakingdefense.com/2026/10/us-greenlights-500-patriot-missiles-for-ukraine-with-2-1-billion-to-be-paid-by-allies/",
+    "https://breakingdefense.com/2026/10/bilateral-no-more-pacom-officials-highlight-multi-national-data-sharing-network/",
+    "https://breakingdefense.com/2026/10/pentagon-reveals-fy26-intelligence-budget-at-30-9-billion/"
   ]
 }
