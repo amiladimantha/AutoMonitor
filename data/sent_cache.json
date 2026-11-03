@@ -1,15 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
-    "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
-    "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
-    "https://arstechnica.com/health/2026/09/measles-kills-18-year-old-in-pa-fourth-death-as-state-outbreak-nears-700-cases/",
-    "https://arstechnica.com/space/2026/09/spacex-sets-launch-date-for-first-starship-orbital-flight/",
-    "https://arstechnica.com/ai/2026/09/agilitys-new-humanoid-robot-will-stop-squat-to-avoid-harming-human-coworkers/",
-    "https://arstechnica.com/tech-policy/2026/09/boston-dumps-flock-says-it-shared-data-nationwide-in-violation-of-contract/",
-    "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
-    "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
-    "https://arstechnica.com/tech-policy/2026/09/filmmaker-suing-passthepopcorn-may-be-banned-user-out-for-revenge/",
     "https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks/",
     "https://arstechnica.com/tech-policy/2026/09/its-ok-to-tell-ice-their-actions-will-haunt-them-judge-rules-in-speech-fight/",
     "https://arstechnica.com/gadgets/2026/09/iran-strikes-on-amazon-data-centers-caused-permanent-loss-of-customer-data/",
@@ -499,12 +489,19 @@
     "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
     "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
     "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
-    "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/"
+    "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+    "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+    "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+    "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+    "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+    "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+    "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+    "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+    "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+    "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+    "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11049-7",
-    "https://www.nature.com/articles/s41586-026-11051-z",
-    "https://www.nature.com/articles/s41586-026-11056-8",
     "https://www.nature.com/articles/s41586-026-11028-y",
     "https://www.nature.com/articles/s41586-026-11007-3",
     "https://www.nature.com/articles/s41586-026-11054-w",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03504-2",
     "https://www.nature.com/articles/d41586-026-03397-1",
     "https://www.nature.com/articles/d41586-026-03540-y",
-    "https://www.nature.com/articles/d41586-026-03571-5"
+    "https://www.nature.com/articles/d41586-026-03571-5",
+    "https://www.nature.com/articles/d41586-026-03538-6",
+    "https://www.nature.com/articles/d41586-026-03554-6",
+    "https://www.nature.com/articles/d41586-026-03545-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1267,21 +1267,12 @@
     "https://huggingface.co/blog/anydecisionmodel",
     "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "https://huggingface.co/blog/transformers-mic",
-    "https://huggingface.co/blog/ibm-research/cuga-harness"
+    "https://huggingface.co/blog/ibm-research/cuga-harness",
+    "https://huggingface.co/blog/allenai/statebench",
+    "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "https://huggingface.co/blog/cwe-bench"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/10/trump-departs-dc-on-qatar-gifted-air-force-one-after-emergency-slide-accidentally-deploys/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/10/navy-installing-advanced-nuclear-microreactor-at-indiana-command/",
-    "https://www.militarytimes.com/news/your-military/2026/09/10/navy-must-start-killing-manned-programs-defense-official-says/",
-    "https://www.militarytimes.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/",
-    "https://www.militarytimes.com/opinion/2026/09/10/should-500m-companies-compete-with-service-disabled-veteran-owned-small-businesses/",
-    "https://www.militarytimes.com/news/your-military/2026/09/11/she-was-in-the-pentagon-daycare-on-911-now-she-is-running-2977-miles-one-for-every-life-lost/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/",
-    "https://www.militarytimes.com/veterans/2026/09/11/for-young-americans-the-911-attacks-and-subsequent-wars-are-history-not-memory/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/11/iran-used-claude-to-target-us-navy-in-middle-east-anthropic-says/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/11/americans-mark-25-years-since-september-11-attacks-amid-enduring-grief-reflection/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/11/saudi-crown-prince-sought-us-military-help-with-houthis-sources-say/",
     "https://www.militarytimes.com/news/your-military/2026/09/11/in-first-oregon-guard-f-15exs-drop-live-bombs/",
     "https://www.militarytimes.com/news/your-military/2026/09/11/the-us-militarys-next-significant-challenge-hiding/",
     "https://www.militarytimes.com/news/your-military/2026/09/11/air-force-fighter-pilots-fall-below-sortie-minimum-to-be-deemed-combat-ready/",
@@ -1769,6 +1760,18 @@
     "https://breakingdefense.com/2026/11/the-defense-show-circuit-keeps-rolling-plus-jimmy-stewart-goes-to-war/",
     "https://breakingdefense.com/2026/11/gambit-series-offers-a-scalable-path-for-collaborative-combat-aircraft/",
     "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
-    "https://breakingdefense.com/2026/11/the-congressional-right-to-repair-solution-needs-some-repairs-itself/"
+    "https://breakingdefense.com/2026/11/the-congressional-right-to-repair-solution-needs-some-repairs-itself/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/03/us-air-force-asks-industry-for-new-cruise-missile-for-ukraine/",
+    "https://www.militarytimes.com/industry/techwatch/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps/",
+    "https://www.militarytimes.com/news/your-military/2026/11/03/navy-deploys-proof-of-concept-man-overboard-detection-system/",
+    "https://www.militarytimes.com/opinion/2026/11/03/on-american-destroyers-avoid-a-self-inflicted-wound-in-spain/",
+    "https://www.militarytimes.com/news/your-military/2026/11/03/space-force-officially-activates-special-operations-command-component/",
+    "https://breakingdefense.com/2026/11/air-force-divests-its-few-a-29s-explores-future-options/",
+    "https://breakingdefense.com/2026/11/ausa-2026-the-ground-truth-on-the-armys-next-chapter/",
+    "https://breakingdefense.com/2026/11/france-investing-in-naval-power-as-military-ambition-is-to-be-feared-armed-forces-minister/",
+    "https://breakingdefense.com/2026/11/socom-taps-aeon-for-limited-run-of-shoulder-fired-zeus-with-13-8m-deal/",
+    "https://breakingdefense.com/2026/11/airbus-ends-wingman-drone-to-meet-germanys-accelerated-operations-timeline/",
+    "https://breakingdefense.com/2026/11/bae-systems-launches-new-sea-tridon-naval-gun-series/",
+    "https://breakingdefense.com/2026/11/syria-weighs-joining-the-mecca-pact-foreign-minister-says/"
   ]
 }
