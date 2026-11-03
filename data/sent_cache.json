@@ -1,14 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/",
-    "https://arstechnica.com/ai/2026/09/ai-leaders-want-to-hit-the-brakes-after-years-of-reckless-speed/",
-    "https://arstechnica.com/tech-policy/2026/09/online-hate-researcher-keeps-hammering-x-despite-deportation-threat/",
-    "https://arstechnica.com/science/2026/09/a-new-solar-cell-could-generate-electricity-underwater/",
-    "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
-    "https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/",
-    "https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/",
-    "https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/",
-    "https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/",
     "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
     "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
     "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
@@ -499,11 +490,18 @@
     "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
     "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
     "https://arstechnica.com/science/2026/11/the-world-has-a-new-plan-to-save-nature-but-it-still-needs-the-money/",
-    "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/"
+    "https://arstechnica.com/gadgets/2026/11/this-48-e-paper-display-can-be-whatever-you-want-it-to-be/",
+    "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+    "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+    "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+    "https://arstechnica.com/gaming/2026/11/googles-legend-of-zelda-easter-egg-transports-you-back-to-1998/",
+    "https://arstechnica.com/science/2026/11/most-of-our-measures-of-a-key-cognitive-process-dont-agree/",
+    "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
+    "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
+    "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
+    "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/"
   ],
   "Science": [
-    "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-    "https://www.nature.com/articles/d41586-026-02979-3",
     "https://www.nature.com/articles/d41586-026-02986-4",
     "https://www.nature.com/articles/d41586-026-02949-9",
     "https://www.nature.com/articles/d41586-026-02930-6",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03509-x",
     "https://www.nature.com/articles/d41586-026-03511-3",
     "https://www.nature.com/articles/d41586-026-02465-w",
-    "https://www.nature.com/articles/d41586-026-03507-z"
+    "https://www.nature.com/articles/d41586-026-03507-z",
+    "https://www.nature.com/articles/d41586-026-03485-2",
+    "https://www.nature.com/articles/d41586-026-03564-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1268,11 +1268,6 @@
     "https://huggingface.co/blog/nvidia/nemotron-halloween"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
-    "https://www.militarytimes.com/news/your-military/2026/09/09/us-air-force-seeks-rapidly-deployable-drone-swarms-for-base-security/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/09/support-grows-for-dark-horse-army-secretary-contender-marc-andersen/",
-    "https://www.militarytimes.com/news/your-military/2026/09/09/pentagon-codifies-fitness-standards-across-branches/",
-    "https://www.militarytimes.com/news/your-military/2026/09/09/they-served-through-americas-post-911-wars-25-years-later-what-did-that-service-mean/",
     "https://www.militarytimes.com/news/your-navy/2026/09/09/roosevelt-deployment-to-utilize-lessons-learned-from-lincoln-navys-top-brass-say/",
     "https://www.militarytimes.com/news/your-military/2026/09/09/air-force-launches-b-52-b-1-readiness-campaign/",
     "https://www.militarytimes.com/news/your-navy/2026/09/09/navy-not-doing-enough-to-study-long-term-brain-damage-in-aviators-lawmakers-say/",
@@ -1767,6 +1762,11 @@
     "https://breakingdefense.com/2026/11/saab-unveils-new-speed-assault-boat-for-swedish-navy/",
     "https://breakingdefense.com/2026/11/greece-inks-deal-for-kc-390-fleet/",
     "https://breakingdefense.com/2026/11/pacific-command-bolsters-network-defense-with-cyber-defense-forces-pacific/",
-    "https://breakingdefense.com/2026/11/oshkosh-steps-into-larger-uas-space-with-new-grid-aero-partnership/"
+    "https://breakingdefense.com/2026/11/oshkosh-steps-into-larger-uas-space-with-new-grid-aero-partnership/",
+    "https://www.militarytimes.com/news/your-military/2026/11/02/hegseth-announces-pathway-for-troops-to-become-military-chaplains/",
+    "https://www.militarytimes.com/news/your-military/2026/11/02/marine-corps-removes-extension-waivers-for-transgender-troops-fighting-to-remain-in-the-military/",
+    "https://www.militarytimes.com/news/2026/11/02/air-and-space-museum-to-unveil-modern-military-aviation-on-veterans-day/",
+    "https://www.militarytimes.com/video/2026/11/02/national-air-and-space-museum-opens-modern-military-aviation-exhibit/",
+    "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec/"
   ]
 }
