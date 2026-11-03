@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/09/epa-seeks-to-eliminate-remaining-greenhouse-gas-rules-for-power-plants/",
     "https://arstechnica.com/cars/2026/09/gm-gives-its-most-important-trucks-a-new-ui-and-includes-carplay/",
     "https://arstechnica.com/science/2026/09/this-is-by-far-the-most-peaceful-atlantic-hurricane-season-weve-ever-seen/",
     "https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models/",
@@ -499,22 +498,10 @@
     "https://arstechnica.com/apple/2026/11/apples-roaming-home-robot-may-do-facetime-switch-lights-on-and-yell-at-your-cat/",
     "https://arstechnica.com/ai/2026/11/claudes-new-rules-against-game-cloning-wont-stop-the-ai-copying-boom/",
     "https://arstechnica.com/space/2026/11/china-releases-timeline-for-lunar-landing-on-the-moon-targeting-before-2030/",
-    "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/"
+    "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/",
+    "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02949-9",
-    "https://www.nature.com/articles/d41586-026-02930-6",
-    "https://www.nature.com/articles/d41586-026-02563-9",
-    "https://www.nature.com/articles/s41586-026-11189-w",
-    "https://www.nature.com/articles/s41586-026-11169-0",
-    "https://www.nature.com/articles/d41586-026-03021-2",
-    "https://www.nature.com/articles/d41586-026-02856-z",
-    "https://www.nature.com/articles/s41586-026-11053-x",
-    "https://www.nature.com/articles/s41586-026-11058-6",
-    "https://www.nature.com/articles/s41586-026-10999-2",
-    "https://www.nature.com/articles/s41586-026-10836-6",
-    "https://www.nature.com/articles/s41586-026-11072-8",
-    "https://www.nature.com/articles/s41586-026-11016-2",
     "https://www.nature.com/articles/s41586-026-11049-7",
     "https://www.nature.com/articles/s41586-026-11051-z",
     "https://www.nature.com/articles/s41586-026-11056-8",
@@ -1001,7 +988,20 @@
     "https://www.nature.com/articles/d41586-026-03507-z",
     "https://www.nature.com/articles/d41586-026-03485-2",
     "https://www.nature.com/articles/d41586-026-03564-4",
-    "https://www.nature.com/articles/d41586-026-03480-7"
+    "https://www.nature.com/articles/d41586-026-03480-7",
+    "https://www.nature.com/articles/d41586-026-03277-8",
+    "https://www.nature.com/articles/d41586-026-03562-6",
+    "https://www.nature.com/articles/d41586-026-03560-8",
+    "https://www.nature.com/articles/d41586-026-03559-1",
+    "https://www.nature.com/articles/d41586-026-03561-7",
+    "https://www.nature.com/articles/d41586-026-03340-4",
+    "https://www.nature.com/articles/d41586-026-03503-3",
+    "https://www.nature.com/articles/d41586-026-03508-y",
+    "https://www.nature.com/articles/d41586-026-03510-4",
+    "https://www.nature.com/articles/d41586-026-03504-2",
+    "https://www.nature.com/articles/d41586-026-03397-1",
+    "https://www.nature.com/articles/d41586-026-03540-y",
+    "https://www.nature.com/articles/d41586-026-03571-5"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1266,15 +1266,10 @@
     "https://huggingface.co/blog/mistral-large4",
     "https://huggingface.co/blog/anydecisionmodel",
     "https://huggingface.co/blog/nvidia/nemotron-halloween",
-    "https://huggingface.co/blog/transformers-mic"
+    "https://huggingface.co/blog/transformers-mic",
+    "https://huggingface.co/blog/ibm-research/cuga-harness"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/09/air-force-launches-b-52-b-1-readiness-campaign/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/09/navy-not-doing-enough-to-study-long-term-brain-damage-in-aviators-lawmakers-say/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/09/va-to-mark-911-anniversary-with-volunteer-opportunities-at-national-cemeteries/",
-    "https://www.militarytimes.com/veterans/military-history/2026/09/09/wwiis-famed-mosquito-bowl-comes-to-the-big-screen/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
-    "https://www.militarytimes.com/global/2026/09/10/russia-sends-bones-of-medieval-warrior-prince-to-ukraine-front-to-boost-morale/",
     "https://www.militarytimes.com/news/your-military/2026/09/10/trump-departs-dc-on-qatar-gifted-air-force-one-after-emergency-slide-accidentally-deploys/",
     "https://www.militarytimes.com/news/your-navy/2026/09/10/navy-installing-advanced-nuclear-microreactor-at-indiana-command/",
     "https://www.militarytimes.com/news/your-military/2026/09/10/navy-must-start-killing-manned-programs-defense-official-says/",
@@ -1768,6 +1763,12 @@
     "https://www.militarytimes.com/news/2026/11/02/air-and-space-museum-to-unveil-modern-military-aviation-on-veterans-day/",
     "https://www.militarytimes.com/video/2026/11/02/national-air-and-space-museum-opens-modern-military-aviation-exhibit/",
     "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec/",
-    "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects/"
+    "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects/",
+    "https://www.militarytimes.com/news/your-military/2026/11/03/on-natos-lake-nordic-allies-worry-about-escalation-with-russia/",
+    "https://www.militarytimes.com/news/2026/11/03/258-veterans-are-running-for-house-senate-in-midterm-elections/",
+    "https://breakingdefense.com/2026/11/the-defense-show-circuit-keeps-rolling-plus-jimmy-stewart-goes-to-war/",
+    "https://breakingdefense.com/2026/11/gambit-series-offers-a-scalable-path-for-collaborative-combat-aircraft/",
+    "https://breakingdefense.com/2026/11/former-army-secretary-heads-to-openai/",
+    "https://breakingdefense.com/2026/11/the-congressional-right-to-repair-solution-needs-some-repairs-itself/"
   ]
 }
