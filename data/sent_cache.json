@@ -502,7 +502,6 @@
     "https://arstechnica.com/cars/2026/11/f1-in-mexico-city-we-have-a-new-world-champion/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02986-4",
     "https://www.nature.com/articles/d41586-026-02949-9",
     "https://www.nature.com/articles/d41586-026-02930-6",
     "https://www.nature.com/articles/d41586-026-02563-9",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-02465-w",
     "https://www.nature.com/articles/d41586-026-03507-z",
     "https://www.nature.com/articles/d41586-026-03485-2",
-    "https://www.nature.com/articles/d41586-026-03564-4"
+    "https://www.nature.com/articles/d41586-026-03564-4",
+    "https://www.nature.com/articles/d41586-026-03480-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1265,10 +1265,10 @@
     "https://huggingface.co/blog/announcing-project-protostar",
     "https://huggingface.co/blog/mistral-large4",
     "https://huggingface.co/blog/anydecisionmodel",
-    "https://huggingface.co/blog/nvidia/nemotron-halloween"
+    "https://huggingface.co/blog/nvidia/nemotron-halloween",
+    "https://huggingface.co/blog/transformers-mic"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/09/09/roosevelt-deployment-to-utilize-lessons-learned-from-lincoln-navys-top-brass-say/",
     "https://www.militarytimes.com/news/your-military/2026/09/09/air-force-launches-b-52-b-1-readiness-campaign/",
     "https://www.militarytimes.com/news/your-navy/2026/09/09/navy-not-doing-enough-to-study-long-term-brain-damage-in-aviators-lawmakers-say/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/09/va-to-mark-911-anniversary-with-volunteer-opportunities-at-national-cemeteries/",
@@ -1767,6 +1767,7 @@
     "https://www.militarytimes.com/news/your-military/2026/11/02/marine-corps-removes-extension-waivers-for-transgender-troops-fighting-to-remain-in-the-military/",
     "https://www.militarytimes.com/news/2026/11/02/air-and-space-museum-to-unveil-modern-military-aviation-on-veterans-day/",
     "https://www.militarytimes.com/video/2026/11/02/national-air-and-space-museum-opens-modern-military-aviation-exhibit/",
-    "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec/"
+    "https://breakingdefense.com/2026/11/industry-needs-more-consistent-demand-signal-to-scale-ugv-production-autonomy-consortium-exec/",
+    "https://breakingdefense.com/2026/11/swedens-saab-launches-family-of-ai-agents-for-future-aircraft-projects/"
   ]
 }
