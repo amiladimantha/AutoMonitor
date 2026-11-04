@@ -502,23 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11028-y",
-    "https://www.nature.com/articles/s41586-026-11007-3",
-    "https://www.nature.com/articles/s41586-026-11054-w",
-    "https://www.nature.com/articles/s41586-026-11059-5",
-    "https://www.nature.com/articles/s41586-026-11033-1",
-    "https://www.nature.com/articles/s41586-026-10271-7",
-    "https://www.science.org/content/article/bones-link-10-000-year-old-temple-complex-village-not-skull-cult",
-    "https://www.science.org/content/article/can-ai-feel-pain-it-can-least-act-it-does",
-    "https://www.science.org/content/article/submerged-land-bridge-may-have-helped-people-cross-mediterranean",
-    "https://www.science.org/content/article/single-wildfire-smoke-exposure-causes-lasting-harm-monkey-study-suggests",
-    "https://www.science.org/content/article/one-nature-s-greatest-marine-wonders-may-be-about-vanish",
-    "https://www.science.org/content/article/dna-analysis-strengthens-evidence-thomas-jefferson-fathered-children-sally-hemings",
-    "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
-    "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-    "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-    "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
-    "https://www.science.org/content/article/project-will-harness-technology-track-amazon-biodiversity-real-time",
     "https://www.nature.com/articles/d41586-026-02988-2",
     "https://www.nature.com/articles/d41586-026-02989-1",
     "https://www.nature.com/articles/d41586-026-02990-8",
@@ -1001,7 +984,24 @@
     "https://www.nature.com/articles/d41586-026-03571-5",
     "https://www.nature.com/articles/d41586-026-03538-6",
     "https://www.nature.com/articles/d41586-026-03554-6",
-    "https://www.nature.com/articles/d41586-026-03545-7"
+    "https://www.nature.com/articles/d41586-026-03545-7",
+    "https://www.nature.com/articles/d41586-026-03344-0",
+    "https://www.nature.com/articles/d41586-026-03173-1",
+    "https://www.nature.com/articles/d41586-026-03369-5",
+    "https://www.nature.com/articles/d41586-026-03343-1",
+    "https://www.nature.com/articles/d41586-026-03169-x",
+    "https://www.nature.com/articles/d41586-026-03171-3",
+    "https://www.nature.com/articles/d41586-026-03167-z",
+    "https://www.nature.com/articles/d41586-026-03165-1",
+    "https://www.nature.com/articles/d41586-026-03544-8",
+    "https://www.nature.com/articles/d41586-026-03563-5",
+    "https://www.nature.com/articles/d41586-026-03172-2",
+    "https://www.nature.com/articles/d41586-026-03168-y",
+    "https://www.nature.com/articles/d41586-026-03580-4",
+    "https://www.nature.com/articles/d41586-026-03505-1",
+    "https://www.nature.com/articles/d41586-026-03170-4",
+    "https://www.nature.com/articles/d41586-026-03166-0",
+    "https://www.nature.com/articles/d41586-026-03413-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1273,10 +1273,6 @@
     "https://huggingface.co/blog/cwe-bench"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/veterans/2026/09/12/survivors-guilt-felt-by-young-soldiers-echoes-odysseuss-haunted-memories/",
-    "https://www.militarytimes.com/news/your-military/2026/09/14/drone-maker-unveils-low-cost-alternative-to-mq-9-reaper/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/09/14/china-changes-law-to-mobilize-all-resources-in-case-of-conflict-should-neighbors-worry/",
-    "https://www.militarytimes.com/air/2026/09/14/us-military-must-focus-on-right-mix-of-weapons-amid-stockpile-concerns-official/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/14/lockheed-to-build-4-more-vectis-drones-2027-first-flight-remains-on-target/",
     "https://www.militarytimes.com/news/your-military/2026/09/14/geissele-automatics-reveals-production-ready-assault-rifle-for-socom/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/14/organizers-break-ground-on-education-center-at-pentagon-911-memorial/",
@@ -1772,6 +1768,10 @@
     "https://breakingdefense.com/2026/11/syria-weighs-joining-the-mecca-pact-foreign-minister-says/",
     "https://www.militarytimes.com/news/your-military/2026/11/03/first-hh-60w-to-succeed-aging-hueys-arrives-at-joint-base-andrews/",
     "https://breakingdefense.com/2026/11/snc-pulls-out-of-navy-trainer-jet-t45-ujts-leonardo-textron/",
-    "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/"
+    "https://breakingdefense.com/2026/11/thales-subsidiary-lands-us-navy-contract-for-remote-mine-hunting-modules/",
+    "https://breakingdefense.com/2026/11/congresss-defense-advocates-take-big-hit-in-2026-midterm-elections/",
+    "https://breakingdefense.com/2026/11/uk-airshow-riat-permanently-relocates-from-fairford/",
+    "https://breakingdefense.com/2026/11/leonardo-fincanteri-revamp-joint-venture-aiming-to-trim-frigate-build-time-by-18-months/",
+    "https://breakingdefense.com/2026/11/israel-weapons-industry-expands-into-southeast-asia-with-thailands-deployment-of-counter-drone-system/"
   ]
 }
