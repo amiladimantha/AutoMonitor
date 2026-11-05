@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/reviews/2026/09/the-specialized-diverge-pro-4-makes-rough-gravel-your-playground/",
-    "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-    "https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/",
-    "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/",
     "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
     "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
     "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
@@ -499,12 +495,13 @@
     "https://arstechnica.com/health/2026/11/the-dea-banned-a-drug-some-opioid-users-called-a-miracle/",
     "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
     "https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/",
-    "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/"
+    "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+    "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
+    "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
+    "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
+    "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02980-w",
-    "https://www.nature.com/articles/d41586-026-03028-9",
-    "https://www.science.org/content/article/japan-s-science-council-face-greater-governmental-oversight",
     "https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls",
     "https://www.science.org/content/article/nih-details-170-million-biomedical-research-reproducibility-effort",
     "https://www.science.org/content/article/little-known-arm-immune-system-could-be-key-better-vaccines-cancer-therapies",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03423-2",
     "https://www.nature.com/articles/d41586-026-03579-x",
     "https://www.nature.com/articles/d41586-026-03581-3",
-    "https://www.nature.com/articles/d41586-026-03270-1"
+    "https://www.nature.com/articles/d41586-026-03270-1",
+    "https://www.nature.com/articles/s41586-026-11336-3",
+    "https://www.nature.com/articles/s41586-026-11351-4",
+    "https://www.nature.com/articles/d41586-026-03568-0"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1271,15 +1271,10 @@
     "https://huggingface.co/blog/allenai/statebench",
     "https://huggingface.co/blog/ibm-research/palette-deck-building",
     "https://huggingface.co/blog/cwe-bench",
-    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+    "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+    "https://huggingface.co/blog/phonon-tts"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/15/mcchrystal-hayden-join-other-flag-officers-to-promote-trust-in-american-elections/",
-    "https://www.militarytimes.com/news/your-military/2026/09/15/pardon-issued-for-sailor-convicted-of-illegally-selling-machine-guns/",
-    "https://www.militarytimes.com/news/your-military/2026/09/15/russia-and-iran-deepen-weapons-partnership-amid-wars-in-ukraine-middle-east/",
-    "https://www.militarytimes.com/news/your-military/2026/09/15/iran-war-has-cost-38-billion-depleted-two-thirds-of-us-missile-interceptors-cbo-says/",
-    "https://www.militarytimes.com/veterans/2026/09/15/study-finds-forever-chemicals-levels-higher-in-younger-vets-than-general-population/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/15/iranian-strikes-damaged-hundreds-of-us-military-buildings-dozens-of-aircraft/",
     "https://www.militarytimes.com/air/2026/09/15/f-35-proved-combat-readiness-during-middle-east-deployments-air-force-officials-say/",
     "https://www.militarytimes.com/news/your-military/2026/09/15/us-marine-stand-in-forces-in-the-pacific-a-concern-to-china-report-details/",
     "https://www.militarytimes.com/veterans/2026/09/15/va-facilities-struggle-to-staff-mental-health-nursing-safety-positions-watchdog-finds/",
@@ -1773,6 +1768,12 @@
     "https://breakingdefense.com/2026/11/shield-ai-cofounder-teases-snowball-of-x-bat-fighter-drone-announcements-in-europe/",
     "https://www.militarytimes.com/news/2026/11/04/amid-iran-conflict-non-hostile-deaths-of-2-us-airmen-raise-overseas-toll-to-23/",
     "https://breakingdefense.com/2026/11/navy-unfairly-evaluated-saildrone-musv-proposal-court-finds/",
-    "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms/"
+    "https://breakingdefense.com/2026/11/what-now-budget-fight-hegseth-impeachment-on-deck-for-defense-focused-lawmakers-after-midterms/",
+    "https://www.militarytimes.com/news/2026/11/05/as-the-va-leans-on-automation-errors-in-veterans-claims-soar/",
+    "https://www.militarytimes.com/news/2026/11/05/fort-hood-shooting-victims-not-memorialized-among-global-war-on-terror-casualties/",
+    "https://breakingdefense.com/2026/11/saildrone-inks-agreement-with-norwegian-shipbuilder-umoe-mandal-to-produce-usvs/",
+    "https://breakingdefense.com/2026/11/fairbanks-morse-defense-in-talks-with-navy-about-seawolf-class-submarine-repairs/",
+    "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/",
+    "https://breakingdefense.com/2026/11/eurofighter-eyes-sales-of-200-additional-aircraft/"
   ]
 }
