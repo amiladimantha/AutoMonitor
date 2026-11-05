@@ -1,14 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-    "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-    "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/",
-    "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/",
-    "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-    "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/",
-    "https://arstechnica.com/cars/2026/09/2026-hyundai-ioniq-5-heres-what-we-still-like-heres-what-annoys-us/",
-    "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-    "https://arstechnica.com/science/2026/09/thousands-will-die-if-epa-repeals-power-plant-climate-rules-lawsuit-says/",
     "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
     "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
     "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
@@ -499,7 +490,16 @@
     "https://arstechnica.com/gadgets/2026/11/motorolas-new-signature-27-has-it-all-if-you-can-stomach-the-1600-price-tag/",
     "https://arstechnica.com/ai/2026/11/agility-robotics-nasdaq-debut-invites-scrutiny-of-humanoid-robot-market/",
     "https://arstechnica.com/gadgets/2026/11/ipad-mini-2026-review-maximizing-the-mini/",
-    "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/"
+    "https://arstechnica.com/cars/2026/11/mercedes-amg-gt-4-door-coupe-first-drive-where-tech-and-fun-collide/",
+    "https://arstechnica.com/gadgets/2026/11/sony-adds-usb-c-to-its-70s-era-mdr-3-walkman-headphones/",
+    "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
+    "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
+    "https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/",
+    "https://arstechnica.com/science/2026/11/getting-software-to-help-block-out-a-star-so-we-can-see-exoplanets/",
+    "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
+    "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
+    "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
+    "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/"
   ],
   "Science": [
     "https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls",
@@ -1272,16 +1272,10 @@
     "https://huggingface.co/blog/ibm-research/palette-deck-building",
     "https://huggingface.co/blog/cwe-bench",
     "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-    "https://huggingface.co/blog/phonon-tts"
+    "https://huggingface.co/blog/phonon-tts",
+    "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/air/2026/09/15/f-35-proved-combat-readiness-during-middle-east-deployments-air-force-officials-say/",
-    "https://www.militarytimes.com/news/your-military/2026/09/15/us-marine-stand-in-forces-in-the-pacific-a-concern-to-china-report-details/",
-    "https://www.militarytimes.com/veterans/2026/09/15/va-facilities-struggle-to-staff-mental-health-nursing-safety-positions-watchdog-finds/",
-    "https://www.militarytimes.com/news/your-military/2026/09/15/tanker-fleet-modernization-will-continue-for-decades-us-air-force-officials-say/",
-    "https://www.militarytimes.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles/",
-    "https://www.militarytimes.com/global/2026/09/16/china-warns-us-space-weapons-could-fuel-arms-race/",
-    "https://www.militarytimes.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/vietnam-war-conscientious-objector-falsified-silver-star-award-defrauded-va/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/army-trainee-struck-by-vehicle-and-killed-while-on-foot-outside-oklahoma-base/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/",
@@ -1774,6 +1768,13 @@
     "https://breakingdefense.com/2026/11/saildrone-inks-agreement-with-norwegian-shipbuilder-umoe-mandal-to-produce-usvs/",
     "https://breakingdefense.com/2026/11/fairbanks-morse-defense-in-talks-with-navy-about-seawolf-class-submarine-repairs/",
     "https://breakingdefense.com/2026/11/shield-ai-acquires-radar-firm-echodyne-in-5-3b-deal/",
-    "https://breakingdefense.com/2026/11/eurofighter-eyes-sales-of-200-additional-aircraft/"
+    "https://breakingdefense.com/2026/11/eurofighter-eyes-sales-of-200-additional-aircraft/",
+    "https://www.militarytimes.com/news/2026/11/05/percentage-of-veterans-serving-in-incoming-congressional-class-drops-to-15/",
+    "https://www.militarytimes.com/news/your-military/2026/11/05/popular-military-air-show-permanently-pulled-from-raf-fairford-after-suspected-terror-threat/",
+    "https://www.militarytimes.com/news/your-military/2026/11/05/vector-introduces-ready-to-go-one-way-attack-drone/",
+    "https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense/",
+    "https://breakingdefense.com/2026/11/the-push-to-give-dismounted-forces-direct-access-to-leo-and-meo-networks/",
+    "https://breakingdefense.com/2026/11/the-pentagon-wants-a-massive-new-military-base-where-will-it-go/",
+    "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems/"
   ]
 }
