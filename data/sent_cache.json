@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/09/nasa-to-order-more-starliner-missions-and-help-certify-a-new-rocket-to-keep-it-flying/",
-    "https://arstechnica.com/science/2026/09/a-dolphin-named-bubbles-makes-other-fish-vomit-then-eats-it/",
-    "https://arstechnica.com/security/2026/09/hackers-reveal-how-flock-cameras-really-track-cars-and-people/",
     "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
     "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
     "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
@@ -499,7 +496,10 @@
     "https://arstechnica.com/tech-policy/2026/11/kalshi-court-losses-pile-up-as-judges-refuse-to-block-state-gambling-laws/",
     "https://arstechnica.com/health/2026/11/is-maha-dying-or-will-it-be-reborn-whats-next-after-crushing-midterm-losses/",
     "https://arstechnica.com/gaming/2026/11/gamers-go-to-ridiculous-lengths-to-improve-gta-vi-with-nvidias-dlss-5/",
-    "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/"
+    "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
+    "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
+    "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
+    "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/"
   ],
   "Science": [
     "https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls",
@@ -1276,9 +1276,6 @@
     "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/16/vietnam-war-conscientious-objector-falsified-silver-star-award-defrauded-va/",
-    "https://www.militarytimes.com/news/your-military/2026/09/16/army-trainee-struck-by-vehicle-and-killed-while-on-foot-outside-oklahoma-base/",
-    "https://www.militarytimes.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/army-crowns-top-drill-sergeants-in-first-competition-since-sweeping-command-restructure/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/army-commanders-can-recommend-rank-bump-for-ncos-in-first-sergeant-roles/",
     "https://www.militarytimes.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/",
@@ -1775,6 +1772,9 @@
     "https://breakingdefense.com/2026/11/republicans-have-a-ticking-clock-what-can-they-get-done-on-defense/",
     "https://breakingdefense.com/2026/11/the-push-to-give-dismounted-forces-direct-access-to-leo-and-meo-networks/",
     "https://breakingdefense.com/2026/11/the-pentagon-wants-a-massive-new-military-base-where-will-it-go/",
-    "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems/"
+    "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems/",
+    "https://www.militarytimes.com/opinion/commentary/2026/11/05/inside-centcom-podcast-launches-amid-iran-conflict/",
+    "https://www.militarytimes.com/news/your-army/2026/11/05/army-honors-soldiers-who-faced-down-fort-stewart-gunman/",
+    "https://www.militarytimes.com/news/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/"
   ]
 }
