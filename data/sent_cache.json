@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/09/meet-the-winner-of-nikons-small-world-in-motion-video-contest/",
-    "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/",
-    "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/",
-    "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
-    "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
-    "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
     "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
     "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
     "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
@@ -499,17 +493,15 @@
     "https://arstechnica.com/science/2026/11/statehouse-wins-give-democrats-new-power-to-push-clean-energy/",
     "https://arstechnica.com/space/2026/11/blue-origin-announces-rocket-upgrades-aimed-at-lower-costs-more-performance/",
     "https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/",
-    "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/"
+    "https://arstechnica.com/gadgets/2026/11/nasas-experimental-x-70-aircraft-is-a-big-question-mark/",
+    "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+    "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+    "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
+    "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+    "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
+    "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/"
   ],
   "Science": [
-    "https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls",
-    "https://www.science.org/content/article/nih-details-170-million-biomedical-research-reproducibility-effort",
-    "https://www.science.org/content/article/little-known-arm-immune-system-could-be-key-better-vaccines-cancer-therapies",
-    "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-    "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-    "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-    "https://www.technologyreview.com/2026/09/24/1145064/the-download-bid-scrap-virtual-wall-ai-climate-week/",
-    "https://www.technologyreview.com/2026/09/24/1145048/ai-climate-week/",
     "https://www.nature.com/articles/d41586-026-03041-y",
     "https://www.nature.com/articles/d41586-026-03039-6",
     "https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared",
@@ -1001,7 +993,15 @@
     "https://www.nature.com/articles/d41586-026-03270-1",
     "https://www.nature.com/articles/s41586-026-11336-3",
     "https://www.nature.com/articles/s41586-026-11351-4",
-    "https://www.nature.com/articles/d41586-026-03568-0"
+    "https://www.nature.com/articles/d41586-026-03568-0",
+    "https://www.nature.com/articles/d41586-026-03595-x",
+    "https://www.nature.com/articles/d41586-026-03630-x",
+    "https://www.nature.com/articles/d41586-026-03632-9",
+    "https://www.nature.com/articles/d41586-026-03442-z",
+    "https://www.nature.com/articles/d41586-026-03622-x",
+    "https://www.nature.com/articles/d41586-026-03450-z",
+    "https://www.nature.com/articles/d41586-026-03585-z",
+    "https://www.nature.com/articles/d41586-026-03596-w"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1274,19 +1274,10 @@
     "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
     "https://huggingface.co/blog/phonon-tts",
     "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "https://huggingface.co/blog/open-asr-leaderboard-liva"
+    "https://huggingface.co/blog/open-asr-leaderboard-liva",
+    "https://huggingface.co/blog/allenai/toyblocks"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/16/army-crowns-top-drill-sergeants-in-first-competition-since-sweeping-command-restructure/",
-    "https://www.militarytimes.com/news/your-military/2026/09/16/army-commanders-can-recommend-rank-bump-for-ncos-in-first-sergeant-roles/",
-    "https://www.militarytimes.com/news/your-military/2026/09/16/ai-military-targeting-may-move-faster-than-humans-can-authenticate-critics-warn/",
-    "https://www.militarytimes.com/news/your-military/2026/09/17/martial-arts-instructor-accuses-army-of-stealing-instructional-material/",
-    "https://www.militarytimes.com/news/your-military/2026/09/17/newport-news-navy-barracks-to-receive-17-billion-upgrade/",
-    "https://www.militarytimes.com/news/your-military/2026/09/17/the-us-army-is-looking-for-new-drones-to-ferry-blood-supplies/",
-    "https://www.militarytimes.com/industry/2026/09/17/lockheed-martin-gets-first-batch-of-patriot-interceptor-parts-from-general-motors/",
-    "https://www.militarytimes.com/news/your-military/2026/09/17/us-navy-should-target-chinese-aircraft-carriers-report-says/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/17/pentagon-lockheed-sign-framework-deal-to-boost-aim-260-production/",
-    "https://www.militarytimes.com/news/your-air-force/2026/09/17/us-air-force-renews-efforts-to-ensure-units-have-accurate-spouse-contact-information/",
     "https://www.militarytimes.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
     "https://www.militarytimes.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/17/coast-guard-boards-us-bound-vessels-apparently-compromised-by-hackers-officials-say/",
@@ -1776,6 +1767,16 @@
     "https://breakingdefense.com/2026/11/ukraine-eyeing-new-spacex-starshield-deal-by-mid-2027-still-no-answers-about-october-problems/",
     "https://www.militarytimes.com/opinion/commentary/2026/11/05/inside-centcom-podcast-launches-amid-iran-conflict/",
     "https://www.militarytimes.com/news/your-army/2026/11/05/army-honors-soldiers-who-faced-down-fort-stewart-gunman/",
-    "https://www.militarytimes.com/news/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/"
+    "https://www.militarytimes.com/news/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
+    "https://www.militarytimes.com/industry/techwatch/2026/11/06/russia-using-own-version-of-starlink-for-military-comms-over-ukraine-kyiv-says/",
+    "https://www.militarytimes.com/news/your-military/2026/11/06/us-european-command-launches-vigilance-campaign-as-hybrid-threats-mount/",
+    "https://www.militarytimes.com/news/2026/11/06/us-air-force-eyes-reviving-wwii-air-bases-in-the-pacific/",
+    "https://www.militarytimes.com/news/2026/11/06/judge-stops-construction-of-arch-at-arlington-national-cemetery-as-key-committee-votes-to-approve/",
+    "https://breakingdefense.com/2026/11/europes-airpower-future-is-taking-shape-but-not-as-originally-planned/",
+    "https://breakingdefense.com/2026/11/cut-to-us-aid-would-impact-israeli-acquisition-timelines-spending-analysts/",
+    "https://breakingdefense.com/2026/11/saudi-arabia-inks-first-defense-cooperation-agreement-with-syrias-new-leadership/",
+    "https://breakingdefense.com/2026/11/the-navys-trainer-is-now-the-biggest-test-of-the-pentagons-acquisition-reform-efforts/",
+    "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources/",
+    "https://breakingdefense.com/2026/11/europe-nears-decision-on-competing-hypersonic-interceptor-programs/"
   ]
 }
