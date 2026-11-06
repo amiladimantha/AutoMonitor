@@ -1,13 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
-    "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
-    "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
-    "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
-    "https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/",
-    "https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-    "https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/",
-    "https://arstechnica.com/tech-policy/2026/09/california-settles-lawsuit-against-paramount-warner-merger-angering-advocates/",
     "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
     "https://arstechnica.com/culture/2026/09/review-neagley-is-a-worthy-spinoff-to-megahit-reacher/",
     "https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/",
@@ -499,11 +491,17 @@
     "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
     "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
     "https://arstechnica.com/cars/2026/11/the-cybertruck-is-dead-makes-way-for-cybercab-says-elon-musk/",
-    "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/"
+    "https://arstechnica.com/space/2026/11/rocket-report-new-glenn-wont-fly-this-year-china-launches-mini-falcon-heavy/",
+    "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+    "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+    "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+    "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+    "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
+    "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+    "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+    "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-03041-y",
-    "https://www.nature.com/articles/d41586-026-03039-6",
     "https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared",
     "https://www.nature.com/articles/d41586-026-03004-3",
     "https://www.nature.com/articles/d41586-026-02959-7",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03622-x",
     "https://www.nature.com/articles/d41586-026-03450-z",
     "https://www.nature.com/articles/d41586-026-03585-z",
-    "https://www.nature.com/articles/d41586-026-03596-w"
+    "https://www.nature.com/articles/d41586-026-03596-w",
+    "https://www.nature.com/articles/s41586-026-11233-9",
+    "https://www.nature.com/articles/d41586-026-03587-x"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1278,14 +1278,6 @@
     "https://huggingface.co/blog/allenai/toyblocks"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
-    "https://www.militarytimes.com/news/your-military/2026/09/17/us-air-force-to-extend-service-of-b-1-b-2-bombers-official-says/",
-    "https://www.militarytimes.com/news/your-military/2026/09/17/coast-guard-boards-us-bound-vessels-apparently-compromised-by-hackers-officials-say/",
-    "https://www.militarytimes.com/news/your-military/2026/09/18/marine-boots-fail-in-the-arctic-amid-push-for-us-manufacturing-report/",
-    "https://www.militarytimes.com/news/your-military/2026/09/18/pilot-ejects-as-f-16-crashes-in-michigan-responders-treated-for-chemical-exposure/",
-    "https://www.militarytimes.com/news/your-military/2026/09/18/as-experimental-drone-battalion-ends-army-aims-to-push-drones-to-every-squad/",
-    "https://www.militarytimes.com/news/your-military/2026/09/18/us-air-force-has-a-14-billion-supply-hole-service-officials-say/",
-    "https://www.militarytimes.com/news/your-marine-corps/2026/09/18/marine-corps-tightens-process-for-religious-accommodations/",
     "https://www.militarytimes.com/news/your-military/2026/09/18/coast-guard-releases-action-plan-on-sexual-assault-as-federal-watchdog-criticizes-delays/",
     "https://www.militarytimes.com/news/your-military/2026/09/18/armys-h2f-program-linked-to-faster-injury-recovery-among-soldiers-study-finds/",
     "https://www.militarytimes.com/news/your-military/2026/09/18/army-to-promote-ncos-who-complete-drill-sergeant-recruiting-schools/",
@@ -1777,6 +1769,14 @@
     "https://breakingdefense.com/2026/11/saudi-arabia-inks-first-defense-cooperation-agreement-with-syrias-new-leadership/",
     "https://breakingdefense.com/2026/11/the-navys-trainer-is-now-the-biggest-test-of-the-pentagons-acquisition-reform-efforts/",
     "https://breakingdefense.com/2026/11/key-space-force-satellites-cant-talk-to-each-other-likely-requiring-1b-solution-sources/",
-    "https://breakingdefense.com/2026/11/europe-nears-decision-on-competing-hypersonic-interceptor-programs/"
+    "https://breakingdefense.com/2026/11/europe-nears-decision-on-competing-hypersonic-interceptor-programs/",
+    "https://www.militarytimes.com/news/your-military/2026/11/06/us-army-feeds-culinary-soldiers-new-job-title/",
+    "https://www.militarytimes.com/news/2026/11/06/october-surge-in-hiring-lowers-veterans-unemployment-to-2-7/",
+    "https://www.militarytimes.com/news/your-military/2026/11/06/us-colombian-troops-kick-off-exercise-amid-the-pentagons-western-hemisphere-pivot/",
+    "https://www.militarytimes.com/news/your-military/2026/11/06/us-military-extends-restrictions-for-okinawa-personnel-after-marines-indictment/",
+    "https://www.militarytimes.com/news/your-military/2026/11/06/how-afghanistan-war-soul-searching-led-to-renaming-of-navy-expeditionary-command/",
+    "https://www.militarytimes.com/news/your-military/2026/11/06/lawmakers-press-air-force-on-civilian-cuts-at-china-aerospace-institute/",
+    "https://breakingdefense.com/2026/11/missed-ausa-2026-get-the-ground-truth-from-breaking-defenses-free-ebook/",
+    "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network/"
   ]
 }
