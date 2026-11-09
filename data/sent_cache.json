@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/",
     "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
     "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
     "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
@@ -499,17 +498,10 @@
     "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
     "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
     "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-    "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+    "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+    "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/"
   ],
   "Science": [
-    "https://www.science.org/content/article/new-space-telescope-will-reopen-astronomers-view-far-infrared",
-    "https://www.nature.com/articles/d41586-026-03004-3",
-    "https://www.nature.com/articles/d41586-026-02959-7",
-    "https://www.nature.com/articles/d41586-026-02964-w",
-    "https://www.nature.com/articles/d41586-026-02962-y",
-    "https://www.nature.com/articles/d41586-026-03043-w",
-    "https://www.nature.com/articles/d41586-026-02277-y",
-    "https://www.science.org/content/article/scientists-engineered-glowing-cuttlefish-why-was-it-so-hard",
     "https://www.science.org/content/article/russian-drone-kills-least-two-ukraine-science-academy-attack",
     "https://www.science.org/content/article/fed-brazil-s-politicians-not-listening-climate-scientist-runs-office",
     "https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed",
@@ -1001,7 +993,15 @@
     "https://www.nature.com/articles/d41586-026-03585-z",
     "https://www.nature.com/articles/d41586-026-03596-w",
     "https://www.nature.com/articles/s41586-026-11233-9",
-    "https://www.nature.com/articles/d41586-026-03587-x"
+    "https://www.nature.com/articles/d41586-026-03587-x",
+    "https://www.nature.com/articles/d41586-026-03628-5",
+    "https://www.nature.com/articles/d41586-026-03626-7",
+    "https://www.nature.com/articles/d41586-026-03631-w",
+    "https://www.nature.com/articles/s41586-026-11375-w",
+    "https://www.nature.com/articles/d41586-026-03627-6",
+    "https://www.nature.com/articles/d41586-026-02998-0",
+    "https://www.nature.com/articles/d41586-026-02903-9",
+    "https://www.nature.com/articles/d41586-026-03648-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1275,17 +1275,11 @@
     "https://huggingface.co/blog/phonon-tts",
     "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
     "https://huggingface.co/blog/open-asr-leaderboard-liva",
-    "https://huggingface.co/blog/allenai/toyblocks"
+    "https://huggingface.co/blog/allenai/toyblocks",
+    "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/18/armys-h2f-program-linked-to-faster-injury-recovery-among-soldiers-study-finds/",
-    "https://www.militarytimes.com/news/your-military/2026/09/18/army-to-promote-ncos-who-complete-drill-sergeant-recruiting-schools/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/18/long-deployments-overwhelm-a-strained-navy-mental-health-system-personnel-say/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/18/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia/",
-    "https://www.militarytimes.com/news/your-military/2026/09/18/soldier-identified-following-rollover-crash-at-fort-hood/",
-    "https://www.militarytimes.com/veterans/2026/09/18/dpaa-proposes-to-exhume-identify-korean-war-remains-in-tomb-of-the-unknown-soldier/",
-    "https://www.militarytimes.com/news/your-military/2026/09/18/pentagon-updates-guidance-on-low-testosterone-testing-for-males/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/20/triumphal-arch-in-washington-to-serve-as-military-complex-trump-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private/",
     "https://www.militarytimes.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
     "https://www.militarytimes.com/news/your-military/2026/09/21/army-wants-cheaper-base-buildings-with-shorter-lifespans-memo-shows/",
@@ -1777,6 +1771,14 @@
     "https://www.militarytimes.com/news/your-military/2026/11/06/lawmakers-press-air-force-on-civilian-cuts-at-china-aerospace-institute/",
     "https://breakingdefense.com/2026/11/missed-ausa-2026-get-the-ground-truth-from-breaking-defenses-free-ebook/",
     "https://breakingdefense.com/2026/11/dod-taps-viasat-to-field-operations-center-for-golden-dome-satellite-data-relay-network/",
-    "https://www.militarytimes.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/"
+    "https://www.militarytimes.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/",
+    "https://www.militarytimes.com/news/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
+    "https://www.militarytimes.com/news/2026/11/09/more-schools-than-ever-earn-spot-in-military-times-2026-best-for-vets-colleges-rankings/",
+    "https://www.militarytimes.com/news/2026/11/09/military-times-releases-2026-best-for-vets-employers-rankings/",
+    "https://www.militarytimes.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/",
+    "https://www.militarytimes.com/video/2026/11/09/drones-that-see-sense-and-hunt-business-of-defense-part-2/",
+    "https://www.militarytimes.com/video/2026/11/09/business-vehicle-basics-every-owner-should-know-money-minute/",
+    "https://www.militarytimes.com/video/2026/11/09/shutdown-woes-tricare-open-season-and-tips-for-avoiding-scams-moaa-headlines/",
+    "https://breakingdefense.com/2026/11/defense-industry-takes-aim-at-right-to-repair-as-ndaa-decision-looms/"
   ]
 }
