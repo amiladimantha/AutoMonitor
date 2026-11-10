@@ -1,14 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/",
-    "https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/",
-    "https://arstechnica.com/space/2026/09/nasa-chief-im-only-interested-in-good-deals-from-international-partners/",
-    "https://arstechnica.com/gaming/2026/09/shuffling-the-deck-chairs-xbox-continues-its-reset-with-dramatic-restructuring/",
-    "https://arstechnica.com/cars/2026/09/protests-for-germanys-car-industry-as-job-losses-loom/",
-    "https://arstechnica.com/tech-policy/2026/09/trumps-sneaky-plan-to-gut-endangered-species-act-draws-from-1995-scalia-dissent/",
-    "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
-    "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-    "https://arstechnica.com/gadgets/2026/09/adobe-premiere-finally-brings-powerful-video-editing-to-android-and-its-free/",
     "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
     "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
     "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
@@ -499,11 +490,18 @@
     "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
     "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
     "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
-    "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/"
+    "https://arstechnica.com/space/2026/11/new-democratic-congress-will-likely-strip-the-gilding-from-trumps-golden-dome/",
+    "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+    "https://arstechnica.com/tech-policy/2026/11/man-who-lost-308000-on-sports-bets-sues-kalshi-for-offering-illegal-gambling/",
+    "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+    "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+    "https://arstechnica.com/space/2026/11/us-military-notionally-interested-in-satellite-constellation-around-moon/",
+    "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+    "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
+    "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+    "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/"
   ],
   "Science": [
-    "https://www.science.org/content/article/russian-drone-kills-least-two-ukraine-science-academy-attack",
-    "https://www.science.org/content/article/fed-brazil-s-politicians-not-listening-climate-scientist-runs-office",
     "https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed",
     "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
     "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03627-6",
     "https://www.nature.com/articles/d41586-026-02998-0",
     "https://www.nature.com/articles/d41586-026-02903-9",
-    "https://www.nature.com/articles/d41586-026-03648-1"
+    "https://www.nature.com/articles/d41586-026-03648-1",
+    "https://www.nature.com/articles/d41586-026-03588-w",
+    "https://www.nature.com/articles/d41586-026-03654-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1280,19 +1280,6 @@
     "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private/",
-    "https://www.militarytimes.com/news/your-military/2026/09/21/us-watching-chinese-marine-presence-off-alaska-arctic-coast-guard-chief-says/",
-    "https://www.militarytimes.com/news/your-military/2026/09/21/army-wants-cheaper-base-buildings-with-shorter-lifespans-memo-shows/",
-    "https://www.militarytimes.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/",
-    "https://www.militarytimes.com/news/your-military/2026/09/21/air-force-on-track-to-graduate-1500-new-pilots-this-fiscal-year/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/21/uss-abraham-lincoln-arrives-in-guam-as-deployment-enters-10th-month/",
-    "https://www.militarytimes.com/news/your-military/2026/09/21/air-force-major-who-called-for-trumps-impeachment-requests-special-court-martial/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/21/poll-trump-approval-falls-to-record-low-of-32-as-war-continues/",
-    "https://www.militarytimes.com/news/your-air-force/2026/09/21/airmen-cant-get-enough-of-new-warlike-basic-training-leaders-say/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/21/general-atomics-delivers-fq-42-vengeance-to-nevada-air-base/",
-    "https://www.militarytimes.com/news/your-military/2026/09/21/socom-nutrition-app-aims-to-optimize-performance-and-lethality/",
-    "https://www.militarytimes.com/opinion/2026/09/22/the-golden-dome-czar-must-get-control-of-all-us-missile-defense-programs/",
-    "https://www.militarytimes.com/news/your-military/2026/09/22/centcom-has-become-a-battle-lab-for-unmanned-systems/",
     "https://www.militarytimes.com/news/your-military/2026/09/22/f-16-fighter-jet-crashes-at-us-air-base-in-western-germany/",
     "https://www.militarytimes.com/news/your-military/2026/09/22/marines-will-get-an-extra-166-per-day-in-danger-pay-after-policy-change/",
     "https://www.militarytimes.com/off-duty/2026/09/22/new-sesame-street-programming-is-a-walk-in-the-park-for-military-kids/",
@@ -1779,6 +1766,19 @@
     "https://www.militarytimes.com/video/2026/11/09/drones-that-see-sense-and-hunt-business-of-defense-part-2/",
     "https://www.militarytimes.com/video/2026/11/09/business-vehicle-basics-every-owner-should-know-money-minute/",
     "https://www.militarytimes.com/video/2026/11/09/shutdown-woes-tricare-open-season-and-tips-for-avoiding-scams-moaa-headlines/",
-    "https://breakingdefense.com/2026/11/defense-industry-takes-aim-at-right-to-repair-as-ndaa-decision-looms/"
+    "https://breakingdefense.com/2026/11/defense-industry-takes-aim-at-right-to-repair-as-ndaa-decision-looms/",
+    "https://www.militarytimes.com/news/your-military/2026/11/09/blue-angels-dismiss-aviator-and-public-affairs-officer-sources-say-moves-unrelated/",
+    "https://www.militarytimes.com/news/2026/11/09/house-maneuver-clears-path-for-vote-on-major-richard-star-act/",
+    "https://www.militarytimes.com/news/2026/11/09/unite-for-veterans-coalition-to-rally-in-dc-for-fair-elections-hegseth-impeachment/",
+    "https://www.militarytimes.com/news/your-military/2026/11/09/army-shutters-ranges-on-sacred-hawaiian-land/",
+    "https://www.militarytimes.com/news/2026/11/09/japan-us-officials-to-amend-american-military-orientation-after-marines-indictment/",
+    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/11/09/check-out-new-costs-for-military-families-as-tricare-open-season-starts/",
+    "https://www.militarytimes.com/veterans/military-history/2026/11/09/final-8-sailors-identified-from-1945-uss-indianapolis-sinking/",
+    "https://www.militarytimes.com/industry/techwatch/2026/11/09/dutch-firm-optics11-in-talks-with-navies-on-secretive-underwater-listening-tech/",
+    "https://www.militarytimes.com/industry/techwatch/2026/11/09/firm-bets-on-converted-fishing-trawlers-to-tackle-russian-submarines-in-the-arctic/",
+    "https://breakingdefense.com/2026/11/the-next-breakthrough-is-software-built-on-the-battlefield-by-agentic-bots/",
+    "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao/",
+    "https://breakingdefense.com/2026/11/korean-air-aerospace-pushes-forward-with-collaborative-combat-aircraft-plans/",
+    "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority/"
   ]
 }
