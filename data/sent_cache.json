@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
-    "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-    "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
-    "https://arstechnica.com/space/2026/09/there-are-now-17000-satellites-in-orbit-and-growing-should-we-be-concerned/",
-    "https://arstechnica.com/cars/2026/09/aftermarket-driver-assist-under-federal-probe-following-fatal-crashes/",
-    "https://arstechnica.com/reviews/2026/09/how-the-us-handed-china-control-of-the-rare-earth-supply-chain/",
     "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
     "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
     "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
@@ -499,10 +493,15 @@
     "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
     "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
     "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
-    "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/"
+    "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/",
+    "https://arstechnica.com/google/2026/11/google-fi-adds-support-for-a-second-5g-network-wont-say-which-one/",
+    "https://arstechnica.com/gadgets/2026/11/november-pixel-drop-brings-gemini-intelligence-to-pixel-10-family/",
+    "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
+    "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
+    "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
+    "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02759-z",
     "https://www.nature.com/articles/d41586-026-02776-y",
     "https://www.nature.com/articles/d41586-026-02960-0",
     "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03589-9",
     "https://www.nature.com/articles/d41586-026-03017-y",
     "https://www.nature.com/articles/d41586-026-03578-y",
-    "https://www.nature.com/articles/d41586-026-03625-8"
+    "https://www.nature.com/articles/d41586-026-03625-8",
+    "https://www.nature.com/articles/d41586-026-03620-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1278,24 +1278,10 @@
     "https://huggingface.co/blog/allenai/toyblocks",
     "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
     "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-    "https://huggingface.co/blog/decision"
+    "https://huggingface.co/blog/decision",
+    "https://huggingface.co/blog/hub-gcp-marketplace"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/09/22/air-force-completes-b-52-modernization-milestones/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/22/navy-successfully-tests-new-autonomous-aircraft-feature-aimed-at-simplifying-mission-planning/",
-    "https://www.militarytimes.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/22/sailors-reminisce-say-final-goodbye-to-uss-georgia-before-retirement/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/22/pentagon-adds-new-warfighter-evaluation-for-officers-seeking-first-star/",
-    "https://www.militarytimes.com/air/2026/09/23/air-force-civilian-staff-dispute-status-of-china-aerospace-studies-institute/",
-    "https://www.militarytimes.com/global/europe/2026/09/23/greenland-welcomes-us-military-pact-but-trust-still-shaky/",
-    "https://www.militarytimes.com/news/your-military/2026/09/23/active-duty-airman-pronounced-dead-at-off-base-housing-in-italy/",
-    "https://www.militarytimes.com/news/your-military/2026/09/23/instructor-admits-to-being-grossly-negligent-in-fatal-shooting-at-letterkenny-army-depot/",
-    "https://www.militarytimes.com/global/europe/2026/09/23/germany-wants-to-manufacture-american-pac-3-interceptors-to-help-meet-global-demand/",
-    "https://www.militarytimes.com/news/your-military/2026/09/23/last-operational-hh-60g-pave-hawk-completes-final-flight/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/23/steam-catapults-us-navy-appears-to-be-sticking-with-electromagnetics-on-carriers/",
-    "https://www.militarytimes.com/pay-benefits/2026/09/23/5-military-reservists-file-class-action-lawsuit-seeking-differential-pay/",
-    "https://www.militarytimes.com/news/your-military/2026/09/23/army-identifies-19th-us-service-member-to-die-amid-iran-war/",
-    "https://www.militarytimes.com/opinion/2026/09/23/senate-should-act-fast-on-bipartisan-veterans-home-effort/",
     "https://www.militarytimes.com/news/your-army/2026/09/24/army-awards-palantir-481m-to-modernize-ammo-management/",
     "https://www.militarytimes.com/news/your-military/2026/09/24/nellis-air-force-base-says-goodbye-to-last-a-10-thunderbolt-ii/",
     "https://www.militarytimes.com/news/your-military/2026/09/24/these-navy-ships-have-the-most-sailor-burnout-study-finds/",
@@ -1780,6 +1766,21 @@
     "https://www.militarytimes.com/news/your-military/2026/11/10/britain-says-its-bases-are-safe-after-us-refueling-planes-evacuated/",
     "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo/",
     "https://breakingdefense.com/2026/11/the-interoperability-gap-why-joint-operations-still-depend-on-disconnected-communications-systems/",
-    "https://breakingdefense.com/2026/11/hegseth-vows-to-fight-impeachment-spectacle/"
+    "https://breakingdefense.com/2026/11/hegseth-vows-to-fight-impeachment-spectacle/",
+    "https://www.militarytimes.com/news/your-military/2026/11/10/us-soldier-arrested-in-uk-for-suspected-espionage-for-russia/",
+    "https://www.militarytimes.com/news/your-military/2026/11/10/army-football-goes-green-honors-ivy-soldiers-for-navy-clash/",
+    "https://www.militarytimes.com/news/your-marine-corps/2026/11/10/marines-new-housing-bill-of-rights-defines-when-they-can-refuse-a-barracks-room/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/most-americans-want-new-democratic-congress-to-end-trumps-iran-war-poll-finds/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/ukraine-urges-us-to-speed-up-interceptor-deliveries-as-russia-targets-power-grid/",
+    "https://www.militarytimes.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
+    "https://www.militarytimes.com/news/your-military/2026/11/10/pass-the-cake-father-son-duo-celebrate-marine-corps-251st-birthday-together/",
+    "https://www.militarytimes.com/veterans/2026/11/10/groceries-gas-a-grand-slam-here-are-your-veterans-day-discounts/",
+    "https://www.militarytimes.com/video/2026/11/10/hegseth-says-impeachment-filing-against-him-is-sabotage-and-political-farce/",
+    "https://breakingdefense.com/2026/11/allen-control-systems-launches-new-division-to-develop-counter-drone-lasers/",
+    "https://breakingdefense.com/2026/11/remote-mine-hunters-silently-trawl-the-waters-as-minesweepers-go-by-the-wayside/",
+    "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/",
+    "https://breakingdefense.com/2026/11/beyond-the-cmmc-pause-protecting-the-engineering-data-defense-programs-depend-on/",
+    "https://breakingdefense.com/2026/11/uk-satellite-decision-looms-as-political-fight-heats-up/",
+    "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy/"
   ]
 }
