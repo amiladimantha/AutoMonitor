@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/culture/2026/09/review-resident-evil-is-the-fresh-take-this-flagging-franchise-really-needed/",
-    "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-    "https://arstechnica.com/information-technology/2026/09/it-mistake-erases-11-years-of-viewing-history-for-hospitals-maternity-records/",
-    "https://arstechnica.com/science/2026/09/effort-begins-to-fill-the-void-left-by-terminated-us-climate-report/",
-    "https://arstechnica.com/tech-policy/2026/09/cities-across-us-oppose-trump-fcc-plan-to-preempt-local-broadband-rules/",
-    "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
     "https://arstechnica.com/health/2026/09/womans-brain-worm-infection-confirmed-after-eggs-grow-tails-in-lab-test/",
     "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
     "https://arstechnica.com/science/2026/09/small-undersea-volcanoes-may-unleash-outsized-tsunamis/",
@@ -499,20 +493,15 @@
     "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
     "https://arstechnica.com/space/2026/11/spacex-now-fundamentally-an-infrastructure-company-senior-official-says/",
     "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
-    "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/"
+    "https://arstechnica.com/cars/2026/11/f1-in-brazil-drivers-at-their-very-best-in-tricky-conditions/",
+    "https://arstechnica.com/google/2026/11/deepmind-reveals-gemini-robotics-2-5-and-open-safety-benchmark-asimov-jailbreak/",
+    "https://arstechnica.com/gadgets/2026/11/nvidia-has-a-jensen-huang-problem-and-no-obvious-successor/",
+    "https://arstechnica.com/health/2026/11/glp-1-drugs-may-increase-risk-of-vision-loss-from-rare-condition-fda-warns/",
+    "https://arstechnica.com/cars/2026/11/polestar-has-a-new-look-with-its-formula-2030-concept/",
+    "https://arstechnica.com/gadgets/2026/11/ukraines-fiber-optic-drones-get-squeezed-by-ai-data-center-demand/",
+    "https://arstechnica.com/gadgets/2026/11/review-apples-1999-m6-macbook-pro-feels-stuck-in-the-middle/"
   ],
   "Science": [
-    "https://www.science.org/content/article/u-k-funder-uses-ai-triage-reject-grant-proposals-leaving-researchers-dismayed",
-    "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-    "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-    "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
-    "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-    "https://www.nature.com/articles/d41586-026-03053-8",
-    "https://www.nature.com/articles/d41586-026-03056-5",
-    "https://www.nature.com/articles/d41586-026-03054-7",
-    "https://www.nature.com/articles/d41586-026-02971-x",
-    "https://www.nature.com/articles/d41586-026-03055-6",
-    "https://www.nature.com/articles/d41586-026-02961-z",
     "https://www.nature.com/articles/d41586-026-02759-z",
     "https://www.nature.com/articles/d41586-026-02776-y",
     "https://www.nature.com/articles/d41586-026-02960-0",
@@ -1001,7 +990,18 @@
     "https://www.nature.com/articles/d41586-026-02903-9",
     "https://www.nature.com/articles/d41586-026-03648-1",
     "https://www.nature.com/articles/d41586-026-03588-w",
-    "https://www.nature.com/articles/d41586-026-03654-3"
+    "https://www.nature.com/articles/d41586-026-03654-3",
+    "https://www.nature.com/articles/d41586-026-03645-4",
+    "https://www.nature.com/articles/d41586-026-03278-7",
+    "https://www.nature.com/articles/d41586-026-03643-6",
+    "https://www.nature.com/articles/d41586-026-03644-5",
+    "https://www.nature.com/articles/d41586-026-03623-w",
+    "https://www.nature.com/articles/d41586-026-03635-6",
+    "https://www.nature.com/articles/d41586-026-03629-4",
+    "https://www.nature.com/articles/d41586-026-03589-9",
+    "https://www.nature.com/articles/d41586-026-03017-y",
+    "https://www.nature.com/articles/d41586-026-03578-y",
+    "https://www.nature.com/articles/d41586-026-03625-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1277,16 +1277,10 @@
     "https://huggingface.co/blog/open-asr-leaderboard-liva",
     "https://huggingface.co/blog/allenai/toyblocks",
     "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+    "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "https://huggingface.co/blog/decision"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/22/marines-will-get-an-extra-166-per-day-in-danger-pay-after-policy-change/",
-    "https://www.militarytimes.com/off-duty/2026/09/22/new-sesame-street-programming-is-a-walk-in-the-park-for-military-kids/",
-    "https://www.militarytimes.com/industry/2026/09/22/us-army-awards-lockheed-martin-12b-prsm-contract/",
-    "https://www.militarytimes.com/global/europe/2026/09/22/us-to-open-two-new-military-bases-in-greenland-sources-say/",
-    "https://www.militarytimes.com/news/your-military/2026/09/22/what-a-catch-florida-fishing-boat-reels-in-uas-resembling-lucas-drone/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/22/us-navy-destroyers-tested-in-middle-east-as-demands-mount/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/22/sentinel-icbm-achieves-vertical-stacking-ahead-of-2027-initial-flight-testing/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/22/air-force-completes-b-52-modernization-milestones/",
     "https://www.militarytimes.com/news/your-navy/2026/09/22/navy-successfully-tests-new-autonomous-aircraft-feature-aimed-at-simplifying-mission-planning/",
     "https://www.militarytimes.com/news/your-military/2026/09/22/royal-navy-successfully-launches-us-mk-48-torpedo-from-uncrewed-submersible/",
@@ -1779,6 +1773,13 @@
     "https://breakingdefense.com/2026/11/pentagon-cant-track-thousands-of-f-35-parts-gao/",
     "https://breakingdefense.com/2026/11/korean-air-aerospace-pushes-forward-with-collaborative-combat-aircraft-plans/",
     "https://breakingdefense.com/2026/11/army-fields-launched-effects-to-11-of-12-divisions-with-griffon-aerospace-delivering-the-majority/",
-    "https://www.militarytimes.com/pentagon/2026/11/09/hegseth-to-cut-civilians-from-military-service-colleges-wants-focus-on-victory/"
+    "https://www.militarytimes.com/pentagon/2026/11/09/hegseth-to-cut-civilians-from-military-service-colleges-wants-focus-on-victory/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
+    "https://www.militarytimes.com/veterans/military-history/2026/11/10/jimmy-stewart-kept-a-secret-war-journal-it-will-never-be-published/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/hegseth-denounces-farce-impeachment-in-first-briefing-since-may/",
+    "https://www.militarytimes.com/news/your-military/2026/11/10/britain-says-its-bases-are-safe-after-us-refueling-planes-evacuated/",
+    "https://breakingdefense.com/2026/11/a-pentagon-impeachment-showdown-plus-defense-funding-in-limbo/",
+    "https://breakingdefense.com/2026/11/the-interoperability-gap-why-joint-operations-still-depend-on-disconnected-communications-systems/",
+    "https://breakingdefense.com/2026/11/hegseth-vows-to-fight-impeachment-spectacle/"
   ]
 }
