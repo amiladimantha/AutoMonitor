@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
-    "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
     "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
     "https://arstechnica.com/gadgets/2026/09/disney-and-hulu-raise-prices-by-up-to-13-percent-after-doubling-profits/",
     "https://arstechnica.com/cars/2026/09/heres-the-torcal-the-first-fully-electric-bentley/",
@@ -499,19 +497,11 @@
     "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
     "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
     "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
-    "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/"
+    "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/",
+    "https://arstechnica.com/cars/2026/11/toyota-resurrects-scion-with-right-hand-drive-kei-trucks/",
+    "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02776-y",
-    "https://www.nature.com/articles/d41586-026-02960-0",
-    "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-    "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-    "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-    "https://www.nature.com/articles/s41586-026-11083-5",
-    "https://www.nature.com/articles/d41586-026-02972-w",
-    "https://www.nature.com/articles/d41586-026-03046-7",
-    "https://www.nature.com/articles/d41586-026-03048-5",
-    "https://www.nature.com/articles/d41586-026-03089-w",
     "https://www.nature.com/articles/d41586-026-03035-w",
     "https://www.science.org/content/article/will-trump-administration-weaken-protections-human-research-subjects",
     "https://www.science.org/content/article/these-frogs-see-prey-their-star-shaped-toes",
@@ -1001,7 +991,17 @@
     "https://www.nature.com/articles/d41586-026-03017-y",
     "https://www.nature.com/articles/d41586-026-03578-y",
     "https://www.nature.com/articles/d41586-026-03625-8",
-    "https://www.nature.com/articles/d41586-026-03620-z"
+    "https://www.nature.com/articles/d41586-026-03620-z",
+    "https://www.nature.com/articles/d41586-026-03441-0",
+    "https://www.nature.com/articles/d41586-026-03515-z",
+    "https://www.nature.com/articles/d41586-026-03621-y",
+    "https://www.nature.com/articles/d41586-026-03183-z",
+    "https://www.nature.com/articles/d41586-026-03633-8",
+    "https://www.nature.com/articles/d41586-026-03412-5",
+    "https://www.nature.com/articles/d41586-026-03624-9",
+    "https://www.nature.com/articles/d41586-026-03448-7",
+    "https://www.nature.com/articles/d41586-026-03409-0",
+    "https://www.nature.com/articles/d41586-026-03664-1"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1280,16 +1280,10 @@
     "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
     "https://huggingface.co/blog/decision",
     "https://huggingface.co/blog/hub-gcp-marketplace",
-    "https://huggingface.co/blog/qvac/botpsy"
+    "https://huggingface.co/blog/qvac/botpsy",
+    "https://huggingface.co/blog/token-pooling"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/2026/09/24/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says/",
-    "https://www.militarytimes.com/veterans/2026/09/24/va-terminated-11-billion-in-contracts-after-doge-requests-watchdog-finds/",
-    "https://www.militarytimes.com/opinion/2026/09/24/why-the-last-tactical-mile-is-crucial-to-acquisition-reform/",
-    "https://www.militarytimes.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/",
-    "https://www.militarytimes.com/veterans/2026/09/24/inside-the-inaugural-meeting-of-trumps-military-spouse-commission/",
-    "https://www.militarytimes.com/news/your-military/2026/09/24/us-destroyer-practices-at-sea-drone-refueling/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/24/8-sailors-attempted-suicide-aboard-ships-from-lincoln-strike-group-cao-says/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/24/nominees-voice-commitment-to-veterans-during-hearing-for-veterans-appeals-roles/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/24/military-personnel-data-exposed-in-breach-agency-warns/",
     "https://www.militarytimes.com/veterans/2026/09/24/montford-point-marine-and-oldest-living-major-league-baseball-player-just-turned-102/",
@@ -1782,6 +1776,13 @@
     "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
     "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee/",
-    "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice/"
+    "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice/",
+    "https://www.militarytimes.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog/",
+    "https://www.militarytimes.com/news/2026/11/11/libertys-beacon-shines-for-veterans/",
+    "https://www.militarytimes.com/veterans/2026/11/11/scouting-america-marks-veterans-day-with-new-merit-badge-on-military-service/",
+    "https://breakingdefense.com/2026/11/turkey-prepares-to-withdraw-from-base-in-iraq-in-shift-for-ankara-baghdad-relations-analysts/",
+    "https://breakingdefense.com/2026/11/trust-the-super-intelligence-for-mission-critical-operations/",
+    "https://breakingdefense.com/2026/11/ukraine-firm-fire-point-hopes-for-extension-of-starshield-coverage-beyond-ukraines-borders/",
+    "https://breakingdefense.com/2026/11/when-networks-are-contested-paring-down-the-data-may-mean-better-logistics-at-the-edge/"
   ]
 }
