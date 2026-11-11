@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
-    "https://arstechnica.com/tech-policy/2026/09/discord-age-verification-rolls-out-today-with-changes-spurred-by-user-backlash/",
-    "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
-    "https://arstechnica.com/science/2026/09/contrary-to-some-reports-you-dont-have-two-brains/",
-    "https://arstechnica.com/culture/2026/09/netflix-drops-trailer-for-brad-birds-ray-gunn/",
-    "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
     "https://arstechnica.com/space/2026/09/former-nasa-chief-sounds-alarm-on-chinas-lunar-exploration-plans/",
     "https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/",
     "https://arstechnica.com/tech-policy/2026/09/fbi-rushes-to-investigate-if-shinyhunters-hack-of-thousands-of-employees-is-real/",
@@ -499,7 +493,13 @@
     "https://arstechnica.com/gadgets/2026/11/free-video-streaming-service-tubi-lets-users-share-curated-watchlists-now/",
     "https://arstechnica.com/gaming/2026/11/steam-deck-performance-gets-a-reality-check-with-valves-new-fps-data/",
     "https://arstechnica.com/science/2026/11/carbon-emissions-are-down-this-year-but-that-probably-wont-last/",
-    "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/"
+    "https://arstechnica.com/space/2026/11/one-space-station-company-sues-another-for-copying-its-work/",
+    "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+    "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
+    "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+    "https://arstechnica.com/tech-policy/2026/11/democrats-oppose-plan-to-stack-fcc-with-republicans-plan-probes-of-chairman-carr/",
+    "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+    "https://arstechnica.com/science/2026/11/what-happens-to-mathematics-when-ai-becames-an-oracle/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02776-y",
@@ -1282,8 +1282,6 @@
     "https://huggingface.co/blog/hub-gcp-marketplace"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-army/2026/09/24/army-awards-palantir-481m-to-modernize-ammo-management/",
-    "https://www.militarytimes.com/news/your-military/2026/09/24/nellis-air-force-base-says-goodbye-to-last-a-10-thunderbolt-ii/",
     "https://www.militarytimes.com/news/your-military/2026/09/24/these-navy-ships-have-the-most-sailor-burnout-study-finds/",
     "https://www.militarytimes.com/global/2026/09/24/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says/",
     "https://www.militarytimes.com/veterans/2026/09/24/va-terminated-11-billion-in-contracts-after-doge-requests-watchdog-finds/",
@@ -1781,6 +1779,8 @@
     "https://breakingdefense.com/2026/11/france-awards-1-7-billion-contract-to-airbus-thales-team-for-new-military-satellites/",
     "https://breakingdefense.com/2026/11/beyond-the-cmmc-pause-protecting-the-engineering-data-defense-programs-depend-on/",
     "https://breakingdefense.com/2026/11/uk-satellite-decision-looms-as-political-fight-heats-up/",
-    "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy/"
+    "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
+    "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee/"
   ]
 }
