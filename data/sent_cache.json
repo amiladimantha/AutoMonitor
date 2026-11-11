@@ -1279,10 +1279,10 @@
     "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
     "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
     "https://huggingface.co/blog/decision",
-    "https://huggingface.co/blog/hub-gcp-marketplace"
+    "https://huggingface.co/blog/hub-gcp-marketplace",
+    "https://huggingface.co/blog/qvac/botpsy"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/24/these-navy-ships-have-the-most-sailor-burnout-study-finds/",
     "https://www.militarytimes.com/global/2026/09/24/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says/",
     "https://www.militarytimes.com/veterans/2026/09/24/va-terminated-11-billion-in-contracts-after-doge-requests-watchdog-finds/",
     "https://www.militarytimes.com/opinion/2026/09/24/why-the-last-tactical-mile-is-crucial-to-acquisition-reform/",
@@ -1781,6 +1781,7 @@
     "https://breakingdefense.com/2026/11/uk-satellite-decision-looms-as-political-fight-heats-up/",
     "https://breakingdefense.com/2026/11/why-britain-needs-a-maritime-first-defense-strategy/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/11/10/house-republicans-sidestep-effort-to-impeach-hegseth/",
-    "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee/"
+    "https://breakingdefense.com/2026/11/house-opts-to-stall-hegseth-impeachment-vote-sending-resolution-to-judiciary-committee/",
+    "https://breakingdefense.com/2026/11/israels-rafael-unveils-new-larger-cruise-missile-dubbed-super-ice/"
   ]
 }
