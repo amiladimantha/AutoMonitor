@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
     "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
     "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
     "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
@@ -499,10 +498,10 @@
     "https://arstechnica.com/tech-policy/2026/11/trump-admin-loses-fight-to-spy-on-random-journalists-linkedin-dms/",
     "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
     "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
-    "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/"
+    "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
+    "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-03047-6",
     "https://www.nature.com/articles/d41586-026-03106-y",
     "https://www.nature.com/articles/d41586-026-02863-0",
     "https://www.nature.com/articles/d41586-026-03033-y",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03499-w",
     "https://www.nature.com/articles/d41586-026-03669-w",
     "https://www.nature.com/articles/d41586-026-03640-9",
-    "https://www.nature.com/articles/d41586-026-03636-5"
+    "https://www.nature.com/articles/d41586-026-03636-5",
+    "https://www.nature.com/articles/d41586-026-03637-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1284,7 +1284,6 @@
     "https://huggingface.co/blog/token-pooling"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/25/idaho-national-guard-carries-out-3-isolated-rescues-in-4-days/",
     "https://www.militarytimes.com/news/your-military/2026/09/25/airmen-discover-body-in-charred-vehicle-near-eglin-air-force-base/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
     "https://www.militarytimes.com/news/your-military/2026/09/25/misaligned-fan-blades-loss-of-thrust-caused-thunderbird-f-16-crash/",
@@ -1783,6 +1782,7 @@
     "https://breakingdefense.com/2026/11/eu-sets-out-3-4b-defense-budget-for-2027-boosts-ukraine-spending/",
     "https://breakingdefense.com/2026/11/the-armys-coming-c2-challenge-is-fighting-across-thousands-of-miles/",
     "https://breakingdefense.com/2026/11/australian-armys-littoral-transformation-is-the-right-move-experts-say/",
-    "https://breakingdefense.com/2026/11/nato-taps-ukraine-as-red-team-in-drills-to-trigger-an-adaptation-cycle/"
+    "https://breakingdefense.com/2026/11/nato-taps-ukraine-as-red-team-in-drills-to-trigger-an-adaptation-cycle/",
+    "https://www.militarytimes.com/news/2026/11/11/that-time-ted-williams-faced-off-against-babe-ruth-during-wwii-fundraiser-game/"
   ]
 }
