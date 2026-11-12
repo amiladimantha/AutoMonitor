@@ -1,13 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/09/robots-make-combat-airdrops-clear-mines-as-ukraine-defeats-russian-pincer/",
-    "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-    "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-    "https://arstechnica.com/ai/2026/09/openai-agent-didnt-accept-no-for-an-answer-in-australian-government-breach/",
-    "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
-    "https://arstechnica.com/gadgets/2026/09/f-droid-gets-its-biggest-update-in-a-decade-with-new-ui-and-smoother-app-installs/",
-    "https://arstechnica.com/tech-policy/2026/09/new-york-asks-court-to-shut-down-polymarkets-illegal-gambling-operation/",
-    "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
     "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
     "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
     "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
@@ -499,13 +491,17 @@
     "https://arstechnica.com/gaming/2026/11/big-walk-used-ai-to-fix-a-bug-now-the-indie-gaming-world-is-having-a-reckoning/",
     "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
     "https://arstechnica.com/science/2026/11/ibm-to-offer-access-to-a-dual-processor-quantum-system-in-2027/",
-    "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/"
+    "https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia/",
+    "https://arstechnica.com/tech-policy/2026/11/families-fight-to-keep-googles-disturbing-ai-off-school-issued-chromebooks/",
+    "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+    "https://arstechnica.com/space/2026/11/building-a-rocket-is-hard-ast-spacemobile-thinks-its-simple/",
+    "https://arstechnica.com/health/2026/11/mans-secret-use-of-synthetic-testosterone-for-cows-nearly-destroyed-his-heart/",
+    "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
+    "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
+    "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/",
+    "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02863-0",
-    "https://www.nature.com/articles/d41586-026-03033-y",
-    "https://www.nature.com/articles/d41586-026-02783-z",
-    "https://www.nature.com/articles/d41586-026-03015-0",
     "https://www.nature.com/articles/d41586-026-02201-4",
     "https://www.nature.com/articles/d41586-026-02894-7",
     "https://www.nature.com/articles/s41586-026-11077-3",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-03640-9",
     "https://www.nature.com/articles/d41586-026-03636-5",
     "https://www.nature.com/articles/d41586-026-03637-4",
-    "https://www.nature.com/articles/d41586-026-03675-y"
+    "https://www.nature.com/articles/d41586-026-03675-y",
+    "https://www.nature.com/articles/d41586-026-03639-2",
+    "https://www.nature.com/articles/s41586-026-11409-3",
+    "https://www.nature.com/articles/d41586-026-03565-3",
+    "https://www.nature.com/articles/d41586-026-03573-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1281,22 +1281,11 @@
     "https://huggingface.co/blog/decision",
     "https://huggingface.co/blog/hub-gcp-marketplace",
     "https://huggingface.co/blog/qvac/botpsy",
-    "https://huggingface.co/blog/token-pooling"
+    "https://huggingface.co/blog/token-pooling",
+    "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "https://huggingface.co/blog/3d-lora-finetuning"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
-    "https://www.militarytimes.com/news/your-military/2026/09/25/misaligned-fan-blades-loss-of-thrust-caused-thunderbird-f-16-crash/",
-    "https://www.militarytimes.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
-    "https://www.militarytimes.com/opinion/2026/09/25/the-military-spouse-commission-viable-solution-or-classic-bureaucratic-dog-and-pony-show/",
-    "https://www.militarytimes.com/news/your-military/2026/09/27/terror-suspects-wanted-to-do-big-damage-to-air-base-used-by-us-trump-says/",
-    "https://www.militarytimes.com/news/your-military/2026/09/28/separate-engine-fires-in-3-navy-marine-corps-aircraft-force-emergency-landings/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/28/heavy-losses-of-mq-9-reaper-to-factor-in-future-plans-to-divest-replace-aircraft/",
-    "https://www.militarytimes.com/opinion/2026/09/28/the-armys-most-dangerous-logistics-problem-is-hiding-behind-motor-pools/",
-    "https://www.militarytimes.com/off-duty/military-culture/2026/09/28/green-beret-who-survived-an-ied-now-clears-ukraines-landmines/",
-    "https://www.militarytimes.com/news/your-military/2026/09/28/corps-offers-incentives-for-marines-willing-to-extend-overseas-tours/",
-    "https://www.militarytimes.com/news/your-military/2026/09/28/soldier-charged-in-shooting-death-of-infant/",
-    "https://www.militarytimes.com/news/your-military/2026/09/28/meet-axel-the-deaf-rescue-dog-now-set-to-deploy/",
-    "https://www.militarytimes.com/news/your-military/2026/09/28/air-force-identifies-airman-found-dead-in-burnt-car-near-florida-base/",
     "https://www.militarytimes.com/news/your-military/2026/09/28/army-launches-night-court-review-of-weapons-systems/",
     "https://www.militarytimes.com/news/your-military/2026/09/28/special-operations-soldier-dies-after-airborne-training-exercise/",
     "https://www.militarytimes.com/news/your-military/2026/09/28/army-leaders-wary-of-data-fatigue-as-fitness-management-system-rolls-out/",
@@ -1783,6 +1772,19 @@
     "https://breakingdefense.com/2026/11/australian-armys-littoral-transformation-is-the-right-move-experts-say/",
     "https://breakingdefense.com/2026/11/nato-taps-ukraine-as-red-team-in-drills-to-trigger-an-adaptation-cycle/",
     "https://www.militarytimes.com/news/2026/11/11/that-time-ted-williams-faced-off-against-babe-ruth-during-wwii-fundraiser-game/",
-    "https://www.militarytimes.com/news/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/"
+    "https://www.militarytimes.com/news/2026/11/11/guard-appears-to-rebuke-hegseths-delegation-at-tomb-of-the-unknown-soldier/",
+    "https://www.militarytimes.com/news/your-military/2026/11/12/uss-george-h-w-bush-families-told-to-prepare-for-year-long-deployment/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/12/sailors-in-congresss-medical-office-reassigned-after-alleging-controlling-bosses-unsuitable-tasks/",
+    "https://www.militarytimes.com/news/2026/11/12/army-formally-activates-public-affairs-school/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/12/tomb-of-unknown-soldier-guard-granted-medal-after-reprimanding-hegseth-at-site/",
+    "https://www.militarytimes.com/news/your-military/2026/11/12/how-much-time-are-sailors-away-from-home-navy-records-leave-gaps/",
+    "https://www.militarytimes.com/news/your-military/2026/11/12/3-iranian-backed-men-indicted-in-attempted-plot-on-raf-fairford/",
+    "https://www.militarytimes.com/opinion/2026/11/12/50-years-later-vietnam-veterans-deserve-their-homecoming/",
+    "https://www.militarytimes.com/video/2026/11/12/hegseths-group-admonished-by-army-sentinel-at-tomb-of-the-unknown-soldier/",
+    "https://breakingdefense.com/2026/11/aukus-on-track-even-ahead-of-schedule-for-some-parts-admiral-says/",
+    "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones/",
+    "https://breakingdefense.com/2026/11/cry-drone-and-let-slip-the-fruit-flies-of-war/",
+    "https://breakingdefense.com/2026/11/nato-nations-have-a-missile-crisis-how-did-it-happen-and-can-it-be-fixed/",
+    "https://breakingdefense.com/2026/11/rethinking-the-pipeline-for-critical-defense-electronics/"
   ]
 }
