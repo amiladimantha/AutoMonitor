@@ -502,7 +502,6 @@
     "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/"
   ],
   "Science": [
-    "https://www.nature.com/articles/s41586-026-11060-y",
     "https://www.nature.com/articles/d41586-026-03086-z",
     "https://www.nature.com/articles/d41586-026-03042-x",
     "https://www.nature.com/articles/s41586-026-11149-4",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03573-3",
     "https://www.nature.com/articles/d41586-026-03665-0",
     "https://www.nature.com/articles/d41586-026-03666-z",
-    "https://www.nature.com/articles/d41586-026-03705-9"
+    "https://www.nature.com/articles/d41586-026-03705-9",
+    "https://www.nature.com/articles/d41586-026-03638-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1286,7 +1286,6 @@
     "https://huggingface.co/blog/3d-lora-finetuning"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
     "https://www.militarytimes.com/news/your-military/2026/09/29/troops-at-cannon-afb-lost-5000-duty-days-traveling-for-medical-care-gao/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
     "https://www.militarytimes.com/news/your-navy/2026/09/29/us-navy-taps-3-firms-to-build-musvs-for-around-40m-per-vessel/",
@@ -1785,6 +1784,7 @@
     "https://breakingdefense.com/2026/11/delivering-first-columbia-class-sub-in-2028-is-absolutely-achievable-sub-czar-says/",
     "https://breakingdefense.com/2026/11/aukus-review-was-best-thing-for-trilateral-pact-colby/",
     "https://breakingdefense.com/2026/11/sda-explores-integration-of-spacex-laser-communication-terminals-with-missile-tracking-sats/",
-    "https://breakingdefense.com/2026/11/air-force-debuts-new-t-19a-aerobatic-plane/"
+    "https://breakingdefense.com/2026/11/air-force-debuts-new-t-19a-aerobatic-plane/",
+    "https://www.militarytimes.com/news/your-military/2026/11/12/uss-south-dakota-command-triad-fired-draws-ire-of-congressmen/"
   ]
 }
