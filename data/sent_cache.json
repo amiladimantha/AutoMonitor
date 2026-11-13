@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
-    "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
-    "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
-    "https://arstechnica.com/tech-policy/2026/09/trump-administration-takes-musks-side-in-fight-over-eu-tech-rules/",
-    "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
     "https://arstechnica.com/space/2026/09/rocket-report-era-of-cheap-launch-is-over-astra-sets-early-2027-target-for-return/",
     "https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/",
     "https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/",
@@ -499,13 +494,14 @@
     "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
     "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
     "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
-    "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/"
+    "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
+    "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+    "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+    "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+    "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+    "https://arstechnica.com/gadgets/2026/11/specializeds-tarmac-sl9-s-level-is-built-to-wreck-your-zone-2-ride/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-03086-z",
-    "https://www.nature.com/articles/d41586-026-03042-x",
-    "https://www.nature.com/articles/s41586-026-11149-4",
-    "https://www.nature.com/articles/d41586-026-03101-3",
     "https://www.nature.com/articles/d41586-026-03118-8",
     "https://www.nature.com/articles/d41586-026-03138-4",
     "https://www.nature.com/articles/d41586-026-03036-9",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-03665-0",
     "https://www.nature.com/articles/d41586-026-03666-z",
     "https://www.nature.com/articles/d41586-026-03705-9",
-    "https://www.nature.com/articles/d41586-026-03638-3"
+    "https://www.nature.com/articles/d41586-026-03638-3",
+    "https://www.nature.com/articles/d41586-026-03716-6",
+    "https://www.nature.com/articles/d41586-026-03456-7",
+    "https://www.nature.com/articles/d41586-026-03516-y",
+    "https://www.nature.com/articles/d41586-026-03679-8"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1283,10 +1283,10 @@
     "https://huggingface.co/blog/qvac/botpsy",
     "https://huggingface.co/blog/token-pooling",
     "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "https://huggingface.co/blog/3d-lora-finetuning"
+    "https://huggingface.co/blog/3d-lora-finetuning",
+    "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/29/troops-at-cannon-afb-lost-5000-duty-days-traveling-for-medical-care-gao/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
     "https://www.militarytimes.com/news/your-navy/2026/09/29/us-navy-taps-3-firms-to-build-musvs-for-around-40m-per-vessel/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/09/29/hegseth-halts-tenure-appointments-for-civilian-faculty-at-military-academies/",
@@ -1785,6 +1785,7 @@
     "https://breakingdefense.com/2026/11/aukus-review-was-best-thing-for-trilateral-pact-colby/",
     "https://breakingdefense.com/2026/11/sda-explores-integration-of-spacex-laser-communication-terminals-with-missile-tracking-sats/",
     "https://breakingdefense.com/2026/11/air-force-debuts-new-t-19a-aerobatic-plane/",
-    "https://www.militarytimes.com/news/your-military/2026/11/12/uss-south-dakota-command-triad-fired-draws-ire-of-congressmen/"
+    "https://www.militarytimes.com/news/your-military/2026/11/12/uss-south-dakota-command-triad-fired-draws-ire-of-congressmen/",
+    "https://breakingdefense.com/2026/11/uk-to-buy-three-new-mine-hunting-drone-motherships-under-norway-agreement/"
   ]
 }
