@@ -1,11 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/space/2026/09/disneys-ludwig-von-drake-was-inspired-by-rocket-scientists-65-years-ago/",
-    "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
-    "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
-    "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
-    "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
-    "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
     "https://arstechnica.com/space/2026/09/after-seven-years-a-spacecraft-company-is-releasing-its-otters-into-the-wild/",
     "https://arstechnica.com/cars/2026/09/us-being-left-behind-in-ev-charging-speeds-as-china-goes-sub-5-min-to-70/",
     "https://arstechnica.com/space/2026/09/nasa-green-lights-billion-dollar-infrared-observatory-for-launch-in-early-2030s/",
@@ -499,12 +493,15 @@
     "https://arstechnica.com/science/2026/11/the-amazing-disappearing-exoplanet/",
     "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
     "https://arstechnica.com/gadgets/2026/11/hundreds-of-streaming-services-and-nothing-to-watch/",
-    "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/"
+    "https://arstechnica.com/features/2026/11/review-apples-m6-imac-is-pricey-but-its-still-a-good-choice-for-a-clean-desk/",
+    "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+    "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+    "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+    "https://arstechnica.com/gaming/2026/11/the-elder-scrolls-most-obscure-adventure-gets-a-4k-pc-makeover/",
+    "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+    "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02201-4",
-    "https://www.nature.com/articles/d41586-026-02894-7",
-    "https://www.nature.com/articles/s41586-026-11077-3",
     "https://www.nature.com/articles/s41586-026-11060-y",
     "https://www.nature.com/articles/d41586-026-03086-z",
     "https://www.nature.com/articles/d41586-026-03042-x",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03639-2",
     "https://www.nature.com/articles/s41586-026-11409-3",
     "https://www.nature.com/articles/d41586-026-03565-3",
-    "https://www.nature.com/articles/d41586-026-03573-3"
+    "https://www.nature.com/articles/d41586-026-03573-3",
+    "https://www.nature.com/articles/d41586-026-03665-0",
+    "https://www.nature.com/articles/d41586-026-03666-z",
+    "https://www.nature.com/articles/d41586-026-03705-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1286,18 +1286,6 @@
     "https://huggingface.co/blog/3d-lora-finetuning"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/09/28/army-launches-night-court-review-of-weapons-systems/",
-    "https://www.militarytimes.com/news/your-military/2026/09/28/special-operations-soldier-dies-after-airborne-training-exercise/",
-    "https://www.militarytimes.com/news/your-military/2026/09/28/army-leaders-wary-of-data-fatigue-as-fitness-management-system-rolls-out/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/29/38-sailors-marines-wounded-this-month-in-middle-east/",
-    "https://www.militarytimes.com/veterans/2026/09/28/congress-presses-oracle-for-answers-on-vas-17-billion-ehr-increase/",
-    "https://www.militarytimes.com/news/your-military/2026/09/28/texas-man-defrauded-tricare-of-26-million-to-fund-lavish-lifestyle/",
-    "https://www.militarytimes.com/pay-benefits/mil-money/2026/09/29/nearly-500000-veterans-to-get-3-month-break-from-paying-life-insurance-premiums/",
-    "https://www.militarytimes.com/news/your-military/2026/09/29/airmen-guardians-to-update-religious-affiliation-to-align-with-pentagon-policy/",
-    "https://www.militarytimes.com/pentagon/2026/09/29/pentagon-awards-raytheon-up-to-207-billion-to-nearly-double-amraam-production/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/09/29/pentagon-directs-cyber-intelligence-agencies-to-counter-foreign-election-threats/",
-    "https://www.militarytimes.com/news/your-military/2026/09/29/uss-klakring-sent-to-the-bottom-of-the-atlantic-in-joint-us-uk-sinkex/",
-    "https://www.militarytimes.com/news/your-navy/2026/09/29/2-aviators-eject-4-injured-during-landing-mishap-aboard-uss-dwight-d-eisenhower/",
     "https://www.militarytimes.com/news/your-military/2026/09/29/us-forces-exiting-iraq-after-2-decades-leaving-opening-for-iran/",
     "https://www.militarytimes.com/news/your-military/2026/09/29/troops-at-cannon-afb-lost-5000-duty-days-traveling-for-medical-care-gao/",
     "https://www.militarytimes.com/industry/techwatch/2026/09/29/us-navy-selects-boeing-to-build-next-generation-fa-xx-fighter/",
@@ -1785,6 +1773,18 @@
     "https://breakingdefense.com/2026/11/instead-of-stockpiling-small-attack-drones-army-looking-to-simply-buy-new-ones/",
     "https://breakingdefense.com/2026/11/cry-drone-and-let-slip-the-fruit-flies-of-war/",
     "https://breakingdefense.com/2026/11/nato-nations-have-a-missile-crisis-how-did-it-happen-and-can-it-be-fixed/",
-    "https://breakingdefense.com/2026/11/rethinking-the-pipeline-for-critical-defense-electronics/"
+    "https://breakingdefense.com/2026/11/rethinking-the-pipeline-for-critical-defense-electronics/",
+    "https://www.militarytimes.com/news/your-military/2026/11/12/navy-unveils-special-warfare-themed-uniforms-for-upcoming-army-navy-game/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
+    "https://www.militarytimes.com/congress/2026/11/12/house-passes-bill-to-expand-benefits-for-combat-injured-veterans/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/",
+    "https://www.militarytimes.com/veterans/2026/11/12/trump-claims-arch-at-arlington-national-cemetery-would-honor-military-personnel-veterans/",
+    "https://www.militarytimes.com/news/2026/11/12/house-passes-sweeping-veterans-benefits-bill-with-polarizing-tactic/",
+    "https://www.militarytimes.com/global/europe/2026/11/12/putin-lets-europe-join-ukraine-peace-talks-as-kyiv-says-starshield-disrupted-again/",
+    "https://breakingdefense.com/2026/11/hegseth-seeks-to-elevate-top-sof-civilian-to-service-secretary-equivalent/",
+    "https://breakingdefense.com/2026/11/delivering-first-columbia-class-sub-in-2028-is-absolutely-achievable-sub-czar-says/",
+    "https://breakingdefense.com/2026/11/aukus-review-was-best-thing-for-trilateral-pact-colby/",
+    "https://breakingdefense.com/2026/11/sda-explores-integration-of-spacex-laser-communication-terminals-with-missile-tracking-sats/",
+    "https://breakingdefense.com/2026/11/air-force-debuts-new-t-19a-aerobatic-plane/"
   ]
 }
