@@ -1,10 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-    "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/",
-    "https://arstechnica.com/gaming/2026/09/ps5-jailbreaks-just-got-a-lot-more-useful/",
-    "https://arstechnica.com/gadgets/2026/09/discord-gives-advertisers-more-tools-to-target-its-users/",
-    "https://arstechnica.com/science/2026/09/what-butterfly-wings-have-in-common-with-barbershop-poles/",
     "https://arstechnica.com/cars/2026/09/bmw-opens-us-order-books-for-the-new-gas-and-electric-3-series/",
     "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
     "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
@@ -499,7 +494,12 @@
     "https://arstechnica.com/ai/2026/11/google-will-let-you-opt-out-of-ai-training-in-gemini-without-losing-your-history/",
     "https://arstechnica.com/tech-policy/2026/11/house-democrats-promise-a-us-return-to-global-climate-talks/",
     "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/",
-    "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/"
+    "https://arstechnica.com/space/2026/11/how-an-artist-gave-shape-to-a-space-shuttles-new-towering-exhibit/",
+    "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+    "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+    "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+    "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+    "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
   ],
   "Science": [
     "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
@@ -1290,16 +1290,6 @@
     "https://huggingface.co/blog/openrouter"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/10/06/its-official-us-armys-improved-m8-rifle-to-begin-fielding-in-december/",
-    "https://www.militarytimes.com/veterans/2026/10/06/inside-the-push-for-agent-orange-victims-memorial-in-small-town-utah/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
-    "https://www.militarytimes.com/news/your-military/2026/10/06/us-military-orders-2-day-pause-on-okinawa-following-marines-arrest-for-alleged-murder/",
-    "https://www.militarytimes.com/news/your-navy/2026/10/06/uss-dwight-d-eisenhower-returns-to-port-after-aircraft-mishap/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/06/air-force-certifies-group-to-operate-teach-skydio-x10d-ahead-of-its-fielding/",
-    "https://www.militarytimes.com/news/your-military/2026/10/07/latest-ah-64-apache-grounding-likely-to-last-months-officials-say/",
-    "https://www.militarytimes.com/news/your-military/2026/10/07/army-sets-date-location-for-execution-of-nidal-malik-hasan/",
-    "https://www.militarytimes.com/news/your-military/2026/10/07/us-aircraft-lost-or-damaged-in-iran-war-nearly-doubles-in-latest-congressional-report/",
-    "https://www.militarytimes.com/veterans/military-history/2026/10/07/during-wwi-this-german-sub-sailed-into-a-us-harbor-uninvited/",
     "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/10/08/planned-deers-outage-could-affect-tricare-beneficiaries-dod-says/",
     "https://www.militarytimes.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges/",
@@ -1789,6 +1779,16 @@
     "https://breakingdefense.com/2026/11/a-new-air-force-stunt-plane-plus-a-shakeup-for-special-operations/",
     "https://breakingdefense.com/2026/11/nato-kicks-off-11-nation-starlift-satellite-launch-program/",
     "https://breakingdefense.com/2026/11/senate-docs-reveal-new-b94-nuclear-bomb-but-what-is-it/",
-    "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries/"
+    "https://breakingdefense.com/2026/11/friend-or-foe-becomes-the-question-as-skies-fill-with-potential-adversaries/",
+    "https://www.militarytimes.com/video/2026/11/17/acting-navy-secretary-hung-cao-faces-transparency-questions-in-senate-confirmation-hearing/",
+    "https://www.militarytimes.com/news/your-military/2026/11/17/cao-addresses-navy-suicide-prevention-extended-deployments-and-uss-south-dakota-firings-during-hearing/",
+    "https://www.militarytimes.com/news/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
+    "https://www.militarytimes.com/veterans/military-history/2026/11/17/battle-of-the-bulge-veteran-who-enlisted-at-15-dies-at-98/",
+    "https://www.militarytimes.com/veterans/2026/11/17/va-works-to-provide-stable-housing-for-homeless-veterans-as-overall-numbers-decline/",
+    "https://www.militarytimes.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line/",
+    "https://www.militarytimes.com/veterans/2026/11/17/va-crackdown-on-fraud-results-in-dozens-of-arrests/",
+    "https://breakingdefense.com/2026/11/lawmakers-challenge-trumps-push-to-bring-steam-catapults-back-to-ford-class/",
+    "https://breakingdefense.com/2026/11/iceye-makes-2b-bid-for-italian-rocket-firm-avio/",
+    "https://breakingdefense.com/2026/11/army-kicks-off-manufacturing-rodeo-with-focus-on-small-drones/"
   ]
 }
