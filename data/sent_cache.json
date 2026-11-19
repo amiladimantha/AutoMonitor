@@ -1,13 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
-    "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
-    "https://arstechnica.com/gadgets/2026/09/what-the-disney-protests-over-kimmel-taught-us-about-streaming-mergers/",
-    "https://arstechnica.com/tech-policy/2026/09/trump-plan-to-combat-ai-risks-hinges-on-big-tech-pals-policing-themselves/",
-    "https://arstechnica.com/gaming/2026/10/ps5-emulation-is-suddenly-making-big-strides-on-pc/",
-    "https://arstechnica.com/space/2026/10/heres-why-nasa-is-celebrating-the-failed-mission-to-save-the-swift-observatory/",
-    "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
-    "https://arstechnica.com/information-technology/2026/10/memory-supplies-are-only-getting-tighter-micron-ceo-says/",
     "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
     "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
     "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
@@ -499,7 +491,15 @@
     "https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/",
     "https://arstechnica.com/cars/2026/11/tesla-will-sell-you-a-cybercab-for-30000-then-charge-299-a-month-to-use-it/",
     "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
-    "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/"
+    "https://arstechnica.com/gaming/2026/11/grand-theft-auto-vi-the-ars-technica-review/",
+    "https://arstechnica.com/tech-policy/2026/11/ted-cruz-led-committee-approves-trump-fcc-nominee-15-0-as-democrats-boycott-vote/",
+    "https://arstechnica.com/gadgets/2026/11/ukraine-blew-up-putins-bridge-using-relay-drones-to-bypass-starlink-limits/",
+    "https://arstechnica.com/health/2026/11/trump-abandons-his-fda-nominee-and-senate-scraps-vote-on-his-nsf-pick/",
+    "https://arstechnica.com/gadgets/2026/11/netflix-ceo-admits-app-may-bury-stuff-you-want-to-watch-under-stuff-you-dont/",
+    "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
+    "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
+    "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
+    "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/"
   ],
   "Science": [
     "https://www.nature.com/articles/d41586-026-02966-8",
@@ -1290,17 +1290,11 @@
     "https://huggingface.co/blog/openrouter",
     "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
     "https://huggingface.co/blog/moe-expert-streaming",
-    "https://huggingface.co/blog/rumble-2-flash"
+    "https://huggingface.co/blog/rumble-2-flash",
+    "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+    "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/10/08/german-pilots-prepare-for-ch47f-fleet-with-us-army-flight-simulator/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/10/08/us-to-livestream-army-execution-of-fort-hood-shooter-pentagon-official-says/",
-    "https://www.militarytimes.com/news/your-military/2026/10/08/readiness-bill-coming-due-for-navy-after-marathon-carrier-deployment-no-2-admiral-says/",
-    "https://www.militarytimes.com/news/pentagon-congress/2026/10/08/pentagon-barred-qatar-base-access-to-hide-iran-war-damage-us-senator-claims/",
-    "https://www.militarytimes.com/news/your-military/2026/10/08/what-is-the-us-public-health-services-commissioned-corps-its-top-leader-wants-you-to-know/",
-    "https://www.militarytimes.com/news/your-military/2026/10/08/us-army-report-cites-systematic-failures-in-2025-helicopter-and-jet-collision-that-killed-67/",
-    "https://www.militarytimes.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
-    "https://www.militarytimes.com/news/your-army/2026/10/08/century-old-houses-getting-new-life-at-fort-bragg/",
     "https://www.militarytimes.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
     "https://www.militarytimes.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
     "https://www.militarytimes.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/",
@@ -1792,6 +1786,14 @@
     "https://www.militarytimes.com/veterans/2026/11/18/safety-warnings-went-unresolved-during-va-health-record-modernization-former-employee-claims/",
     "https://breakingdefense.com/2026/11/britain-has-the-frigate-the-us-needs-and-americans-should-build-it-uk-minister/",
     "https://breakingdefense.com/2026/11/the-pentagon-fails-another-audit-can-it-turn-things-around-by-2028/",
-    "https://breakingdefense.com/2026/11/from-mine-to-magnet-what-defense-buyers-need-to-verify-before-2027/"
+    "https://breakingdefense.com/2026/11/from-mine-to-magnet-what-defense-buyers-need-to-verify-before-2027/",
+    "https://www.militarytimes.com/news/your-military/2026/11/18/us-surges-power-projection-to-westernmost-island-chain-as-russia-china-loom/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/18/what-ais-rebrand-to-super-intelligence-means-for-the-pentagon/",
+    "https://www.militarytimes.com/news/your-military/2026/11/18/us-navy-used-expired-munitions-during-iran-war-cao-says/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/18/watchdog-flags-fraud-failed-pentagon-audit-as-defense-priorities/",
+    "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair/",
+    "https://breakingdefense.com/2026/11/a-1-1-trillion-pentagon-budget-sets-up-a-fight-on-capitol-hill/",
+    "https://breakingdefense.com/2026/11/navy-taps-one-star-admiral-to-advance-hypersonic-weapons-slcm-n-integration-at-crane/",
+    "https://breakingdefense.com/2026/11/making-super-intelligence-useful-when-connectivity-disappears-at-the-tactical-edge/"
   ]
 }
