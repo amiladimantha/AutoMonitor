@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/10/florida-cops-say-they-dont-know-who-owns-11-unpermitted-flock-cameras/",
-    "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "https://arstechnica.com/space/2026/10/as-us-relations-fray-canada-gets-serious-about-its-own-launch-industry/",
     "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
     "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
     "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
@@ -499,22 +496,12 @@
     "https://arstechnica.com/gadgets/2026/11/windows-server-2028-public-preview-bets-on-a-security-first-approach/",
     "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/",
     "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/",
-    "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/"
+    "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
+    "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
+    "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
+    "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02966-8",
-    "https://www.nature.com/articles/d41586-026-03150-8",
-    "https://www.nature.com/articles/d41586-026-03092-1",
-    "https://www.nature.com/articles/d41586-026-02967-7",
-    "https://www.nature.com/articles/d41586-026-03130-y",
-    "https://www.nature.com/articles/d41586-026-03185-x",
-    "https://www.nature.com/articles/s41586-026-11244-6",
-    "https://www.nature.com/articles/d41586-026-03155-3",
-    "https://www.nature.com/articles/d41586-026-03160-6",
-    "https://www.nature.com/articles/d41586-026-03095-y",
-    "https://www.nature.com/articles/d41586-026-03129-5",
-    "https://www.nature.com/articles/d41586-026-02999-z",
-    "https://www.nature.com/articles/d41586-026-02864-z",
     "https://www.nature.com/articles/d41586-026-02985-5",
     "https://www.nature.com/articles/d41586-026-03127-7",
     "https://www.nature.com/articles/d41586-026-03132-w",
@@ -1001,7 +988,20 @@
     "https://www.nature.com/articles/d41586-026-03378-4",
     "https://www.nature.com/articles/d41586-026-03517-x",
     "https://www.nature.com/articles/s41586-026-11284-y",
-    "https://www.nature.com/articles/s41586-026-11289-7"
+    "https://www.nature.com/articles/s41586-026-11289-7",
+    "https://www.nature.com/articles/s41586-026-11388-5",
+    "https://www.nature.com/articles/s41586-026-11445-z",
+    "https://www.nature.com/articles/d41586-026-03748-y",
+    "https://www.nature.com/articles/d41586-026-03783-9",
+    "https://www.nature.com/articles/d41586-026-03746-0",
+    "https://www.nature.com/articles/d41586-026-03774-w",
+    "https://www.nature.com/articles/d41586-026-03753-1",
+    "https://www.nature.com/articles/s41586-026-11421-7",
+    "https://www.nature.com/articles/s41586-026-11436-0",
+    "https://www.nature.com/articles/d41586-026-03775-9",
+    "https://www.nature.com/articles/d41586-026-03606-x",
+    "https://www.nature.com/articles/d41586-026-03788-4",
+    "https://www.nature.com/articles/d41586-026-03791-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1295,16 +1295,6 @@
     "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
-    "https://www.militarytimes.com/news/your-military/2026/10/09/official-poster-depicts-the-us-armys-newest-threat-the-iranian-soldier/",
-    "https://www.militarytimes.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/",
-    "https://www.militarytimes.com/veterans/military-history/2026/10/09/unknown-sailors-and-marines-from-the-battleship-arizona-to-be-disinterred-dec-7/",
-    "https://www.militarytimes.com/news/your-military/2026/10/09/soldiers-intervene-on-roadside-to-save-children-from-alleged-knife-attack/",
-    "https://www.militarytimes.com/news/your-military/2026/10/09/air-force-bases-along-gulf-coast-relocate-aircraft-ahead-of-hurricane-isaias/",
-    "https://www.militarytimes.com/news/your-military/2026/10/09/how-the-us-military-plan-to-livestream-an-execution-compares-with-global-practice/",
-    "https://www.militarytimes.com/news/your-military/2026/10/09/us-army-activates-new-multi-domain-task-force-to-deny-disrupt-enemies-in-indo-pacific/",
-    "https://www.militarytimes.com/news/your-military/2026/10/09/daddys-home-122-sailors-aboard-the-abraham-lincoln-meet-their-children-for-the-first-time/",
-    "https://www.militarytimes.com/pay-benefits/military-benefits/health-care/2026/10/09/patients-struggle-to-access-mhs-following-changes-to-login-process/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
     "https://www.militarytimes.com/news/your-military/2026/10/12/mangroves-and-mud-inside-the-army-jungle-schools-notorious-green-mile/",
@@ -1794,6 +1784,16 @@
     "https://breakingdefense.com/2026/11/350-billion-reconciliation-bill-not-going-to-happen-hasc-chair/",
     "https://breakingdefense.com/2026/11/a-1-1-trillion-pentagon-budget-sets-up-a-fight-on-capitol-hill/",
     "https://breakingdefense.com/2026/11/navy-taps-one-star-admiral-to-advance-hypersonic-weapons-slcm-n-integration-at-crane/",
-    "https://breakingdefense.com/2026/11/making-super-intelligence-useful-when-connectivity-disappears-at-the-tactical-edge/"
+    "https://breakingdefense.com/2026/11/making-super-intelligence-useful-when-connectivity-disappears-at-the-tactical-edge/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/19/hegseth-in-caracas-announces-us-venezuela-military-partnership-agreement/",
+    "https://www.militarytimes.com/news/your-military/2026/11/19/air-force-relieves-eglin-security-forces-squadron-commander/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/19/va-raised-oracles-contract-cap-to-27b-auditors-still-cant-verify-the-cost-of-the-rollout/",
+    "https://www.militarytimes.com/veterans/2026/11/19/if-we-save-one-veterans-life-its-worth-it-va-faces-questions-over-psychedelic-treatments/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/19/ukraine-plans-to-double-drone-supplies-triple-deep-strikes/",
+    "https://www.militarytimes.com/opinion/2026/11/19/japanese-nuclear-submarines-are-a-bad-idea-for-east-china-sea-security-for-now/",
+    "https://breakingdefense.com/2026/11/the-real-world-missile-defense-lessons-from-ukraine-and-iran-and-how-they-matter-for-china/",
+    "https://breakingdefense.com/2026/11/warsaw-shoots-for-the-stars-mod-to-buy-new-sats-as-part-of-major-space-expansion-plans/",
+    "https://breakingdefense.com/2026/11/cyclokinetics-wins-86-3-million-pentagon-contract-for-alternative-fuels/",
+    "https://breakingdefense.com/2026/11/training-for-any-scenario-anywhere-in-the-world-starting-with-the-pacific-in-guam/"
   ]
 }
