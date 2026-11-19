@@ -1,12 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
-    "https://arstechnica.com/space/2026/10/spacex-describes-surgical-intervention-before-launch-of-latest-crew-mission/",
-    "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
-    "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-    "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
-    "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-    "https://arstechnica.com/space/2026/10/rocket-report-spacex-completes-launch-triple-header-rocket-lab-nets-big-contract/",
     "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
     "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
     "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
@@ -499,10 +492,16 @@
     "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/",
     "https://arstechnica.com/science/2026/11/watching-mouse-fight-club-teaches-the-critters-how-to-fight/",
     "https://arstechnica.com/space/2026/11/to-make-moon-landings-easier-nasa-is-making-life-harder-for-orion/",
-    "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/"
+    "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+    "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+    "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+    "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+    "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
+    "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
+    "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+    "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02985-5",
     "https://www.nature.com/articles/d41586-026-03127-7",
     "https://www.nature.com/articles/d41586-026-03132-w",
     "https://www.nature.com/articles/d41586-026-02983-7",
@@ -1001,7 +1000,8 @@
     "https://www.nature.com/articles/d41586-026-03775-9",
     "https://www.nature.com/articles/d41586-026-03606-x",
     "https://www.nature.com/articles/d41586-026-03788-4",
-    "https://www.nature.com/articles/d41586-026-03791-9"
+    "https://www.nature.com/articles/d41586-026-03791-9",
+    "https://www.nature.com/articles/d41586-026-03379-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1295,18 +1295,6 @@
     "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
-    "https://www.militarytimes.com/news/your-military/2026/10/12/mangroves-and-mud-inside-the-army-jungle-schools-notorious-green-mile/",
-    "https://www.militarytimes.com/pentagon/2026/10/12/weve-drowned-ourselves-in-buzzwords-acting-us-army-secretary-gives-sermon-like-first-speech/",
-    "https://www.militarytimes.com/news/your-army/2026/10/12/us-army-gm-defense-agree-to-add-12000-infantry-squad-vehicles-to-fleet/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/12/fn-america-unveils-m240-upgrade-kit-for-modern-optics/",
-    "https://www.militarytimes.com/global/asia-pacific/2026/10/12/airport-training-site-in-laos-extends-chinas-clout-in-southeast-asia/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/12/newly-public-company-unveils-fully-autonomous-drone-interceptors/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/12/one-user-interface-multiple-autonomous-systems-forterra-debuts-oasis-onelink-technology/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/12/patriot-interceptor-deliveries-to-poland-will-be-delayed-top-general-says/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
-    "https://www.militarytimes.com/land/2026/10/12/us-army-gets-first-mobile-cannon-to-replace-m777-howitzer-officials-say/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones/",
     "https://www.militarytimes.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
     "https://www.militarytimes.com/news/your-army/2026/10/12/catholics-in-us-army-must-not-participate-in-firing-squad-prominent-archbishop-says/",
@@ -1794,6 +1782,18 @@
     "https://breakingdefense.com/2026/11/the-real-world-missile-defense-lessons-from-ukraine-and-iran-and-how-they-matter-for-china/",
     "https://breakingdefense.com/2026/11/warsaw-shoots-for-the-stars-mod-to-buy-new-sats-as-part-of-major-space-expansion-plans/",
     "https://breakingdefense.com/2026/11/cyclokinetics-wins-86-3-million-pentagon-contract-for-alternative-fuels/",
-    "https://breakingdefense.com/2026/11/training-for-any-scenario-anywhere-in-the-world-starting-with-the-pacific-in-guam/"
+    "https://breakingdefense.com/2026/11/training-for-any-scenario-anywhere-in-the-world-starting-with-the-pacific-in-guam/",
+    "https://www.militarytimes.com/opinion/2026/11/19/congress-you-can-declare-that-sexual-assault-has-no-place-in-the-military-heres-how/",
+    "https://www.militarytimes.com/news/your-military/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows/",
+    "https://www.militarytimes.com/news/your-military/2026/11/19/denmark-ratifies-trump-deal-over-greenland-hoping-to-end-conflict/",
+    "https://www.militarytimes.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/19/oracle-leaders-did-not-influence-negotiations-on-overrun-va-contract-ceo-testifies/",
+    "https://www.militarytimes.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
+    "https://www.militarytimes.com/off-duty/movies-video-games/2026/11/19/how-to-steal-a-fighter-jet-and-battle-tank-in-gta-6/",
+    "https://www.militarytimes.com/news/your-military/2026/11/19/f-35c-completes-first-launch-and-recovery-trials-on-a-ford-class-carrier/",
+    "https://breakingdefense.com/2026/11/toti-pushes-new-foreign-built-shipyard-in-the-us-to-focus-on-frigates-large-surface-combatants/",
+    "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel/",
+    "https://breakingdefense.com/2026/11/army-extends-data-operations-center-pilot-to-oct-2027/",
+    "https://breakingdefense.com/2026/11/raytheon-taps-ursa-major-avio-usa-as-second-source-for-tomahawk-solid-rocket-motors/"
   ]
 }
