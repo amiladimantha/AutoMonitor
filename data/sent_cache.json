@@ -1,8 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/10/tcl-is-right-to-question-samsungs-use-of-the-term-mini-led/",
-    "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-    "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
     "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
     "https://arstechnica.com/science/2026/10/the-2008-economic-crisis-changed-the-uss-relationship-to-energy/",
     "https://arstechnica.com/tech-policy/2026/10/us-arrests-tech-ceo-accused-of-smuggling-300m-in-nvidia-chips-into-china/",
@@ -499,17 +496,12 @@
     "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
     "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains/",
     "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
-    "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/"
+    "https://arstechnica.com/gadgets/2026/11/google-will-launch-android-app-verification-requirement-globally-in-january-2027/",
+    "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/",
+    "https://arstechnica.com/staff/2026/11/science-has-a-home-here-at-ars-please-help-keep-it-that-way/",
+    "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-03127-7",
-    "https://www.nature.com/articles/d41586-026-03132-w",
-    "https://www.nature.com/articles/d41586-026-02983-7",
-    "https://www.nature.com/articles/d41586-026-03093-0",
-    "https://www.nature.com/articles/d41586-026-03208-7",
-    "https://www.nature.com/articles/d41586-026-02836-3",
-    "https://www.nature.com/articles/d41586-026-02968-6",
-    "https://www.nature.com/articles/d41586-026-03072-5",
     "https://www.nature.com/articles/d41586-026-03060-9",
     "https://www.nature.com/articles/d41586-026-03059-2",
     "https://www.nature.com/articles/d41586-026-02969-5",
@@ -1001,7 +993,15 @@
     "https://www.nature.com/articles/d41586-026-03606-x",
     "https://www.nature.com/articles/d41586-026-03788-4",
     "https://www.nature.com/articles/d41586-026-03791-9",
-    "https://www.nature.com/articles/d41586-026-03379-3"
+    "https://www.nature.com/articles/d41586-026-03379-3",
+    "https://www.nature.com/articles/d41586-026-03751-3",
+    "https://www.nature.com/articles/d41586-026-03776-8",
+    "https://www.nature.com/articles/d41586-026-03590-2",
+    "https://www.nature.com/articles/s41586-026-10974-x",
+    "https://www.nature.com/articles/d41586-026-03519-9",
+    "https://www.nature.com/articles/d41586-026-03790-w",
+    "https://www.nature.com/articles/d41586-026-03465-6",
+    "https://www.nature.com/articles/d41586-026-03797-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1295,7 +1295,6 @@
     "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/10/12/the-us-army-is-back-in-the-jungle-panamanians-are-showing-soldiers-the-way/",
     "https://www.militarytimes.com/news/your-army/2026/10/12/catholics-in-us-army-must-not-participate-in-firing-squad-prominent-archbishop-says/",
     "https://www.militarytimes.com/land/2026/10/12/twenty-six-defense-unveils-new-soldier-worn-tech/",
     "https://www.militarytimes.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
@@ -1794,6 +1793,7 @@
     "https://breakingdefense.com/2026/11/new-leadership-new-tensions-for-top-house-defense-panel/",
     "https://breakingdefense.com/2026/11/army-extends-data-operations-center-pilot-to-oct-2027/",
     "https://breakingdefense.com/2026/11/raytheon-taps-ursa-major-avio-usa-as-second-source-for-tomahawk-solid-rocket-motors/",
-    "https://www.militarytimes.com/news/2026/11/19/the-us-paid-insurers-billions-to-cover-civilians-harmed-in-war-even-the-government-says-the-system-is-ripe-for-fraud/"
+    "https://www.militarytimes.com/news/2026/11/19/the-us-paid-insurers-billions-to-cover-civilians-harmed-in-war-even-the-government-says-the-system-is-ripe-for-fraud/",
+    "https://breakingdefense.com/2026/11/australia-receives-first-2-of-13-additional-seahawk-helicopters/"
   ]
 }
