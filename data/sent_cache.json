@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
     "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
     "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
     "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
@@ -499,7 +498,8 @@
     "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
     "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
     "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
-    "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+    "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+    "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/"
   ],
   "Science": [
     "https://www.nature.com/articles/s41586-026-11105-2",
@@ -1297,7 +1297,6 @@
     "https://huggingface.co/blog/harness-adapters-at-scale"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses/",
@@ -1796,6 +1795,7 @@
     "https://www.militarytimes.com/news/2026/11/20/renowned-iraq-war-marine-under-federal-investigation/",
     "https://www.militarytimes.com/news/your-military/2026/11/20/trump-dana-white-donate-500000-to-marine-corps-band-members/",
     "https://www.militarytimes.com/news/pentagon-congress/2026/11/20/senator-moves-to-strip-controversial-cuts-from-sweeping-veterans-benefits-bill/",
-    "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies/"
+    "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies/",
+    "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/"
   ]
 }
