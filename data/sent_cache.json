@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/",
-    "https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/",
-    "https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/",
-    "https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/",
     "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
     "https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/",
     "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
@@ -499,11 +495,13 @@
     "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
     "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
     "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
-    "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/"
+    "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/",
+    "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+    "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+    "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+    "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-03196-8",
-    "https://www.nature.com/articles/d41586-026-02934-2",
     "https://www.nature.com/articles/s41586-026-11105-2",
     "https://www.nature.com/articles/d41586-026-03197-7",
     "https://www.nature.com/articles/d41586-026-03198-6",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03805-6",
     "https://www.nature.com/articles/d41586-026-03799-1",
     "https://www.nature.com/articles/d41586-026-03787-5",
-    "https://www.nature.com/articles/d41586-026-03811-8"
+    "https://www.nature.com/articles/d41586-026-03811-8",
+    "https://www.nature.com/articles/d41586-026-03789-3",
+    "https://www.nature.com/articles/d41586-026-03812-7"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1297,10 +1297,6 @@
     "https://huggingface.co/blog/harness-adapters-at-scale"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/global/asia-pacific/2026/10/13/us-army-aspires-to-create-indo-pacific-manufacturing-hub-in-korea/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/",
     "https://www.militarytimes.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
@@ -1796,6 +1792,10 @@
     "https://breakingdefense.com/2026/11/swedens-nordic-air-defence-launches-k200-drone-interceptor-pushes-toward-ukraine-tests/",
     "https://breakingdefense.com/2026/11/trump-to-keynote-reagan-national-defense-forum/",
     "https://breakingdefense.com/2026/11/one-data-foundation-and-many-application-layers-drive-the-armys-ngc2-transformation/",
-    "https://breakingdefense.com/2026/11/skylark-labs-demonstrates-humanoid-search-for-explosive-hazards/"
+    "https://breakingdefense.com/2026/11/skylark-labs-demonstrates-humanoid-search-for-explosive-hazards/",
+    "https://www.militarytimes.com/news/2026/11/20/renowned-iraq-war-marine-under-federal-investigation/",
+    "https://www.militarytimes.com/news/your-military/2026/11/20/trump-dana-white-donate-500000-to-marine-corps-band-members/",
+    "https://www.militarytimes.com/news/pentagon-congress/2026/11/20/senator-moves-to-strip-controversial-cuts-from-sweeping-veterans-benefits-bill/",
+    "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies/"
   ]
 }
