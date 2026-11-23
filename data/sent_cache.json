@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/",
-    "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
     "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
     "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
     "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
@@ -499,12 +497,11 @@
     "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
     "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
     "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
-    "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+    "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+    "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+    "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-03197-7",
-    "https://www.nature.com/articles/d41586-026-03198-6",
-    "https://www.nature.com/articles/d41586-026-03045-8",
     "https://www.nature.com/articles/d41586-026-03154-4",
     "https://www.nature.com/articles/s41586-026-11266-0",
     "https://www.nature.com/articles/s41586-026-11070-w",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03811-8",
     "https://www.nature.com/articles/d41586-026-03789-3",
     "https://www.nature.com/articles/d41586-026-03812-7",
-    "https://www.nature.com/articles/d41586-026-03803-8"
+    "https://www.nature.com/articles/d41586-026-03803-8",
+    "https://www.nature.com/articles/d41586-026-03722-8",
+    "https://www.nature.com/articles/d41586-026-02203-2",
+    "https://www.nature.com/articles/d41586-026-03721-9"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1297,7 +1297,6 @@
     "https://huggingface.co/blog/harness-adapters-at-scale"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
     "https://www.militarytimes.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
@@ -1796,6 +1795,7 @@
     "https://www.militarytimes.com/news/pentagon-congress/2026/11/20/senator-moves-to-strip-controversial-cuts-from-sweeping-veterans-benefits-bill/",
     "https://breakingdefense.com/2026/11/air-force-issues-massive-16b-contract-for-engine-work-to-dozens-of-companies/",
     "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/",
-    "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/"
+    "https://breakingdefense.com/2026/11/canada-hasnt-seen-changes-to-defense-relationship-with-us-says-mcguinty/",
+    "https://www.militarytimes.com/pentagon/2026/11/23/ukraine-confirms-it-sank-russian-corvette-in-libyan-port/"
   ]
 }
