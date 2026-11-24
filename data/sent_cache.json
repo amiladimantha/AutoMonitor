@@ -502,10 +502,6 @@
     "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-03216-7",
-    "https://www.nature.com/articles/d41586-026-03158-0",
-    "https://www.nature.com/articles/d41586-026-03217-6",
-    "https://www.nature.com/articles/d41586-026-03210-z",
     "https://www.nature.com/articles/d41586-026-02909-3",
     "https://www.nature.com/articles/s41586-026-11273-1",
     "https://www.nature.com/articles/d41586-026-03116-w",
@@ -1001,7 +997,11 @@
     "https://www.nature.com/articles/d41586-026-03808-3",
     "https://www.nature.com/articles/d41586-026-03818-1",
     "https://www.nature.com/articles/d41586-026-03724-6",
-    "https://www.nature.com/articles/d41586-026-03795-5"
+    "https://www.nature.com/articles/d41586-026-03795-5",
+    "https://www.nature.com/articles/d41586-026-03824-3",
+    "https://www.nature.com/articles/d41586-026-03822-5",
+    "https://www.nature.com/articles/d41586-026-03825-2",
+    "https://www.nature.com/articles/d41586-026-03823-4"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
