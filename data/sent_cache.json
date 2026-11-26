@@ -1,6 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
     "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
     "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
     "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
@@ -499,12 +498,10 @@
     "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
     "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
     "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
-    "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/"
+    "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+    "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-03255-0",
-    "https://www.nature.com/articles/s41586-026-11257-1",
-    "https://www.nature.com/articles/s41586-026-11255-3",
     "https://www.nature.com/articles/d41586-026-02974-8",
     "https://www.nature.com/articles/d41586-026-03220-x",
     "https://www.nature.com/articles/d41586-026-03221-w",
@@ -1001,7 +998,10 @@
     "https://www.nature.com/articles/d41586-026-03467-4",
     "https://www.nature.com/articles/d41586-026-03813-6",
     "https://www.nature.com/articles/d41586-026-02752-6",
-    "https://www.nature.com/articles/d41586-026-03828-z"
+    "https://www.nature.com/articles/d41586-026-03828-z",
+    "https://www.nature.com/articles/s41586-026-11475-7",
+    "https://www.nature.com/articles/d41586-026-03874-7",
+    "https://www.nature.com/articles/d41586-026-03875-6"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
