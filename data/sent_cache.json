@@ -1,7 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
-    "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
     "https://arstechnica.com/tech-policy/2026/10/driver-wins-76-after-alpr-led-to-bogus-traffic-stop-drug-searches/",
     "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
     "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
@@ -499,11 +497,11 @@
     "https://arstechnica.com/gadgets/2026/11/ars-live-recap-dont-expect-military-attacks-on-data-centers-to-stop/",
     "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
     "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
-    "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/"
+    "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
+    "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+    "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-03226-5",
-    "https://www.nature.com/articles/d41586-026-02715-x",
     "https://www.nature.com/articles/d41586-026-03255-0",
     "https://www.nature.com/articles/s41586-026-11257-1",
     "https://www.nature.com/articles/s41586-026-11255-3",
@@ -1001,7 +999,9 @@
     "https://www.nature.com/articles/d41586-026-03471-8",
     "https://www.nature.com/articles/d41586-026-03693-w",
     "https://www.nature.com/articles/d41586-026-03467-4",
-    "https://www.nature.com/articles/d41586-026-03813-6"
+    "https://www.nature.com/articles/d41586-026-03813-6",
+    "https://www.nature.com/articles/d41586-026-02752-6",
+    "https://www.nature.com/articles/d41586-026-03828-z"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1301,10 +1301,11 @@
     "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
     "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
     "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
-    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+    "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "https://huggingface.co/blog/training-swarms"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
     "https://www.militarytimes.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
     "https://www.militarytimes.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
     "https://www.militarytimes.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
@@ -1803,6 +1804,7 @@
     "https://breakingdefense.com/2026/11/israel-increases-defense-budget-by-5-billion-as-concerns-continue-over-future-funding/",
     "https://breakingdefense.com/2026/11/air-force-issues-boeing-2-8-billion-for-more-kc-46s/",
     "https://breakingdefense.com/2026/11/the-us-is-racing-to-fix-its-missile-production-challenge-will-it-work-and-can-partners-help/",
-    "https://breakingdefense.com/2026/11/why-the-pentagon-is-asking-for-anomalies-as-it-plans-for-a-long-term-cr/"
+    "https://breakingdefense.com/2026/11/why-the-pentagon-is-asking-for-anomalies-as-it-plans-for-a-long-term-cr/",
+    "https://www.militarytimes.com/news/2026/11/26/eisenhowers-deliverance-turkey-with-fixins-for-troops-in-wwii/"
   ]
 }
