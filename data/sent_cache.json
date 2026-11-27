@@ -1,9 +1,5 @@
 {
   "Technology": [
-    "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
-    "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
-    "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
-    "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
     "https://arstechnica.com/space/2026/10/spacex-calls-for-better-coordination-in-orbit-after-near-misses-with-starlink/",
     "https://arstechnica.com/tech-policy/2026/10/judge-weighs-if-trump-can-charge-100k-for-early-access-to-truth-social-posts/",
     "https://arstechnica.com/tech-policy/2026/10/trump-mobile-doesnt-seem-to-have-fcc-authorization-for-phone-service-senator-says/",
@@ -499,18 +495,13 @@
     "https://arstechnica.com/security/2026/11/a-familiar-iranian-hacking-group-has-found-a-new-way-to-cause-chaos/",
     "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
     "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
-    "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/"
+    "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+    "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+    "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-the-consequences/",
+    "https://arstechnica.com/shopping/2026/11/books-bikes-and-the-burbs-these-are-ars-staffs-holiday-gift-picks-for-2026/",
+    "https://arstechnica.com/cars/2026/11/volvos-big-batteries-we-drive-its-updated-2028-plug-in-hybrids/"
   ],
   "Science": [
-    "https://www.nature.com/articles/d41586-026-02974-8",
-    "https://www.nature.com/articles/d41586-026-03220-x",
-    "https://www.nature.com/articles/d41586-026-03221-w",
-    "https://www.nature.com/articles/d41586-026-03153-5",
-    "https://www.nature.com/articles/d41586-026-02668-1",
-    "https://www.nature.com/articles/s41586-026-11246-4",
-    "https://www.nature.com/articles/d41586-026-03236-3",
-    "https://www.nature.com/articles/d41586-026-03252-3",
-    "https://www.science.org/content/article/year-s-super-el-nino-could-wreak-ecological-havoc-worldwide",
     "https://www.science.org/content/article/ai-edges-closer-solving-riemann-hypothesis-one-math-s-hardest-problems",
     "https://www.science.org/content/article/openai-just-changed-math-forever-exactly-how-no-one-yet-knows",
     "https://www.science.org/content/article/trump-takes-credit-new-golden-age-u-s-science",
@@ -1001,7 +992,16 @@
     "https://www.nature.com/articles/d41586-026-03828-z",
     "https://www.nature.com/articles/s41586-026-11475-7",
     "https://www.nature.com/articles/d41586-026-03874-7",
-    "https://www.nature.com/articles/d41586-026-03875-6"
+    "https://www.nature.com/articles/d41586-026-03875-6",
+    "https://www.nature.com/articles/d41586-026-03885-4",
+    "https://www.nature.com/articles/d41586-026-03800-x",
+    "https://www.nature.com/articles/d41586-026-03801-w",
+    "https://www.nature.com/articles/d41586-026-03900-8",
+    "https://www.nature.com/articles/s41586-026-11411-9",
+    "https://www.nature.com/articles/d41586-026-03754-0",
+    "https://www.nature.com/articles/d41586-026-03523-z",
+    "https://www.nature.com/articles/d41586-026-03849-8",
+    "https://www.nature.com/articles/d41586-026-03894-3"
   ],
   "AI & Machine Learning": [
     "https://huggingface.co/blog/evaleval/eval-costs-bottleneck",
@@ -1303,11 +1303,10 @@
     "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
     "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
     "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-    "https://huggingface.co/blog/training-swarms"
+    "https://huggingface.co/blog/training-swarms",
+    "https://huggingface.co/blog/video-trainium3"
   ],
   "Military & Defense": [
-    "https://www.militarytimes.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
-    "https://www.militarytimes.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
     "https://www.militarytimes.com/news/your-military/2026/10/16/a-shifting-landscape-where-the-us-army-moved-in-2026-and-what-may-be-on-the-horizon/",
     "https://www.militarytimes.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
     "https://www.militarytimes.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
@@ -1805,6 +1804,8 @@
     "https://breakingdefense.com/2026/11/air-force-issues-boeing-2-8-billion-for-more-kc-46s/",
     "https://breakingdefense.com/2026/11/the-us-is-racing-to-fix-its-missile-production-challenge-will-it-work-and-can-partners-help/",
     "https://breakingdefense.com/2026/11/why-the-pentagon-is-asking-for-anomalies-as-it-plans-for-a-long-term-cr/",
-    "https://www.militarytimes.com/news/2026/11/26/eisenhowers-deliverance-turkey-with-fixins-for-troops-in-wwii/"
+    "https://www.militarytimes.com/news/2026/11/26/eisenhowers-deliverance-turkey-with-fixins-for-troops-in-wwii/",
+    "https://www.militarytimes.com/news/your-military/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/",
+    "https://www.militarytimes.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/"
   ]
 }
